@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T21:49:27.303804Z",
+  "generatedAt": "2026-09-01T21:57:56.305867Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -8515,8 +8515,8 @@
     },
     {
       "id": "fda-food-98931",
-      "section": "pet_food",
-      "category": "Pet food & animal products",
+      "section": "food",
+      "category": "Human food",
       "title": "Winfield's CWB Chocolate Bar, packed in clear cello bag with fabric bow on top. Manufactured by CBSL Commissary (DBA Winfield's Chocolate Bar) 9127 Stella Link Rd Houston Texas. Multiple product shapes/sizes: 1) Cat, Net",
       "brand": "Chocolate Bar Holdings LLC",
       "description": "Undeclared milk allergen.",
@@ -24492,8 +24492,8 @@
     },
     {
       "month": "2026-07",
-      "food": 48,
-      "pet_food": 1,
+      "food": 49,
+      "pet_food": 0,
       "products": 206
     },
     {

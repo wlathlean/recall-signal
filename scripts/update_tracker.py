@@ -169,12 +169,23 @@ def fda_records(kind: str, start: str, end: str) -> list[dict]:
     return records
 
 
+def is_pet_food(text: str) -> bool:
+    """Require pet-food context instead of matching animal names by themselves."""
+    return bool(re.search(
+        r"\b(?:pet food|animal feed|veterinary diet|"
+        r"(?:dog|cat|pet) (?:food|treats?|chews?|supplements?)|"
+        r"(?:food|treats?|chews?|supplements?) for (?:dogs?|cats?|pets?))\b",
+        text,
+        re.I,
+    ))
+
+
 def normalize_fda(row: dict, kind: str) -> dict:
     product = clean(row.get("product_description"))
     reason = clean(row.get("reason_for_recall"))
     distribution = clean(row.get("distribution_pattern"))
     combined = " ".join((product, reason, distribution))
-    pet = kind == "food" and bool(re.search(r"\b(dog|cat|pet food|animal feed|veterinary)\b", combined, re.I))
+    pet = kind == "food" and is_pet_food(combined)
     section = "pet_food" if pet else "food" if kind == "food" else "products"
     category = "Medicines & medical devices" if kind in ("drug", "device") else "Pet food & animal products" if pet else "Human food"
     classification = clean(row.get("classification") or "Not yet classified")
