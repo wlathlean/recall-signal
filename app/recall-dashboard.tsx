@@ -19,7 +19,9 @@ type VehicleRecall = {
 };
 type Settings = { retailers: string[]; brands: string; upcs: string; categories: string[]; vehicles: Vehicle[] };
 
-const DATA_URL = process.env.NEXT_PUBLIC_RECALL_DATA_URL || '/data/tracker.json';
+const DATA_URL =
+  process.env.NEXT_PUBLIC_RECALL_DATA_URL ||
+  'https://raw.githubusercontent.com/wlathlean/recall-signal/main/public/data/tracker.json';
 const retailerOptions = ['Amazon', 'Costco', 'Walmart', 'Target', 'H-E-B', 'Kroger', 'QFC', 'Fred Meyer', 'Safeway', 'Albertsons', 'WinCo', "Trader Joe's"];
 const categoryOptions = ['Baby & child', 'Medicines & medical devices', 'Appliances & electronics', 'Furniture & home', 'Sports & outdoors', 'Tools & power equipment', 'Cosmetics & personal care', 'Pet products', 'Other consumer products'];
 const defaultSettings: Settings = { retailers: retailerOptions, brands: '', upcs: '', categories: categoryOptions, vehicles: [] };
