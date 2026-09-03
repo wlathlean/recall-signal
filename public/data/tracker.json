@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T23:54:44.300473Z",
+  "generatedAt": "2026-09-03T16:58:01.059163Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -35,7 +35,7 @@
     {
       "name": "CPSC",
       "ok": true,
-      "records": 895,
+      "records": 908,
       "url": "https://www.cpsc.gov/Recalls"
     },
     {
@@ -52,6 +52,396 @@
     }
   ],
   "records": [
+    {
+      "id": "cpsc-10949",
+      "section": "products",
+      "category": "Furniture & home",
+      "title": "Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Loyoda Direct and Loyoda",
+      "brand": "",
+      "description": "This recall involves Loyoda-branded adult portable bed rails. The bed rail comes in silver, measures 13.38 inches wide by 17.71 inches tall and can be extended to 20.47 inches tall. “Loyoda” and the model “FBL140202” are both printed on labels on the product. Only bed rails manufactured before December 15, 2025 are included in this recall. The manufacture date in YYYY-MM-DD format and model number are printed on the product packaging.",
+      "reason": "The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. The bed rails also do not meet retention strap requirements, posing a fall hazard. The bed rails’ push pins and push pin holes are incorrectly sized, posing a laceration hazard. In addition, the bed rails do not bear the required hazard warning labels.",
+      "action": "Consumers should stop using the recalled adult portable bed rails immediately and contact Loyoda for a full refund. Consumers will be asked to cut the black safety strap in half and write “RECALLED” on the upper and lower bed rails with a permanent marker, take a photo of the marked bed rail and email the photo to support@loyoda.com in order to receive a refund.",
+      "date": "2026-09-03",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Loyoda-Direct-and-Loyoda",
+      "products": [
+        {
+          "name": "Loyoda Adult Portable Bed Rails",
+          "codes": "",
+          "recallNumber": "26733"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10945",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "GIHNJSI Squeezy Dumplings Toys Recalled Due to Serious Ingestion, Choking and Obstruction Hazards; Sold on Amazon by Chenyuanhui",
+      "brand": "",
+      "description": "This recall involves GIHNJSI Squeezy Dumplings toys. The toys are translucent round squishy balls with cartoon faces and glitter-like particles and water beads on the inside. The Squeezy Dumplings come in a tan plastic container shaped like a bamboo steamer. “SQUEEZY DUMPLINGS” and “SQUEEZE ME” are printed on a removable label. There are no markings on the product.",
+      "reason": "The squeezy toys contain water beads. If ingested, water beads expand and can pose deadly ingestion, choking, and intestinal obstruction hazards inside a child’s body, resulting in severe discomfort, vomiting, dehydration, and a risk of death to a child.",
+      "action": "Consumers should stop using the Squeezy Dumplings toys immediately and contact Chenyuanhui for a full refund. Consumers will be asked to write “RECALLED” in permanent marker on the Squeezy Dumpling and on its tan plastic container, throw the toy away and email a photo of the disposed toy to GIHNJSI_recall@163.com",
+      "date": "2026-09-03",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/GIHNJSI-Squeezy-Dumplings-Toys-Recalled-Due-to-Serious-Ingestion-Choking-and-Obstruction-Hazards-Sold-on-Amazon-by-Chenyuanhui",
+      "products": [
+        {
+          "name": "Squeezy Dumplings",
+          "codes": "",
+          "recallNumber": "26738"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10942",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Gizoon Direct Recalls Six-Drawer Double Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units",
+      "brand": "",
+      "description": "This recall involves Gizoon-branded six-drawer double wood dressers. They were sold in white and black, measure about 47.3 inches wide, 15.7 inches long, 31.5 inches tall and weigh about 88.2 pounds. “AP47-W” or “AP47-B” is printed on the product packaging.",
+      "reason": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
+      "action": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact Gizoon Direct for a full refund. Consumers will be asked to write in permanent marker \"RECALLED\" on the top and all sides of the dresser send a photo of the marked dresser to office@gizoon.com. Consumers should then dispose of the recalled product.",
+      "date": "2026-09-03",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Gizoon-Direct-Recalls-Six-Drawer-Double-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violates-Mandatory-Standard-for-Clothing-Storage-Units",
+      "products": [
+        {
+          "name": "Gizoon Six-Drawer Double Dressers",
+          "codes": "",
+          "recallNumber": "26736"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10946",
+      "section": "products",
+      "category": "Sports & outdoors",
+      "title": "MONDRAKER USA Recalls Mountain Bicycles Equipped with ONOFF S9 Carbon MTB Handlebars Due to Risk of Serious Injury or Death from Fall Hazard",
+      "brand": "",
+      "description": "This recall involves Certain Mondraker mountain bicycles equipped with ONOFF S9 Carbon MTB handlebars. The ONOFF S9 Carbon MTB handlebar is used as a steering and control component on the bicycle. Bicycles with model numbers CRAFTY CARBON RR S (MY2026), CRAFTY CARBON XR (MY2025-MY2026), CRAFTY CARBON RR SL (MY2025-MY2026), CRAFTY UNLIMITED GULF (MY2026), DUNE CARBON XR (MY2025), FOXY CARBON RR (MY2025-MY2026), LEVEL XR (MY2026), NEAT RR SL (MY2025), ZENDIT R (MY2027), ZENDIT RR (MY2027), ZENDIT RR S (MY2027), ZENDIT XR (MY2027), RAZE CARBON RR (MY2026) and S9 Carbon MTB Handlebar are affected in this recall.",
+      "reason": "The affected handlebars may crack or fracture during use, which can lead to loss of control, posing a risk of serious injury or death from fall hazard.",
+      "action": "Consumers should stop using affected bicycles immediately and verify whether their bicycle is affected using the serial number verification tool available at: https://mondraker.com/wo/en/recall-s9. If the bicycle is identified as affected, consumers should contact an authorized Mondraker dealer to arrange a free replacement of the ONOFF S9 Carbon MTB handlebar.",
+      "date": "2026-09-03",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/MONDRAKER-USA-Recalls-Mountain-Bicycles-Equipped-with-ONOFF-S9-Carbon-MTB-Handlebars-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard",
+      "products": [
+        {
+          "name": "Mondraker mountain bicycles equipped with ONOFF S9 Carbon MTB handlebars.",
+          "codes": "",
+          "recallNumber": "26746"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10941",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Nanjing Wu Hai Smart Home Appliance Store Recalls Alanca 6-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
+      "brand": "",
+      "description": "This recall involves Alanca-branded 6-Drawer Wood Dressers. The wooden dressers were sold in brown and white and have six drawers. The dressers measure about 15.75 inches wide, 57 inches long and 31.5 inches tall and weigh about 55 pounds. “WH-DS02-6W” or “WH-DS02-6GE” is printed on the product packaging.",
+      "reason": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
+      "action": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact Nanjing Wu Hai Smart Home for full refund. Consumers will be asked to write in permanent marker “RECALLED” on the top, front and sides of the dressers, remove all drawers and send photos of the marked and disassembled dressers to Nanjingdresserrecall@NanjingWuhai.com.",
+      "date": "2026-09-03",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Nanjing-Wu-Hai-Smart-Home-Appliance-Store-Recalls-Alanca-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+      "products": [
+        {
+          "name": "Alanca 6-Drawer Dressers",
+          "codes": "",
+          "recallNumber": "26730"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10950",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "OKK Trading Recalls Rainbow Mystery Squishy Bun Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
+      "brand": "",
+      "description": "This recall involves Rainbow Mystery Squishy Bun Toys, Model D08004. The squishy bun toys are a translucent pink color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. “Rainbow MYSTERY” and “SUGAR EDITION” are printed on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
+      "reason": "The squishy bun toys violate the mandatory safety standard for toys because the water beads inside the dumplings expand larger than permitted, posing a deadly ingestion hazard. If a water bead is ingested, it can pose ingestion, choking, and intestinal obstruction hazards inside a child’s body, resulting in severe discomfort, vomiting, dehydration and a risk of death to a child.",
+      "action": "Consumers should stop using the squishy dumpling toys immediately and contact OKK Trading for a full refund. Consumers will be asked to write “RECALLED” in permanent marker on the squeezy dumpling and its tan plastic container, throw the toy away, and email a photo of the disposed toy to recall@okktoys.com.",
+      "date": "2026-09-03",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/OKK-Trading-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys",
+      "products": [
+        {
+          "name": "Rainbow Mystery Squishy Bun Toys",
+          "codes": "",
+          "recallNumber": "26737"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10943",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Skip Hop Recalls Baby Sesame Street Elmo Silicone Teethers Due to Risk of Serious Injury or Death from Choking Hazard",
+      "brand": "",
+      "description": "This recall involves the Skip Hop Baby Sesame Street Elmo Silicone Teether. The product is in the shape of Elmo’s face (red, orange, and white, with black eyes) and includes a textured key (blue) and fabric crayon box (beige, blue, green, yellow, orange, red). The model number for the Baby Sesame Street Elmo Silicone Teether is 9R263210. A red tag with the Skip Hop brand name and teether model number is attached to the side of the crayon box.",
+      "reason": "The black eyes can detach from the recalled teether if frozen, posing a risk of serious injury or death from a choking hazard.",
+      "action": "Consumers should stop using the recalled teether immediately, take it away from children and contact Skip Hop Inc. at www.skiphoprecall.com to obtain a refund in the form of a gift card and further instructions on disposal of the product. The gift card can be used at any The William Carter Company brand store, including Carter’s, Skip Hop, OshKosh B’gosh and Little Planet.",
+      "date": "2026-09-03",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Skip-Hop-Recalls-Baby-Sesame-Street-Elmo-Silicone-Teethers-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
+      "products": [
+        {
+          "name": "Baby Sesame Street Elmo Silicone Teethers",
+          "codes": "",
+          "recallNumber": "26739"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10948",
+      "section": "products",
+      "category": "Furniture & home",
+      "title": "Audio Partnership Recalls Cambridge Audio Yoyo (M) Portable Bluetooth Speakers Due to Fire Hazard",
+      "brand": "",
+      "description": "This recall involves the Cambridge Audio Yoyo (M) Bluetooth Speaker sold in light gray, dark gray and blue colors. The recalled speakers can be identified by the unit’s product name – “Yoyo (M)” – and the following FD numbers which are visible on the underside of the Bluetooth speakers (sold in pairs).",
+      "reason": "The lithium-ion batteries in the Cambridge Audio Yoyo (M) Portable Bluetooth Speaker can overheat, posing a fire hazard.",
+      "action": "Consumers should stop using the recalled speakers immediately, disconnect them from the power supply, stop charging them, store them away from combustible materials and contact Audio Partnership for a full cash refund of $218 or Cambridge Audio online store voucher of $350. Once Audio Partnership has processed the request, consumers should then dispose of the product in accordance with any local and state ordinances. Note: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
+      "date": "2026-09-03",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Audio-Partnership-Recalls-Cambridge-Audio-Yoyo-M-Portable-Bluetooth-Speakers-Due-to-Fire-Hazard",
+      "products": [
+        {
+          "name": "Cambridge Audio Yoyo (M) Portable Bluetooth Speakers",
+          "codes": "",
+          "recallNumber": "26731"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10947",
+      "section": "products",
+      "category": "Pet products",
+      "title": "Daikin Comfort Technologies Manufacturing Recalls Amana Through-The-Wall Air Conditioners and Heat Pumps Due to Risk of Serious Injury from Fire",
+      "brand": "",
+      "description": "This recall involves certain Amana brand Through the Wall (TTW) air conditioners or heat pumps. These products are white and the brand name is printed on most of the units’ control covers. The units are used to provide room climate control. They most often are installed at hotels, apartment buildings, and commercial spaces. The model number and serial number are located on the front of the unit on the front edge of the base pan on a white sticker. Recalled units have a model number beginning with PB. The model numbers in the recall include:",
+      "reason": "The snubber circuit can emit flames if it shorts, posing a risk of serious injury due to fire hazard.",
+      "action": "Consumers should stop using the recalled product immediately and contact Daikin Comfort Technologies Manufacturing, Inc. (DCT) to submit a request for a full refund of the unit. Consumers will be required to provide their contact information, cut the product’s cord, and then upload a photo of the product’s serial number and the cut cord to receive a full refund of the unit.",
+      "date": "2026-09-03",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Daikin-Comfort-Technologies-Manufacturing-Recalls-Amana-Through-The-Wall-Air-Conditioners-and-Heat-Pumps-Due-to-Risk-of-Serious-Injury-from-Fire",
+      "products": [
+        {
+          "name": "Amana Through the Wall (TTW) air conditioners or heat pumps",
+          "codes": "",
+          "recallNumber": "26734"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10938",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "SHEIN Distribution Corporation Recalls Spiral Toys Due to Risk of Serious Injury or Death from Choking Hazard; Violate Small Ball Ban",
+      "brand": "",
+      "description": "This recall involves the Spiral Toy (spinning toy). The toy comes with various colored platforms (three, five, or seven, depending on the model) that can be stacked and several yellow plastic balls with a bear head and a basket at the top. One model comes with a basket and a bull head. The packaging lists the manufacturer, manufacturer’s address and email, product name, batch code and various warnings on a sticker label. A separate sticker label has the SKU code “sl25013088678574868” with a bar code and “Made in China” along with various Chinese characters.",
+      "reason": "The toys violate the small ball ban because they contain small balls and are intended for children under three years of age, posing a deadly choking hazard.",
+      "action": "Consumers should stop using the recalled toys immediately, take them away from children and contact SHEIN for a full refund. Consumers will be asked to affirm they disposed of the entire toy, including the small balls.",
+      "date": "2026-09-03",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Spiral-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Small-Ball-Ban",
+      "products": [
+        {
+          "name": "Spiral Toy",
+          "codes": "",
+          "recallNumber": "26732"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10939",
+      "section": "products",
+      "category": "Cosmetics & personal care",
+      "title": "Truststone Group Recalls XO Poppy Power Trip Magnetic Wireless Power Banks Due to Fire and Burn Hazards; Sold Exclusively at TJX and Marshalls Stores",
+      "brand": "",
+      "description": "This recall involves XO Poppy Power Trip Magnetic Wireless Power Banks with model number PYPBK5M. The power banks come in three colors and can be identified by their appearance and packaging: cream colored (PY-PBK5M-CR2); cream with pink bow print (PY-PBK5M-BW8); and black with teddy bear print (PY-PBK5M-TB2). Specific model numbers can be found printed on the bottom of the original packaging, directly above the barcode.",
+      "reason": "The lithium-ion battery in the recalled power banks can overheat and ignite, posing fire and burn hazards to consumers.",
+      "action": "Consumers should stop using the recalled power banks immediately and contact Truststone Group for a full refund in the form of a virtual gift card. The virtual gift card can be used at any establishment that accepts Mastercard.",
+      "date": "2026-09-03",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Truststone-Group-Recalls-XO-Poppy-Power-Trip-Magnetic-Wireless-Power-Banks-Due-to-Fire-and-Burn-Hazards-Sold-Exclusively-at-TJX-and-Marshalls-Stores",
+      "products": [
+        {
+          "name": "XO Poppy Power Trip Magnetic Wireless Power Banks",
+          "codes": "",
+          "recallNumber": "26740"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10944",
+      "section": "products",
+      "category": "Furniture & home",
+      "title": "Branch Recalls Ergonomic Chairs Due to Fall Hazard",
+      "brand": "",
+      "description": "This recall involves height-adjustable ergonomic chairs and only applies to chairs with backrest anchors that were incorrectly installed at the time of manufacture. The recalled chairs were manufactured between September 10, 2025 and April 22, 2026. The dates of manufacture can be found on the label located underneath the chair’s seat cushion. The following SKUs are included in the recall and are located on the side of the product packaging:",
+      "reason": "The backrests of the chairs can detach, posing a fall hazard to consumers.",
+      "action": "Consumers should stop using the recalled chairs immediately and contact Branch for a free repair kit consisting of a replacement backrest, installation instructions, three bolts and an Allen key. Consumers will be provided with instructions on how to determine if their backrests are included in the recall and will be asked to submit photos of the manufacture label and removed backrest to obtain a repair kit. Branch is contacting all known purchasers directly.",
+      "date": "2026-09-03",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 2,
+      "states": [
+        "US"
+      ],
+      "distribution": "",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Branch-Recalls-Ergonomic-Chairs-Due-to-Fall-Hazard",
+      "products": [
+        {
+          "name": "Ergonomic Chairs",
+          "codes": "",
+          "recallNumber": "26735"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10940",
+      "section": "products",
+      "category": "Furniture & home",
+      "title": "Clorox Puerto Rico Recalls 6 Million Scented Mistolin and Lestoil Multi-Purpose Cleaners Due to Risk of Exposure to Bacteria",
+      "brand": "",
+      "description": "This recall only includes Mistolin and Lestoil products sold in Puerto Rico and the U.S. Virgin Islands. The recall involves scented Mistolin Dilutable Cleaners in Alegra tu Día, Espíritu Play, Flores de Primavera, Fresco Despertar, Frescura de Lavanda, Frescura Tropical, Manzana y Canela, Pino y Especias and Sólo para Ti scents and scented Lestoil Heavy Duty Multi-Purpose Cleaners in Energía del Yunque, Fuerza de Lavanda Tropical, Intenso Limon Boricua and Olas de Rincón scents, with date codes beginning with the prefix “PR01” and followed by a five-digit number between 25091 and 26168, which represents products produced between April 1, 2025 to June 17, 2026. Only products with scents are included in this recall. The products were sold in bottles of 28, 40, 64 and 128 fluid ounces.",
+      "reason": "The recalled products may contain bacteria, including Pseudomonas aeruginosa, which is an environmental organism found widely in soil and water. People with weakened immune systems or external medical devices who are exposed to Pseudomonas aeruginosa face a risk of serious infection that may require medical treatment. The bacteria can enter the body if inhaled, through the eyes, or through a break in the skin. People with healthy immune systems are usually not affected by the bacteria.",
+      "action": "Consumers should stop using the recalled cleaners immediately. Consumers will be asked to register at https://mistolinrecall.expertinquiry.com/ and submit a picture of the 12-digit UPC code printed on the label and a picture of the date code printed on the side of the bottle and dispose of the product in its container with household trash. Consumers registering bottles in the affected scents with date codes printed on the bottle beginning with PR01 and followed by a five-digit number between 25091 and 26168 will receive a full refund of the purchase price, with receipt or of the manufacturer’s suggested retail price, without receipt.",
+      "date": "2026-09-03",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 2,
+      "states": [
+        "US"
+      ],
+      "distribution": "",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Clorox-Puerto-Rico-Recalls-6-Million-Scented-Mistolin-and-Lestoil-Multi-Purpose-Cleaners-Due-to-Risk-of-Exposure-to-Bacteria",
+      "products": [
+        {
+          "name": "Scented Mistolin® Dilutable Cleaners and Lestoil® Heavy Duty Multi-Purpose Cleaners sold in Puerto Rico and the U.S. Virgin Islands.",
+          "codes": "",
+          "recallNumber": "26741"
+        }
+      ]
+    },
     {
       "id": "fsis-Shanghai Ravioli Corporation Recalls Not Ready-To-Eat Frozen Buffalo Chicken Pro",
       "section": "food",
@@ -23231,292 +23621,6 @@
       ]
     },
     {
-      "id": "cpsc-10801",
-      "section": "products",
-      "category": "Sports & outdoors",
-      "title": "Bicycle Helmets Recalled Due to Risk of Serious Injury or Death from Head Injury; Violates Mandatory Standard for Bicycle Helmets; Sold on Amazon by Gudook Outdoor Sports",
-      "brand": "Dongguanshizhouhedianzishangwuyouxiangongsi (Dongguan Zhouhe E-commerce Co., Ltd.) dba Gudook Outdoor Sports, of China",
-      "description": "This recall involves Gudook-branded bicycle helmets, model KY-055. The helmets were sold in blue with white and in size medium (M), fitting a head circumference of about 21.3 to 22.4 inches. The helmets have red padding, black straps, a black and red buckle and a black fit-adjusting knob at the back. Only helmets with batch number 202503 and manufacture date of March 2025 are included in this recall. \"Gudook\" is printed on the side of the helmet. The model, batch number and manufacture date, in MM/YYYY format, are printed on a label on the inside of the helmet.",
-      "reason": "The recalled helmets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the impact attenuation and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury.",
-      "action": "Consumers should stop using the helmets immediately and contact Gudook Outdoor Sports for a full refund. Consumers will be asked to destroy the recalled helmet by cutting the straps and email a photo of the destroyed helmet, showing with the helmet's batch number, to lexi_kuyou@163.com. Consumers should then dispose of the recalled product.",
-      "date": "2026-06-04",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at Amazon.com from May 2025 through February 2026 for about $23.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Bicycle-Helmets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violates-Mandatory-Standard-for-Bicycle-Helmets-Sold-on-Amazon-by-Gudook-Outdoor-Sports",
-      "products": [
-        {
-          "name": "Gudook Adult Bike Helmets",
-          "codes": "",
-          "recallNumber": "26528"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10798",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "Little Grape Land Recalls Nursing Pillows Due to Risk of Serious Injury or Death from Suffocation; Violate Mandatory Standards for Nursing Pillows and Infant Support Cushions",
-      "brand": "XJ Evermore LLC, dba Little Grape Land US, of Frisco, Texas",
-      "description": "This recall involves Little Grape Land Nursing Pillows. The nursing pillows are U-shaped and come in a rose floral, alligator, bear, butterfly, cactus, construction truck, forest deer, green leaves, little bunny, spring flower and woodland animal patterns. There are no markings or labels on the product.",
-      "reason": "The recalled nursing pillows advertised for infant feeding and tummy time violate the mandatory safety standards for nursing pillows and infant support cushions because they can obstruct an infant's breathing, posing a serious risk of injury or death from suffocation.",
-      "action": "Consumers should stop using the recalled nursing pillows immediately and contact Little Grape Land for a full refund. Consumers will be asked to cut the pillow in half and send a photo of the destroyed pillow to recall@evermorepartner.com.",
-      "date": "2026-06-04",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at Amazon.com from August 2025 through April 2026 for between $28 and $30.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Little-Grape-Land-Recalls-Nursing-Pillows-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Violate-Mandatory-Standards-for-Nursing-Pillows-and-Infant-Support-Cushions",
-      "products": [
-        {
-          "name": "Little Grape Land Nursing Pillows",
-          "codes": "",
-          "recallNumber": "26525"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10804",
-      "section": "products",
-      "category": "Other consumer products",
-      "title": "SUNS International Recalls Residential Elevator Interlock Switches Due to Fall and Crushing Hazard; Risk of Death or Serious Injury",
-      "brand": "SUNS International LLC, of Chelmsford, Massachusetts",
-      "description": "This recall involves all SUNS International SS6291 Solenoid Interlock switches used in residential elevators produced from August 20, 2024, through November 6, 2025, with date codes 2431 through 2543. The SUNS SS6291 interlock switch measures approximately 10 inches by 2 inches and weighs about 2-pounds. \"SUNS\", the model number and date code are printed on a label on the side of the product.",
-      "reason": "The affected interlock switches can become stuck in a retracted position, allowing the exterior door to remain unlocked, posing a risk of death or serious injury if the elevator is called to another floor.",
-      "action": "Consumers should stop using their residential elevator containing the SUNS interlock switch immediately and contact SUNS or their elevator installer listed below for free professional installation of a replacement interlock switch.",
-      "date": "2026-06-04",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "SUNS International and authorized residential elevator dealers nationwide from September 2024 through November 2025 for about $200.",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/SUNS-International-Recalls-Residential-Elevator-Interlock-Switches-Due-to-Fall-and-Crushing-Hazard-Risk-of-Death-or-Serious-Injury",
-      "products": [
-        {
-          "name": "SUNS SS6291 Solenoid Interlock Switches",
-          "codes": "",
-          "recallNumber": "26531"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10799",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "Tiny Land Children's Play Tents Recalled Due to Risk of Injury from Irritation to Skin and Eyes",
-      "brand": "Tiny Land Inc., of Upland, California",
-      "description": "This recall involves Tiny Land-branded children's play tents. The play tents are made of a cream-colored fabric and have three windows, a closable fabric door, 34 poles, star-shaped lights, and a quilted play mat. When assembled, the tents measure about 57 inches high, 52 inches wide and 36 inches deep. The Tiny Land logo and \"SKU TLTGTT003BG-XYF1506251\" are printed on a label stitched inside of the tent.",
-      "reason": "The recalled tents' fiberglass poles can shed fibers, posing an injury risk of skin and eye irritation.",
-      "action": "Consumers should stop using the tents immediately, disassemble the tents and place the poles in an area where children cannot access them. Consumers should contact Tiny Land to receive a free repair kit with a set of four plastic replacement poles, including shipping. Consumers will be asked to dispose of the tent's fiberglass poles, using gloves, in accordance with state and local waste disposal procedures.",
-      "date": "2026-06-04",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 3,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at Amazon.com and Tinylandus.com from November 2025 through March 2026 for between $54 and $70.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Tiny-Land-Childrens-Play-Tents-Recalled-Due-to-Risk-of-Injury-from-Irritation-to-Skin-and-Eyes",
-      "products": [
-        {
-          "name": "Children's Tiny Land Play Tents",
-          "codes": "",
-          "recallNumber": "26526"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10803",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "TOMY Recalls Boon NURSH 8 oz Reusable Baby Bottles Due to Choking Hazard; Sold at Walmart",
-      "brand": "TOMY International, Inc., of Oak Brook, Illinois",
-      "description": "This recall involves Boon NURSH 8 oz Reusable Baby Bottles 3-Pack in pink tie dye. The recalled bottles were sold in a package containing three bottles. The bottles have a hard outer plastic shell that encases a soft silicone pouch. The Boon logo is on the side of the bottle's hard plastic shell. Item number B11654 and the UPC 669028116546 are printed on the bottom of the packaging.",
-      "reason": "The hard plastic outer shell can bubble or partially peel off, resulting in loose pieces of film-like plastic that pose a choking hazard to young children.",
-      "action": "Consumers should stop using the recalled baby bottles immediately and contact TOMY to receive a refund in the form of a $22 booninc.com store credit or a replacement set of three bottles in a different color.",
-      "date": "2026-06-04",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 3,
-      "states": [
-        "US"
-      ],
-      "distribution": "Exclusively at Walmart stores and online at Walmart.com from November 2025 through May 2026 for about $20.",
-      "retailers": [
-        "Walmart"
-      ],
-      "allergens": [],
-      "codes": "669028116546",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/TOMY-Recalls-Boon-NURSH-8-oz-Reusable-Baby-Bottles-Due-to-Choking-Hazard-Sold-at-Walmart",
-      "products": [
-        {
-          "name": "Boon NURSH 8 oz Reusable Baby Bottles",
-          "codes": "",
-          "recallNumber": "26530"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10805",
-      "section": "products",
-      "category": "Furniture & home",
-      "title": "Vornado Air Recalls SRTH Small Room Tower Heaters Due to Fire Hazard",
-      "brand": "Vornado Air, LLC, of Andover, Kansas",
-      "description": "The recalled Vornado SRTH small room tower heaters were sold in black and white and measure about 12.5 inches high by 6 inches in diameter. The recalled heaters have two heat settings (low and high) and a fan only/no heat setting. The word \"Vornado\" with a \"V\" behind it is printed on the front of the unit. The model \"TYPE SRTH\" is printed on the silver rating label located on the bottom of the product.",
-      "reason": "The recalled heater's fan blade can detach from the motor shaft, which can cause the fan to slow or stop, leading to overheating and melting of the enclosure and internal parts. Melted internal parts can ignite and breach the enclosure if the thermal cut off or fuse does not timely activate, posing a fire hazard.",
-      "action": "Consumers should stop using the recalled heaters immediately and contact Vornado for instructions on how to submit photos of the product and proof of destruction to receive a full refund.",
-      "date": "2026-06-04",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 3,
-      "states": [
-        "US"
-      ],
-      "distribution": "Stores nationwide, including Kohl's, Bed Bath & Beyond and ACE Hardware, and online at Vornado.com and Amazon.com from August 2013 through May 2026 for between $40 and $50.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Vornado-Air-Recalls-SRTH-Small-Room-Tower-Heaters-Due-to-Fire-Hazard",
-      "products": [
-        {
-          "name": "SRTH Small Room Tower Heaters",
-          "codes": "",
-          "recallNumber": "26532"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10797",
-      "section": "products",
-      "category": "Sports & outdoors",
-      "title": "Wyze Labs Recalls Solar Cam Pan Security Cameras Due to Risk of Serious Injury from Fire and Burn Hazards",
-      "brand": "Wyze Labs, Inc., of Kirkland, Washington",
-      "description": "The recalled Wyze Solar Cam Pan are lithium-ion battery operated outdoor security cameras. The products are wire-free, equipped with motorized pan-and-tilt functionality and an integrated solar panel. The model number, WYZESCPWH, is located on the back of the camera. They were sold in white.",
-      "reason": "The recalled Wyze Solar Cam Pan security cameras' incorrect assembly instructions can lead consumers to accidentally puncture the lithium ion battery's metal casing, causing the battery to rapidly overheat, posing a risk of serious injury or property damage from fire and burn hazards.",
-      "action": "Consumers should stop using the recalled Wyze Solar Cam Pan security camera immediately and visit http://www.wyze.com/SCPrecall to determine whether your device is affected by the recall. All consumers who used the long, flat-head screw to install the solar panel on top of the camera should participate in the recall. If you are uncertain about the type of screw used during installation, please consult the company's website for detailed guidance and assistance on identification procedures. The firm is offering all affected consumers a free replacement camera with solar panel accessory, a full refund or a gift card for the original purchase price to use on the firm's website. Consumers will be required to attest to disposal of the recalled camera. Consumers should dispose of the camera in accordance with local and state regulations. Note: Do not throw this recalled camera with lithium-ion battery in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
-      "date": "2026-06-04",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 3,
-      "states": [
-        "US"
-      ],
-      "distribution": "Home Depot and Micro Center, and online at www.wyze.com, Temu, Amazon, B2B Renew, Inc., ReturnPro and Best Buy from October 2025 through April 2026 for about $80.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Wyze-Labs-Recalls-Solar-Cam-Pan-Security-Cameras-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
-      "products": [
-        {
-          "name": "Wyze Solar Cam Pan Security Cameras",
-          "codes": "",
-          "recallNumber": "26524"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10800",
-      "section": "products",
-      "category": "Sports & outdoors",
-      "title": "Crenlux Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violates Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Eicong",
-      "brand": "Guangzhou Yikang Cultural Communication Co., Ltd., dba Eicong, of China",
-      "description": "This recall involves Crenlux-branded pool drain covers. The white plastic pool drain covers measure about eight inches in diameter and weigh about 12.7 ounces. \"Crenlux\" is printed on the product's packaging.",
-      "reason": "The recalled drain covers violate the entrapment protection standards of the Virginia Graeme Baker Pool and Spa Safety Act (VGBA), posing deadly entrapment and drowning hazards to swimmers and bathers.",
-      "action": "Pool owners, pool operators and consumers should stop using pools with the recalled pool drain covers immediately and contact Eicong for a full refund. Consumers will be asked to destroy the cover by writing in permanent maker \"Recalled\" on it and to send a photo of the destroyed cover to Crenlux_recall@outlook.com.",
-      "date": "2026-06-04",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 2,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at Amazon.com from June 2025 through March 2026 for about $20.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Crenlux-Pool-Drain-Covers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Drowning-Hazards-Violates-Virginia-Graeme-Baker-Pool-Spa-Safety-Act-Sold-on-Amazon-by-Eicong",
-      "products": [
-        {
-          "name": "Crenlux Pool Drain Covers",
-          "codes": "",
-          "recallNumber": "26527"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10802",
-      "section": "products",
-      "category": "Sports & outdoors",
-      "title": "Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violates Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Broqixin",
-      "brand": "Weifangdingshengxindianzikejiyouxiangongsi (Weifang Dingshengxin Electric Technology Co., Ltd.), dba Broqixin, of China",
-      "description": "This recall involves Broqixin-branded pool drain covers. The white plastic pool drain covers measure about 7.36 inches in diameter and weigh about 3.84 ounces and come with two screws. \"Model 11064W\" is printed on the product's packaging.",
-      "reason": "The recalled drain covers violate the entrapment protection standards of the Virginia Graeme Baker Pool and Spa Safety Act (VGBA), posing deadly entrapment and drowning hazards to swimmers and bathers.",
-      "action": "Pool owners, pool operators and consumers should stop using pools with the recalled pool drain covers immediately and contact Broqixin for a full refund. Consumers will be asked to remove the drain cover from the pool, write in permanent maker \"Recalled\" on the removed cover, and send a photo of the marked cover to?broqixinrecall@outlook.com. Ensure all pools and spas have VGBA-compliant drain covers and teach children to stay away from drains.",
-      "date": "2026-06-04",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 2,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at Amazon.com from January 2026 through April 2026 for about $16.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Pool-Drain-Covers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Drowning-Hazards-Violates-Virginia-Graeme-Baker-Pool-Spa-Safety-Act-Sold-on-Amazon-by-Broqixin",
-      "products": [
-        {
-          "name": "Broqixin Pool Drain Covers",
-          "codes": "",
-          "recallNumber": "26529"
-        }
-      ]
-    },
-    {
       "id": "cdc-2026-0",
       "section": "food",
       "category": "Investigation",
@@ -23928,7 +24032,7 @@
       "month": "2026-09",
       "food": 0,
       "pet_food": 0,
-      "products": 0
+      "products": 13
     }
   ]
 }
