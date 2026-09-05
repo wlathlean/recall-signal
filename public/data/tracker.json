@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T23:48:38.423921Z",
+  "generatedAt": "2026-09-05T15:51:07.884881Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -17,19 +17,19 @@
     {
       "name": "FDA Food",
       "ok": true,
-      "records": 2874,
+      "records": 2856,
       "url": "https://open.fda.gov/apis/"
     },
     {
       "name": "FDA Drug",
       "ok": true,
-      "records": 1471,
+      "records": 1465,
       "url": "https://open.fda.gov/apis/"
     },
     {
       "name": "FDA Device",
       "ok": true,
-      "records": 6186,
+      "records": 5921,
       "url": "https://open.fda.gov/apis/"
     },
     {
@@ -297,7 +297,7 @@
       "section": "products",
       "category": "Pet products",
       "title": "Daikin Comfort Technologies Manufacturing Recalls Amana Through-The-Wall Air Conditioners and Heat Pumps Due to Risk of Serious Injury from Fire",
-      "brand": "Daikin Comfort Technologies Manufacturing, Inc. of Houston, Texas",
+      "brand": "Daikin Comfort Technologies Manufacturing, Inc., of Houston, Texas",
       "description": "This recall involves certain Amana brand Through the Wall (TTW) air conditioners or heat pumps. These products are white and the brand name is printed on most of the units’ control covers. The units are used to provide room climate control. They most often are installed at hotels, apartment buildings, and commercial spaces. The model number and serial number are located on the front of the unit on the front edge of the base pan on a white sticker. Recalled units have a model number beginning with PB. The model numbers in the recall include:",
       "reason": "The snubber circuit can emit flames if it shorts, posing a risk of serious injury due to fire hazard.",
       "action": "Consumers should stop using the recalled product immediately and contact Daikin Comfort Technologies Manufacturing, Inc. (DCT) to submit a request for a full refund of the unit. Consumers will be required to provide their contact information, cut the product’s cord, and then upload a photo of the product’s serial number and the cut cord to receive a full refund of the unit.",
