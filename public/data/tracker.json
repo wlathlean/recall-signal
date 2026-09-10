@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T16:55:28.993906Z",
+  "generatedAt": "2026-09-10T23:50:31.762560Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -513,8 +513,10 @@
       "states": [
         "US"
       ],
-      "distribution": "Fangzhou Overseas Consulting Shenzhen Co., Ltd., doing business as Loyoda Direct, of China Shenzhen Taizai Trading Co., Ltd., doing business as Loyoda, of China",
-      "retailers": [],
+      "distribution": "Fangzhou Overseas Consulting Shenzhen Co., Ltd., doing business as Loyoda Direct, of China Shenzhen Taizai Trading Co., Ltd., doing business as Loyoda, of China Sold Online At: Amazon.com from June 2025 through April 2026 for between $40 and $50.",
+      "retailers": [
+        "Amazon"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
@@ -543,8 +545,10 @@
       "states": [
         "US"
       ],
-      "distribution": "Xiamen Liuhui Electric Technology Co., Ltd., dba Chenyuanhui, of China",
-      "retailers": [],
+      "distribution": "Xiamen Liuhui Electric Technology Co., Ltd., dba Chenyuanhui, of China Sold Online At: Amazon.com from May 2026 through June 2026 for about $20.",
+      "retailers": [
+        "Amazon"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
@@ -573,8 +577,10 @@
       "states": [
         "US"
       ],
-      "distribution": "Airiva LLC, dba Gizoon Direct, of City of Industry, California",
-      "retailers": [],
+      "distribution": "Airiva LLC, dba Gizoon Direct, of City of Industry, California Sold Online At: Amazon.com from May 2025 through August 2026 for between $138 and $171.",
+      "retailers": [
+        "Amazon"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
@@ -603,7 +609,7 @@
       "states": [
         "US"
       ],
-      "distribution": "",
+      "distribution": "Sold At: Evolucion Innovations, The Path Bike Shop and bicycle stores nationwide from December 2024 through June 2026 for about $5,000 to $12,000.",
       "retailers": [],
       "allergens": [],
       "codes": "",
@@ -633,7 +639,7 @@
       "states": [
         "US"
       ],
-      "distribution": "Nanjing Wu Hai Smart Home Appliance Store, of China",
+      "distribution": "Nanjing Wu Hai Smart Home Appliance Store, of China Sold Online At: Wayfair.com from April 2025 through June 2026 for between $206 and $240.",
       "retailers": [],
       "allergens": [],
       "codes": "",
@@ -663,7 +669,7 @@
       "states": [
         "US"
       ],
-      "distribution": "",
+      "distribution": "Sold At: Various third-party stores nationwide from May 2026 through August 2026.",
       "retailers": [],
       "allergens": [],
       "codes": "",
@@ -723,8 +729,10 @@
       "states": [
         "US"
       ],
-      "distribution": "",
-      "retailers": [],
+      "distribution": "Sold At: Specialty stores nationwide and online at cambridgeaudio.com, Amazon.com and eBay from 2016 through 2022 for between $172 and $218.",
+      "retailers": [
+        "Amazon"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
@@ -753,7 +761,7 @@
       "states": [
         "US"
       ],
-      "distribution": "",
+      "distribution": "Sold At: Through direct sales and distribution customers nationwide from April 2025 through June 2026 for between $625 and $900.",
       "retailers": [],
       "allergens": [],
       "codes": "",
@@ -843,8 +851,10 @@
       "states": [
         "US"
       ],
-      "distribution": "",
-      "retailers": [],
+      "distribution": "Sold At: Online at BranchFurniture.com, Amazon.com, WestElm.com, ContainerStore.com, OfficeDepot.com and other websites from approximately December 2025 through July 2026 for between $320 and $350.",
+      "retailers": [
+        "Amazon"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
@@ -2504,7 +2514,7 @@
       "states": [
         "US"
       ],
-      "distribution": "",
+      "distribution": "Sold At: Independent stereo stores nationwide and online at aloaudio.com from December 2014 through December 2022 for about $3,900.",
       "retailers": [],
       "allergens": [],
       "codes": "",
@@ -2534,8 +2544,10 @@
       "states": [
         "US"
       ],
-      "distribution": "MD Wipe Outz, of Thousand Oaks, California",
-      "retailers": [],
+      "distribution": "MD Wipe Outz, of Thousand Oaks, California Sold Online At: Amazon.com from September 2025 through June 2026 and Shopify.com from September 2025 through May 2026 for between about $7.50 for a 5-pack and $225 for a 250-pack.",
+      "retailers": [
+        "Amazon"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
@@ -2564,8 +2576,11 @@
       "states": [
         "US"
       ],
-      "distribution": "",
-      "retailers": [],
+      "distribution": "Sold At: Specialty stores nationwide and online at Amazon.com, Target.com, Bellalunatoys.com, Habausa.com and Nordstrom.com from December 2025 through July 2026 for about $13.",
+      "retailers": [
+        "Amazon",
+        "Target"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
@@ -2594,7 +2609,7 @@
       "states": [
         "US"
       ],
-      "distribution": "",
+      "distribution": "Sold Online At: Littlelovesandco.com and Whatnot.com from May 2025 through July 2026 for between $15 and $30.",
       "retailers": [],
       "allergens": [],
       "codes": "",
@@ -2624,8 +2639,10 @@
       "states": [
         "US"
       ],
-      "distribution": "",
-      "retailers": [],
+      "distribution": "Sold Online At: Amazon.com from March 2025 through June 2026 for about $120.",
+      "retailers": [
+        "Amazon"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
@@ -2654,8 +2671,10 @@
       "states": [
         "US"
       ],
-      "distribution": "",
-      "retailers": [],
+      "distribution": "Sold Online At: Amazon.com from April 2026 through June 2026 for between $45 and $92.",
+      "retailers": [
+        "Amazon"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
@@ -2684,7 +2703,7 @@
       "states": [
         "US"
       ],
-      "distribution": "Walmart Inc., of Bentonville, Arkansas",
+      "distribution": "Walmart Inc., of Bentonville, Arkansas Sold At: Walmart stores nationwide and online at Walmart.com from September 2023 through March 2026 for about $80. Recalled dressers were sold to consumers post-recall through the following liquidators: OMG California Community, of Riverside, California; Threads of Fenton of Fenton, Michigan, Golden Cone Electronic, Inc., of Elkhart, Indiana; and ReturnPro, of Miami, Florida. This reannouncement is intended to alert consumers who purchased the dressers from the above liquidators that the dressers have been recalled because they pose tip-over and entrapment hazards.",
       "retailers": [
         "Walmart"
       ],
@@ -2716,7 +2735,7 @@
       "states": [
         "US"
       ],
-      "distribution": "",
+      "distribution": "Sold At: Hustler and BigDog dealerships nationwide or online at www.hustlerturf.com/law-mower-accessories or www.bigdogmower.com/accessories from April 2020 through July 2026 for between $180 and $330.",
       "retailers": [],
       "allergens": [],
       "codes": "",
@@ -2746,8 +2765,10 @@
       "states": [
         "US"
       ],
-      "distribution": "",
-      "retailers": [],
+      "distribution": "Sold Online At: Amazon.com from July 2023 through April 2026 for about $27.",
+      "retailers": [
+        "Amazon"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
@@ -2776,8 +2797,11 @@
       "states": [
         "US"
       ],
-      "distribution": "",
-      "retailers": [],
+      "distribution": "Sold At: Walmart, Burlington, TJ Maxx and Ross and online including Amazon and Cuisinart.com from June 2009 through March 2026 for between $8 and $20.",
+      "retailers": [
+        "Amazon",
+        "Walmart"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
@@ -2806,8 +2830,10 @@
       "states": [
         "US"
       ],
-      "distribution": "FENUN, Inc., dba Kmaier, of Pasadena, California",
-      "retailers": [],
+      "distribution": "FENUN, Inc., dba Kmaier, of Pasadena, California Sold Online At: Target.com in June 2026 for between $62 and $70.",
+      "retailers": [
+        "Target"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
