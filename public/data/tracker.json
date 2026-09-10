@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T23:54:28.067388Z",
+  "generatedAt": "2026-09-10T16:55:28.993906Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -35,23 +35,431 @@
     {
       "name": "CPSC",
       "ok": true,
-      "records": 918,
+      "records": 930,
       "url": "https://www.cpsc.gov/Recalls"
     },
     {
       "name": "USDA-FSIS",
       "ok": true,
-      "records": 2024,
+      "records": 2025,
       "url": "https://www.fsis.usda.gov/recalls"
     },
     {
       "name": "CDC outbreaks",
       "ok": true,
-      "records": 11,
+      "records": 12,
       "url": "https://www.cdc.gov/foodborne-outbreaks/outbreaks/"
     }
   ],
   "records": [
+    {
+      "id": "cpsc-10967",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Cade California Electronic Recalls Finger Light Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+      "brand": "",
+      "description": "This recall involves California Cade Electronic Finger Lights which contain three button cells batteries. The finger lights come in 50 pieces in a box in white, blue, red and green. The finger lights have “California Cade Electronic” and “Finger Flashlights” printed on labels located on the front of the package.",
+      "reason": "The recalled finger lights violate the mandatory safety standard for toys because the toys contain button cell batteries that can be easily accessed by children. If button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, including internal chemical burns, and death.",
+      "action": "Consumers should stop using the recalled toys immediately, take them away from children and contact Cade California Electronic for a full refund. Consumers will be asked to properly dispose of the finger lights into the trash and send a photo of the disposed product to ccecamazonservice@gmail.com. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+      "date": "2026-09-10",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "California Cade Electronic, LLC, of Hacienda Heights, California Sold At: Amazon.com from March 2015 through July 2026 for between $5 and $16.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Cade-California-Electronic-Recalls-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+      "products": [
+        {
+          "name": "Cade California Electronic Projecting Finger Light Toys",
+          "codes": "",
+          "recallNumber": "26761"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10971",
+      "section": "products",
+      "category": "Appliances & electronics",
+      "title": "Dual Fuel Ranges Recalled Due to Risk of Serious Injury or Death from Fire or Explosion Hazards; Manufactured by AGA Rangemaster",
+      "brand": "AGA Rangemaster Limited, of United Kingdom",
+      "description": "This recall involves freestanding AGA Elise and Mercury Series Dual Fuel Ranges, in 36- and 48-inch widths and freestanding La Cornue CornuFé Series Dual Fuel Ranges in 36- and 43-inch widths manufactured between March 19, 2025 and July 24, 2026. All units have gas surface burners, set for Natural or LP gas, with one to three electric ovens depending on size. The products are sold in stainless steel, white and 13 other colors, which can be found at www.agarangeusa.com and www.lacornueusa.com. All colors, trim options and gas types (Natural or LP) are included. The serial number is on the rating plate, which is located on the bottom panel of the unit under the storage drawer.",
+      "reason": "Dual Fuel Ranges with a missing cap from the gas test port can cause a gas leak,​ posing a risk of serious injury or death from fire or explosion hazards.",
+      "action": "Repair",
+      "date": "2026-09-10",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Authorized appliance dealers nationwide from March 2025 through July 2026 for about $6,000 to $20,000.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Dual-Fuel-Ranges-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-or-Explosion-Hazards-Manufactured-by-AGA-Rangemaster",
+      "products": [
+        {
+          "name": "AGA Elise and Mercury Series Freestanding Dual Fuel Ranges and La Cornue CornuFé 90 and CornuFé 110 Series Freestanding Dual Fuel Ranges",
+          "codes": "",
+          "recallNumber": "26756"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10970",
+      "section": "products",
+      "category": "Other consumer products",
+      "title": "Guang Zhou Recalls Wantefully Hair Dryer Brushes Due to Risk of Serious Injury or Death from Electrocution, Shock and Burn Hazards; Violate Federal Regulations",
+      "brand": "",
+      "description": "This recall involves Wantefully 2 in 1 Hair Dryer & Styler, One Step Hair Dryer Brush Straightner, and the Negative Ion Electric Hot Air Blow Dryer Comb, model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a striped pink design and brush bristles. There are three heat settings on the hair dryers. XRUI and the model name XR-8801 are printed on the top of the product packaging.",
+      "reason": "The recalled hair dryer brushes are in violation of federal regulations for hair dryers as they lack an integrated immersion protection device, which presents a substantial product hazard to consumers and the risk of death or serious injury from electrocution or shock if the hair dryers fall into water while plugged in. In addition, the recalled hair dryer brushes can overheat, posing a burn hazard.",
+      "action": "Consumers should unplug and stop using the recalled hair dryers immediately and contact Guang Zhou to receive a full refund. Consumers will be asked to cut the power cord and provide a photo of the destroyed product to wantefully@163.com.",
+      "date": "2026-09-10",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from February 2026 through March 2026 for about $30.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Guang-Zhou-Recalls-Wantefully-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Shock-and-Burn-Hazards-Violate-Federal-Regulations",
+      "products": [
+        {
+          "name": "Wantefully Hair Dryer Brushes",
+          "codes": "",
+          "recallNumber": "26754"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10976",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "https://www.cpsc.gov/Recalls/2026/FJTJBSI-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+      "brand": "",
+      "description": "This recall involves the FJTJBSI-branded wood dressers. The black or white dressers measure about 15.1 inches long, 27.6 inches wide and 42.2 inches high, and weigh 68 pounds. The dressers have six drawers with silver or black handles. “LBS-XD-4-2-BLK-023” or “LBS-XD-4-2-WIT-024” is printed on a label on the product packaging.",
+      "reason": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
+      "action": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact FJTJBSI for a full refund. Consumers will be asked to write in permanent marker “RECALLED” on the dresser and send a photo of the marked dresser to FJTJBSIrecall@outlook.com. Consumers should then dispose of the recalled product.",
+      "date": "2026-09-10",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from November 2024 through July 2026 for about $170. Fujian Laobosi Cross-Border E-commerce Co., Ltd., dba FJTJBSI, of China",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/FJTJBSI-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+      "products": [
+        {
+          "name": "FJTJBSI Six-drawer Dressers",
+          "codes": "",
+          "recallNumber": "26764"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10974",
+      "section": "products",
+      "category": "Tools & power equipment",
+      "title": "Junkins Recalls DHASUWT Hair Dryer Brushes Due to Risk of Serious Injury or Death from Electrocution, and Shock Hazards; Violate Federal Regulations; Smoking and Fire Hazards",
+      "brand": "",
+      "description": "This recall involves DHASUWT Hair Dryer and Blow Dryer Brush in 1, Negative Ion Hair Dryer Brush, 1Step Ionic Hair Straightener Brush Hair Dryer Hot Air Brush, Hair Styling Tool Straightening Dryer, with model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a pink design and brush bristles. There are three heat settings on the hair dryers. The top of the product packaging is labeled XRUI with the model name XR-8801.",
+      "reason": "The recalled hair dryer brushes lack an integrated immersion protection device, which presents a substantial product hazard to consumers, posing the risk of death or serious injury from electrocution or shock if the hair dryers fall into water while plugged in to an electrical source. The recalled hair dryer brushes also pose the risk of death or serious injury from smoking and fire hazards.",
+      "action": "Consumers should unplug and stop using the recalled hair dryers immediately and contact Junkins to receive a full refund. Consumers will be asked to cut the power cord and provide a photo of the destroyed product to DHASUWT_recall@163.com.",
+      "date": "2026-09-10",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Amazon.com from October 2024 through June 2026 for about $27 Shenzhen Weihua Chenyu Technology Co., Ltd, dba Junkins, of China",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Junkins-Recalls-DHASUWT-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-and-Shock-Hazards-Violate-Federal-Regulations-Smoking-and-Fire-Hazards",
+      "products": [
+        {
+          "name": "DHASUWT Hair Dryer and Blow Dryer Brushes",
+          "codes": "",
+          "recallNumber": "26750"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10966",
+      "section": "products",
+      "category": "Other consumer products",
+      "title": "Prepared Hero Recalls Fire Spray Canisters Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
+      "brand": "Prepared Hero, of Sheridan, Wyoming",
+      "description": "This recall involves the Hero Fire Spray Fire Canisters. The canisters are either red and blue or red and have the company's logo on them with the name HERO Fire Spray on the front panel of the spray. Each canister contains 20 fluid ounces. The circular canisters are about 2.6 inches in diameter and 11.4 inches tall and weigh about 1.8 pounds. There is a black plastic release tab on the top of the canister. The affected batch is clearly marked on the base of the canister with the numbers \"09/2024\" as the date code.",
+      "reason": "The recalled fire spray canister can deteriorate overtime, causing it to rupture and fail to operate during a fire, posing the risk of serious injury or death from fire and burn hazards.",
+      "action": "Consumers should stop using the fire spray canisters immediately and visit www.preparedhero.com/pages/recall for instructions on how to receive a free replacement unit and how to properly dispose of the recalled fire spray canister according to local and state regulations. Consumers will be asked to place their fire spray canister in a box, label the box “RECALLED”, and bring it to a municipal household hazardous waste (HHW) collection center to receive a free replacement. Note: Do not throw the recalled fire spray canister in the trash or the general recycling stream (e.g., street-level or curbside recycling bins). Recalled fire spray canisters must be disposed of differently than other products, because they are pressurized. Your municipal household hazardous waste (HHW) collection center may accept this recalled fire spray canister for disposal. Before taking your fire spray canister to a HHW collection center, contact that office ahead of time and ask whether it accepts pressurized canisters. If it does not, contact your municipality for further guidance.",
+      "date": "2026-09-10",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: PreparedHero.com and Amazon.com from October 2024 through January 2026 for between $18 to $30.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Prepared-Hero-Recalls-Fire-Spray-Canisters-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+      "products": [
+        {
+          "name": "Hero Fire Spray Canisters",
+          "codes": "",
+          "recallNumber": "26755"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10965",
+      "section": "products",
+      "category": "Other consumer products",
+      "title": "Ricky Joy Recalls More Than 2.3 Million Sour Crush Candy Bottles Due to Risk of Serious Injury or Death from Choking Hazard",
+      "brand": "International Trade Imports LLC (The Ricky Joy Company), dba Ricky Joy, of Cumming, Georgia",
+      "description": "This recall involves Ricky Joy-branded Sour Crush Rolling Liquid Candy bottles. The bottles contain 1.85 fluid ounce of sour liquid candy intended to be applied through the bottle’s rollerball top. The plastic candy bottles were sold individually and in packs of three or 12 bottles per pack, and in the following colors/flavors: blue (blue raspberry), red (strawberry), green (green apple) and pink (watermelon). The Ricky Joy logo, “EXTREME SOUR, “SOUR CRUSH” and the flavor name are printed on the front of the bottle along with the image of a green monster.",
+      "reason": "The rolling ball on the recalled candy bottles can detach, posing a risk of serious injury or death from choking hazard.",
+      "action": "Consumers should stop using the candy bottles immediately, take them away from children and contact The Ricky Joy Company for a refund. Consumers will be provided with a pre-paid shipping label to return the recalled product.",
+      "date": "2026-09-10",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: H-E-B, Forman Mill and other candy stores nationwide and online at Walmart.com, CandyFunHouse.com, RickyJoy.com and other online retailers from January 2023 through May 2026 for about $3 for the bottle and for between $13 and $32 for the pack.",
+      "retailers": [
+        "Walmart",
+        "H-E-B"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Ricky-Joy-Recalls-More-Than-2-3-Million-Sour-Crush-Candy-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
+      "products": [
+        {
+          "name": "Ricky Joy Sour Crush Rolling Liquid Candy Bottles",
+          "codes": "",
+          "recallNumber": "26748"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10975",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Sweet Cubby Recalls Children's Loungewear Sets Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standard for Children’s Sleepwear",
+      "brand": "",
+      "description": "This recall involves all Sweet Cubby children’s loungewear sets. The recalled two-piece loungewear sets consist of a short-sleeved shirt and matching shorts. The sets were sold in various colors and in children’s sizes 5-6Y through 13-14Y. “Batch No.: 272779” and the size are printed on the sewn-in neck label and on the seam label.",
+      "reason": "The recalled children’s loungewear sets violate the mandatory flammability standard for children’s sleepwear, posing a risk of serious burn injuries or death.",
+      "action": "Consumers should stop using the recalled loungewear sets immediately, take them away from children and contact Sweet Cubby for a full refund. Consumers will be asked to destroy the loungewear sets by cutting them in half and send a photo of the destroyed loungewear sets to SweetCubby@163.com. Consumers should then dispose of the destroyed product.",
+      "date": "2026-09-10",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: SHEIN.com from June 2025 through May 2026 for between $8 and $12. Hong Kong Xuheyuan Trading Co., Ltd, dba Sweet Cubby, of China",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Sweet-Cubby-Recalls-Childrens-Loungewear-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standard-for-Childrens-Sleepwear",
+      "products": [
+        {
+          "name": "Sweet Cubby Children’s Loungewear Sets",
+          "codes": "",
+          "recallNumber": "26752"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10969",
+      "section": "products",
+      "category": "Appliances & electronics",
+      "title": "Triumph Motorcycles Recalls Closed Course Competition Motorcycles Due to Risk of Serious Injury or Death from Crash Hazard",
+      "brand": "Triumph Motorcycles America Ltd., of Atlanta, Georgia",
+      "description": "This recall involves 2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles. The motorcycles have a Jet Black/Pure White color scheme. Affected models are TF450-C, TF450-E, TF450-X and TF450RC Edition. The range of affected Vehicle Identification Numbers (VIN) is XXXXXXXXXXXCD4981 to and including XXXXXXXXXXXCP1597. The VIN is located on the vehicle identification plate on the left side of the steering head. Consumers can check if their VIN is included in this recall at https://www.triumphmotorcycles.com/owners/recalls.",
+      "reason": "The engine rocker arm on the recalled motorcycles can seize or stick and the exhaust valves can remain open or break, posing a risk of serious injury or death from a crash hazard.",
+      "action": "Consumers should stop using 2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles immediately and contact Triumph Motorcycles for a free repair. Consumers can check if their VIN is included in this recall at https://www.triumphmotorcycles.com/owners/recalls. Consumers with recalled motorcycles should contact their local authorized Triumph Motorcycle dealer who will inspect the engine and replace the cylinder head free of charge.",
+      "date": "2026-09-10",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Authorized Triumph Motorcycle Dealers from January 2025 through July 2026 for between $10,000 and $15,000.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Triumph-Motorcycles-Recalls-Closed-Course-Competition-Motorcycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
+      "products": [
+        {
+          "name": "2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles",
+          "codes": "",
+          "recallNumber": "26763"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10972",
+      "section": "products",
+      "category": "Sports & outdoors",
+      "title": "Victgoal Recalls Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
+      "brand": "Dongguan Hongtu Sports Goods Co. Ltd., of China",
+      "description": "This recall involves Victgoal-branded bicycle helmets. The red helmets were sold in size small (S), fitting a head circumference of about 19.68 to 21.25 inches. The helmets have red padding, black straps with a silver reflective pattern in the center, a black and red buckle and a black fit-adjusting knob at the back. Only helmets manufactured in November 2025 are included in this recall. “Model HT-006,” “Production: 2025/11” and “Ref/Lot# 2025A1101” are printed on a label on the inside of the helmet. “Victgoal” is printed on the product packing bag.",
+      "reason": "The recalled helmets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the retention system, positional stability and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury.",
+      "action": "Refund",
+      "date": "2026-09-10",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Walmart.com from March 2026 through June 2026 for between $22 and $36.",
+      "retailers": [
+        "Walmart"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Victgoal-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
+      "products": [
+        {
+          "name": "Victgoal Children’s Bike Helmets",
+          "codes": "",
+          "recallNumber": "26749"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10973",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "ZMC Group Expands Recall of Light-Up Children’s Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+      "brand": "ZMC Group Inc., of Los Angeles, California",
+      "description": "This recall expansion involves ZMC Group battery-operated light-up toys including a Mexican flag theme foam stick, a Unicorn headband, assorted colors and transparent jelly rings and heart shaped balloon flowers.",
+      "reason": "The recalled light-up toys violate the mandatory safety standard for children’s toys because the toys contain button cell batteries that can be easily accessed by children. If button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, including internal chemical burns, and death.",
+      "action": "Consumers should stop using the toys immediately, take them away from children and contact ZMC Group for a full refund. Consumers will be asked to remove the batteries, write “RECALLED” or a large “X” on the product with a permanent marker and submit a photo of the disposed product to recallzmctoy@gmail.com. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+      "date": "2026-09-10",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Diva at Heart, primarily in California, Texas, Oregon, Mississippi, and Arizona, and various distributors and retail stores and online at https://www.divaatheartsj.com/ from October 2018 through July 2026.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/ZMC-Group-Expands-Recall-of-Light-Up-Childrens-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+      "products": [
+        {
+          "name": "Light-Up Children’s Toys",
+          "codes": "",
+          "recallNumber": "26766"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10968",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "SQT Recalls Lontcs Busy Boards Due to Risk of Serious Injury from Lead Poisoning; Violate Federal Lead Paint Ban",
+      "brand": "Xianyouxianlichengshaungqiaotouqichemeirongdian (Xianyou County Licheng Shuangqiaotou Auto Beauty Shop), dba SQT LLC, of China",
+      "description": "This recall involves the Lontcs Busy Board toys. The toys consist of a wood board and metal handle with multiple attached components including a black plastic buckle with cream colored straps; a brown zipper; a metal latch; a caster wheel; a white doorbell; a lock with keys; a music box with crank; a zig zag duck puzzle; an abacus with three rows of white; red and tan beads; and a white fidget spinner.",
+      "reason": "The toys’ zipper contains levels of lead that exceed the standard set in the federal lead paint ban. Lead is toxic if ingested by young children and can cause adverse health issues.",
+      "action": "Consumers should stop using the busy boards immediately and contact SQT for a full refund. Consumers will be asked to destroy the toys by unscrewing its components, write in permanent marker “RECALLED” on the board, and send a photo of the destroyed toy to Lontcs@163.com. Consumers should then dispose of the destroyed product.",
+      "date": "2026-09-10",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 2,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from May 2024 through July 2026 for about $31.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/SQT-Recalls-Lontcs-Busy-Boards-Due-to-Risk-of-Serious-Injury-from-Lead-Poisoning-Violate-Federal-Lead-Paint-Ban",
+      "products": [
+        {
+          "name": "Lontcs Busy Board",
+          "codes": "",
+          "recallNumber": "26753"
+        }
+      ]
+    },
+    {
+      "id": "fsis-El Eden Import Distributor Corp Recalls Ineligible Pork Cracklings Products Impo",
+      "section": "food",
+      "category": "Human food",
+      "title": "El Eden Import Distributor Corp Recalls Ineligible Pork Cracklings Products Imported from The Republic of Colombia",
+      "brand": "",
+      "description": "",
+      "reason": "['Import Violation']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-09",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "NJ",
+        "UT"
+      ],
+      "distribution": "['New Jersey', 'Utah']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
     {
       "id": "fsis-Prime Line Distributors, Inc. and Ferrarini USA, Inc. Recall Imported Ready-To-E",
       "section": "food",
@@ -285,7 +693,7 @@
       "states": [
         "US"
       ],
-      "distribution": "",
+      "distribution": "Sold At: Carter’s retail stores nationwide and online at www.carters.com and www.skiphop.com from January 2025 through March 2026 for about $12.",
       "retailers": [],
       "allergens": [],
       "codes": "",
@@ -375,7 +783,7 @@
       "states": [
         "US"
       ],
-      "distribution": "",
+      "distribution": "Sold Online At: SHEIN.com from September 2025 through May 2026 for between $6 to $16.",
       "retailers": [],
       "allergens": [],
       "codes": "",
@@ -405,7 +813,7 @@
       "states": [
         "US"
       ],
-      "distribution": "",
+      "distribution": "Sold At: TJX and Marshalls stores nationwide from April 2025 through March 2026 for about $15",
       "retailers": [],
       "allergens": [],
       "codes": "",
@@ -465,8 +873,11 @@
       "states": [
         "US"
       ],
-      "distribution": "",
-      "retailers": [],
+      "distribution": "Sold At: Walmart, Sam’s Club, Costco, Supermercados Econo, Supermercados Selecto, and other major retailers in Puerto Rico and the U.S. Virgin Islands for between $1.40 and $8.",
+      "retailers": [
+        "Costco",
+        "Walmart"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
@@ -24169,509 +24580,31 @@
       ]
     },
     {
-      "id": "cpsc-10816",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "7-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon.com by Hasuit Direct",
-      "brand": "Shenzhen DUOMENGDUO Electronic Commerce Co., Ltd., dba Hasuit Direct, of China",
-      "description": "This recall involves Hasuit 7-Drawer Dressers. The recalled dressers have seven drawers, are made of wood and come in black. They are 27.6 inches wide, 44.5 inches tall, 15.8 inches long and weigh 102 pounds. SKU: AJ-DJ502571_1\" is printed on the products packaging (box).",
-      "reason": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
-      "action": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall and place them in an area that children cannot access. Consumers will be asked to pull out all seven drawers for destruction and write on the cabinet in permanent marker the word \"RECALLED,\" take a photo of the cabinet and drawers and then email the photo to hasuitrecall@outlook.com. Consumers should then dispose of the recalled product.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at Amazon.com from September 2023 through May 2026 for about $160.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/7-Drawer-Dressers-Recalled-Du-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units-Sold-on-Amazon-com-by-Hasuit-Direct",
-      "products": [
-        {
-          "name": "Hasuit 7-Drawer Dressers",
-          "codes": "",
-          "recallNumber": "26552"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10818",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "Arctic Zone Titan Pro Coolers Recalled Due to Risk of Serious Injury or Death from Burn Hazard; Violates Mandatory Flammability Standards for Children's Sleepwear",
-      "brand": "The Black Sheep Fam, of Kewaskum, Wisconsin",
-      "description": "This recall involves The Black Sheep Fam Kids' Unisex Jogger Pajama Sets and Girls' Sleepshirts. The recalled pajamas were sold in various children's sizes, colors and prints. Sizes include 2T, 3T, 4T, XS, SM, M and L. The size and \"Black Sheep Fam Kids\" are printed the neck label of the pajamas. The Girls' Sleepshirts have \"Made in China\" and \"96% polyester 4% spandex\" printed on the sewn-in side seam label. The Kids' Jogger Pajama sets have \"RN# 169608\" \"Made in Guatemala\" and \"95% cotton 5% spandex\" printed on the sewn-in side seam label.",
-      "reason": "The recalled children's pajamas violate the mandatory flammability safety standard for children's sleepwear, posing a risk of serious burn injuries or death to children.",
-      "action": "Consumers should stop using the pajamas immediately and contact The Black Sheep Fam for a full refund. Consumers will be asked to cut the products in half and email a photo of the destroyed garment to hello@theblacksheepfam.com, then dispose of the product.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Theblacksheepfam.com, Maisonette.com, Etsy.com, Instagram.com, and Facebook.com from October 2023 through February 2026 for between $40 and $50.",
-      "retailers": [
-        "H-E-B"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/The-Black-Sheep-Fam-Recalls-Childrens-Pajamas-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violates-Mandatory-Flammability-Standards-for-Childrens-Sleepwear",
-      "products": [
-        {
-          "name": "Girls' Sleepshirt and Kids' Unisex Jogger Pajama Sets",
-          "codes": "",
-          "recallNumber": "26554"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10817",
-      "section": "products",
-      "category": "Other consumer products",
-      "title": "Arctic Zone Titan Pro Coolers Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Imported by California Innovations and Sold at Costco",
-      "brand": "California Innovations Inc., of Canada",
-      "description": "This recall involves Arctic Zone Titan Pro 40 can-capacity, iceless coolers. The rectangular coolers were sold in black and brown and have a built?in bottle opener. The zipperless coolers are collapsible and measure about 15 inches wide, 12 inches deep and 12 inches high when open. The coolers have a hard-top lid with a front latch, a front insulated compartment with a front zippered pocket, two mesh side pockets, a shoulder strap with pad and grab handles. \"Titan Pro by Arctic Zone\" is printed on the front of the coolers and style number 10006348 is on a sewn-in label inside the front zippered pocket.",
-      "reason": "The recalled coolers' latch magnet can detach, posing risk of serious injury or death from a choking hazard.",
-      "action": "Consumers should stop using the coolers immediately and contact California Innovations for a free replacement latch, including shipping. Consumers will also receive replacement instructions and a tool to remove the existing latch and replace it with the new latch.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Costco stores nationwide in March 2026 for about $40.",
-      "retailers": [
-        "Costco"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Arctic-Zone-Titan-Pro-Coolers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Imported-by-California-Innovations-and-Sold-at-Costco",
-      "products": [
-        {
-          "name": "Arctic Zone Titan Pro Coolers",
-          "codes": "",
-          "recallNumber": "26553"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10813",
-      "section": "products",
-      "category": "Furniture & home",
-      "title": "Hopelight Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by MOCCI SHOP",
-      "brand": "Jiangsu Zhirun Xiangmu Management Co., Ltd., dba MOCCI SHOP, of China",
-      "description": "This recall involves Hopelight adult portable bed rails. The bed rail comes in silver and black, measure 11.5 inches wide by 23.5 inches tall, is made of metal and weighs 4 pounds. It has the model number, F311, printed on the product's packaging.",
-      "reason": "The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.",
-      "action": "Consumers should stop using the recalled adult portable bed rails immediately and contact MOCCI SHOP for a full refund. Consumers will be asked to cut the storage bag, cut the handrails' foam, write \"RECALLED\" on the upper and lower bed rails with a permanent marker, take a photo of the marked bed rail with the consumer's name on a piece of paper and email the photo to hopelightrecall@outlook.com.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Amazon.com from August 2023 through May 2026 for between $24 and $28.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Hopelight-Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violates-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-MOCCI-SHOP",
-      "products": [
-        {
-          "name": "Hopelight Adult Portable Bed Rails",
-          "codes": "",
-          "recallNumber": "26543"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10819",
-      "section": "products",
-      "category": "Sports & outdoors",
-      "title": "Houoto 642-2150V Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violate Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Prosperity goes straight up",
-      "brand": "Foshan Nanhai District Haichen Tengfei Hardware Factory, of China",
-      "description": "This recall involves Houoto 642-2150V Pool Drain Covers that are sold for use in swimming pools. The drain covers measure 7-5/8 inches in diameter and the screw hole spacing is 7 inches. They are white and made of ABS plastic. The brand and model number can be found on the product's order receipt.",
-      "reason": "The drain covers do not bear the required product markings, in violation of the mandatory safety standard under the Virginia Graeme Baker Pool and Spa Safety Act (VGBA), posing risk of serious injury or death from entrapment and drowning hazards. The drain covers also fail to meet safety requirements because they are missing statements regarding the service life of the covers and installation and maintenance instructions.",
-      "action": "Pool owners, pool operators and consumers should stop using pools with the recalled pool drain covers immediately. To receive a refund, consumers will be asked to remove the drain cover from the pool, destroy or otherwise render the drain cover unusable, write in permanent maker \"Recalled\" on the removed cover, and send a photo of the marked cover to houoto@163.com. Ensure all pools and spas have VGBA-compliant drain covers and teach children to stay away from drains.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at Amazon.com from January 2026 through May 2026 for about $18.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Houoto-642-2150V-Pool-Drain-Covers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Drowning-Hazards-Violate-Virginia-Graeme-Baker-Pool-Spa-Safety-Act-Sold-on-Amazon-by-Prosperity-goe-straight-up",
-      "products": [
-        {
-          "name": "Houoto 642-2150V Pool Drain Covers",
-          "codes": "",
-          "recallNumber": "26555"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10809",
-      "section": "products",
-      "category": "Furniture & home",
-      "title": "Merkury Innovations Recalls Hot + Cool Heating and Cooling Fans Due to Risk of Serious Injury or Death from Fire Hazard",
-      "brand": "Merkury Innovations, of New York, New York",
-      "description": "This recall involves the Merkury Innovations Hot + Cool Heating and Cooling Fan, a portable hot-and-cool bladeless fan and heater with model number MI-DHC02. The model number MI-DHC02 can be found on a white label on the bottom of the product and on the packaging. The fan heater is approximately 13 inches tall, 5 inches wide and 5 inches deep and weighs about 2 pounds.",
-      "reason": "The fan can overheat, posing a risk of serious injury or death from a fire hazard.",
-      "action": "Consumers should stop using the Hot + Cool Heating and Cooling Fan immediately and contact Merkury Innovations for a full refund. Consumers will be asked to write in permanent marker the date, their initials, and the word \"Recalled\" on the product. Consumers should unplug the cord, safely cut the cord and upload a photo of the destroyed product to https://merkuryinnovations.com/pages/fanrecall. After registration is confirmed, instructions will be provided on how to dispose of the product.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "TJMaxx, Marshalls and Sierra stores nationwide from October 2024 through October 2025 for about $30.",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Merkury-Innovations-Recalls-Hot-Cool-Heating-and-Cooling-Fans-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard",
-      "products": [
-        {
-          "name": "Hot + Cool Heating and Cooling Fans",
-          "codes": "",
-          "recallNumber": "26539"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10815",
-      "section": "products",
-      "category": "Furniture & home",
-      "title": "Nimood Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation Hazards; Violate Mandatory Standard for Adult Portable Bed Rails",
-      "brand": "shenzhenshinikezhinengshebeiyouxiangongsi (Shenzhen Nike Intelligent Equipment Co., Ltd.) dba Nimood US, of China",
-      "description": "This recall involves Nimood branded adult portable bed rails, models C3 Pro, C4 Pro, C5 Pro, and C5 Pro 2.0 sold for use on adult beds. The model numbers may be found on the assembly instructions, if kept. The C3 Pro bed support railing is made of white metal tubing with a rounded black foam rubber grip handle, and includes a fabric pouch, black strap, and a detachable adjustable magnetic motion light bar. The C3 Pro has two support legs and measures 16.7 inches wide, 26 inches long, and has an adjustable height between 28.9 to 44.9 inches. The C4 Pro bed support railing is made of black metal tubing with a rounded black foam rubber grip handle, and includes a fabric pouch, black strap, and a detachable adjustable magnetic motion light bar. The C4 Pro has two support legs with an adjustable height between 30.3 to 43.2 inches, an adjustable width between 26.4 to 35.8 inches, and an adjust",
-      "reason": "The recalled bed rails violate the mandatory standard for adult portable bed rails, because users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. The bed rails do not meet structural stability or retention strap requirements, posing a fall hazard. Furthermore, the bed rails' push pins and push pin holes are incorrectly sized, posing a laceration hazard. In addition, the bed rails do not bear the required hazard warning labels.",
-      "action": "Consumers should stop using the recalled bed rails immediately and contact Nimood US for a full refund. Consumers will be asked to destroy the bed rail by cutting the black fabric mesh bag off the rail and the black safety strap in half, write \"RECALLED\" on a piece of paper, take a photo of this alongside the disassembled bed rail and send a photo of the marked bed rail to nikeouzhou@hotmail.com. Consumers should then dispose of the recalled product.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at Amazon.com and Nimood.com from November 2024 through January 2026 for between $55 and $80.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Nimood-Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Hazards-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails",
-      "products": [
-        {
-          "name": "Nimood Adult Portable Bed Rails",
-          "codes": "",
-          "recallNumber": "26551"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10810",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "School Specialty Recalls Tip Restraint Kits Included in Childcraft Furniture Due to Risk of Serious Injury or Death from Tip-Over Hazard",
-      "brand": "School Specialty, LLC, of Greenville, Wisconsin",
-      "description": "This recall involves defective plastic tip restraint kits (also referred to as furniture straps) that were included in Childcraft furniture sold by School Specialty. The furniture included two plastic tip restraint kits in the box along with the product, with installation instructions. There is a label on the bottom of the furniture with the item number. Furniture that included the defective tip restraint kits is listed below along with the item number. The recalled tip restraint kits contain two white plastic brackets/mounts (one for connection to furniture and the other for connection to the wall), a white plastic cable zip tie, two different pairs of screws (one longer than the other) and two drywall anchors. CPSC's Anchor It! website, https://www.anchorit.gov/, has educational materials available to the public, including important instructions for properly anchoring furniture to prev",
-      "reason": "The recalled plastic tip restraint kits (also referred to as furniture straps) can break or degrade, posing tip-over and entrapment hazards. Should the defective plastic tip restraints break, consumers could be at risk of serious injuries or death. This is a hidden defect because consumers who purchase and install this product may be under a false sense of security that their furniture is safe from a tip-over incident.",
-      "action": "Consumers should stop using the recalled plastic tip restraints immediately and contact School Specialty for a free replacement tip restraint kit made of stainless steel. Consumers should keep children away from any furniture secured using the recalled plastic tip restraints while waiting for a replacement tip restraint kit and should dispose of the recalled tip restraint in their household trash once they have installed the replacement tip restraint. School Specialty is contacting all consumers who purchased Childcraft furniture directly and mailing two replacement tip restraint kits to those consumers along with that notice.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Childcraft furniture (which included the recalled tip restraint kits) sold through School Specialty stores nationwide and online at www.schoolspecialty.com from July 2024 through December 2025 for between $1,250 and $4,800.",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/School-Specialty-Recalls-Tip-Restraint-Kits-Included-in-Childcraft-Furniture-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-Hazard",
-      "products": [
-        {
-          "name": "Plastic Tip Restraint Kits",
-          "codes": "",
-          "recallNumber": "26540"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10811",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "Timechee Changing Table Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon by Timechee",
-      "brand": "Fujian Xiniuniu Home Furnishing Co., Ltd., of China",
-      "description": "This recall involves Timechee Changing Table Dressers. The recalled dressers are made of wood and were sold in white. The dresser has five drawers and two shelves, and a two-section changing table top. It measures 47.2 inches long, by 19.5 inches wide, by 36.1 inches tall and weighs 160 pounds. The dresser comes packaged in a cardboard box with \"KF200066US-01XN-003\" printed on the side.",
-      "reason": "The recalled dressers are unstable if not anchored to the wall, posing tip-over and entrapment hazards that can result in a risk of serious injuries or death to children. The dressers violate the mandatory safety standard as required by the STURDY Act.",
-      "action": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall and place them in an area that children cannot access. Contact Timechee for instructions on how to identify affected units and dispose of the dressers to receive a full refund. Consumers will be asked to email a photo to TimecheeRecall@timechee.com demonstrating disposal of the product.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at Amazon.com from September 2023 through May 2026 for about $190.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Timechee-Changing-Table-Dressers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units-Sold-on-Amazon-by-Timechee",
-      "products": [
-        {
-          "name": "Timechee Changing Table Dressers",
-          "codes": "",
-          "recallNumber": "26541"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10812",
-      "section": "products",
-      "category": "Pet products",
-      "title": "Yamaha Recalls Model Year 2021-2022 Fleet Golf Cars Due to Risk of Serious Injury or Death from a Crash Hazard",
-      "brand": "Yamaha Golf-Car Company, of Kennesaw, GA",
-      "description": "This recall involves model year 2021-2022 Yamaha Drive2 Electric Fleet Golf Cars. The golf cars were sold in mica (gold), arctic drift (blue), moonstone (gray), carbon (dark gray), bluestone, garnet (red), emerald (green), sunstone (yellow) and glacier (white). The serial number is located underneath the seat, on the frame of the unit. Yamaha will provide assistance if you can't locate the serial number. MODEL YEAR MODEL NAME 2021 JOJ Drive2 AC-L 2022 JOJ Drive2 AC-L 2022 J5B Drive2 AC-L Li",
-      "reason": "The recalled golf cars' passenger-side brake cable could have been misrouted during assembly. If the cable was misrouted, abnormal wear can occur which can cause the passenger-side cable to break during use, posing a risk of serious injury or death from a crash hazard.",
-      "action": "Consumers should stop using the recalled fleet golf cars immediately and contact an authorized Yamaha Golf Car dealer to schedule a free inspection of the passenger-side brake cable routing. If the cable was misrouted, the dealer will replace the cable with a new, properly routed cable. For consumers who cannot take the recalled golf car to an authorized dealer, a Yamaha dealer will provide transportation of the golf car or will inspect and, if necessary, install a new, properly routed cable at the location of the golf car.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Yamaha Golf Car dealers nationwide from March 2021 through September 2024 for between $6,700 and $8,830.",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Yamaha-Recalls-Model-Year-2021-2022-Fleet-Golf-Cars-Due-to-Risk-of-Serious-Injury-or-Death-from-a-Crash-Hazard",
-      "products": [
-        {
-          "name": "Model Year 2021-2022 Yamaha Drive2 Electric Fleet Golf Cars",
-          "codes": "",
-          "recallNumber": "26542"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10821",
-      "section": "products",
-      "category": "Other consumer products",
-      "title": "Coffeemakers Recalled Due to Risk of Serious Injury from Burn Hazard; Imported by Kidisle",
-      "brand": "ChangShaShiMengQiSiDianZiShangMaoYouXianGongSi, of China",
-      "description": "This recall involves Kidisle-branded hot and iced coffee machines. The single-serve coffeemaker is designed with black, white and gray colors, measures about 11 inches high and 6 inches wide, and has a 50-ounce detachable water tank. The coffeemakers can brew 6 to 14 ounces of cupped or ground coffee. Model \"KC101B\" is printed on a sticker on the coffeemakers' underside and the brand name on the product order receipt.",
-      "reason": "The recalled coffeemakers can become clogged, causing hot liquid or steam to build up and be released unexpectedly during use, posing a risk of serious injury from burn hazard.",
-      "action": "Consumers should stop using the coffeemakers immediately and contact Kidisle for a full refund. Consumers will be asked to destroy the coffeemaker by unplugging and cutting the power cord, write \"Recalled\" in permanent marker on it, and send a photo of the destroyed product with a visible model number and cut power cord, to KidisleKC101Brecall@outlook.com.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 3,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at Amazon.com, Walmart.com and eBay.com from June 2024 through April 2026 for about $49.",
-      "retailers": [
-        "Amazon",
-        "Walmart"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Coffeemakers-Recalled-Due-to-Risk-of-Serious-Injury-from-Burn-Hazard-Imported-by-Kidisle",
-      "products": [
-        {
-          "name": "Kidisle Coffeemakers",
-          "codes": "",
-          "recallNumber": "26557"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10807",
-      "section": "products",
-      "category": "Pet products",
-      "title": "HSN Recalls Kitchen HQ Thermal Insulated Bowls Due to Fire Hazard",
-      "brand": "HSN, Inc., of West Chester, Pennsylvania",
-      "description": "This recall involves certain Kitchen HQ brand thermal insulated bowls with detachable-hinged lids. The bowls, which were sold in a variety of colors, have a metal interior and a plastic exterior with the words “KITCHEN HQ” written across the front. Affected models include the 10-cup bowl (SKN 817800), the pair of 10.5-cup and 2-cup bowls sold as a set (SKN 884907), and the 10.4-cup, 6-cup, and 2-cup bowls sold as a set of three (SKN 900600).",
-      "reason": "Metal springs in the detachable hinged lid of the insulated bowls can catch fire when used in the microwave, posing a fire hazard.",
-      "action": "Consumers should stop using the insulated bowls immediately and contact HSN for a full refund on a complete bowl and lid set. A partial refund is also available for consumers who wish to keep the insulated bowls without the lid.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 3,
-      "states": [
-        "US"
-      ],
-      "distribution": "HSN.com, HSN televised shows, and HSN digital shopping platforms from July 2023 through February 2026 for between $20 and $60.",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/HSN-Recalls-Kitchen-HQ-Thermal-Insulated-Bowls-Due-to-Fire-Hazard",
-      "products": [
-        {
-          "name": "Kitchen HQ Thermal Insulated Bowls with Detachable Hinged Lids",
-          "codes": "",
-          "recallNumber": "26537"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10814",
-      "section": "products",
-      "category": "Pet products",
-      "title": "Kawasaki Motors USA Recalls Model Year 2026 Teryx4 H2 and Teryx5 H2 Recreational Off-Road Vehicles Due to Impact and Injury Hazards",
-      "brand": "Kawasaki Motors Manufacturing Corp., U.S.A., of Lincoln, Nebraska",
-      "description": "This recall involves Model Year 2026 Kawasaki Teryx4 H2 and Teryx5 H2 recreational off-road vehicles with the following model numbers: KRT1000D, KRT1000F and KRT1000G. Each unit has a unique VIN number located on the right rear of the main frame underneath the rear fender and above the rear wheel. The vehicles have either \"Teryx4 H2\" or \"Teryx5 H2\" on the driver and front passenger doors and the Kawasaki logo on both the left and right side above the rear wheels. The recalled vehicles were sold in lime green color. Model numbers are printed on the owner's manual.",
-      "reason": "The drive converter sheave can break in certain circumstances, resulting in metal fragments being discharged within the engine compartment and surrounding area, posing impact and injury hazards.",
-      "action": "Consumers should stop using the recalled vehicles immediately and contact a Kawasaki dealer to schedule a free repair. A technician will replace the moveable clutch sheave assembly, install a clutch cover guard and reprogram the Engine Control Unit (ECU) on the vehicle. Kawasaki is contacting all known purchasers directly.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 3,
-      "states": [
-        "US"
-      ],
-      "distribution": "Authorized Kawasaki dealers nationwide from June 2025 to January 2026 for between $37,200 and $43,700.",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Kawasaki-Motors-USA-Recalls-Model-Year-2026-Teryx4-H2-and-Teryx5-H2-Recreational-Off-Road-Vehicles-Due-to-Impact-and-Injury-Hazards",
-      "products": [
-        {
-          "name": "Model Year 2026 Teryx4 H2 and Teryx5 H2 recreational off-road vehicles",
-          "codes": "",
-          "recallNumber": "26550"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10808",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "LiKee Pull String Teething Toys Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by ChilanTech",
-      "brand": "Guangzhou Huanmao Business Service Co. Ltd., of China",
-      "description": "This recall involves LiKee Pull String teething toys. The teething toys consist of an off-white disc shape with a blue ball in the center and six multi-colored, silicone tentacle-looking pull strings that run through the ball. The disc has three soft push buttons. The brand name and \"Baby Sensory Toy\" are printed on the front of the product packaging and \"Model No. LK-FDWJ\" on the back.",
-      "reason": "The recalled teething toys violate the mandatory standard for toys because the silicone strings are smaller and longer than permitted. The strings can reach the back of children's throat and become lodged, posing a serious risk of respiratory distress and deadly choking hazard.",
-      "action": "Consumers should stop using the toy immediately, take it away from children and contact ChilanTech for free replacement toy of at least equal value, including shipping. Consumers will be asked to destroy the toys by cutting the silicone tentacles and writing in permanent marker \"Recalled\" on the toys' main body and send a photo of the destroyed product to likee-teether-recall@outlook.com. Consumers should then dispose of the destroyed product.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 3,
-      "states": [
-        "US"
-      ],
-      "distribution": "Amazon.com from November 2024 through December 2025 for about $10.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/LiKee-Pull-String-Teething-Toys-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-ChilanTech",
-      "products": [
-        {
-          "name": "LiKee Pull String Teething Toys",
-          "codes": "",
-          "recallNumber": "26538"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10820",
-      "section": "products",
-      "category": "Pet products",
-      "title": "Yamaha Recalls UMAX Bistro and Bistro Deluxe Vehicles Due to Injury Hazard",
-      "brand": "Yamaha Golf-Car Company, of Kennesaw, Georgia",
-      "description": "This recall involves Model Year 2019-2025 UMAX Bistro and Bistro Deluxe gas and electric vehicles. The gas models are J0G (YUM2A) with serial number 0000104-0601120. The electric models are J5D (YUM2E) with serial number 0000116-0000230. The food and merchandise service vehicles have a four-lid ice chest, sliding snack tray, and a vertical display case (Bistro Deluxe) with slanted shelves for displaying goods. The units were sold in white, green, red, teal, and brown colors. The serial number can be located under the rear cargo area, on the frame of the unit. Yamaha is written on the sides and on the front and back of the vehicle.",
-      "reason": "The recalled Bistro and Bistro Deluxe vehicles have an inaccurate weight capacity certification label. This could result in the vehicle being overloaded, which poses an injury hazard.",
-      "action": "Consumers should immediately stop using the recalled UMAX Bistro and Bistro Deluxe vehicles and contact an authorized Yamaha Golf Car dealer to schedule a free replacement of the label. A Yamaha dealer will replace the label at the vehicle's location.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 3,
-      "states": [
-        "US"
-      ],
-      "distribution": "Yamaha Golf Car dealers nationwide beginning July 2018 through May 2026 for between $17,495 and $29,06.",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Yamaha-Recalls-UMAX-Bistro-and-Bistro-Deluxe-Vehicles-Due-to-Injury-Hazard",
-      "products": [
-        {
-          "name": "Model Year 2019-2025 UMAX Bistro and Bistro Deluxe Vehicles",
-          "codes": "",
-          "recallNumber": "26556"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10806",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "Joyin Recalls Sloosh Dive Sticks Due to Risk of Serious Injury from Impalement; Violate Federal Dive Sticks Ban",
-      "brand": "Joyin US Corp., of Chandler, Arizona",
-      "description": "This recall involves Sloosh dive sticks, contained in packages of Sloosh water toys, model 40041. The model number 40041 is printed on the back of the box of Sloosh water toys, next to the bar code and printed on top of one end of the dive stick, along with Joyin's name and tracking information. The Sloosh water toys package contains 30 pieces, including five dive sticks. The recalled dive sticks are made of hard plastic and are cylinder-shaped. Each stick measures approximately 7-inches in length and about 1-inch or less in diameter. They come in various colors and are packaged in a box with other pool diving toys in the Sloosh water toys package. Only the dive sticks with model 40041 contained in the Sloosh water toys sold prior to October 23, 2025, are being recalled. Consumers can continue to use the other items contained in the Sloosh water toys package.",
-      "reason": "The recalled dive sticks violate the federal dive sticks ban because they exceeded the compress limit, posing an impalement hazard. In shallow water, children may fall or land on a dive stick, resulting in serious piercing injuries. Facial and eye injuries are also possible when children attempt to retrieve the sticks underwater.",
-      "action": "Consumers should stop using the recalled dive sticks immediately, take them away from children and dispose of them. Consumers will be asked to take a photo of the disposed dive sticks in the trash and email it to Joyin at support@joyin.com. Once received, Joyin will send the consumer redesigned dive sticks that meet federal regulations.",
-      "date": "2026-06-11",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 2,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at Amazon.com, Temu.com, Wayfair.com, Plus.Target.com and SHEIN.com from February 2019 through October 2025 for between $17 and $22.",
-      "retailers": [
-        "Amazon",
-        "Target"
-      ],
-      "allergens": [],
-      "codes": "812355036227",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Joyin-Recalls-Sloosh-Dive-Sticks-Due-to-Risk-of-Serious-Injury-from-Impalement-Violate-Federal-Dive-Sticks-Ban",
-      "products": [
-        {
-          "name": "Sloosh Dive Sticks",
-          "codes": "",
-          "recallNumber": "26536"
-        }
-      ]
-    },
-    {
       "id": "cdc-2026-0",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Broccoli Sprouts and Salmonella Bovismorbificans",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Bovismorbificans",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/broccoli-sprouts-09-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-1",
       "section": "food",
       "category": "Investigation",
       "title": "Alfalfa Sprouts and E. coli O26:H11, O103:H25, and O168:H8 and Salmonella Agona",
@@ -24695,7 +24628,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-1",
+      "id": "cdc-2026-2",
       "section": "food",
       "category": "Investigation",
       "title": "Shell Eggs and Salmonella",
@@ -24721,7 +24654,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-2",
+      "id": "cdc-2026-3",
       "section": "food",
       "category": "Investigation",
       "title": "Jalapenos and Salmonella",
@@ -24745,7 +24678,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-3",
+      "id": "cdc-2026-4",
       "section": "food",
       "category": "Investigation",
       "title": "Iceberg Lettuce and Cyclospora",
@@ -24769,7 +24702,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-4",
+      "id": "cdc-2026-5",
       "section": "food",
       "category": "Investigation",
       "title": "Frozen Blueberries and E. coli O145",
@@ -24793,7 +24726,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-5",
+      "id": "cdc-2026-6",
       "section": "food",
       "category": "Investigation",
       "title": "Powdered Infant Formula and Clostridium botulinum",
@@ -24817,7 +24750,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-6",
+      "id": "cdc-2026-7",
       "section": "food",
       "category": "Investigation",
       "title": "Requeson/Soft Ricotta Cheese and Listeria monocytogenes",
@@ -24841,7 +24774,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-7",
+      "id": "cdc-2026-8",
       "section": "food",
       "category": "Investigation",
       "title": "Moringa Capsules and Salmonella Typhimurium",
@@ -24865,7 +24798,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-8",
+      "id": "cdc-2026-9",
       "section": "food",
       "category": "Investigation",
       "title": "Raw Dairy and E. coli O157:H7",
@@ -24891,7 +24824,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-9",
+      "id": "cdc-2026-10",
       "section": "food",
       "category": "Investigation",
       "title": "Moringa Powder Capsules and Salmonella Newport",
@@ -24915,7 +24848,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-10",
+      "id": "cdc-2026-11",
       "section": "food",
       "category": "Investigation",
       "title": "Super Greens Supplement Powders and Salmonella Typhimurium",
@@ -25080,9 +25013,9 @@
     },
     {
       "month": "2026-09",
-      "food": 13,
+      "food": 14,
       "pet_food": 0,
-      "products": 41
+      "products": 53
     }
   ]
 }
