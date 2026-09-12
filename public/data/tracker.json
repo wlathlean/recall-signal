@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T23:58:17.003230Z",
+  "generatedAt": "2026-09-12T16:05:26.916599Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -17,19 +17,19 @@
     {
       "name": "FDA Food",
       "ok": true,
-      "records": 2925,
+      "records": 2894,
       "url": "https://open.fda.gov/apis/"
     },
     {
       "name": "FDA Drug",
       "ok": true,
-      "records": 1505,
+      "records": 1497,
       "url": "https://open.fda.gov/apis/"
     },
     {
       "name": "FDA Device",
       "ok": true,
-      "records": 6012,
+      "records": 5976,
       "url": "https://open.fda.gov/apis/"
     },
     {
