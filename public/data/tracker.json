@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T17:32:10.908644Z",
+  "generatedAt": "2026-09-17T23:59:23.967632Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -35,7 +35,7 @@
     {
       "name": "CPSC",
       "ok": true,
-      "records": 936,
+      "records": 940,
       "url": "https://www.cpsc.gov/Recalls"
     },
     {
@@ -60,7 +60,7 @@
       "brand": "",
       "description": "This recall involves Jerify Magnetic Humanoid Toys 30 PCS. The 30-piece magnetic toys come in three units of brown, white, green, peach, yellow, pink, blue, orange, purple, and red figures in the shape of a human. Each figure measures about 2.7 inches tall by 2.5 inches wide. The magnetic toys contain magnets in the hand and foot locations. There is no labeling on the product. The magnetic toys come in an unlabeled clear bag enclosed in a brown box with the brand name “Jerify” and number “X003ADA3TD” located on the sticker.",
       "reason": "The magnetic humanoid toy Sets violate the mandatory standard for toys because they can liberate loose high-powered magnets posing an ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other or other metal objects and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
-      "action": "Consumers should unplug and stop using the recalled hair dryers immediately and contact Junkins to receive a full refund. Consumers will be asked to cut the power cord and provide a photo of the destroyed product to DHASUWT_recall@163.com.",
+      "action": "Consumers should take the magnetic humanoid toys away from children immediately, stop using them and contact Colerinsec for a full refund. Consumers will be asked to throw away the magnetic toys and submit a photo of the disposed toys to coushdwugintwer@163.com.",
       "date": "2026-09-17",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -78,9 +78,69 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Colerinsec-Recalls-Jerify-Magnetic-Stick-Figure-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys",
       "products": [
         {
-          "name": "DHASUWT Hair Dryer and Blow Dryer Brushes",
+          "name": "Jerify Magnetic Humanoid Toy Sets 30 PCS",
           "codes": "",
           "recallNumber": "26774"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10988",
+      "section": "products",
+      "category": "Appliances & electronics",
+      "title": "Friedrich Air Conditioning Recalls KÜHL Window Air Conditioners Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
+      "brand": "Friedrich Air Conditioning Co., of San Antonio, Texas",
+      "description": "This recall involves KÜHL Q and KÜHL S Window Air Conditioners. The products have a gray front and a black air discharge grille and have the name Friedrich and the Friedrich logo in the lower left corner of the unit. The Kühl Q front control panel is located on the top left corner of the unit, and the Kühl S front control panel is located on the right side of the unit below the discharge grille. The models are KCVQ08B10A, KHVQ10B11A, KCVS08B10A, KCVS12B10A, KCVS12B30A and KCVS16B30A. The model and serial number are located inside the air conditioners. Only some serial numbers below have motors that are included in this recall.",
+      "reason": "The control board inside the motor of the recalled air conditioners can fail, posing a risk of serious injury or death from fire and burn hazards.",
+      "action": "Consumers should stop using the recalled air conditioners immediately and visit www.friedrich.com/product-recall to receive information on how to determine if their unit is covered by the recall. Consumers should have the air conditioner’s serial number, which can be found on the inside of the unit, when they visit the recall web page or call Friedrich about the recall. If your unit has a serial number that is included in the recall, the firm will send you instructions on how to obtain a refund or free replacement unit.",
+      "date": "2026-09-17",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: PC Richard & Son, Grainger, and Johnson Supply stores and other appliance distributors and retailers nationwide from January 2026 through August 2026 for between $1,300 and $2,000.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Friedrich-Air-Conditioning-Recalls-K%C3%9CHL-Window-Air-Conditioners-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+      "products": [
+        {
+          "name": "Kühl® Q and Kühl® S Window Air Conditioners",
+          "codes": "",
+          "recallNumber": "26776"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10990",
+      "section": "products",
+      "category": "Sports & outdoors",
+      "title": "Hayward Industries Recalls Universal Pool Heaters Due to Risk of Serious Injury or Death from Carbon Monoxide Poisoning Hazard",
+      "brand": "Hayward Industries, Inc., of Charlotte, North Carolina",
+      "description": "This recall involves Hayward-branded HDFS400 Universal-HC Series pool heaters. The 400,000 BTU dual-fuel gas heaters are brown with black atop and measure 21 inches long, 28 inches wide and 31 inches high. The pool heaters have a digital display control panel at the top and a molded base with integrated tie-down connections. The heater’s name plate is below the vent with the word “Hayward” appearing at the bottom of the name plate and the model number “HDFS400” appears at the top of the name plate.",
+      "reason": "During operation the heaters can produce high levels of carbon monoxide (CO), posing a risk of serious injury or death from carbon monoxide poisoning.",
+      "action": "Consumers should stop using the pool heater immediately and contact Hayward Industries to schedule a free in-home inspection and repair by a qualified technician.",
+      "date": "2026-09-17",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Pool equipment distributors, builders and service professionals nationwide from March 2026 through July 2026 for about $5,600.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard-0",
+      "products": [
+        {
+          "name": "400,000 BTU Universal-HC Series Pool Heaters",
+          "codes": "",
+          "recallNumber": "26777"
         }
       ]
     },
@@ -157,7 +217,7 @@
       "brand": "Jiande Pengshuai Trading Co., Ltd, of China",
       "description": "This recall involves Basecamp-branded bicycle helmets, model HT-10. The helmets were sold in green and black and in size medium/large (M/L), fitting a head circumference of about 22.44 to 24.41 inches. The helmets have red padding, black and red straps, a black and red buckle and a black and red fit-adjusting knob at the back. “Basecamp” is printed on the sides of the helmet and “HT-10” on a label inside of the helmet.",
       "reason": "The recalled helmets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the impact attenuation, positional stability and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury. In addition, the helmets have a button cell battery that does not bear the warning labels required by Reese’s Law. If button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, including internal chemical burns, and death.",
-      "action": "Consumers should stop using the recalled blankets and pads immediately and contact JKMax for a full refund.",
+      "action": "Consumers should stop using the helmets immediately and contact Tongyang Cycling for a full refund. Consumers will be asked to destroy the recalled helmet by cutting the straps and send a photo of the destroyed helmet to tongyangshangwuus@hotmail.com. Consumers should then dispose of the recalled product. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
       "date": "2026-09-17",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -175,7 +235,7 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Tongyang-Cycling-Recalls-Basecamp-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
       "products": [
         {
-          "name": "JKMAX Heated Blankets and Heating Pads",
+          "name": "Basecamp Bike Helmets",
           "codes": "",
           "recallNumber": "26785"
         }
@@ -251,7 +311,7 @@
       "brand": "",
       "description": "This recall involves all heating pads and heated blankets sold by JKMax including models JKMAX-002, JKMAX-7284B, JKMAX-6284B, JKMAX-10090B, JKMAX-8490B and JKMAX-6284B. The heated blankets and heating pads are blue, gray, brown or red. They are made of polyester fabric and are machine washable. The blankets and pads were sold in multiple sizes, and both have a detachable white remote that can be used to adjust the heat. The model number is located on the back of the remote and is also printed on a white label affixed to the product packaging along with the brand name “JKMAX”.",
       "reason": "The internal wire heating elements of the blankets and pads can overheat, posing fire and burn hazards to consumers.",
-      "action": "Consumers should stop using the recalled loungewear sets immediately, take them away from children and contact Sweet Cubby for a full refund. Consumers will be asked to destroy the loungewear sets by cutting them in half and send a photo of the destroyed loungewear sets to SweetCubby@163.com. Consumers should then dispose of the destroyed product.",
+      "action": "Consumers should stop using the recalled blankets and pads immediately and contact JKMax for a full refund.",
       "date": "2026-09-17",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -267,7 +327,7 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/JKMAX-Recalls-Heated-Blankets-and-Heating-Pads-Due-to-Fire-and-Burn-Hazards",
       "products": [
         {
-          "name": "Sweet Cubby Children’s Loungewear Sets",
+          "name": "JKMAX Heated Blankets and Heating Pads",
           "codes": "",
           "recallNumber": "26778"
         }
@@ -281,7 +341,7 @@
       "brand": "",
       "description": "The “Lights and Sound Fire Truck” is a compact fire engine toy with wheels that spin, that also features busy board activities that activate lights and sounds. The toy is made of red plastic, has four black wheels and has a white plastic rotating ladder. The toy has a black plastic connector that looks like a fire hose. The toy measures 10.5 inches high by 14.31 inches wide by 3.06 inches deep and weighs about 1.6 pounds. On the bottom of the toy, “Melissa & Doug” is embossed on the battery compartment box as are two date wheels showing the dates of manufacturer by year and month. Affected units will have one arrow pointing to the number 25 and the second arrow pointing to the number 4 or 5 or they will have one arrow pointing to the number 26 and the second arrow pointing to the number 3. Date codes OET 25100, OET 25150 or OET 26064 are printed on the product packaging of the recalled u",
       "reason": "The fire hose port can come loose and detach, posing a risk of serious injury from choking hazard.",
-      "action": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact FJTJBSI for a full refund. Consumers will be asked to write in permanent marker “RECALLED” on the dresser and send a photo of the marked dresser to FJTJBSIrecall@outlook.com. Consumers should then dispose of the recalled product.",
+      "action": "Consumers should stop using the fire truck activity board immediately and register at www.melissaanddoug.com/recall for instructions on how to receive a free replacement fire truck activity board, register for a full refund of $30 in the form of a check or receive a $40 melissaanddoug.com store credit. Consumers will be asked to remove the batteries, write in permanent marker the word “RECALL” on the front of the product along with a unique code provided during the online registration process, and to cut the black hose off from the toy. Consumers will then be directed to upload a photograph of the destroyed product to the registration page. Once their registration has been successfully confirmed, consumers should dispose of the product in their ordinary household trash.",
       "date": "2026-09-17",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -299,9 +359,41 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Melissa-and-Doug-Recalls-Fire-Truck-Activity-Board-Toys-Due-to-Risk-of-Serious-Injury-from-Choking-Hazard-Sold-Exclusively-at-Target",
       "products": [
         {
-          "name": "FJTJBSI Six-drawer Dressers",
+          "name": "Lights & Sounds Fire Truck Activity Board",
           "codes": "",
           "recallNumber": "26780"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10987",
+      "section": "products",
+      "category": "Sports & outdoors",
+      "title": "Sauna360 Recalls Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
+      "brand": "Sauna360 Inc., of Cokato, Minnesota",
+      "description": "This recall involves various infrared and hybrid sauna models and infrared (IR) kits. Customers who purchased custom rooms built with IR panels can check for the words “Saunalogic,” “Infralogic,” “Carbonflex,” or “Tylö” on their control panel or locate their product manual. Customers who purchased pre-configured infrared sauna rooms can identify their product by the brand badge on the front frame panel, the control panel, the manual or the logo handle. Consumers can also find the serial number located under the lower bench or on the wall under the upper bench depending on the unit and provide Sauna360 the serial number to determine if they have a recalled sauna. The IR sauna kits with panels, along with the following sauna model numbers, are included in this recall:",
+      "reason": "The infrared panels in the saunas and kits can short circuit, causing them to overheat, posing a risk of serious injury from fire and burn hazards.",
+      "action": "Consumers should stop using the infrared and hybrid saunas immediately and contact Sauna360 to schedule a free in-home repair from a professional installer.",
+      "date": "2026-09-17",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Costco stores and pool and spa dealerships nationwide and online at Costco.com and other online sites from May 2013 through July 2026 for between $6000 and $13,000.",
+      "retailers": [
+        "Costco"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Sauna360-Recalls-Infrared-Saunas-Hybrid-Infrared-Saunas-and-Infrared-Kits-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+      "products": [
+        {
+          "name": "Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits",
+          "codes": "",
+          "recallNumber": "26784"
         }
       ]
     },
@@ -313,7 +405,7 @@
       "brand": "Hefei Hanchan Network Technology Co., Ltd., dba Colerinsec, of China",
       "description": "This recall involves Pull & Chew Montessori Teething Toys. The silicone teething toys are green, pink, yellow or blue and have four strings in various colors. The recalled toys are packaged in a clear and white plastic pouch with “BABY PRODUCTS” and “Crafted in Gentle Care” printed on the front. The product SKU (sa25092843915310553, sa2404237092800828, or sa251115653050553503) is printed on the front of the packaging. The manufacturer’s name and address, product date, and batch code are printed on the front and back of the packaging.",
       "reason": "The recalled teething toys violate the mandatory safety standard for toys because the silicone strings are smaller and longer than permitted. The silicone strings can reach the back of the throat and become lodged, posing a risk of respiratory distress and a deadly choking hazard.",
-      "action": "Consumers should take the magnetic humanoid toys away from children immediately, stop using them and contact Colerinsec for a full refund. Consumers will be asked to throw away the magnetic toys and submit a photo of the disposed toys to coushdwugintwer@163.com.",
+      "action": "Consumers should stop using the recalled teething toys immediately, take them away from children, and contact SHEIN for a refund. Consumers will be asked to cut the teething toy’s silicone strings and send a photo of the destroyed toy to productrecall@shein.com. Consumers should then dispose of the destroyed product.",
       "date": "2026-09-17",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -331,9 +423,42 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Pull-and-Chew-Montessori-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Mandatory-Standard-for-Toys",
       "products": [
         {
-          "name": "Jerify Magnetic Humanoid Toy Sets 30 PCS",
+          "name": "Pull & Chew Montessori Teething Toys",
           "codes": "",
           "recallNumber": "26782"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10989",
+      "section": "products",
+      "category": "Furniture & home",
+      "title": "Char-Broil Recalls Bistro Pro Electric Grills Due to Risk of Electric Shock",
+      "brand": "Char-Broil LLC, of Columbus, Georgia",
+      "description": "This recall involves the Charbroil Bistro Pro Electric Grills with model descriptions Bistro Pro Electric Grill & Griddle + Charcoal, Bistro Electric Grill + Charcoal and Bistro Pro Tabletop Electric Grill. The grills were sold in full-size and tabletop configurations in Black (black and gray), Red, Blackout (all black) and Emerald (green). The units have a “CB” logo plate on the front of the lid and “CHARBROIL” printed on the front control panel. The product label listing the model and serial number, including a four‑digit manufacturing date code in year and month (YYMM) format, is located on the bottom shelf of full-size grills and on the side bar of tabletop models. Only Bistro Pro Electric Grills with date codes of 2510 (Oct-2025), 2511 (Nov-2025) and 2512 (Dec-2025) are included in this recall.",
+      "reason": "The grounding wire for the grill’s heating element can disconnect and lose fault protection, posing an electric shock hazard.",
+      "action": "Consumers should stop using the recalled electric grills immediately and contact Char-Broil for a free repair kit. Consumers will be asked to register at www.charbroil.com/BistroProFix to receive repair instructions, a screwdriver, a wrench, screws and a label to affix to the grill after repair. Char-Broil is offering a digital $25 gift card, valid at participating retailers, to consumers who provide photo documentation of the completed repair.",
+      "date": "2026-09-17",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 2,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Ace Hardware, Lowe’s, Walmart, Wayfair, QVC and other hardware stores nationwide online at Amazon.com, Charbroil.com, Ace Hardware.com, Lowes.com, Walmart.com, Wayfair.com, QVC.com and other online retailers from October 2025 through June 2026 for between $150 and $250.",
+      "retailers": [
+        "Amazon",
+        "Walmart"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Char-Broil-Recalls-Bistro-Pro-Electric-Grills-Due-to-Risk-of-Electric-Shock",
+      "products": [
+        {
+          "name": "Charbroil Bistro Pro Electric Grills",
+          "codes": "",
+          "recallNumber": "26773"
         }
       ]
     },
@@ -345,7 +470,7 @@
       "brand": "Melissa & Doug, of Wilton, Connecticut",
       "description": "The “Lights and Sound Fire Truck” is a compact fire engine toy with wheels that spin, that also features busy board activities that activate lights and sounds. The toy is made of red plastic, has four black wheels and has a white plastic rotating ladder. The toy has a black plastic connector that looks like a fire hose. The toy measures 10.5 inches high by 14.31 inches wide by 3.06 inches deep and weighs about 1.6 pounds. On the bottom of the toy, “Melissa & Doug” is embossed on the battery compartment box as are two date wheels showing the dates of manufacturer by year and month. Affected units will have one arrow pointing to the number 25 and the second arrow pointing to the number 4 or 5 or they will have one arrow pointing to the number 26 and the second arrow pointing to the number 3. Date codes OET 25100, OET 25150 or OET 26064 are printed on the product packaging of the recalled u",
       "reason": "",
-      "action": "Consumers should stop using the fire truck activity board immediately and register at www.melissaanddoug.com/recall for instructions on how to receive a free replacement fire truck activity board, register for a full refund of $30 in the form of a check or receive a $40 melissaanddoug.com store credit. Consumers will be asked to remove the batteries, write in permanent marker the word “RECALL” on the front of the product along with a unique code provided during the online registration process, and to cut the black hose off from the toy. Consumers will then be directed to upload a photograph of the destroyed product to the registration page. Once their registration has been successfully confirmed, consumers should dispose of the product in their ordinary household trash.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
       "date": "2026-09-17",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -361,13 +486,7 @@
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Melissa-and-Doug-Recalls-Fire-Truck-Activity-Board-Toys-Due-to-Risk-of-Serious-Injury-from-Choking-Hazard-Sold-Exclusively-at-Target",
-      "products": [
-        {
-          "name": "Lights & Sounds Fire Truck Activity Board",
-          "codes": "",
-          "recallNumber": "26780"
-        }
-      ]
+      "products": []
     },
     {
       "id": "cpsc-10982",
@@ -407,7 +526,7 @@
       "brand": "SHEIN Distribution Corporation, of Los Angeles, California",
       "description": "This recall involves Pull & Chew Montessori Teething Toys. The silicone teething toys are green, pink, yellow or blue and have four strings in various colors. The recalled toys are packaged in a clear and white plastic pouch with “BABY PRODUCTS” and “Crafted in Gentle Care” printed on the front. The product SKU (sa25092843915310553, sa2404237092800828, or sa251115653050553503) is printed on the front of the packaging. The manufacturer’s name and address, product date, and batch code are printed on the front and back of the packaging.",
       "reason": "",
-      "action": "Consumers should stop using the recalled teething toys immediately, take them away from children, and contact SHEIN for a refund. Consumers will be asked to cut the teething toy’s silicone strings and send a photo of the destroyed toy to productrecall@shein.com. Consumers should then dispose of the destroyed product.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
       "date": "2026-09-17",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -421,13 +540,7 @@
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Pull-and-Chew-Montessori-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Mandatory-Standard-for-Toys",
-      "products": [
-        {
-          "name": "Pull & Chew Montessori Teething Toys",
-          "codes": "",
-          "recallNumber": "26782"
-        }
-      ]
+      "products": []
     },
     {
       "id": "cpsc-10981",
@@ -437,7 +550,7 @@
       "brand": "",
       "description": "This recall involves Basecamp-branded bicycle helmets, model HT-10. The helmets were sold in green and black and in size medium/large (M/L), fitting a head circumference of about 22.44 to 24.41 inches. The helmets have red padding, black and red straps, a black and red buckle and a black and red fit-adjusting knob at the back. “Basecamp” is printed on the sides of the helmet and “HT-10” on a label inside of the helmet.",
       "reason": "",
-      "action": "Consumers should stop using the helmets immediately and contact Tongyang Cycling for a full refund. Consumers will be asked to destroy the recalled helmet by cutting the straps and send a photo of the destroyed helmet to tongyangshangwuus@hotmail.com. Consumers should then dispose of the recalled product. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
       "date": "2026-09-17",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -453,13 +566,7 @@
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Tongyang-Cycling-Recalls-Basecamp-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
-      "products": [
-        {
-          "name": "Basecamp Bike Helmets",
-          "codes": "",
-          "recallNumber": "26785"
-        }
-      ]
+      "products": []
     },
     {
       "id": "cpsc-10964",
@@ -469,7 +576,7 @@
       "brand": "",
       "description": "This recall involves California Cade Electronic Finger Lights, which contain three button cells batteries. The finger lights come in 50 pieces in a box in white, blue, red and green. The finger lights have \"California Cade Electronic\" and \"Finger Flashlights\" printed on labels located on the front of the package.",
       "reason": "The recalled finger lights violate the mandatory safety standard for toys because the toys contain button cell batteries that can be easily accessed by children. If button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, including internal chemical burns, and death.",
-      "action": "Stop using the affected product and follow the official repair, replacement, or refund instructions.",
+      "action": "Consumers should stop using the recalled toys immediately, take them away from children and contact Cade California Electronic for a full refund. Consumers will be asked to properly dispose of the finger lights into the trash and send a photo of the disposed product to ccecamazonservice@gmail.com. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
       "date": "2026-09-10",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -483,7 +590,13 @@
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Cade-California-Electronic-Recalls-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
-      "products": []
+      "products": [
+        {
+          "name": "Cade California Electronic Projecting Finger Light Toys",
+          "codes": "",
+          "recallNumber": "26761"
+        }
+      ]
     },
     {
       "id": "cpsc-10968",
@@ -493,7 +606,7 @@
       "brand": "Xianyouxianlichengshaungqiaotouqichemeirongdian (Xianyou County Licheng Shuangqiaotou Auto Beauty Shop), dba SQT LLC, of China",
       "description": "This recall involves freestanding AGA Elise and Mercury Series Dual Fuel Ranges, in 36- and 48-inch widths and freestanding La Cornue CornuFé Series Dual Fuel Ranges in 36- and 43-inch widths manufactured between March 19, 2025 and July 24, 2026. All units have gas surface burners, set for Natural or LP gas, with one to three electric ovens depending on size. The products are sold in stainless steel, white and 13 other colors, which can be found at www.agarangeusa.com and www.lacornueusa.com. All colors, trim options and gas types (Natural or LP) are included. The serial number is on the rating plate, which is located on the bottom panel of the unit under the storage drawer.",
       "reason": "Dual Fuel Ranges with a missing cap from the gas test port can cause a gas leak,​ posing a risk of serious injury or death from fire or explosion hazards.",
-      "action": "Consumers should stop using the busy boards immediately and contact SQT for a full refund. Consumers will be asked to destroy the toys by unscrewing its components, write in permanent marker “RECALLED” on the board, and send a photo of the destroyed toy to Lontcs@163.com. Consumers should then dispose of the destroyed product.",
+      "action": "Consumers should shut off the gas supply to avoid the risk of gas leak immediately and contact AGA Rangemaster. Consumers should promptly determine if their range is subject to recall by locating the model/serial number on the rating plate (on the bottom panel under the storage drawer) and visiting the Recall webpage at www.lacornueusa.com/testcap-recall or www.agarangeusa.com/testcap-recall. If subject to the recall, consumers should contact AGA Rangemaster for a free inspection and repair by a certified technician. Consumers can continue to use only the electric oven sections of the range. The gas surface burners cannot be used.",
       "date": "2026-09-10",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -511,7 +624,7 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Dual-Fuel-Ranges-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-or-Explosion-Hazards-Manufactured-by-AGA-Rangemaster",
       "products": [
         {
-          "name": "Lontcs Busy Board",
+          "name": "AGA Elise and Mercury Series Freestanding Dual Fuel Ranges and La Cornue CornuFé 90 and CornuFé 110 Series Freestanding Dual Fuel Ranges",
           "codes": "",
           "recallNumber": "26756"
         }
@@ -525,7 +638,7 @@
       "brand": "ZMC Group Inc., of Los Angeles, California",
       "description": "This recall involves the FJTJBSI-branded wood dressers. The black or white dressers measure about 15.1 inches long, 27.6 inches wide and 42.2 inches high, and weigh 68 pounds. The dressers have six drawers with silver or black handles. \"LBS-XD-4-2-BLK-023\" or \"LBS-XD-4-2-WIT-024\" is printed on a label on the product packaging.",
       "reason": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
-      "action": "Consumers should stop using the toys immediately, take them away from children and contact ZMC Group for a full refund. Consumers will be asked to remove the batteries, write “RECALLED” or a large “X” on the product with a permanent marker and submit a photo of the disposed product to recallzmctoy@gmail.com. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+      "action": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact FJTJBSI for a full refund. Consumers will be asked to write in permanent marker “RECALLED” on the dresser and send a photo of the marked dresser to FJTJBSIrecall@outlook.com. Consumers should then dispose of the recalled product.",
       "date": "2026-09-10",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -541,7 +654,7 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/FJTJBSI-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
       "products": [
         {
-          "name": "Light-Up Children’s Toys",
+          "name": "FJTJBSI Six-drawer Dressers",
           "codes": "",
           "recallNumber": "26764"
         }
@@ -555,7 +668,7 @@
       "brand": "",
       "description": "This recall involves Wantefully 2 in 1 Hair Dryer & Styler, One Step Hair Dryer Brush Straightner, and the Negative Ion Electric Hot Air Blow Dryer Comb, model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a striped pink design and brush bristles. There are three heat settings on the hair dryers. XRUI and the model name XR-8801 are printed on the top of the product packaging.",
       "reason": "The recalled hair dryer brushes are in violation of federal regulations for hair dryers as they lack an integrated immersion protection device, which presents a substantial product hazard to consumers and the risk of death or serious injury from electrocution or shock if the hair dryers fall into water while plugged in. In addition, the recalled hair dryer brushes can overheat, posing a burn hazard.",
-      "action": "Consumers should stop using the recalled toys immediately, take them away from children and contact Cade California Electronic for a full refund. Consumers will be asked to properly dispose of the finger lights into the trash and send a photo of the disposed product to ccecamazonservice@gmail.com. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+      "action": "Consumers should unplug and stop using the recalled hair dryers immediately and contact Guang Zhou to receive a full refund. Consumers will be asked to cut the power cord and provide a photo of the destroyed product to wantefully@163.com.",
       "date": "2026-09-10",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -573,7 +686,7 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Guang-Zhou-Recalls-Wantefully-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Shock-and-Burn-Hazards-Violate-Federal-Regulations",
       "products": [
         {
-          "name": "Cade California Electronic Projecting Finger Light Toys",
+          "name": "Wantefully Hair Dryer Brushes",
           "codes": "",
           "recallNumber": "26754"
         }
@@ -587,7 +700,7 @@
       "brand": "AGA Rangemaster Limited, of United Kingdom",
       "description": "This recall involves DHASUWT Hair Dryer and Blow Dryer Brush in 1, Negative Ion Hair Dryer Brush, 1Step Ionic Hair Straightener Brush Hair Dryer Hot Air Brush, Hair Styling Tool Straightening Dryer, with model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a pink design and brush bristles. There are three heat settings on the hair dryers. The top of the product packaging is labeled XRUI with the model name XR-8801.",
       "reason": "The recalled hair dryer brushes lack an integrated immersion protection device, which presents a substantial product hazard to consumers, posing the risk of death or serious injury from electrocution or shock if the hair dryers fall into water while plugged in to an electrical source. The recalled hair dryer brushes also pose the risk of death or serious injury from smoking and fire hazards.",
-      "action": "Repair",
+      "action": "Consumers should unplug and stop using the recalled hair dryers immediately and contact Junkins to receive a full refund. Consumers will be asked to cut the power cord and provide a photo of the destroyed product to DHASUWT_recall@163.com.",
       "date": "2026-09-10",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -603,7 +716,7 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Junkins-Recalls-DHASUWT-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-and-Shock-Hazards-Violate-Federal-Regulations-Smoking-and-Fire-Hazards",
       "products": [
         {
-          "name": "AGA Elise and Mercury Series Freestanding Dual Fuel Ranges and La Cornue CornuFé 90 and CornuFé 110 Series Freestanding Dual Fuel Ranges",
+          "name": "DHASUWT Hair Dryer and Blow Dryer Brushes",
           "codes": "",
           "recallNumber": "26750"
         }
@@ -617,7 +730,7 @@
       "brand": "",
       "description": "This recall involves the Hero Fire Spray Fire Canisters. The canisters are either red and blue or red and have the company's logo on them with the name HERO Fire Spray on the front panel of the spray. Each canister contains 20 fluid ounces. The circular canisters are about 2.6 inches in diameter and 11.4 inches tall and weigh about 1.8 pounds. There is a black plastic release tab on the top of the canister. The affected batch is clearly marked on the base of the canister with the numbers \"09/2024\" as the date code.",
       "reason": "The recalled fire spray canister can deteriorate overtime, causing it to rupture and fail to operate during a fire, posing the risk of serious injury or death from fire and burn hazards.",
-      "action": "Stop using the affected product and follow the official repair, replacement, or refund instructions.",
+      "action": "Consumers should stop using the fire spray canisters immediately and visit www.preparedhero.com/pages/recall for instructions on how to receive a free replacement unit and how to properly dispose of the recalled fire spray canister according to local and state regulations. Consumers will be asked to place their fire spray canister in a box, label the box “RECALLED”, and bring it to a municipal household hazardous waste (HHW) collection center to receive a free replacement. Note: Do not throw the recalled fire spray canister in the trash or the general recycling stream (e.g., street-level or curbside recycling bins). Recalled fire spray canisters must be disposed of differently than other products, because they are pressurized. Your municipal household hazardous waste (HHW) collection center may accept this recalled fire spray canister for disposal. Before taking your fire spray canister to a HHW collection center, contact that office ahead of time and ask whether it accepts pressurized canisters. If it does not, contact your municipality for further guidance.",
       "date": "2026-09-10",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -631,7 +744,13 @@
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Prepared-Hero-Recalls-Fire-Spray-Canisters-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
-      "products": []
+      "products": [
+        {
+          "name": "Hero Fire Spray Canisters",
+          "codes": "",
+          "recallNumber": "26755"
+        }
+      ]
     },
     {
       "id": "cpsc-10962",
@@ -641,7 +760,7 @@
       "brand": "",
       "description": "This recall involves Ricky Joy-branded Sour Crush Rolling Liquid Candy bottles. The bottles contain 1.85 fluid ounce of sour liquid candy intended to be applied through the bottle's rollerball top. The plastic candy bottles were sold individually and in packs of three or 12 bottles per pack, and in the following colors/flavors: blue (blue raspberry), red (strawberry), green (green apple) and pink (watermelon). The Ricky Joy logo, \"EXTREME SOUR\", \"SOUR CRUSH\" and the flavor name are printed on the front of the bottle, along with the image of a green monster.",
       "reason": "The rolling ball on the recalled candy bottles can detach, posing a risk of serious injury or death from choking hazard.",
-      "action": "Stop using the affected product and follow the official repair, replacement, or refund instructions.",
+      "action": "Consumers should stop using the candy bottles immediately, take them away from children and contact The Ricky Joy Company for a refund. Consumers will be provided with a pre-paid shipping label to return the recalled product.",
       "date": "2026-09-10",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -655,7 +774,13 @@
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Ricky-Joy-Recalls-More-Than-2-3-Million-Sour-Crush-Candy-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
-      "products": []
+      "products": [
+        {
+          "name": "Ricky Joy Sour Crush Rolling Liquid Candy Bottles",
+          "codes": "",
+          "recallNumber": "26748"
+        }
+      ]
     },
     {
       "id": "cpsc-10972",
@@ -665,7 +790,7 @@
       "brand": "Dongguan Hongtu Sports Goods Co. Ltd., of China",
       "description": "This recall involves all Sweet Cubby children's loungewear sets. The recalled two-piece loungewear sets consist of a short-sleeved shirt and matching shorts. The sets were sold in various colors and in children's sizes 5-6Y through 13-14Y. \"Batch No.: 272779\" and the size are printed on the sewn-in neck label and on the seam label.",
       "reason": "The recalled children’s loungewear sets violate the mandatory flammability standard for children’s sleepwear, posing a risk of serious burn injuries or death.",
-      "action": "Refund",
+      "action": "Consumers should stop using the recalled loungewear sets immediately, take them away from children and contact Sweet Cubby for a full refund. Consumers will be asked to destroy the loungewear sets by cutting them in half and send a photo of the destroyed loungewear sets to SweetCubby@163.com. Consumers should then dispose of the destroyed product.",
       "date": "2026-09-10",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -683,7 +808,7 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Sweet-Cubby-Recalls-Childrens-Loungewear-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standard-for-Childrens-Sleepwear",
       "products": [
         {
-          "name": "Victgoal Children’s Bike Helmets",
+          "name": "Sweet Cubby Children’s Loungewear Sets",
           "codes": "",
           "recallNumber": "26752"
         }
@@ -697,7 +822,7 @@
       "brand": "Prepared Hero, of Sheridan, Wyoming",
       "description": "This recall involves 2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles. The motorcycles have a Jet Black/Pure White color scheme. Affected models are TF450-C, TF450-E, TF450-X and TF450RC Edition. The range of affected Vehicle Identification Numbers (VIN) is XXXXXXXXXXXCD4981 to and including XXXXXXXXXXXCP1597. The VIN is located on the vehicle identification plate on the left side of the steering head. Consumers can check if their VIN is included in this recall at https://www.triumphmotorcycles.com/owners/recalls.",
       "reason": "The engine rocker arm on the recalled motorcycles can seize or stick and the exhaust valves can remain open or break, posing a risk of serious injury or death from a crash hazard.",
-      "action": "Consumers should stop using the fire spray canisters immediately and visit www.preparedhero.com/pages/recall for instructions on how to receive a free replacement unit and how to properly dispose of the recalled fire spray canister according to local and state regulations. Consumers will be asked to place their fire spray canister in a box, label the box “RECALLED”, and bring it to a municipal household hazardous waste (HHW) collection center to receive a free replacement. Note: Do not throw the recalled fire spray canister in the trash or the general recycling stream (e.g., street-level or curbside recycling bins). Recalled fire spray canisters must be disposed of differently than other products, because they are pressurized. Your municipal household hazardous waste (HHW) collection center may accept this recalled fire spray canister for disposal. Before taking your fire spray canister to a HHW collection center, contact that office ahead of time and ask whether it accepts pressurized canisters. If it does not, contact your municipality for further guidance.",
+      "action": "Consumers should stop using 2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles immediately and contact Triumph Motorcycles for a free repair. Consumers can check if their VIN is included in this recall at https://www.triumphmotorcycles.com/owners/recalls. Consumers with recalled motorcycles should contact their local authorized Triumph Motorcycle dealer who will inspect the engine and replace the cylinder head free of charge.",
       "date": "2026-09-10",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -715,7 +840,7 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Triumph-Motorcycles-Recalls-Closed-Course-Competition-Motorcycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
       "products": [
         {
-          "name": "Hero Fire Spray Canisters",
+          "name": "2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles",
           "codes": "",
           "recallNumber": "26763"
         }
@@ -729,7 +854,7 @@
       "brand": "Triumph Motorcycles America Ltd., of Atlanta, Georgia",
       "description": "This recall involves Victgoal-branded bicycle helmets. The red helmets were sold in size small (S), fitting a head circumference of about 19.68 to 21.25 inches. The helmets have red padding, black straps with a silver reflective pattern in the center, a black and red buckle and a black fit-adjusting knob at the back. Only helmets manufactured in November 2025 are included in this recall. \"Model HT-006,\" \"Production: 2025/11\" and \"Ref/Lot# 2025A1101\" are printed on a label on the inside of the helmet. \"Victgoal\" is printed on the product packing bag.",
       "reason": "The recalled helmets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the retention system, positional stability and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury.",
-      "action": "Consumers should stop using 2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles immediately and contact Triumph Motorcycles for a free repair. Consumers can check if their VIN is included in this recall at https://www.triumphmotorcycles.com/owners/recalls. Consumers with recalled motorcycles should contact their local authorized Triumph Motorcycle dealer who will inspect the engine and replace the cylinder head free of charge.",
+      "action": "Consumers should stop using the recalled helmets immediately and contact Victgoal for a full refund. Consumers will be asked to destroy the helmets by cutting the straps and then sending a photo of the destroyed product, showing the helmet’s production date to walmart@victgoal.com. Consumers should then dispose of the recalled product.",
       "date": "2026-09-10",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -745,7 +870,7 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Victgoal-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
       "products": [
         {
-          "name": "2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles",
+          "name": "Victgoal Children’s Bike Helmets",
           "codes": "",
           "recallNumber": "26749"
         }
@@ -759,7 +884,7 @@
       "brand": "",
       "description": "This recall expansion involves ZMC Group battery-operated light-up toys including a Mexican flag theme foam stick, a Unicorn headband, assorted colors and transparent jelly rings and heart shaped balloon flowers. Product Name Item # 19.4\" Mexican Flag Theme Light Up Stick SS041-M Light-Up Unicorn Headband G02-UN Light-Up Assorted Colors Jelly Rings PS270 Light-Up Transparent Jelly Rings PS271 Light-Up Heart Balloon Flower 777-1 Packaging for the products has a label with the item number, identification of the distributor, place of manufacture, production date and batch number.",
       "reason": "The recalled light-up toys violate the mandatory safety standard for children’s toys because the toys contain button cell batteries that can be easily accessed by children. If button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, including internal chemical burns, and death.",
-      "action": "Consumers should unplug and stop using the recalled hair dryers immediately and contact Guang Zhou to receive a full refund. Consumers will be asked to cut the power cord and provide a photo of the destroyed product to wantefully@163.com.",
+      "action": "Consumers should stop using the toys immediately, take them away from children and contact ZMC Group for a full refund. Consumers will be asked to remove the batteries, write “RECALLED” or a large “X” on the product with a permanent marker and submit a photo of the disposed product to recallzmctoy@gmail.com. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
       "date": "2026-09-10",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -777,7 +902,7 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/ZMC-Group-Expands-Recall-of-Light-Up-Childrens-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
       "products": [
         {
-          "name": "Wantefully Hair Dryer Brushes",
+          "name": "Light-Up Children’s Toys",
           "codes": "",
           "recallNumber": "26766"
         }
@@ -791,7 +916,7 @@
       "brand": "International Trade Imports LLC (The Ricky Joy Company), dba Ricky Joy, of Cumming, Georgia",
       "description": "This recall involves the Lontcs Busy Board toys. The toys consist of a wood board and metal handle with multiple attached components including a black plastic buckle with cream colored straps; a brown zipper; a metal latch; a caster wheel; a white doorbell; a lock with keys; a music box with crank; a zig zag duck puzzle; an abacus with three rows of white; red and tan beads; and a white fidget spinner.",
       "reason": "The toys’ zipper contains levels of lead that exceed the standard set in the federal lead paint ban. Lead is toxic if ingested by young children and can cause adverse health issues.",
-      "action": "Consumers should stop using the candy bottles immediately, take them away from children and contact The Ricky Joy Company for a refund. Consumers will be provided with a pre-paid shipping label to return the recalled product.",
+      "action": "Consumers should stop using the busy boards immediately and contact SQT for a full refund. Consumers will be asked to destroy the toys by unscrewing its components, write in permanent marker “RECALLED” on the board, and send a photo of the destroyed toy to Lontcs@163.com. Consumers should then dispose of the destroyed product.",
       "date": "2026-09-10",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -810,7 +935,7 @@
       "sourceUrl": "https://www.cpsc.gov/Recalls/2026/SQT-Recalls-Lontcs-Busy-Boards-Due-to-Risk-of-Serious-Injury-from-Lead-Poisoning-Violate-Federal-Lead-Paint-Ban",
       "products": [
         {
-          "name": "Ricky Joy Sour Crush Rolling Liquid Candy Bottles",
+          "name": "Lontcs Busy Board",
           "codes": "",
           "recallNumber": "26753"
         }
@@ -2194,10 +2319,14 @@
       "classification": "High - Class I",
       "severity": 4,
       "states": [
+        "CT",
+        "IL",
+        "MA",
         "NJ",
+        "NY",
         "UT"
       ],
-      "distribution": "['New Jersey', 'Utah']",
+      "distribution": "['New Jersey', 'Utah', 'Massachusetts', 'New York', 'Connecticut', 'Illinois']",
       "retailers": [],
       "allergens": [],
       "codes": "",
@@ -24634,7 +24763,7 @@
       "month": "2026-09",
       "food": 24,
       "pet_food": 0,
-      "products": 86
+      "products": 90
     }
   ]
 }
