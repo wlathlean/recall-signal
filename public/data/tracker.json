@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T23:59:23.967632Z",
+  "generatedAt": "2026-09-18T16:58:46.946347Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -35,7 +35,7 @@
     {
       "name": "CPSC",
       "ok": true,
-      "records": 940,
+      "records": 937,
       "url": "https://www.cpsc.gov/Recalls"
     },
     {
@@ -57,7 +57,7 @@
       "section": "products",
       "category": "Baby & child",
       "title": "Colerinsec Recalls Jerify Magnetic Stick Figure Toy Sets Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys",
-      "brand": "",
+      "brand": "Hefei Hanchan Network Technology Co., Ltd., dba Colerinsec, of China",
       "description": "This recall involves Jerify Magnetic Humanoid Toys 30 PCS. The 30-piece magnetic toys come in three units of brown, white, green, peach, yellow, pink, blue, orange, purple, and red figures in the shape of a human. Each figure measures about 2.7 inches tall by 2.5 inches wide. The magnetic toys contain magnets in the hand and foot locations. There is no labeling on the product. The magnetic toys come in an unlabeled clear bag enclosed in a brown box with the brand name “Jerify” and number “X003ADA3TD” located on the sticker.",
       "reason": "The magnetic humanoid toy Sets violate the mandatory standard for toys because they can liberate loose high-powered magnets posing an ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other or other metal objects and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
       "action": "Consumers should take the magnetic humanoid toys away from children immediately, stop using them and contact Colerinsec for a full refund. Consumers will be asked to throw away the magnetic toys and submit a photo of the disposed toys to coushdwugintwer@163.com.",
@@ -68,14 +68,14 @@
       "states": [
         "US"
       ],
-      "distribution": "Sold At: Amazon.com from October 2024 through June 2026 for about $27 Shenzhen Weihua Chenyu Technology Co., Ltd, dba Junkins, of China",
+      "distribution": "Sold Online At: Amazon.com from October 2022 through May 2026 for about $21.",
       "retailers": [
         "Amazon"
       ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Colerinsec-Recalls-Jerify-Magnetic-Stick-Figure-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Colerinsec-Recalls-Jerify-Magnetic-Stick-Figure-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys",
       "products": [
         {
           "name": "Jerify Magnetic Humanoid Toy Sets 30 PCS",
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "id": "cpsc-10988",
+      "id": "cpsc-10985",
       "section": "products",
       "category": "Appliances & electronics",
       "title": "Friedrich Air Conditioning Recalls KÜHL Window Air Conditioners Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
@@ -105,7 +105,7 @@
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Friedrich-Air-Conditioning-Recalls-K%C3%9CHL-Window-Air-Conditioners-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Friedrich-Air-Conditioning-Recalls-K%C3%9CHL-Window-Air-Conditioners-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
       "products": [
         {
           "name": "Kühl® Q and Kühl® S Window Air Conditioners",
@@ -115,12 +115,12 @@
       ]
     },
     {
-      "id": "cpsc-10990",
+      "id": "cpsc-10987",
       "section": "products",
       "category": "Sports & outdoors",
       "title": "Hayward Industries Recalls Universal Pool Heaters Due to Risk of Serious Injury or Death from Carbon Monoxide Poisoning Hazard",
       "brand": "Hayward Industries, Inc., of Charlotte, North Carolina",
-      "description": "This recall involves Hayward-branded HDFS400 Universal-HC Series pool heaters. The 400,000 BTU dual-fuel gas heaters are brown with black atop and measure 21 inches long, 28 inches wide and 31 inches high. The pool heaters have a digital display control panel at the top and a molded base with integrated tie-down connections. The heater’s name plate is below the vent with the word “Hayward” appearing at the bottom of the name plate and the model number “HDFS400” appears at the top of the name plate.",
+      "description": "This recall involves Hayward-branded HDFS400 Universal-HC Series pool heaters. The 400,000 BTU dual-fuel gas heaters are brown with black atop and measure 21 inches long, 28 inches wide and 31 inches high. The pool heaters have a digital display control panel at the top and a molded base with integrated tie-down connections. The heater's name plate is below the vent with the word \"Hayward\" appearing at the bottom of the name plate and the model number \"HDFS400\" appears at the top of the name plate.",
       "reason": "During operation the heaters can produce high levels of carbon monoxide (CO), posing a risk of serious injury or death from carbon monoxide poisoning.",
       "action": "Consumers should stop using the pool heater immediately and contact Hayward Industries to schedule a free in-home inspection and repair by a qualified technician.",
       "date": "2026-09-17",
@@ -135,7 +135,7 @@
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard-0",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard-0",
       "products": [
         {
           "name": "400,000 BTU Universal-HC Series Pool Heaters",
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "id": "cpsc-10986",
+      "id": "cpsc-10983",
       "section": "products",
       "category": "Other consumer products",
       "title": "LANCHEZ Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards",
@@ -168,7 +168,7 @@
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/LANCHEZ-Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/LANCHEZ-Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards",
       "products": [
         {
           "name": "LANCHEZ Pressure Washers",
@@ -178,12 +178,12 @@
       ]
     },
     {
-      "id": "cpsc-10984",
+      "id": "cpsc-10981",
       "section": "products",
       "category": "Furniture & home",
       "title": "Regfear Recalls BedsPick Mattresses Due to Risk of Serious Injury or Death from Fire; Violate Mandatory Flammability Standard for Mattresses",
       "brand": "",
-      "description": "This recall involves two styles of BedsPick branded Mattresses. The mattresses are 12 inches thick and sold in queen size. They have a white top and purple sides or a white top and gray sides and were sold compressed in a box. Prototype ID “AMGSW066” or “AMGSW067” and model numbers “SME004” or “AMG005197_12_Q_GLT” are printed on a sewn-in white label located on one side of the mattress.",
+      "description": "This recall involves two styles of BedsPick branded Mattresses. The mattresses are 12 inches thick and sold in queen size. They have a white top and purple sides or a white top and gray sides and were sold compressed in a box. Prototype ID \"AMGSW066\" or \"AMGSW067\" and model numbers \"SME004\" or \"AMG005197_12_Q_GLT\" are printed on a sewn-in white label located on one side of the mattress.",
       "reason": "The mattresses violate the mandatory flammability standard for mattresses, posing a risk of serious injury or death from fire.",
       "action": "Consumers should stop using the recalled mattresses immediately and contact Regfear for a full refund. Consumers will be asked to destroy the mattress, write in permanent marker “Recalled,” on the mattress’ top surface and email a photo of the destroyed mattress to BedsPickRecall@outlook.com. Consumers should then dispose of the recalled product. The refund will be issued after Regfear receives photos and written confirmation of disposal.",
       "date": "2026-09-17",
@@ -200,7 +200,7 @@
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Regfear-Recalls-BedsPick-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Violate-Mandatory-Flammability-Standard-for-Mattresses",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Regfear-Recalls-BedsPick-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Violate-Mandatory-Flammability-Standard-for-Mattresses",
       "products": [
         {
           "name": "BedsPick Mattresses",
@@ -214,8 +214,8 @@
       "section": "products",
       "category": "Sports & outdoors",
       "title": "Tongyang Cycling Recalls Basecamp Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
-      "brand": "Jiande Pengshuai Trading Co., Ltd, of China",
-      "description": "This recall involves Basecamp-branded bicycle helmets, model HT-10. The helmets were sold in green and black and in size medium/large (M/L), fitting a head circumference of about 22.44 to 24.41 inches. The helmets have red padding, black and red straps, a black and red buckle and a black and red fit-adjusting knob at the back. “Basecamp” is printed on the sides of the helmet and “HT-10” on a label inside of the helmet.",
+      "brand": "",
+      "description": "This recall involves Basecamp-branded bicycle helmets, model HT-10. The helmets were sold in green and black and in size medium/large (M/L), fitting a head circumference of about 22.44 to 24.41 inches. The helmets have red padding, black and red straps, a black and red buckle and a black and red fit-adjusting knob at the back. \"Basecamp\" is printed on the sides of the helmet and “\"HT-10\" on a label inside of the helmet.",
       "reason": "The recalled helmets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the impact attenuation, positional stability and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury. In addition, the helmets have a button cell battery that does not bear the warning labels required by Reese’s Law. If button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, including internal chemical burns, and death.",
       "action": "Consumers should stop using the helmets immediately and contact Tongyang Cycling for a full refund. Consumers will be asked to destroy the recalled helmet by cutting the straps and send a photo of the destroyed helmet to tongyangshangwuus@hotmail.com. Consumers should then dispose of the recalled product. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
       "date": "2026-09-17",
@@ -225,14 +225,14 @@
       "states": [
         "US"
       ],
-      "distribution": "Sold Online At: Amazon.com from September 2022 through July 2026 as both a one-pack or a two-pack.",
+      "distribution": "Sold Online At: Amazon.com from July 2024 through July 2026 for about $34. HK Tongyang Technology Co., Ltd., dba Tongyang Cycling, of China",
       "retailers": [
         "Amazon"
       ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Tongyang-Cycling-Recalls-Basecamp-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Tongyang-Cycling-Recalls-Basecamp-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
       "products": [
         {
           "name": "Basecamp Bike Helmets",
@@ -242,12 +242,12 @@
       ]
     },
     {
-      "id": "cpsc-10983",
+      "id": "cpsc-10980",
       "section": "products",
       "category": "Baby & child",
       "title": "Toyworld168 Recalls Rainbow Mystery Squishy Bun Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
       "brand": "Toyworld168 Inc., of Orlando, Florida",
-      "description": "This recall involves Rainbow Mystery Squishy Bun Toys. The squishy bun toys are a translucent green color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. “Rainbow MYSTERY” and “SUGAR EDITION” are printed on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
+      "description": "This recall involves Rainbow Mystery Squishy Bun Toys. The squishy bun toys are a translucent green color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. \"Rainbow MYSTERY\" and \"SUGAR EDITION\" are printed on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
       "reason": "The squishy bun toys violate the mandatory safety standard for toys because the water beads inside the dumplings expand larger than permitted, posing a deadly ingestion hazard. If a water bead is ingested, it can pose ingestion, choking and intestinal obstruction hazards inside a child’s body, resulting in severe discomfort, vomiting, dehydration and a risk of death to a child.",
       "action": "Consumers should stop using the squishy dumpling toys immediately and contact Toyworld168 for a full refund. Consumers will be asked to write “RECALLED” in permanent marker on the squeezy dumpling and its tan plastic container, throw the toy away and email a photo of the disposed toy to toyworld16850@gmail.com.",
       "date": "2026-09-17",
@@ -262,7 +262,7 @@
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Toyworld168-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Toyworld168-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys",
       "products": [
         {
           "name": "Rainbow Mystery Squishy Bun Toys",
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "id": "cpsc-10985",
+      "id": "cpsc-10982",
       "section": "products",
       "category": "Baby & child",
       "title": "Esjay US Recalls Toddler Busy Board Montessori Toys Due to Risk of Serious Injury or Death from Choking; Violates Small Parts Ban",
@@ -294,7 +294,7 @@
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Esjay-US-Recalls-Toddler-Busy-Board-Montessori-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violates-Small-Parts-Ban",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Esjay-US-Recalls-Toddler-Busy-Board-Montessori-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violates-Small-Parts-Ban",
       "products": [
         {
           "name": "Esjay Toddler Busy Board Montessori Toys",
@@ -308,7 +308,7 @@
       "section": "products",
       "category": "Pet products",
       "title": "JKMAX Recalls Heated Blankets and Heating Pads Due to Fire and Burn Hazards",
-      "brand": "",
+      "brand": "Jiande Pengshuai Trading Co., Ltd, of China",
       "description": "This recall involves all heating pads and heated blankets sold by JKMax including models JKMAX-002, JKMAX-7284B, JKMAX-6284B, JKMAX-10090B, JKMAX-8490B and JKMAX-6284B. The heated blankets and heating pads are blue, gray, brown or red. They are made of polyester fabric and are machine washable. The blankets and pads were sold in multiple sizes, and both have a detachable white remote that can be used to adjust the heat. The model number is located on the back of the remote and is also printed on a white label affixed to the product packaging along with the brand name “JKMAX”.",
       "reason": "The internal wire heating elements of the blankets and pads can overheat, posing fire and burn hazards to consumers.",
       "action": "Consumers should stop using the recalled blankets and pads immediately and contact JKMax for a full refund.",
@@ -319,12 +319,14 @@
       "states": [
         "US"
       ],
-      "distribution": "Sold Online At: SHEIN.com from June 2025 through May 2026 for between $8 and $12. Hong Kong Xuheyuan Trading Co., Ltd, dba Sweet Cubby, of China",
-      "retailers": [],
+      "distribution": "Sold Online At: Amazon.com from September 2022 through July 2026 as both a one-pack or a two-pack.",
+      "retailers": [
+        "Amazon"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/JKMAX-Recalls-Heated-Blankets-and-Heating-Pads-Due-to-Fire-and-Burn-Hazards",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/JKMAX-Recalls-Heated-Blankets-and-Heating-Pads-Due-to-Fire-and-Burn-Hazards",
       "products": [
         {
           "name": "JKMAX Heated Blankets and Heating Pads",
@@ -338,8 +340,8 @@
       "section": "products",
       "category": "Baby & child",
       "title": "Melissa & Doug Recalls Fire Truck Activity Board Toys Due to Risk of Serious Injury from Choking Hazard; Sold Exclusively at Target",
-      "brand": "",
-      "description": "The “Lights and Sound Fire Truck” is a compact fire engine toy with wheels that spin, that also features busy board activities that activate lights and sounds. The toy is made of red plastic, has four black wheels and has a white plastic rotating ladder. The toy has a black plastic connector that looks like a fire hose. The toy measures 10.5 inches high by 14.31 inches wide by 3.06 inches deep and weighs about 1.6 pounds. On the bottom of the toy, “Melissa & Doug” is embossed on the battery compartment box as are two date wheels showing the dates of manufacturer by year and month. Affected units will have one arrow pointing to the number 25 and the second arrow pointing to the number 4 or 5 or they will have one arrow pointing to the number 26 and the second arrow pointing to the number 3. Date codes OET 25100, OET 25150 or OET 26064 are printed on the product packaging of the recalled u",
+      "brand": "Melissa & Doug, of Wilton, Connecticut",
+      "description": "The \"Lights and Sound Fire Truck\" is a compact fire engine toy with wheels that spin, that also features busy board activities that activate lights and sounds. The toy is made of red plastic, has four black wheels and has a white plastic rotating ladder. The toy has a black plastic connector that looks like a fire hose. The toy measures 10.5 inches high by 14.31 inches wide by 3.06 inches deep and weighs about 1.6 pounds. On the bottom of the toy, \"Melissa & Doug\" is embossed on the battery compartment box as are two date wheels showing the dates of manufacturer by year and month. Affected units will have one arrow pointing to the number 25 and the second arrow pointing to the number 4 or 5 or they will have one arrow pointing to the number 26 and the second arrow pointing to the number 3. Date codes OET 25100, OET 25150 or OET 26064 are printed on the product packaging of the recalled u",
       "reason": "The fire hose port can come loose and detach, posing a risk of serious injury from choking hazard.",
       "action": "Consumers should stop using the fire truck activity board immediately and register at www.melissaanddoug.com/recall for instructions on how to receive a free replacement fire truck activity board, register for a full refund of $30 in the form of a check or receive a $40 melissaanddoug.com store credit. Consumers will be asked to remove the batteries, write in permanent marker the word “RECALL” on the front of the product along with a unique code provided during the online registration process, and to cut the black hose off from the toy. Consumers will then be directed to upload a photograph of the destroyed product to the registration page. Once their registration has been successfully confirmed, consumers should dispose of the product in their ordinary household trash.",
       "date": "2026-09-17",
@@ -349,14 +351,14 @@
       "states": [
         "US"
       ],
-      "distribution": "Sold Online At: Amazon.com from November 2024 through July 2026 for about $170. Fujian Laobosi Cross-Border E-commerce Co., Ltd., dba FJTJBSI, of China",
+      "distribution": "Sold At: Target stores nationwide and online at Target.com from July 2025 through August 2026 for about $30.",
       "retailers": [
-        "Amazon"
+        "Target"
       ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Melissa-and-Doug-Recalls-Fire-Truck-Activity-Board-Toys-Due-to-Risk-of-Serious-Injury-from-Choking-Hazard-Sold-Exclusively-at-Target",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Melissa-and-Doug-Recalls-Fire-Truck-Activity-Board-Toys-Due-to-Risk-of-Serious-Injury-from-Choking-Hazard-Sold-Exclusively-at-Target",
       "products": [
         {
           "name": "Lights & Sounds Fire Truck Activity Board",
@@ -366,12 +368,12 @@
       ]
     },
     {
-      "id": "cpsc-10987",
+      "id": "cpsc-10984",
       "section": "products",
       "category": "Sports & outdoors",
       "title": "Sauna360 Recalls Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
       "brand": "Sauna360 Inc., of Cokato, Minnesota",
-      "description": "This recall involves various infrared and hybrid sauna models and infrared (IR) kits. Customers who purchased custom rooms built with IR panels can check for the words “Saunalogic,” “Infralogic,” “Carbonflex,” or “Tylö” on their control panel or locate their product manual. Customers who purchased pre-configured infrared sauna rooms can identify their product by the brand badge on the front frame panel, the control panel, the manual or the logo handle. Consumers can also find the serial number located under the lower bench or on the wall under the upper bench depending on the unit and provide Sauna360 the serial number to determine if they have a recalled sauna. The IR sauna kits with panels, along with the following sauna model numbers, are included in this recall:",
+      "description": "This recall involves various infrared and hybrid sauna models and infrared (IR) kits. Customers who purchased custom rooms built with IR panels can check for the words \"Saunalogic,\" \"Infralogic,\" \"Carbonflex,\" or \"Tylö\" on their control panel or locate their product manual. Customers who purchased pre-configured infrared sauna rooms can identify their product by the brand badge on the front frame panel, the control panel, the manual or the logo handle. Consumers can also find the serial number located under the lower bench or on the wall under the upper bench depending on the unit and provide Sauna360 the serial number to determine if they have a recalled sauna. The IR sauna kits with panels, along with the following sauna model numbers, are included in this recall:",
       "reason": "The infrared panels in the saunas and kits can short circuit, causing them to overheat, posing a risk of serious injury from fire and burn hazards.",
       "action": "Consumers should stop using the infrared and hybrid saunas immediately and contact Sauna360 to schedule a free in-home repair from a professional installer.",
       "date": "2026-09-17",
@@ -388,7 +390,7 @@
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Sauna360-Recalls-Infrared-Saunas-Hybrid-Infrared-Saunas-and-Infrared-Kits-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Sauna360-Recalls-Infrared-Saunas-Hybrid-Infrared-Saunas-and-Infrared-Kits-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
       "products": [
         {
           "name": "Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits",
@@ -402,8 +404,8 @@
       "section": "products",
       "category": "Baby & child",
       "title": "SHEIN Distribution Corporation Recalls Pull and Chew Montessori Teething Toys Due to Risk of Serious Injury or Death from Choking Hazard; Violate Mandatory Standard for Toys",
-      "brand": "Hefei Hanchan Network Technology Co., Ltd., dba Colerinsec, of China",
-      "description": "This recall involves Pull & Chew Montessori Teething Toys. The silicone teething toys are green, pink, yellow or blue and have four strings in various colors. The recalled toys are packaged in a clear and white plastic pouch with “BABY PRODUCTS” and “Crafted in Gentle Care” printed on the front. The product SKU (sa25092843915310553, sa2404237092800828, or sa251115653050553503) is printed on the front of the packaging. The manufacturer’s name and address, product date, and batch code are printed on the front and back of the packaging.",
+      "brand": "SHEIN Distribution Corporation, of Los Angeles, California",
+      "description": "This recall involves Pull & Chew Montessori Teething Toys. The silicone teething toys are green, pink, yellow or blue and have four strings in various colors. The recalled toys are packaged in a clear and white plastic pouch with \"BABY PRODUCTS\" and \"Crafted in Gentle Care\" printed on the front. The product SKU (sa25092843915310553, sa2404237092800828, or sa251115653050553503) is printed on the front of the packaging. The manufacturer's name and address, product date, and batch code are printed on the front and back of the packaging.",
       "reason": "The recalled teething toys violate the mandatory safety standard for toys because the silicone strings are smaller and longer than permitted. The silicone strings can reach the back of the throat and become lodged, posing a risk of respiratory distress and a deadly choking hazard.",
       "action": "Consumers should stop using the recalled teething toys immediately, take them away from children, and contact SHEIN for a refund. Consumers will be asked to cut the teething toy’s silicone strings and send a photo of the destroyed toy to productrecall@shein.com. Consumers should then dispose of the destroyed product.",
       "date": "2026-09-17",
@@ -413,14 +415,12 @@
       "states": [
         "US"
       ],
-      "distribution": "Sold Online At: Amazon.com from October 2022 through May 2026 for about $21.",
-      "retailers": [
-        "Amazon"
-      ],
+      "distribution": "Sold Online At: SHEIN.com from December 2025 through April 2026 for about $10.",
+      "retailers": [],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Pull-and-Chew-Montessori-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Mandatory-Standard-for-Toys",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Pull-and-Chew-Montessori-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Mandatory-Standard-for-Toys",
       "products": [
         {
           "name": "Pull & Chew Montessori Teething Toys",
@@ -430,12 +430,12 @@
       ]
     },
     {
-      "id": "cpsc-10989",
+      "id": "cpsc-10986",
       "section": "products",
       "category": "Furniture & home",
       "title": "Char-Broil Recalls Bistro Pro Electric Grills Due to Risk of Electric Shock",
       "brand": "Char-Broil LLC, of Columbus, Georgia",
-      "description": "This recall involves the Charbroil Bistro Pro Electric Grills with model descriptions Bistro Pro Electric Grill & Griddle + Charcoal, Bistro Electric Grill + Charcoal and Bistro Pro Tabletop Electric Grill. The grills were sold in full-size and tabletop configurations in Black (black and gray), Red, Blackout (all black) and Emerald (green). The units have a “CB” logo plate on the front of the lid and “CHARBROIL” printed on the front control panel. The product label listing the model and serial number, including a four‑digit manufacturing date code in year and month (YYMM) format, is located on the bottom shelf of full-size grills and on the side bar of tabletop models. Only Bistro Pro Electric Grills with date codes of 2510 (Oct-2025), 2511 (Nov-2025) and 2512 (Dec-2025) are included in this recall.",
+      "description": "This recall involves the Charbroil Bistro Pro Electric Grills with model descriptions Bistro Pro Electric Grill & Griddle + Charcoal, Bistro Electric Grill + Charcoal and Bistro Pro Tabletop Electric Grill. The grills were sold in full-size and tabletop configurations in Black (black and gray), Red, Blackout (all black) and Emerald (green). The units have a \"CB\" logo plate on the front of the lid and \"CHARBROIL\" printed on the front control panel. The product label listing the model and serial number, including a four-digit manufacturing date code in year and month (YYMM) format, is located on the bottom shelf of full-size grills and on the side bar of tabletop models. Only Bistro Pro Electric Grills with date codes of 2510 (Oct-2025), 2511 (Nov-2025) and 2512 (Dec-2025) are included in this recall.",
       "reason": "The grounding wire for the grill’s heating element can disconnect and lose fault protection, posing an electric shock hazard.",
       "action": "Consumers should stop using the recalled electric grills immediately and contact Char-Broil for a free repair kit. Consumers will be asked to register at www.charbroil.com/BistroProFix to receive repair instructions, a screwdriver, a wrench, screws and a label to affix to the grill after repair. Char-Broil is offering a digital $25 gift card, valid at participating retailers, to consumers who provide photo documentation of the completed repair.",
       "date": "2026-09-17",
@@ -453,7 +453,7 @@
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Char-Broil-Recalls-Bistro-Pro-Electric-Grills-Due-to-Risk-of-Electric-Shock",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Char-Broil-Recalls-Bistro-Pro-Electric-Grills-Due-to-Risk-of-Electric-Shock",
       "products": [
         {
           "name": "Charbroil Bistro Pro Electric Grills",
@@ -465,36 +465,10 @@
     {
       "id": "cpsc-10979",
       "section": "products",
-      "category": "Baby & child",
-      "title": "Melissa & Doug Recalls Fire Truck Activity Board Toys Due to Risk of Serious Injury from Choking Hazard; Sold Exclusively at Target",
-      "brand": "Melissa & Doug, of Wilton, Connecticut",
-      "description": "The “Lights and Sound Fire Truck” is a compact fire engine toy with wheels that spin, that also features busy board activities that activate lights and sounds. The toy is made of red plastic, has four black wheels and has a white plastic rotating ladder. The toy has a black plastic connector that looks like a fire hose. The toy measures 10.5 inches high by 14.31 inches wide by 3.06 inches deep and weighs about 1.6 pounds. On the bottom of the toy, “Melissa & Doug” is embossed on the battery compartment box as are two date wheels showing the dates of manufacturer by year and month. Affected units will have one arrow pointing to the number 25 and the second arrow pointing to the number 4 or 5 or they will have one arrow pointing to the number 26 and the second arrow pointing to the number 3. Date codes OET 25100, OET 25150 or OET 26064 are printed on the product packaging of the recalled u",
-      "reason": "",
-      "action": "Stop using the affected product and follow the official recall instructions.",
-      "date": "2026-09-17",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 2,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold At: Target stores nationwide and online at Target.com from July 2025 through August 2026 for about $30.",
-      "retailers": [
-        "Target"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Melissa-and-Doug-Recalls-Fire-Truck-Activity-Board-Toys-Due-to-Risk-of-Serious-Injury-from-Choking-Hazard-Sold-Exclusively-at-Target",
-      "products": []
-    },
-    {
-      "id": "cpsc-10982",
-      "section": "products",
       "category": "Pet products",
       "title": "Sauna360 Expands Recall of Tylö Halmstad and Kiruna Hybrid Saunas Due to Fall Hazard; New Remedy Provided",
       "brand": "SFactor, of China",
-      "description": "This recall expansion involves bench seating in Sauna360’s Tylö branded Halmstad and Kiruna Hybrid sauna rooms. The serial number for each room can be found on both the packaging and the sauna rooms. The Halmstad 2, 3 and 4 sauna rooms have the serial number label located beneath the upper bench on the left side, directly above the electrical contactor box. The Kiruna Hybrid 2 and 3 rooms have the serial number label applied to the right wall, located beneath the right side of the upper bench. The model number is printed in the manual. The following models and serial numbers are included in this recall:",
+      "description": "This recall expansion involves bench seating in Sauna360's Tylö branded Halmstad and Kiruna Hybrid sauna rooms. The serial number for each room can be found on both the packaging and the sauna rooms. The Halmstad 2, 3 and 4 sauna rooms have the serial number label located beneath the upper bench on the left side, directly above the electrical contactor box. The Kiruna Hybrid 2 and 3 rooms have the serial number label applied to the right wall, located beneath the right side of the upper bench. The model number is printed in the manual. The following models and serial numbers are included in this recall:",
       "reason": "The saunas contain a bench that can collapse, posing a fall hazard to consumers. The previous recall repair was ineffective; a new repair is now being offered.",
       "action": "Consumers should stop using the saunas immediately, even if they received the 2025 recall remedy and contact Sauna360 for another free repair. Sauna360 will provide a professional installer to retrofit the benches with additional hardware and supports.",
       "date": "2026-09-17",
@@ -509,7 +483,7 @@
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Sauna360-Expands-Recall-of-Tylo-Halmstad-and-Kiruna-Hybrid-Saunas-Due-to-Fall-Hazard-New-Remedy-Provided",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Sauna360-Expands-Recall-of-Tylo-Halmstad-and-Kiruna-Hybrid-Saunas-Due-to-Fall-Hazard-New-Remedy-Provided",
       "products": [
         {
           "name": "Tylö Halmstad and Kiruna Hybrid Saunas",
@@ -517,56 +491,6 @@
           "recallNumber": "26783"
         }
       ]
-    },
-    {
-      "id": "cpsc-10980",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "SHEIN Distribution Corporation Recalls Pull and Chew Montessori Teething Toys Due to Risk of Serious Injury or Death from Choking Hazard; Violate Mandatory Standard for Toys",
-      "brand": "SHEIN Distribution Corporation, of Los Angeles, California",
-      "description": "This recall involves Pull & Chew Montessori Teething Toys. The silicone teething toys are green, pink, yellow or blue and have four strings in various colors. The recalled toys are packaged in a clear and white plastic pouch with “BABY PRODUCTS” and “Crafted in Gentle Care” printed on the front. The product SKU (sa25092843915310553, sa2404237092800828, or sa251115653050553503) is printed on the front of the packaging. The manufacturer’s name and address, product date, and batch code are printed on the front and back of the packaging.",
-      "reason": "",
-      "action": "Stop using the affected product and follow the official recall instructions.",
-      "date": "2026-09-17",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 2,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold Online At: SHEIN.com from December 2025 through April 2026 for about $10.",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Pull-and-Chew-Montessori-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Mandatory-Standard-for-Toys",
-      "products": []
-    },
-    {
-      "id": "cpsc-10981",
-      "section": "products",
-      "category": "Sports & outdoors",
-      "title": "Tongyang Cycling Recalls Basecamp Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
-      "brand": "",
-      "description": "This recall involves Basecamp-branded bicycle helmets, model HT-10. The helmets were sold in green and black and in size medium/large (M/L), fitting a head circumference of about 22.44 to 24.41 inches. The helmets have red padding, black and red straps, a black and red buckle and a black and red fit-adjusting knob at the back. “Basecamp” is printed on the sides of the helmet and “HT-10” on a label inside of the helmet.",
-      "reason": "",
-      "action": "Stop using the affected product and follow the official recall instructions.",
-      "date": "2026-09-17",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 2,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold Online At: Amazon.com from July 2024 through July 2026 for about $34. HK Tongyang Technology Co., Ltd., dba Tongyang Cycling, of China",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Tongyang-Cycling-Recalls-Basecamp-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
-      "products": []
     },
     {
       "id": "cpsc-10964",
@@ -697,7 +621,7 @@
       "section": "products",
       "category": "Tools & power equipment",
       "title": "Junkins Recalls DHASUWT Hair Dryer Brushes Due to Risk of Serious Injury or Death from Electrocution, and Shock Hazards; Violate Federal Regulations; Smoking and Fire Hazards",
-      "brand": "AGA Rangemaster Limited, of United Kingdom",
+      "brand": "",
       "description": "This recall involves DHASUWT Hair Dryer and Blow Dryer Brush in 1, Negative Ion Hair Dryer Brush, 1Step Ionic Hair Straightener Brush Hair Dryer Hot Air Brush, Hair Styling Tool Straightening Dryer, with model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a pink design and brush bristles. There are three heat settings on the hair dryers. The top of the product packaging is labeled XRUI with the model name XR-8801.",
       "reason": "The recalled hair dryer brushes lack an integrated immersion protection device, which presents a substantial product hazard to consumers, posing the risk of death or serious injury from electrocution or shock if the hair dryers fall into water while plugged in to an electrical source. The recalled hair dryer brushes also pose the risk of death or serious injury from smoking and fire hazards.",
       "action": "Consumers should unplug and stop using the recalled hair dryers immediately and contact Junkins to receive a full refund. Consumers will be asked to cut the power cord and provide a photo of the destroyed product to DHASUWT_recall@163.com.",
@@ -708,8 +632,10 @@
       "states": [
         "US"
       ],
-      "distribution": "Authorized appliance dealers nationwide from March 2025 through July 2026 for about $6,000 to $20,000.",
-      "retailers": [],
+      "distribution": "Sold At: Amazon.com from October 2024 through June 2026 for about $27 Shenzhen Weihua Chenyu Technology Co., Ltd, dba Junkins, of China",
+      "retailers": [
+        "Amazon"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
@@ -757,7 +683,7 @@
       "section": "products",
       "category": "Other consumer products",
       "title": "Ricky Joy Recalls More Than 2.3 Million Sour Crush Candy Bottles Due to Risk of Serious Injury or Death from Choking Hazard",
-      "brand": "",
+      "brand": "International Trade Imports LLC (The Ricky Joy Company), dba Ricky Joy, of Cumming, Georgia",
       "description": "This recall involves Ricky Joy-branded Sour Crush Rolling Liquid Candy bottles. The bottles contain 1.85 fluid ounce of sour liquid candy intended to be applied through the bottle's rollerball top. The plastic candy bottles were sold individually and in packs of three or 12 bottles per pack, and in the following colors/flavors: blue (blue raspberry), red (strawberry), green (green apple) and pink (watermelon). The Ricky Joy logo, \"EXTREME SOUR\", \"SOUR CRUSH\" and the flavor name are printed on the front of the bottle, along with the image of a green monster.",
       "reason": "The rolling ball on the recalled candy bottles can detach, posing a risk of serious injury or death from choking hazard.",
       "action": "Consumers should stop using the candy bottles immediately, take them away from children and contact The Ricky Joy Company for a refund. Consumers will be provided with a pre-paid shipping label to return the recalled product.",
@@ -768,12 +694,15 @@
       "states": [
         "US"
       ],
-      "distribution": "",
-      "retailers": [],
+      "distribution": "Sold At: H-E-B, Forman Mill and other candy stores nationwide and online at Walmart.com, CandyFunHouse.com, RickyJoy.com and other online retailers from January 2023 through May 2026 for about $3 for the bottle and for between $13 and $32 for the pack.",
+      "retailers": [
+        "Walmart",
+        "H-E-B"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Ricky-Joy-Recalls-More-Than-2-3-Million-Sour-Crush-Candy-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Ricky-Joy-Recalls-More-Than-2-3-Million-Sour-Crush-Candy-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
       "products": [
         {
           "name": "Ricky Joy Sour Crush Rolling Liquid Candy Bottles",
@@ -851,7 +780,7 @@
       "section": "products",
       "category": "Sports & outdoors",
       "title": "Victgoal Recalls Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
-      "brand": "Triumph Motorcycles America Ltd., of Atlanta, Georgia",
+      "brand": "Dongguan Hongtu Sports Goods Co. Ltd., of China",
       "description": "This recall involves Victgoal-branded bicycle helmets. The red helmets were sold in size small (S), fitting a head circumference of about 19.68 to 21.25 inches. The helmets have red padding, black straps with a silver reflective pattern in the center, a black and red buckle and a black fit-adjusting knob at the back. Only helmets manufactured in November 2025 are included in this recall. \"Model HT-006,\" \"Production: 2025/11\" and \"Ref/Lot# 2025A1101\" are printed on a label on the inside of the helmet. \"Victgoal\" is printed on the product packing bag.",
       "reason": "The recalled helmets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the retention system, positional stability and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury.",
       "action": "Consumers should stop using the recalled helmets immediately and contact Victgoal for a full refund. Consumers will be asked to destroy the helmets by cutting the straps and then sending a photo of the destroyed product, showing the helmet’s production date to walmart@victgoal.com. Consumers should then dispose of the recalled product.",
@@ -862,12 +791,14 @@
       "states": [
         "US"
       ],
-      "distribution": "Sold At: Authorized Triumph Motorcycle Dealers from January 2025 through July 2026 for between $10,000 and $15,000.",
-      "retailers": [],
+      "distribution": "Sold Online At: Walmart.com from March 2026 through June 2026 for between $22 and $36.",
+      "retailers": [
+        "Walmart"
+      ],
       "allergens": [],
       "codes": "",
       "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Victgoal-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/Victgoal-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
       "products": [
         {
           "name": "Victgoal Children’s Bike Helmets",
@@ -24763,7 +24694,7 @@
       "month": "2026-09",
       "food": 24,
       "pet_food": 0,
-      "products": 90
+      "products": 87
     }
   ]
 }
