@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T00:08:03.823825Z",
+  "generatedAt": "2026-09-23T17:45:47.317674Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -41,7 +41,7 @@
     {
       "name": "USDA-FSIS",
       "ok": true,
-      "records": 2025,
+      "records": 2026,
       "url": "https://www.fsis.usda.gov/recalls"
     },
     {
@@ -52,6 +52,36 @@
     }
   ],
   "records": [
+    {
+      "id": "fsis-Star Meat Delivery Inc. Recalls Raw Pork, Beef, and Goat Products Produced Witho",
+      "section": "food",
+      "category": "Human food",
+      "title": "Star Meat Delivery Inc. Recalls Raw Pork, Beef, and Goat Products Produced Without the Benefit of Inspection",
+      "brand": "",
+      "description": "",
+      "reason": "['Produced Without Benefit of Inspection']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-22",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "['Nationwide']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
     {
       "id": "cpsc-10974",
       "section": "products",
@@ -23421,7 +23451,7 @@
     },
     {
       "month": "2026-09",
-      "food": 30,
+      "food": 31,
       "pet_food": 0,
       "products": 107
     }
