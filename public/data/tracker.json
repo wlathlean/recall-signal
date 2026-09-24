@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T00:18:48.016009Z",
+  "generatedAt": "2026-09-24T17:47:31.856865Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -35,7 +35,7 @@
     {
       "name": "CPSC",
       "ok": true,
-      "records": 929,
+      "records": 931,
       "url": "https://www.cpsc.gov/Recalls"
     },
     {
@@ -52,6 +52,70 @@
     }
   ],
   "records": [
+    {
+      "id": "cpsc-10992",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "5Color Recalls Children’s Bicycle Helmet and Pads Sets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
+      "brand": "",
+      "description": "This recall involves 5Color-branded bicycle helmet and pads sets. The sets consist of a pink helmet, knee and elbow pads. Only the size small helmets are included in this recall. The helmets are size small (S), fitting a head circumference of about 18 to 22 inches, and have black padding, black straps, a black and a black fit-adjusting knob at the back. “2026/03/20” are included in this recall. “Model No.: YD-001,” “Lot/Ref: YD-260320” and “Date 2026/03/20” are printed on a label on the inside of the helmet and on the product packaging.",
+      "reason": "The helmets in the recalled sets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the impact attenuation, retention system, positional stability, labeling and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury.",
+      "action": "Refund",
+      "date": "2026-09-24",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com in May 2026 for between $25 and $26.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/5Color-Recalls-Childrens-Bicycle-Helmet-and-Pads-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
+      "products": [
+        {
+          "name": "5Color Children’s Bike Helmet and Pads Sets",
+          "codes": "",
+          "recallNumber": "26789"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-10991",
+      "section": "products",
+      "category": "Furniture & home",
+      "title": "ZCK01 Recalls Kesyup Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability",
+      "brand": "",
+      "description": "This recall involves Kesyup-branded Mattresses. They are 12 inches thick and were sold in twin, full, queen and king sizes. They have a white top and blue sides with blue trim. The mattresses were sold in compressed boxes. “Prototype ID: PU-US” is printed on a sewn-in white label on one side of the mattress.",
+      "reason": "The recalled mattresses violate the mandatory flammability standard for mattresses, posing a risk of serious injury or death from fire.",
+      "action": "Refund",
+      "date": "2026-09-24",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from December 2024 through April 2026 for between $100 and $200.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2026/ZCK01-Recalls-Kesyup-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability",
+      "products": [
+        {
+          "name": "Kesyup-branded Mattresses",
+          "codes": "",
+          "recallNumber": "26788"
+        }
+      ]
+    },
     {
       "id": "fsis-Star Meat Delivery Inc. Recalls Raw Pork, Beef, and Goat Products Produced Witho",
       "section": "food",
@@ -148,7 +212,7 @@
       "id": "cpsc-10987",
       "section": "products",
       "category": "Sports & outdoors",
-      "title": "Hayward Industries Recalls Universal Pool Heaters Due to Risk of Serious Injury or Death from Carbon Monoxide Poisoning Hazard",
+      "title": "Hayward Industries Recalls Universal Pool Heaters Due to Risk of Serious Injury or Death from Carbon Monoxide Poisoning Hazard.",
       "brand": "Hayward Industries, Inc., of Charlotte, North Carolina",
       "description": "This recall involves Hayward-branded HDFS400 Universal-HC Series pool heaters. The 400,000 BTU dual-fuel gas heaters are brown with black atop and measure 21 inches long, 28 inches wide and 31 inches high. The pool heaters have a digital display control panel at the top and a molded base with integrated tie-down connections. The heater's name plate is below the vent with the word \"Hayward\" appearing at the bottom of the name plate and the model number \"HDFS400\" appears at the top of the name plate.",
       "reason": "During operation, the heaters can produce high levels of carbon monoxide (CO), posing a risk of serious injury or death from carbon monoxide poisoning.",
@@ -245,8 +309,8 @@
       "category": "Sports & outdoors",
       "title": "Tongyang Cycling Recalls Basecamp Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
       "brand": "HK Tongyang Technology Co., Ltd., dba Tongyang Cycling, of China",
-      "description": "This recall involves Basecamp-branded bicycle helmets, model HT-10. The helmets were sold in green and black and in size medium/large (M/L), fitting a head circumference of about 22.44 to 24.41 inches. The helmets have red padding, black and red straps, a black and red buckle and a black and red fit-adjusting knob at the back. \"Basecamp\" is printed on the sides of the helmet and “\"HT-10\" on a label inside of the helmet.",
-      "reason": "The recalled helmets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the impact attenuation, positional stability and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury. In addition, the helmets have a button cell battery that does not bear the warning labels required by Reese’s Law. If button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, including internal chemical burns, and death.",
+      "description": "This recall involves Basecamp-branded bicycle helmets, model HT-10. The helmets were sold in green and black and in size medium/large (M/L), fitting a head circumference of about 22.44 to 24.41 inches. The helmets have red padding, black and red straps, a black and red buckle and a black and red fit-adjusting knob at the back. \"Basecamp\" is printed on the sides of the helmet and \"HT-10\" on a label inside of the helmet.",
+      "reason": "The recalled helmets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the impact attenuation, positional stability and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury. In addition, the helmets have a button cell battery that does not bear the warning labels required by Reese's Law. If button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, including internal chemical burns, and death.",
       "action": "Consumers should stop using the helmets immediately and contact Tongyang Cycling for a full refund. Consumers will be asked to destroy the recalled helmet by cutting the straps and send a photo of the destroyed helmet to tongyangshangwuus@hotmail.com. Consumers should then dispose of the recalled product. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
       "date": "2026-09-17",
       "status": "Active recall",
@@ -279,7 +343,7 @@
       "brand": "Toyworld168 Inc., of Orlando, Florida",
       "description": "This recall involves Rainbow Mystery Squishy Bun Toys. The squishy bun toys are a translucent green color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. \"Rainbow MYSTERY\" and \"SUGAR EDITION\" are printed on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
       "reason": "The squishy bun toys violate the mandatory safety standard for toys because the water beads inside the dumplings expand larger than permitted, posing a deadly ingestion hazard. If a water bead is ingested, it can pose ingestion, choking and intestinal obstruction hazards inside a child's body, resulting in severe discomfort, vomiting, dehydration and a risk of death to a child.",
-      "action": "Consumers should stop using the squishy dumpling toys immediately and contact Toyworld168 for a full refund. Consumers will be asked to write “RECALLED” in permanent marker on the squeezy dumpling and its tan plastic container, throw the toy away and email a photo of the disposed toy to toyworld16850@gmail.com.",
+      "action": "Consumers should stop using the squishy dumpling toys immediately and contact Toyworld168 for a full refund. Consumers will be asked to write \"RECALLED\" in permanent marker on the squeezy dumpling and its tan plastic container, throw the toy away and email a photo of the disposed toy to toyworld16850@gmail.com.",
       "date": "2026-09-17",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -23035,7 +23099,7 @@
       "month": "2026-09",
       "food": 31,
       "pet_food": 0,
-      "products": 107
+      "products": 109
     }
   ]
 }
