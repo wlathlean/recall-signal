@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T01:35:40.600894Z",
+  "generatedAt": "2026-09-29T18:30:02.824516Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -17,19 +17,19 @@
     {
       "name": "FDA Food",
       "ok": true,
-      "records": 2899,
+      "records": 2947,
       "url": "https://open.fda.gov/apis/"
     },
     {
       "name": "FDA Drug",
       "ok": true,
-      "records": 1531,
+      "records": 1544,
       "url": "https://open.fda.gov/apis/"
     },
     {
       "name": "FDA Device",
       "ok": true,
-      "records": 5855,
+      "records": 5943,
       "url": "https://open.fda.gov/apis/"
     },
     {
@@ -47,7 +47,7 @@
     {
       "name": "CDC outbreaks",
       "ok": true,
-      "records": 12,
+      "records": 13,
       "url": "https://www.cdc.gov/foodborne-outbreaks/outbreaks/"
     }
   ],
@@ -476,6 +476,2216 @@
       ]
     },
     {
+      "id": "fda-food-99737",
+      "section": "food",
+      "category": "Human food",
+      "title": "Everything Sprouts, LLC: 4 recalled products",
+      "brand": "Everything Sprouts, LLC",
+      "description": "Sprouts may be contaminated with STEC E. coli and/or Salmonella.",
+      "reason": "Sprouts may be contaminated with STEC E. coli and/or Salmonella.",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "MN",
+        "WI"
+      ],
+      "distribution": "MN, WI",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Food Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Everything Sprouts Crunchy Protein Sprout Mix, containing Alfalfa Fenugreek, Cabbage, Mung, Adzuki, Lentils, Green Pea, Net Wt. 5.0 oz (142 g) UPC 0 87906-01018 7. everythingsprouts.com",
+          "codes": "Lot# 222, 223, 226, 230",
+          "recallNumber": "H-1339-2026"
+        },
+        {
+          "name": "Everything Sprouts Zesty Garlic Mix, containing Garlic, Onion and Alfalfa Sprouts, Net Wt. 5.0 oz (142 g) UPC 0 87906-00016 7. everythingsprouts.com",
+          "codes": "Lot# 222, 223, 225, 226, 230.",
+          "recallNumber": "H-1338-2026"
+        },
+        {
+          "name": "Everything Sprouts Robust Radish Mix, Net Wt. 5.0 oz (142 g) UPC 0 87906-00007 5. Keep Refrigerated. everythingsprouts.com",
+          "codes": "Lot# 223, 226, 230, 233",
+          "recallNumber": "H-1340-2026"
+        },
+        {
+          "name": "Everything Sprouts and Calco branded Alfalfa Sprouts, Net Wt. 5.0 oz (142 g) UPC 7 68944-00005 9. The 5 oz. containers are distributed as single units, or in a tray with 6 - 5oz containers that contains UPC 8 60014-52312 0 label on bottom of tray, or in a try with 12 - 5 oz. containers that contains UPC 8 60014-52311 3 label on bottom of tray.",
+          "codes": "LOT #222, 223, 225, 226, 230",
+          "recallNumber": "H-1337-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-food-99611",
+      "section": "food",
+      "category": "Human food",
+      "title": "Taylor Fresh Foods Inc: 25 recalled products",
+      "brand": "Taylor Fresh Foods Inc",
+      "description": "Potential contamination with Salmonella.",
+      "reason": "Potential contamination with Salmonella.",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "AL",
+        "AR",
+        "FL",
+        "GA",
+        "IL",
+        "IN",
+        "KS",
+        "KY",
+        "LA",
+        "MA",
+        "ME",
+        "MI",
+        "MN",
+        "MO",
+        "MS",
+        "NC",
+        "NE",
+        "NH",
+        "NY",
+        "OH",
+        "OK",
+        "SC",
+        "TN",
+        "TX",
+        "VT",
+        "WI",
+        "WV"
+      ],
+      "distribution": "Domestic: AL, AR, FL, GA, IL, IN, KS, KY, LA, MA, ME, MI, MN, MO, MS, NC, NE, NH, NY, OH, OK, SC, TN, TX, VT, WI, WV. Foreign: Not applicable.",
+      "retailers": [
+        "Kroger",
+        "Trader Joe's",
+        "Walmart"
+      ],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Food Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Tomato Salsa Fresca. Ingredients: Tomatoes, Yellow Onion, Red Onion, Cilantro, Jalapeno Pepper, Garlic, Salt, Ground Cumin, Lemon Juice. Net Wt: 4 lbs. Keep Refrigerated.",
+          "codes": "Tennessee: TFTN2162, 8/19/2026.",
+          "recallNumber": "H-1364-2026"
+        },
+        {
+          "name": "Pico De Gallo. Ingredients: Tomato, Onion, Jalapeno Pepper, Cilantro, Garlic, Salt, Black Pepper. Net Wt: 7 oz. Keep Refrigerated. Distributed By: ADUSA Distribution, LLC, Salisbury, NC 28147. UPC: 688267575778",
+          "codes": "Rhode Island: TFNE210A, 8/9/2026; TFNE212A, 8/11/2026; TFNE213A, 8/12/2026.",
+          "recallNumber": "H-1355-2026"
+        },
+        {
+          "name": "Pineapple Mango Salsa Mild. Ingredients: Mango, Pineapple, Pasteurized Lime Juice, Pasteurized Lemon Juice, Jalapeno Pepper, Serrano Pepper, Lime Flavored Zest (***), Lemon Peel (***), Spearmint, Salt. Net Wt: 10 oz. Keep Refrigerated. Distributed By: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223075653",
+          "codes": "Illinois: TFIC211, 8/7/2026. Texas: TFTX209U11, 8/7/2026; TFTX211, 8/9/2026; TFTX213U11, 8/11/2026; TFTX216, 8/14/2026.",
+          "recallNumber": "H-1354-2026"
+        },
+        {
+          "name": "Spicy Guacamole. Ingredients: Guacamole, Pico De Gallo. Spec Sheet: Guacamole (Avocado, Pico De Gallo, Serrano Peper, Lime Juice, Salt, Pepper); Pico De Gallo (Cilantro, Jalapeno Pepper, Tomato, Yellow Onion) Net Wt: 13 oz. Keep Refrigerated. Distributed By: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223073574",
+          "codes": "Tennessee: TFTN2171, 8/13/2026. Texas: TFTX211, 8/7/2026; TFTX213, 8/9/2026; TFTX215U11, 8/11/2026; TFTX216U11, 8/12/2026.",
+          "recallNumber": "H-1351-2026"
+        },
+        {
+          "name": "Taco Dip. Ingredients: Refried Vegetarian Beans *** Guacamole (***Pico De Gallo [***Jalapeno Pepper]***), Pico De Gallo (***Jalapeno Pepper), Mild Cheddar Cheese *** Sour Cream *** Black Ripe Olives *** Green Onion, Taco Seasoning Mix *** Net Wt: 20 oz. Keep Refrigerated. Distributed by: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223073581",
+          "codes": "Florida: TFFL211, 8/7/2026; TFFL212, 8/18/2026; TFFL214, 8/11/2026. Tennessee: TFTN2161, 8/12/2026; TFTN2171, 8/13/2026. Texas: TFTX211, 8/7/2026; TFTX213, 8/9/2026; TFTX215U11, 8/11/2026; TFTX216U11, 8/12/2026.",
+          "recallNumber": "H-1349-2026"
+        },
+        {
+          "name": "Pico De Gallo. Ingredients: Tomato, Onion, Jalapeno, Cilantro. Net Wt: 16 oz. Keep Refrigerated. Distributed By: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223073536",
+          "codes": "Texas: TFTX208016, 8/7/2026; TFTX210016, 8/9/2026; TFTX212016, 8/11/2026; TFTX215016, 8/14/2026.",
+          "recallNumber": "H-1356-2026"
+        },
+        {
+          "name": "Spicy Pimento Cheese Dip. Ingredients: Sharp Cheddar Cheese *** Cream Cheese *** Piquillo Peppers *** Jalapeno Pepper, Mayonnaise *** Cayenne Pepper Sauce *** Dijon Mustard *** Granulated Garlic, Cayenne Pepper, Pimiento Peppers *** Net Wt: 10 oz. Keep Refrigerated. Distributed by: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223116448",
+          "codes": "Kentucky: TFKY216B, 8/13/2026; TFKY217B, 8/14/2026. Texas: TFTX209, 8/7/2026; TFTX210, 8/8/2026; TFTX211, 8/9/2026; TFTX212, 8/10/2026; TFTX213, 8/11/2026; TFTX214, 8/12/2026; TFTX215, 8/13/2026; TFTX216, 8/14/2026; TFTX217, 8/15/2026.",
+          "recallNumber": "H-1348-2026"
+        },
+        {
+          "name": "BH Bold Chef Salad Kit. Ingredients: Iceberg Lettuce, Pico De Gallo (***Jalapeno Pepper), Jalapeno Ranch Dressing (***Jalapeno Peppers***), Egg, Cucumber, Black Olives *** Carrot, Red Cabbage.",
+          "codes": "Florida: TFFL209, 8/9/2026; TFFL210, 8/10/2026; TFFL211, 8/11/2026; TFFL212, 8/12/2026; TFFL213, 8/13/2026.",
+          "recallNumber": "H-1368-2026"
+        },
+        {
+          "name": "Salsa Verde Mild. Ingredients: Whole Tomatillos (***), Roasted Poblano Chile, Jalapeno Pepper, Cilantro, Serrano Pepper, Garlic, Salt. Net Wt: 12 oz. Keep Refrigerated. Distributed By: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223075639",
+          "codes": "Illinois: TFIC207, 8/7/2026; TFIC209, 8/9/2026; TFIC211, 8/11/2026. Texas: TFTX209U11, 8/9/2026; TFTX211, 8/11/2026; TFTX213U11, 8/13/2026; TFTX216, 8/16/2026.",
+          "recallNumber": "H-1362-2026"
+        },
+        {
+          "name": "Mild Pico De Gallo. Ingredients: Tomatoes, Red Onions, Lime Juice Concentrate, Jalapeno Peppers, Garlic, Cilantro, Salt. Net Wt: 10 oz. Keep Refrigerated. Distributed By: Walmart Inc., Bentonville, AR 72716. UPC: 681131276344",
+          "codes": "Florida: TFFL208, 8/9/2026; TFFL210, 8/10/2026; TFFL212, 8/13/2026. Kentucky: TFKY216B, 8/17/2026. Texas: TFTX208016, 8/8/2026; TFTX209016, 8/9/2026; TFTX210016, 8/10/2026; TFTX211016, 8/11/2026; TFTX212016, 8/12/2026; TFTX213, 8/13/2026; TFTX2013016, 8/13/2026; TFTX215016, 8/15/2026; TFTX216016, 8/16/2026.",
+          "recallNumber": "H-1357-2026"
+        },
+        {
+          "name": "Hot Pico De Gallo. Ingredients: Tomatoes, Red Onions, Jalapeno Peppers, Lime Juice Concentrate, Serrano Peppers, Cilantro, Garlic, Salt. Net Wt: 10 oz. Keep Refrigerated. Distributed By: Walmart Inc., Bentonville, AR 72716. UPC: 681131276351",
+          "codes": "Florida: TFFL208, 8/9/2026; TFFL210, 8/10/2026; TFFL212, 8/13/2026. Kentucky: TFKY215B, 8/16/2026; TFKY217B, 8/18/2026. Texas: TFTX208016, 8/8/2026; TFTX209016, 8/9/2026; TFTX210016, 8/10/2026; TFTX212016, 8/12/2026; TFTX215016, 8/15/2026; TFTX216016, 8/16/2026.",
+          "recallNumber": "H-1358-2026"
+        },
+        {
+          "name": "Salsa Fresca Medium. Ingredients: Tomato, Yellow Onion, Jalapeno Pepper, Pasteurized Lemon Juice, Garlic, Salt, Cilantro, Ground Cumin. Net Wt: 12 oz. Keep Refrigerated. Distributed By: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223075080",
+          "codes": "Illinois: TFIC207, 8/7/2026; TFIC209, 8/9/2026; TFIC211, 8/11/2026. Texas: TFTX209U11, 8/9/2026; TFTX211, 8/11/2026; TFTX213U11, 8/13/2026; TFTX216, 8/16/2026.",
+          "recallNumber": "H-1363-2026"
+        },
+        {
+          "name": "Pico De Gallo Spicy. Ingredients: Tomato, Yellow Onion, Serrano Pepper, Jalapeno Pepper, Cilantro, Pasteurized Lime Juice, Salt. Net Wt: 10 oz. Keep Refrigerated. Distributed By: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223075608",
+          "codes": "Illinois: TFIC207, 8/7/2026; TFIC209, 8/9/2026; TFIC211, 8/11/2026. Texas: TFTX209, 8/9/2026; TFTX211016, 8/11/2026; TFTX213008, 8/13/2026; TFTX216016, 8/16/2026.",
+          "recallNumber": "H-1360-2026"
+        },
+        {
+          "name": "Pico De Gallo Hot. Ingredients: Tomato, Red Onion, Jalapeno Pepper, Lemon Juice, Cilantro, Salt. Net Wt: 2.5 lbs.",
+          "codes": "Tennessee: TFTN2162, 8/18/2026.",
+          "recallNumber": "H-1365-2026"
+        },
+        {
+          "name": "Fresh Pico Tray. Ingredients: Tomato, Yellow Onion, Jalapeno Pepper, Cilantro. Net Wt: 5 lbs.",
+          "codes": "Tennessee: TFTN2162, 8/18/2026.",
+          "recallNumber": "H-1366-2026"
+        },
+        {
+          "name": "Authentic Guacamole. Ingredients: Guacamole, Pico De Gallo. Spec Sheet: Guacamole (Avocado, Pico De Gallo, Lime Juice, Cumin, Salt, Pepper); Pico De Gallo (Cilantro, Jalapeno Pepper, Tomato, Yellow Onion) Net Wt: 13 oz. Keep Refrigerated. Distributed By: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223073567",
+          "codes": "Texas: TFTX211, 8/7/2026; TFTX213, 8/9/2026; TFTX215U11, 8/11/2026; TFTX216U11, 8/12/2026.",
+          "recallNumber": "H-1352-2026"
+        },
+        {
+          "name": "Fiesta Salad with Shrimp. Ingredients: Salad (Romaine Lettuce, Cooked Shrimp *** Pico De Gallo [***Jalapeno Peppers], Fire Roasted Corn, Cooked Black Beans, Lime, Tortilla Strips ***), Creamy Poblano Dressing (***) Net Wt: 11.11 oz. Keep Refrigerated. Dist. & Sold Exclusively By: Trader Joe's Monrovia, CA 91016. UPC: 00818377",
+          "codes": "Texas: TFTX212, 8/7/2026; TFTX213U11, 8/8/2026; TFTX214, 8/9/2026; TFTX215U11, 8/10/2026; TFTX216U11, 8/11/2026; TFTX217U11, 8/12/2026.",
+          "recallNumber": "H-1350-2026"
+        },
+        {
+          "name": "Spicy Jalapeno Jarlsberg Dip. Ingredients: Mayonnaise *** Jarlsberg Cheese *** Red Onion, Jalapeno Pepper. Net Wt: 10 oz. Keep Refrigerated. Distributed By: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223114826",
+          "codes": "Kentucky: TFKY216B, 8/13/2026; TFKY217B, 8/14/2026; TFKY218B, 8/15/2026. Texas: TFTX210, 8/7/2026; TFTX211, 8/8/2026; TFTX212, 8/9/2026; TFTX213, 8/10/2026; TFTX214, 8/11/2026; TFTX215, 8/12/2026; TFTX216, 8/13/2026; TFTX217, 8/14/2026.",
+          "recallNumber": "H-1347-2026"
+        },
+        {
+          "name": "Spicy Roast Beef Sandwich (closed-face). Ingredients: Fully Cooked Seasoned Roast Beef Top Round *** Brioche Bun *** Hatch Chile Spread (***Jalapeno Pepper), Red Onion, Fire Roasted Red Pepper Strips*** Net Wt: 8.53 oz. Keep Refrigerated. Distributed by The Kroger Co. Cincinnati, Ohio 45202. UPC: 011110678171",
+          "codes": "Tennessee: TFTN2171, 8/11/2026. Texas: TFTX211, 8/7/2026; TFTX212, 8/8/2026; TFTX213, 8/9/2026; TFTX214, 8/10/2026; TFTX215, 8/11/2026; TFTX216, 8/12/2026",
+          "recallNumber": "H-1346-2026"
+        },
+        {
+          "name": "Salsa Roja Medium. Ingredients: Fire Roasted Diced Tomatoes in Juice (***), Yellow Onion, Jalapeno Peppers, Arbol Chile Water Mix (***), Cilantro, Garlic, Salt, Ground Cumin. Net Wt: 12 oz. Keep Refrigerated. Distributed By: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223075646",
+          "codes": "Illinois: TFIC207, 8/7/2026; TFIC209, 8/9/2026; TFIC211, 8/11/2026. Texas: TFTX209, 8/9/2026; TFTX211, 8/11/2026; TFTX213U11, 8/13/2026; TFTX216, 8/16/2026.",
+          "recallNumber": "H-1361-2026"
+        },
+        {
+          "name": "Pico De Gallo Mild. Ingredients: Tomato, Yellow Onion, Jalapeno Pepper, Cilantro, Pasteurized Lime Juice, Salt. Net Wt: 10 oz. Keep Refrigerated. Distributed By: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223075097",
+          "codes": "Illinois: TFIC207, 8/7/2026; TFIC209, 8/9/2026; TFIC211, 8/11/2026. Texas: TFTX209, 8/9/2026; TFTX211016, 8/11/2026; TFTX213008, 8/13/2026; TFTX216016, 8/16/2026.",
+          "recallNumber": "H-1359-2026"
+        },
+        {
+          "name": "Diced Jalapenos. Ingredients: Jalapeno Pepper. Net Wt: 3.75 oz. Keep Refrigerated. Distributed by: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223082712",
+          "codes": "Rhode Island: TFNE210A, 8/9/2026; TFNE213A, 8/12/2026.",
+          "recallNumber": "H-1344-2026"
+        },
+        {
+          "name": "Pico De Gallo. Ingredients: Tomato, Red Onion, Green Bell Pepper, Tomato Juice (Tomato Juice from Concentrate [Water, Concentrated Juices from Tomatoes], Salt, Vitamin C [Ascorbic Acid]), Lime Juice, Garlic, Salt, Cilantro. Net Wt: 12 oz. Keep Refrigerated. Distributed By: WAWA Inc., Wawa, PA 19063.",
+          "codes": "Kentucky: TFKY216A, 8/9/2026; TFKY217A, 8/10/2026.",
+          "recallNumber": "H-1367-2026"
+        },
+        {
+          "name": "Rice & Bean Burrito. Ingredients: Rice, Refried Beans, Black Beans, Flame Roasted Corn, Pico De Gallo, Cheese. Net Wt: 12.5 oz. Keep Refrigerated. Heating Instructions: Microwave: Place in center of the microwave oven. Heat on high for 2-2.5 minutes or 165F. Let rest for 1 minute before serving. Distributed by: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223082736",
+          "codes": "Rhode Island: TFNE212A, 8/7/2026; TFNE213A, 8/8/2026; TFNE214A, 8/9/2026; TFNE215A, 8/10/2026; TFNE216A, 8/11/2026.",
+          "recallNumber": "H-1345-2026"
+        },
+        {
+          "name": "Mango Pico De Gallo. Ingredients: Mango, Red Onion, Tomato, Cilantro, Jalapeno Pepper, Lime Juice. Net Wt: 11 oz. Keep Refrigerated. Distributed By: Taylor Farms Inc., Salinas, CA 93902. UPC: 030223073543",
+          "codes": "Tennessee: TFTN2161, 8/13/2026. Texas: TFTX211, 8/8/2026; TFTX213, 8/10/2026; TFTX215U11, 8/12/2026; TFTX216U11, 8/13/2026.",
+          "recallNumber": "H-1353-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-food-99594",
+      "section": "food",
+      "category": "Human food",
+      "title": "NatureBest Pre-Cut & Produce LLc: 8 recalled products",
+      "brand": "NatureBest Pre-Cut & Produce LLc",
+      "description": "Jalapenos have the potential to be contaminated with Salmonella",
+      "reason": "Jalapenos have the potential to be contaminated with Salmonella",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "LA",
+        "TX"
+      ],
+      "distribution": "Texas and Louisiana",
+      "retailers": [
+        "H-E-B"
+      ],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Food Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "PICO DE GALLO-HOT-6/9oz HEB-PICO-HOT-12/14oz",
+          "codes": "190A26184 - 190A26216",
+          "recallNumber": "H-1379-2026"
+        },
+        {
+          "name": "HEB-PICO-MEDIUM-12/14oz PICO DE GALLO-MEDIUM-6/14oz PICO DE GALLO-MEDIUM-6/9oz PICO-DE-GALLO-MEDIUM-BGC-1/5# PICO-MEDIUM-SNACK-12/4oz",
+          "codes": "400B26184, 400B26187, 400B26188, 400B26189, 400B26190, 400B26191, 400B26194, 400B26195, 400B26196, 400B26197, 400B26198, 400B26201, 400B26202, 400B26203, 400B26204, 400B26205, 400B26208, 400B26209, 400B26210, 400B26211, 400B26212",
+          "recallNumber": "H-1378-2026"
+        },
+        {
+          "name": "NatureBest Mild Cheddar & Jalapeno Stuffed Mushrooms 8oz (227g) HEB SI JAL POP STFFD MUSHRM-6/8oz",
+          "codes": "190A26184 - 190A26216",
+          "recallNumber": "H-1376-2026"
+        },
+        {
+          "name": "SOUP MIX-6/58oz Tray, PPS971 CLR PET 900/cs 32cs/pal, film-sealed (18\" 16 Micron Perserva Wrap 5000/rl), packed in 30# Kale 44ect",
+          "codes": "190A26184, 190A26187, 190A26189, 190A26192, 190A26194, 190A26196, 190A26199, 190A26201, 190A26203, 190A26206, 190A26208, 190A26210, 190A26213",
+          "recallNumber": "H-1373-2026"
+        },
+        {
+          "name": "HEB-GUAC KIT-MILD-3/57.5oz",
+          "codes": "400B26184, 400B26187, 400B26188, 400B26189, 400B26190, 400B26191, 400B26194, 400B26195, 400B26196, 400B26197, 400B26198, 400B26201, 400B26202, 400B26203, 400B26204, 400B26205, 400B26208, 400B26209, 400B26210, 400B26211, 400B26212",
+          "recallNumber": "H-1377-2026"
+        },
+        {
+          "name": "PICO DE GALLO-MILD-4oz PICO DE GALLO-MILD-6/14oz PICO DE GALLO-4/5# PICO DE GALLO-1/5# PICO DE GALLO-MILD-1/5#",
+          "codes": "190A26184 - 190A26216",
+          "recallNumber": "H-1372-2026"
+        },
+        {
+          "name": "HEB-PICO-MANGO-12/14oz PICO DE GALLO-MANGO-4/14oz PICO DE GALLO-MANGO-6/14oz",
+          "codes": "190A26184 - 190A26216",
+          "recallNumber": "H-1374-2026"
+        },
+        {
+          "name": "PEPPER-JALAPENO-DC 1/4\"-4/5# PEPPER-JALAPENO-DC 1/4\"-1/5# PEPPER-JALAPENO-SL 1/8\"-1/5# PEPPER-JAL/SER-MINCE W/SD-6/5# PEPPER-JALAPENO-DC 3/8\"-4/5# PEPPER-JALAPENO-DC 1/8\"-BG-10# Pepper Jalapeno Destem PEPPER-JALAPENO-WHOLE-1# JALAPENO-DICED-6/3oz HEB-JALAPENO-DICED-8/3oz-SS",
+          "codes": "190A26184, 190A26187, 190A26188, 190A26189, 190A26190, 190A26192, 190A26195, 190A26196, 190A26197, 190A26198, 190A26199, 190A26201, 190A26202, 400B26194, 400B26208; 190A26212; 25AG4B, 48315A, ABF399, C5E27F; 190A26184 - 190A26216; 190A26184, 190A26187, 190A26189, 190A26191, 190A26194, 190A26196, 190A26198, 190A26201, 190A26203, 190A26205, 190A26208, 190A26210, 190A26212, 190A26213, 190A26215",
+          "recallNumber": "H-1375-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-food-99815",
+      "section": "food",
+      "category": "Human food",
+      "title": "Hexing Haw Balls candy; packaged in 200g/0.44 lb./7.05 oz clear plastic bag; Ingredients: haw, white sugar, water.; Serving suggestion: ready to eat. Storage: keep in cool and dry place and keep tightly closed in refrige",
+      "brand": "Tiffany Food Corp",
+      "description": "Unapproved dye Ponceau 4R",
+      "reason": "Unapproved dye Ponceau 4R",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class III",
+      "severity": 4,
+      "states": [
+        "AZ",
+        "CA",
+        "FL",
+        "GA",
+        "IL",
+        "MA",
+        "MN",
+        "NC",
+        "NJ",
+        "NY",
+        "OH",
+        "PA",
+        "TN",
+        "TX",
+        "VA"
+      ],
+      "distribution": "AZ, NY, CA, FL, GA, IL, MA, MN, NC, NJ, OH, PA, NY, TN, TX, VA",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Best Before 10/01/2026",
+      "source": "FDA Food Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Hexing Haw Balls candy; packaged in 200g/0.44 lb./7.05 oz clear plastic bag; Ingredients: haw, white sugar, water.; Serving suggestion: ready to eat. Storage: keep in cool and dry place and keep tightly closed in refrigerator after opening.; PRODUCT OF CHINA; UPC 6 920603 810025",
+          "codes": "Best Before 10/01/2026",
+          "recallNumber": "H-1387-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-food-99780",
+      "section": "food",
+      "category": "Human food",
+      "title": "Martina brand Fresh Whole Mangoes; Individual whole mangoes, variable weight; 9 mangoes per carton box",
+      "brand": "Panorama Produce Sales Inc.",
+      "description": "Product may be contaminated with Salmonella",
+      "reason": "Product may be contaminated with Salmonella",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "CT",
+        "NJ",
+        "NY",
+        "PA"
+      ],
+      "distribution": "CT, NY, NJ, and PA",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Lot 038, PLU 4584",
+      "source": "FDA Food Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Martina brand Fresh Whole Mangoes; Individual whole mangoes, variable weight; 9 mangoes per carton box",
+          "codes": "Lot 038, PLU 4584",
+          "recallNumber": "H-1342-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-food-99744",
+      "section": "food",
+      "category": "Human food",
+      "title": "Buckhead, Tuna, 10lb cs, 12lb cs, 15lb cs, 3-5lb cs , Styrofoam container, Keep Refrigerated",
+      "brand": "Buckhead Meat Company D.B.A. Trinity Seafood",
+      "description": "The Firm was notified by NJ Department of Health of two samples collected from tuna with reported high levels of scombrotoxin.",
+      "reason": "The Firm was notified by NJ Department of Health of two samples collected from tuna with reported high levels of scombrotoxin.",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "CT",
+        "MD",
+        "NJ",
+        "NY",
+        "PA"
+      ],
+      "distribution": "The recall product was distributed to the following States: PA, MD, NY, CT, NJ",
+      "retailers": [],
+      "allergens": [],
+      "codes": "0004255 Vat # 59-01915, 58-11212, 59-01914, 58-11210, 58-11213, 59-01930, 59-01570, 58-11210, 59-0",
+      "source": "FDA Food Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Buckhead, Tuna, 10lb cs, 12lb cs, 15lb cs, 3-5lb cs , Styrofoam container, Keep Refrigerated",
+          "codes": "0004255 Vat # 59-01915, 58-11212, 59-01914, 58-11210, 58-11213, 59-01930, 59-01570, 58-11210, 59-0",
+          "recallNumber": "H-1382-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-food-99803",
+      "section": "food",
+      "category": "Human food",
+      "title": "PUMPKIN SPICE NO BAKE COOKIE NET WT 3.5 oz. INGREDIENTS: WHOLE GRAIN OATS, MILK, MARGARINE***WATER, SALT, CONTAINS LESS THAN 2% OF THE FOLLOWING: SOY LECITHIN, VEGETABLE MONO & DIGLYCERIDES, POTASSIUM SORBATE***, CITRIC ",
+      "brand": "Best Friends Bakery, LLC",
+      "description": "Peanuts & Eggs. The firm list peanuts in the ingredient statement but omitted them from the contain statement. They also have eggs listed in the contain statement but there are no eggs in the product.",
+      "reason": "Peanuts & Eggs. The firm list peanuts in the ingredient statement but omitted them from the contain statement. They also have eggs listed in the contain statement but there are no eggs in the product.",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "AL",
+        "FL",
+        "GA",
+        "IN",
+        "KY",
+        "MI",
+        "OH",
+        "TN",
+        "VA",
+        "WV"
+      ],
+      "distribution": "Product was shipped to the following states: AL, FL, GA, IN, KY, MI, OH, TN, VA & WV.",
+      "retailers": [],
+      "allergens": [
+        "egg",
+        "peanut"
+      ],
+      "codes": "Lot 20326",
+      "source": "FDA Food Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "PUMPKIN SPICE NO BAKE COOKIE NET WT 3.5 oz. INGREDIENTS: WHOLE GRAIN OATS, MILK, MARGARINE***WATER, SALT, CONTAINS LESS THAN 2% OF THE FOLLOWING: SOY LECITHIN, VEGETABLE MONO & DIGLYCERIDES, POTASSIUM SORBATE***, CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, BETA CAROTENE, VITAMIN A PALMITATE ADDED, PEANUT BUTTER***VANILLA***PUMPKIN PIE SPICE***GLYCERINE, PAPRIKA OLEORESINM, POTASSIUM SORBATE CONTAINS: EGG, MILK, SOY, WHEAT MADE IN A FACILITY WITH PEANUTS AND TREE NUTS UPC 8 10158 14087 5 Michelle's Bakery 101 Fashion Ave Connelly Springs, NC 28612",
+          "codes": "Lot 20326",
+          "recallNumber": "H-1386-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-food-99572",
+      "section": "food",
+      "category": "Human food",
+      "title": "Elegant Foods, LLC: 3 recalled products",
+      "brand": "Elegant Foods, LLC",
+      "description": "Carrot decoration contains Yellow #5 and Yellow #6 which is not listed on finished product label.",
+      "reason": "Carrot decoration contains Yellow #5 and Yellow #6 which is not listed on finished product label.",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "WI"
+      ],
+      "distribution": "WI",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Food Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Elegant Foods Carrot Cake, 9\". 14 Servings. Keep Refrigerated/Frozen. 537 Atlas Ave., Madison, WI 53714.",
+          "codes": "No code applied.",
+          "recallNumber": "H-1385-2026"
+        },
+        {
+          "name": "Elegant Foods Golden Raisins, 5 pound. 537 Atlas Ave, Madison, WI 53714.",
+          "codes": "No code applied.",
+          "recallNumber": "H-1384-2026"
+        },
+        {
+          "name": "Elegant Foods Coconut Flakes, 5 Pounds. 537 Atlas Ave, Madison, WI 53714.",
+          "codes": "No code applied.",
+          "recallNumber": "H-1383-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-food-99841",
+      "section": "food",
+      "category": "Human food",
+      "title": "Mon Sire Brie, soft-ripened French cheese, 1 kg, packed in carboard carton and wrapped in plastic parchment paper, 2 units each, Keep Refrigerated",
+      "brand": "Optimus Inc. d/b/a/ Markys Caviar",
+      "description": "The firm was notified by their Brie Cheese supplier that sample results revealed the presence of Listeria monocytogenes.",
+      "reason": "The firm was notified by their Brie Cheese supplier that sample results revealed the presence of Listeria monocytogenes.",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "FL"
+      ],
+      "distribution": "Florida",
+      "retailers": [],
+      "allergens": [],
+      "codes": "LOT 00000ZRAA1 EXP 08/15/2026 LOT 00000ZUAD2 EXP 08/18/2026",
+      "source": "FDA Food Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Mon Sire Brie, soft-ripened French cheese, 1 kg, packed in carboard carton and wrapped in plastic parchment paper, 2 units each, Keep Refrigerated",
+          "codes": "LOT 00000ZRAA1 EXP 08/15/2026 LOT 00000ZUAD2 EXP 08/18/2026",
+          "recallNumber": "H-1388-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-food-99830",
+      "section": "food",
+      "category": "Human food",
+      "title": "Foods Alive organic moringa leaf powder, 8oz pouch, UPC 8 91551 00092 8",
+      "brand": "FOODS ALIVE INC.",
+      "description": "Potential Salmonella contamination",
+      "reason": "Potential Salmonella contamination",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Nationwide US and UAE. The recalled organic moringa leaf powder was distributed nationwide in retail stores and through online sellers including but not limited to www.foodsalive.com.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Freshest by 110127",
+      "source": "FDA Food Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Foods Alive organic moringa leaf powder, 8oz pouch, UPC 8 91551 00092 8",
+          "codes": "Freshest by 110127",
+          "recallNumber": "H-1336-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-food-99755",
+      "section": "food",
+      "category": "Human food",
+      "title": "Mercer's brand 6 ICE CREAM SANDWICHES TO GO; packaged in clear plastic; ice cream sandwiches may be rolled in peanuts which are visible through product packaging Ingredients: Cream, sugar, nonfat milk, whey, cocoa (alkal",
+      "brand": "Quality Dairy Farms Inc.",
+      "description": "Undeclared peanuts",
+      "reason": "Undeclared peanuts",
+      "action": "Do not consume if the allergen applies. Check the affected codes, then return or discard the product as directed.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "NY"
+      ],
+      "distribution": "NY",
+      "retailers": [],
+      "allergens": [
+        "peanut"
+      ],
+      "codes": "Codes: 6197 and 6226",
+      "source": "FDA Food Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Mercer's brand 6 ICE CREAM SANDWICHES TO GO; packaged in clear plastic; ice cream sandwiches may be rolled in peanuts which are visible through product packaging Ingredients: Cream, sugar, nonfat milk, whey, cocoa (alkalized), stabilizer (guar gum, carrageenan), chocolate wafer (wheat flour, sugar, high fructose corn syrup, shortening [partially hydrogenated soybean oil], caramel color, soy flour, corn starch, baking soda, soy lecithin, cocoa, salt, natural vanilla flavor) and/or chocolate chip cookie (Enriched wheat flour [wheat flour, niacin, reduced iron, thiamine, riboflavin, folic acid], palm oil, sugar, chocolate chips [sugar, chocolate liquor, cocoa butter, dextrose, soy lecithin], brown sugar, containers 2% or less of dextrose, salt, leavenings [ammonium bicarbonate, baking soda, sodium acid pyrophosphate], natural flavor) and/or Oreo cookie (unbleached enriched flour (wheat flour, niacin, reduced iron, thiamine mononitrate [vitamin B1], riboflavin [vitamin B2], folic acid), sugar, canola oil, cocoa [processed with alkali], high fructose corn syrup, leavening [baking soda and/or calcium phosphate], salt, soy lecithin, chocolate, artificial flavor. May contain nuts. May contain Chocolate Sprinkles (sugar, hydrogenated palm kernel oil, cocoa powder (processed with alkali), corn starch, maltodextrin, cellulose gum, sunflower lecithin, natural and artificial flavor, carnauba wax, vanillin) May contain Carnival Sprinkles (sugar, hydrogenated palm kernel oil, corn starch, sunflower lecithin, FD&C colors (Yellow #6 Lake, Yellow #5 Lake, Blue #1 Lake, Red #40 Lake, Red #3 Dye) maltodextrin, cellulose gum, carnauba wax, vanillin) Plant #: 36-5692. Boonville, NY net weight 1.5lb",
+          "codes": "Codes: 6197 and 6226",
+          "recallNumber": "H-1343-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-food-99831",
+      "section": "food",
+      "category": "Human food",
+      "title": "Organic Triple Berry Blend Strawberries, Blackberries & Blueberries, NET WT 10 OZ (283g), packed in plastic bag, 5 bags per case of 10 OZ each. KEEP FROZEN",
+      "brand": "Frutas y Hortalizas del Sur S.A.",
+      "description": "Potential E. coli O145:H28 Contamination",
+      "reason": "Potential E. coli O145:H28 Contamination",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "AR"
+      ],
+      "distribution": "AR",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Lot 6 040 01-6 Best by Date Feb 09 2028",
+      "source": "FDA Food Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Organic Triple Berry Blend Strawberries, Blackberries & Blueberries, NET WT 10 OZ (283g), packed in plastic bag, 5 bags per case of 10 OZ each. KEEP FROZEN",
+          "codes": "Lot 6 040 01-6 Best by Date Feb 09 2028",
+          "recallNumber": "H-1380-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-drug-99654",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Safecor Health, LLC: 6 recalled products",
+      "brand": "Safecor Health, LLC",
+      "description": "Failed Stability Specifications",
+      "reason": "Failed Stability Specifications",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Nationwide in the USA.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Drug Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Fluphenazine HCl Elixir, USP, 15 mg per 3 mL, Delivers: 10 mL, Oral Elixir, PAI, Alcohol 14% by volume, For Oral Use Only, Rx Only, Pkg by: Safecor Health, Woburn, MA 01801. NDC: 00121-0653-04",
+          "codes": "Lot#:26080483; Exp :03/13/2027 Lot#:25310327; Exp :08/12/2026 Lot#:25330414; Exp :08/26/2026 Lot#:25430340; Exp :11/22/2026",
+          "recallNumber": "D-0845-2026"
+        },
+        {
+          "name": "Fluphenazine HCl Elixir, USP, 20 mg per 4 mL, Delivers: 10 mL, Oral Elixir, PAI, Alcohol 14% by volume, For Oral Use Only, Rx Only, Pkg by: Safecor Health, Woburn, MA 01801. NDC: 00121-0653-04",
+          "codes": "Lot#:25330415; Exp :08/26/2026 Lot#:25340169; Exp :09/05/2026 Lot#:25380387; Exp :10/17/2026 Lot#:25410936; Exp :11/13/2026 Lot#:25450649; Exp :11/30/2026 Lot#:25471328; Exp :01/05/2027 Lot#:26120385; Exp :03/27/2027 Lot#:26141494; Exp :04/07/2027 Lot#:26170183; Exp :04/21/2027 Lot#:26220497; Exp :05/28/2027",
+          "recallNumber": "D-0846-2026"
+        },
+        {
+          "name": "Fluphenazine HCl Elixir, USP, 10 mg per 2 mL, Delivers: 10 mL, Oral Elixir, PAI, Alcohol 14% by volume, For Oral Use Only, Rx Only, Pkg by: Safecor Health, Woburn, MA 01801. NDC: 00121-0653-04",
+          "codes": "Lot#:25421159; Exp :10/21/2026 Lot#:25431644; Exp :11/03/2026 Lot#:25471687; Exp :12/02/2026 Lot#:25510930; Exp :01/05/2027 Lot#:26130247; Exp :04/17/2027 Lot#:25450648; Exp :11/30/2026 Lot#:26061716; Exp :02/28/2027 Lot#:26120384; Exp :03/27/2027 Lot#:26141493; Exp :04/07/2027 Lot#:26190055; Exp :05/04/2027 Lot#:26231530; Exp :06/05/2027",
+          "recallNumber": "D-0844-2026"
+        },
+        {
+          "name": "Fluphenazine HCl Elixir, USP, 5 mg per 10 mL, Delivers: 10 mL, Oral Elixir, PAI, Alcohol 14% by volume, For Oral Use Only, Rx Only, Pkg by: Safecor Health, Woburn, MA 01801. NDC: 00121-0654-16",
+          "codes": "Lot#:26220866; Exp :06/18/2027 Lot#:25321477; Exp :0/18/2026 Lot#:25471651; Exp :12/01/2026 Lot#:25500133; Exp :12/19/2026 Lot#:26161398; Exp :12/31/2026 Lot#:26170946; Exp :05/15/2027 Lot#:26240033; Exp :05/31/2027",
+          "recallNumber": "D-0843-2026"
+        },
+        {
+          "name": "Fluphenazine HCl Elixir, USP, 5 mg per 1 mL, Delivers: 10 mL, Oral Elixir, PAI, Alcohol 14% by volume, For Oral Use Only, Rx Only, Pkg by: Safecor Health, Woburn, MA 01801. NDC: 00121-0653-04",
+          "codes": "Lot #:25330169; Exp :08/25/2026 Lot #:25340107; Exp :09/04/2026 Lot #:25370044; Exp :09/30/2026 Lot #:25391430; Exp :10/30/2026 Lot #:25411035; Exp :11/13/2026 Lot #:25461036; Exp :12/12/2026 Lot #:25450206; Exp :12/12/2026 Lot #:25521269; Exp :02/03/2027 Lot #:26030426; Exp :02/09/2027 Lot #:26071765; Exp :03/11/2027 Lot #:26111371; Exp :03/24/2027 Lot #:26121435; Exp :03/31/2027 Lot #:26141209; Exp :04/07/2027 Lot #:26151211; Exp :04/13/2027 Lot #:26170561; Exp :04/23/2027 Lot #:26171144; Exp :04/24/2027 Lot #:26191168; Exp :05/08/2027 Lot #:26210307; Exp :05/21/2027 Lot #:26231182; Exp :06/04/2027 Lot #:26241285; Exp :06/15/2027",
+          "recallNumber": "D-0842-2026"
+        },
+        {
+          "name": "Fluphenazine HCl Elixir, USP, 2.5 mg per 5 mL, Delivers: 5 mL, Oral Elixir, PAI, Alcohol 14% by volume, For Oral Use Only, Rx Only, Pkg by: Safecor Health, Woburn, MA 01801. NDC: 00121-0654-16",
+          "codes": "Lot#26160463; Exp :04/20/2027 Lot#25430188; Exp :11/26/2026 Lot#25440715; Exp :12/9/2026 Lot#25501160; Exp :01/21/2027 Lot#26021054; Exp :02/5/2027 Lot#26130635; Exp :04/3/2027 Lot#26200964; Exp :05/13/2027",
+          "recallNumber": "D-0841-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-drug-99709",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Thyroid Tablets, USP, 1/2 Grain (30 mg), Each tablet contains: levothyroxine (T4) 19 mcg, liothyronine (T3) 4.5 mcg, 100 Tablets, Rx only, Distributed by: Vitruvias Therapeutics, Auburn, AL 36830, Product of USA, NDC 696",
+      "brand": "VITRUVIAS THERAPEUTICS INC",
+      "description": "Superpotent Drug",
+      "reason": "Superpotent Drug",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Lot # 504950, Exp Date: 09/30/2026.",
+      "source": "FDA Drug Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Thyroid Tablets, USP, 1/2 Grain (30 mg), Each tablet contains: levothyroxine (T4) 19 mcg, liothyronine (T3) 4.5 mcg, 100 Tablets, Rx only, Distributed by: Vitruvias Therapeutics, Auburn, AL 36830, Product of USA, NDC 69680-166-00.",
+          "codes": "Lot # 504950, Exp Date: 09/30/2026.",
+          "recallNumber": "D-0866-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-drug-99794",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Lidocaine Ointment USP, 5%, Speermint Flavor, 50 g Jar, Rx only, Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, L6T1C, Canada, Dist By: Taro Pharmaceuticals U.S.A. Inc. Hawthorne NY 70532 NDC: 51672-3008-5",
+      "brand": "SUN PHARMA /TARO",
+      "description": "Failed Content Uniformity Specifications. Out of Specification for Assay during analysis at the 24- month long term stability station, at (25¿C,60%RH).",
+      "reason": "Failed Content Uniformity Specifications. Out of Specification for Assay during analysis at the 24- month long term stability station, at (25¿C,60%RH).",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Nationwide in the USA",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Lot # AD48154, Exp: 4/30/2027.",
+      "source": "FDA Drug Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Lidocaine Ointment USP, 5%, Speermint Flavor, 50 g Jar, Rx only, Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, L6T1C, Canada, Dist By: Taro Pharmaceuticals U.S.A. Inc. Hawthorne NY 70532 NDC: 51672-3008-5",
+          "codes": "Lot # AD48154, Exp: 4/30/2027.",
+          "recallNumber": "D-0848-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-drug-99806",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Chlorthalidone Tablets, USP, 25 mg, 100 Tablets per bottle, Rx only, Manufactured by: Inventia Healthcare Limited. NDC: 64980-599-01",
+      "brand": "Inventia Healthcare Limited",
+      "description": "Failed Dissolution Specifications",
+      "reason": "Failed Dissolution Specifications",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "U.S. Nationwide",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Batch # RISA24002; Exp Date: 04/2027",
+      "source": "FDA Drug Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Chlorthalidone Tablets, USP, 25 mg, 100 Tablets per bottle, Rx only, Manufactured by: Inventia Healthcare Limited. NDC: 64980-599-01",
+          "codes": "Batch # RISA24002; Exp Date: 04/2027",
+          "recallNumber": "D-0852-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-drug-99824",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Dopamine HCl Inj., USP, 200 mg/5 mL (40 mg/mL), 5 mL Single-dose, 25 vials per tray, Rx only, Distributed by Hospira, Inc., Lake Forest, IL 60045 USA, Vial NDC 0409-5820-11, Carton NDC 0409-5820-01.",
+      "brand": "Pfizer",
+      "description": "Lack of Assurance of Sterility",
+      "reason": "Lack of Assurance of Sterility",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Lot # NL5230, Exp Date:10/2027",
+      "source": "FDA Drug Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Dopamine HCl Inj., USP, 200 mg/5 mL (40 mg/mL), 5 mL Single-dose, 25 vials per tray, Rx only, Distributed by Hospira, Inc., Lake Forest, IL 60045 USA, Vial NDC 0409-5820-11, Carton NDC 0409-5820-01.",
+          "codes": "Lot # NL5230, Exp Date:10/2027",
+          "recallNumber": "D-0853-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99634",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Stryker Sustainability Solutions: 6 recalled products",
+      "brand": "Stryker Sustainability Solutions",
+      "description": "Reusable access port system may crack or seperate during use.",
+      "reason": "Reusable access port system may crack or seperate during use.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution including in the states of Alabama, Alaska, Arizona, Arkansas, California, Colorado, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Puerto Rico, South Carolina , South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming and the countries of Israel and Canada.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "REF:2B5ST Ethicon Endo-Surgery, Inc. XCEL BLADELESS TROCAR W/OPTIVIEW TECHNOLOGY & SLEEVE 5MM X 75MM",
+          "codes": "UDI: (01)00885825017231/ Lots: 16188647 16210212 16243934 16267300 16285639 16285656 16306188 16306231 16364978 16470903 16521533 16547722 16580202 16599810 16637989 16656930 16665550 17005619 17069758 17113276 17117460 17146892 17172722 17389157",
+          "recallNumber": "Z-3183-2026"
+        },
+        {
+          "name": "REF:B5ST Ethicon Endo-Surgery, Inc. XCEL BLADELESS TROCAR W/STABILITY SLEEVE 5X75MM",
+          "codes": "UDI:(01)00885825014254/ Lots: 16028740 16083100 16098933 16106547 16130667 16160384 16160418 16160460 16181332 16201793 16207031 16234052 16264116 16418941 16421915 16422882 16476685 16493231 16948345 16954673 16977948 16993151 17151380 17160201 17210355 17239624 17271015 17271027 17324927 17341521 17342144 17378894 17412852 17426084 17457260 17491569 17499741 17512459 17521310 17526338",
+          "recallNumber": "Z-3187-2026"
+        },
+        {
+          "name": "REF:B5LT Ethicon Endo-Surgery, Inc. XCEL BLADELESS TROCAR W/STABILITY SLEEVE 5X100MM",
+          "codes": "UDI: (01)00885825014193/ Lots: 16028826 16028944 16032429 16032455 16037857 16042594 16043150 16046641 16048041 16048162 16052733 16062124 16066285 16070101 16070223 16070912 16074744 16084153 16087588 16096162 16098296 16099148 16111195 16111423 16112459 16115071 16120538 16126420 16126902 16131433 16135397 16135402 16139681 16140445 16142642 16142674 16146017 16146188 16146587 16147022 16155907 16156189 16160070 16160805 16160867 16161367 16168109 16168270 16172196 16172940 16177138 16177252 16180562 16188453 16189060 16189428 16192354 16192768 16197315 16201740 16202087 16202127 16207388 16210404 16213753 16214274 16214290 16222349 16224767 16225404 16229770 16233367 16237281 16238596 162",
+          "recallNumber": "Z-3186-2026"
+        },
+        {
+          "name": "REF:B12LT Ethicon Endo-Surgery, Inc. XCEL BLADELESS TROCAR W/STABILITY SLEEVE 12X100MM",
+          "codes": "UDI: (01)00885825020897/ Lots: 16029001 16032878 16038822 16041414 16044000 16048542 16052751 16054119 16062169 16062738 16066292 16074632 16087947 16087952 16090650 16098040 16107246 16111434 16115899 16115909 16120868 16130680 16130701 16135456 16136279 16138395 16140432 16140568 16142544 16142619 16159304 16160563 16172080 16176548 16186738 16186874 16187194 16187248 16187457 16197336 16201786 16205783 16205810 16205823 16206753 16220653 16220918 16221448 16221453",
+          "recallNumber": "Z-3185-2026"
+        },
+        {
+          "name": "REF:B11LT Ethicon Endo-Surgery, Inc. XCEL BLADELESS TROCAR W/STABILITY SLEEVE 11X100MM",
+          "codes": "UDI: (01)00885825014278/ Lots: 16029055 16032602 16043960 16061865 16070321 16087746 16098637 16110046 16114368 16130717 16135711 16143130 16146135 16151146 16160441 16168393 16176147 16181210 16193613 16193841 16197273 16210637 16225560 16234068 16243073 16255238 16270273 16281198 16288334 16294565 16297693 16298302 16330851 16331282 16343635 16347401 16371411 16371424 16388088 16403183 16403718 16414106 16427432 16431368 16447949 16467342 16477495 16487698 16494506 16500580 16508571 16521742 16532270 16535613 16535744 16548007 16555888 16570108 16574637 16587696 16587715 16590797 16599333 16599403 16604291 16608764 16623439 16633133 16645377 16651357 16652029 16655384 16665681 16674817 166",
+          "recallNumber": "Z-3184-2026"
+        },
+        {
+          "name": "REF:2B5LT Ethicon Endo-Surgery, Inc. XCEL BLADELESS TROCAR W/OPTIVIEW TECHNOLOGY & SLEEVE 5MM X 100MM",
+          "codes": "UDI: (01)00885825017248/ Lots: 16029709 16029713 16029905 16038879 16038908 16048968 16048981 16051646 16052906 16053263 16070603 16070983 16074134 16074530 16074759 16092016 16092379 16092572 16104843 16106180 16119023 16119800 16121093 16126431 16126844 16140581 16140608 16140727 16140736 16142688 16160592 16160707 16160912 16161351 16167914 16180911 16188469 16189136 16197549 16210951 16244569 16247119 16247126 16250185 16255569 16267787 16273355 16284965 16303304 16306443 16359846 16360045 16360239 16360667 16364426 16383244 16383259 16384055 16396887 16397027 16427445 16435623 16435843 16436420 16436477 16444099 16444580 16444611 16448679 16448717 16459282 16459305 16459333 16459564 164",
+          "recallNumber": "Z-3182-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99649",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Datex-Ohmeda, Inc.: 4 recalled products",
+      "brand": "Datex-Ohmeda, Inc.",
+      "description": "Anesthesia Delivery Systems containing certain electronic gas mixer assemblies can automatically transition to Alternate O2 control. In Alternate O2 control, the system delivers 100% O2 to the breathing system enabling continued controlled or manual ventilation and initiates audible and visual alarms. When this issue occurs, anesthetic agent delivery will be interrupted and requires clinician intervention. If this is not provided, the patient may experience decreased anesthetic agent effect.",
+      "reason": "Anesthesia Delivery Systems containing certain electronic gas mixer assemblies can automatically transition to Alternate O2 control. In Alternate O2 control, the system delivers 100% O2 to the breathing system enabling continued controlled or manual ventilation and initiates audible and visual alarms. When this issue occurs, anesthetic agent delivery will be interrupted and requires clinician intervention. If this is not provided, the patient may experience decreased anesthetic agent effect.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Worldwide - US Nationwide distribution.",
+      "retailers": [
+        "Target"
+      ],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Aisys CS2 with Et Control, Datex-Ohmeda anesthesia system, Part Number 1011-9000-000",
+          "codes": "Serial Numbers: ANAS01357 ANAP00609 ANAQ00988 ANAS00586 ANAR00543 ANAP01088 ANAM00443",
+          "recallNumber": "Z-3191-2026"
+        },
+        {
+          "name": "Et Control, Software option for anesthesia gas machine to achieve and maintain targeted end tidal oxygen and anesthetic agents, Field replaceable unit (FRU) part numbers: 1011-8000-000-S, 5700665",
+          "codes": "Serial Numbers: 801042711 801031045 801031926 801045423 801011743 801090568 801128677 801011276-1 801011276-10 801011276-11 801011276-12 801011276-13 801011276-14 801011276-15 801011276-2 801011276-3 801011276-4 801011276-5 801011276-6 801011276-7 801011276-8 801011276-9 801078342-1 801078342-10 801078342-11 801078342-12 801078342-13 801078342-14 801078342-15 801078342-16 801078342-17 801078342-18 801078342-19 801078342-2 801078342-20 801078342-21 801078342-22 801078342-23 801078342-24 801078342-25 801078342-26 801078342-27 801078342-28 801078342-29 801078342-3 801078342-30 801078342-4 801078342-5 801078342-6 801078342-7 801078342-8 801078342-9 801102924 801108227 801113705 801114965 8010848",
+          "recallNumber": "Z-3192-2026"
+        },
+        {
+          "name": "Aisys CS2, Datex-Ohmeda anesthesia system, Part Number 1011-9055-000",
+          "codes": "UDI-DI: 00195278588128; Serial Numbers: AQDF40422 AQDE40769 AQDE40771 AQDF40287 AQDF40288 AQDF40290 AQDF40291 AQDF40293 AQDF40294 AQDF40295 AQDF40311 AQDF40313 AQDF40314 AQDE40754 AQDE40755 AQDE40756 AQDE40757 AQDE40759 AQDE40762 AQDE40763 AQDF40296 AQDF40300 AQDF40301 AQDF40302 AQDF40303 AQDD40441 AQDF40399 AQDF40400 AQDF40401 AQDF40423 AQDF40424 AQDF40425 AQDE40743 AQDE40744 AQDE40748 AQDE40749 AQDC40064 AQDE40427 AQDC40059 AQDE40736 AQDF40353 AQDF40354 AQDF40355 AQDF40356 AQDF40357 AQDF40358 AQDF40359 AQDF40360 AQDF40361 AQDF40362 AQDF40363 AQDF40364 AQDF40365 AQDF40366 AQDF40367 AQDF40368 AQDF40369 AQDE40780 AQDE40781 AQDE40782 AQDE40783 AQDE40787 AQDE40788 AQDF40325 AQDF40371 AQDF40372 ",
+          "recallNumber": "Z-3190-2026"
+        },
+        {
+          "name": "Aisys, Datex-Ohmeda anesthesia system, Part Number 1011-9050-000",
+          "codes": "UDI-DI: 00840682102292; Serial Numbers: APWC01722 APWF00169 APWF00170 APWF00173 APWF00174 APWF00111 APWF00368 APWF00402 APWF00465 APWF00467 APWF00468 APWF00469 APWF00470 APWF00471 APWF00472 APWF00473 APWF00474 APWF00475 APWF00476 APWF00477 APWT00394 APWC01107 APWF00436 APWE01910 APWE01911 APWV00635 APWW01464 APWW01625 APWF00380 APWF00381 APWF00382 APWY00358 APWF00359 APWF00313 APWE01925 APWV02342 APWE01915 APWF00458 APWF00433 APWD02646 APWC01330 APWC01339 APWC01340 APWF00279 APWF00280 APWF00281 APWF00282 APWF00283 APWF00284 APWF00285 APWF00286 APWF00287 APWF00288 APWF00289 APWF00290 APWF00262 APWF00312 APWX00800 APWX00804 APWF00138 APWF00466 APWE01974 APWF00396 APWF00297 APWF00298 APWF00299 ",
+          "recallNumber": "Z-3189-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99758",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "AVID Medical, Inc.: 4 recalled products",
+      "brand": "AVID Medical, Inc.",
+      "description": "Potential for product quality and sterility issues regarding kits containing Sodium Chloride ampules subject to recall by Spectra Medical.",
+      "reason": "Potential for product quality and sterility issues regarding kits containing Sodium Chloride ampules subject to recall by Spectra Medical.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "IL",
+        "NC",
+        "VA",
+        "WY"
+      ],
+      "distribution": "Domestic: IL, NC, VA, WY;",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Haylard 18G SINGLE SHOT EPI TRAY; Model/Item Number (Kit): DPGE002-02;",
+          "codes": "Model/Item Number (Kit): DPGE002-02; UDI-DI: 10809160410325; Kit Lots: 1641713, 1641714, 1659697, 1668209; Recalled Sodium Chloride Ampule Lot: AB4003;",
+          "recallNumber": "Z-3151-2026"
+        },
+        {
+          "name": "Haylard UNIV IMAGING BIOPSY TRUCUSTOM; Model/Item Number (Kit): VARV042-03;",
+          "codes": "Model/Item Number (Kit): VARV042-03; UDI-DI: 10809160490822; Kit Lots: 1668365, 1668366, 1688166, 1692637, 1696930; Recalled Sodium Chloride Ampule Lot: AB5002, AB4003;",
+          "recallNumber": "Z-3154-2026"
+        },
+        {
+          "name": "Haylard BASIC BIOPSY TRAY; Model/Item Number (Kit): PM415;",
+          "codes": "Model/Item Number (Kit): PM415; UDI-DI: 10809160322154; Kit Lots: 1652485, 1656642, 1667835, 1676219, 1682251, 1691940; Recalled Sodium Chloride Ampule Lot: AB5002, AB4003;",
+          "recallNumber": "Z-3153-2026"
+        },
+        {
+          "name": "Haylard CONTINUOUS NERVE BLOCK TRAY; Model/Item Number (Kit): BMCN001-05;",
+          "codes": "Model/Item Number (Kit): BMCN001-05; UDI-DI: 10809160455128; Kit Lots: 1703122, 1707656, 1708053; Recalled Sodium Chloride Ampule Lot: AB5002;",
+          "recallNumber": "Z-3152-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99669",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Medline Industries, LP: 7 recalled products",
+      "brand": "Medline Industries, LP",
+      "description": "The kits contain certain lots of sterile applicators which may contain fungal contamination that may occur under certain environmental conditions, allowing the growth of Aspergillus penicillioides. Contamination of skin preparation products with Aspergillus penicillioides may lead to serious adverse health consequences, including systemic infection, sepsis, illness, and death.",
+      "reason": "The kits contain certain lots of sterile applicators which may contain fungal contamination that may occur under certain environmental conditions, allowing the growth of Aspergillus penicillioides. Contamination of skin preparation products with Aspergillus penicillioides may lead to serious adverse health consequences, including systemic infection, sepsis, illness, and death.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Medline Convenience Kits: 1) DYKM1000B, Catalog Number: DYKM1000B; 2) DYKM2187A, Catalog Number: DYKM2187A",
+          "codes": "1) DYKM1000B, UDI-DI: 10889942508143(each), 40889942508144(case), Lot Number: 24GMD979; 2) DYKM2187A, UDI-DI: 10195327628826(each), 40195327628827(case), Lot Number: 24FBM840; 3) DYKM2187A, UDI-DI: 10195327628826(each), 40195327628827(case), Lot Number: 24HBK903",
+          "recallNumber": "Z-3125-2026"
+        },
+        {
+          "name": "Medline Convenience Kits: 1) KIT ANESTHESIA L&D A- LINE SET, Catalog Number: DYKMBNDL199A",
+          "codes": "1) DYKMBNDL199A, UDI-DI: 10193489848540(each), 40193489848541(case), Lot Number: 24HBH109; 2) DYKMBNDL199A, UDI-DI: 10193489848540(each), 40193489848541(case), Lot Number: 24HBM182; 3) DYKMBNDL199A, UDI-DI: 10193489848540(each), 40193489848541(case), Lot Number: 24HBS365",
+          "recallNumber": "Z-3121-2026"
+        },
+        {
+          "name": "Medline Convenience Kits: 1) DYNDH1193, Catalog Number: DYNDH1193; 2) DYNDH1487A, Catalog Number: DYNDH1487A",
+          "codes": "1) DYNDH1193, UDI-DI: 10889942499953(each), 40889942499954(case), Lot Number: 24HBF076; 2) DYNDH1193, UDI-DI: 10889942499953(each), 40889942499954(case), Lot Number: 24HBU638; 3) DYNDH1487A, UDI-DI: 10193489484311(each), 40193489484312(case), Lot Number: 24FMH485",
+          "recallNumber": "Z-3126-2026"
+        },
+        {
+          "name": "Medline Convenience Kits: 1) OPEN HEART ADULT, Catalog Number: CDS840396Y; 2) FULL LINE ANEURYSM CDS, Catalog Number: CDS983672O; 3) NON STERILE CHEST TUBE REMOVAL, Catalog Number: DYNDA1080",
+          "codes": "1) CDS840396Y, UDI-DI: 10195327574932(each), 40195327574933(case), Lot Number: 24FBJ654; 2) CDS983672O, UDI-DI: 10195327207625(each), 40195327207626(case), Lot Number: 24FBM444; 3) CDS983672O, UDI-DI: 10195327207625(each), 40195327207626(case), Lot Number: 24HBJ581; 4) DYNDA1080, UDI-DI: 10884389388679(each), 40884389388670(case), Lot Number: 24HBT102",
+          "recallNumber": "Z-3122-2026"
+        },
+        {
+          "name": "Medline Convenience Kits: 1) DYNDB3086D, Catalog Number: DYNDB3086D; 2) DYNDB3100, Catalog Number: DYNDB3100; 3) DYNDH1619A, Catalog Number: DYNDH1619A; 4) DYNDH1620A, Catalog Number: DYNDH1620A; 5) DYNDH1694A, Catalog Number: DYNDH1694A; 6) DYNDH1695, Catalog Number: DYNDH1695; 7) DYNDH1708A, Catalog Number: DYNDH1708A; 8) DYNDH1714A, Catalog Number: DYNDH1714A; 9) DYNDH1723, Catalog Number: DYNDH1723; 10) DYNDH1740B, Catalog Number: DYNDH1740B; 11) DYNDH1741B, Catalog Number: DYNDH1741B; 12) DYNDH1771A, Catalog Number: DYNDH1771A; 13) DYNDH1908, Catalog Number: DYNDH1908; 14) DYNDH1940, Catalog Number: DYNDH1940; 15) DYNDH1988, Catalog Number: DYNDH1988; 16) DYNDH2002, Catalog Number: DYNDH2002; 17) DYNDH2017, Catalog Number: DYNDH2017. Blood and urine collection kits",
+          "codes": "1) DYNDB3086D, UDI-DI: 10195327313234(each), 40195327313235(case), Lot Number: 24IBA685; 2) DYNDB3100, UDI-DI: 10198459028915(each), 40198459028916(case), Lot Number: 24IBF913; 3) DYNDH1619A, UDI-DI: 10195327215835(each), 40195327215836(case), Lot Number: 24FBH708; 4) DYNDH1619A, UDI-DI: 10195327215835(each), 40195327215836(case), Lot Number: 24HBG622; 5) DYNDH1620A, UDI-DI: 10195327216047(each), 40195327216048(case), Lot Number: 24GBY827; 6) DYNDH1620A, UDI-DI: 10195327216047(each), 40195327216048(case), Lot Number: 24HBQ593; 7) DYNDH1620A, UDI-DI: 10195327216047(each), 40195327216048(case), Lot Number: 24HBU881; 8) DYNDH1694A, UDI-DI: 10195327139957(each), 40195327139958(case), Lot Number:",
+          "recallNumber": "Z-3127-2026"
+        },
+        {
+          "name": "Medline Convenience Kits: 1) ACC010308A, Catalog Number: ACC010308A; 2) ACC010374A, Catalog Number: ACC010374A; 3) ACC010679, Catalog Number: ACC010679; 4) ACC010726A, Catalog Number: ACC010726A; 5) DYNDB3061, Catalog Number: DYNDB3061; 6) DYNDH1245, Catalog Number: DYNDH1245; 7) DYNDH1362, Catalog Number: DYNDH1362",
+          "codes": "1) ACC010308A, UDI-DI: 10889942424597(each), 40889942424598(case), Lot Number: 24HDA993; 2) ACC010308A, UDI-DI: 10889942424597(each), 40889942424598(case), Lot Number: 24IDB285; 3) ACC010308A, UDI-DI: 10889942424597(each), 40889942424598(case), Lot Number: 24JDA212; 4) ACC010374A, UDI-DI: 10193489893977(each), 40193489893978(case), Lot Number: 24IDB849; 5) ACC010679, UDI-DI: 10195327396268(each), 40195327396269(case), Lot Number: 24HDA071; 6) ACC010726A, UDI-DI: 10198459043666(each), 40198459043667(case), Lot Number: 24GDB143; 7) DYNDB3061, UDI-DI: 10889942143733(each), 40889942143734(case), Lot Number: 24HBS752; 8) DYNDH1245, UDI-DI: 10889942604722(each), 40889942604723(case), Lot Number: 2",
+          "recallNumber": "Z-3124-2026"
+        },
+        {
+          "name": "Medline Convenience Kits: 1) PORT ACCESS KIT UNIV OF ALA, Catalog Number: DYKM1414; 2) ARTERIAL LINE ST JOES SYR PACK, Catalog Number: DYNJ38145F",
+          "codes": "1) DYKM1414, UDI-DI: 10889942481293(each), 40889942481294(case), Lot Number: 24HBS933; 2) DYNJ38145F, UDI-DI: 10193489277173(each), 40193489277174(case), Lot Number: 24HBT600",
+          "recallNumber": "Z-3123-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99637",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Carescape Central Station CSCS V3 MAS800 Desktop Part Number 5867474-04, 5867474-13 Product code STU CSCS V3 MAI800 Integrated Part Number 5867474-03 Product Code STV",
+      "brand": "GE Medical Systems Information Technologies Inc",
+      "description": "Device may not resume patient monitoring for at least 3 minutes following system restart. Issue can lead to potential delay in recognition of clinically significant events.",
+      "reason": "Device may not resume patient monitoring for at least 3 minutes following system restart. Issue can lead to potential delay in recognition of clinically significant events.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Worldwide - US Nationwide distribution.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "5867474-04 UDI-DI 00195278343512 Device Serial Numbers begin with STU 5867474-13 UDI-DI 00195278516367 Device Serial Numbers begin with STU 5867474-03 UDI-DI 00195278343383 Device Serial Numbers begin with STV",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Carescape Central Station CSCS V3 MAS800 Desktop Part Number 5867474-04, 5867474-13 Product code STU CSCS V3 MAI800 Integrated Part Number 5867474-03 Product Code STV",
+          "codes": "5867474-04 UDI-DI 00195278343512 Device Serial Numbers begin with STU 5867474-13 UDI-DI 00195278516367 Device Serial Numbers begin with STU 5867474-03 UDI-DI 00195278343383 Device Serial Numbers begin with STV",
+          "recallNumber": "Z-3143-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99546",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Nova Biomedical Corporation: 5 recalled products",
+      "brand": "Nova Biomedical Corporation",
+      "description": "A software synchronization/timing issue in the barcode scanning and patient data processing component that causes the device to intermittently retain a previously scanned barcode including patient identification (ID) barcodes and quality control (QC) solution ID barcodes when a new barcode is scanned, resulting in the prior barcode information remaining displayed on the screen for the current test. When this defect occurs and the operator accepts the incorrectly displayed patient information without recognizing the mismatch, the current patient's glucose result will be incorrectly assigned to the previous patient's medical record and transmitted to the data management system (DMS), and the current patient's medical record will not receive a result, leaving their glucose status unrecorded and their clinical management without the information needed to guide treatment decisions. The previous patient, whose medical record now contains a glucose result that does not belong to them, may receive inappropriate clinical intervention based on that erroneous result, particularly in critically ill patients, neonates, and infants who cannot communicate symptoms or self-treat. The defect also affects QC barcode scanning: if a QC scan triggers the same retention behavior, QC results may be attributed to an incorrect identifier or QC tests may fail without the user recognizing the underlying cause. This defect does not affect the analytical accuracy of glucose measurements.",
+      "reason": "A software synchronization/timing issue in the barcode scanning and patient data processing component that causes the device to intermittently retain a previously scanned barcode including patient identification (ID) barcodes and quality control (QC) solution ID barcodes when a new barcode is scanned, resulting in the prior barcode information remaining displayed on the screen for the current test. When this defect occurs and the operator accepts the incorrectly displayed patient information without recognizing the mismatch, the current patient's glucose result will be incorrectly assigned to the previous patient's medical record and transmitted to the data management system (DMS), and the current patient's medical record will not receive a result, leaving their glucose status unrecorded and their clinical management without the information needed to guide treatment decisions. The previous patient, whose medical record now contains a glucose result that does not belong to them, may receive inappropriate clinical intervention based on that erroneous result, particularly in critically ill patients, neonates, and infants who cannot communicate symptoms or self-treat. The defect also affects QC barcode scanning: if a QC scan triggers the same retention behavior, QC results may be attributed to an incorrect identifier or QC tests may fail without the user recognizing the underlying cause. This defect does not affect the analytical accuracy of glucose measurements.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Worldwide distribution: US (nationwide) and OUS (foreign) countries of: Austria, Belgium, Bolivia, Brazil, Canada, Cayman Islands, Chile, Croatia, Dominican Rep., Finland, France, Germany, Ireland, Israel, Italy, Netherlands, New Zealand, South Korea, Switzerland, Thailand, Turkey, United Kingdom.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "StatStrip Glucose and B- Ketone meter. Model No: 63910. Glucose test system.",
+          "codes": "Model No: 63910. UDI-DI: 00385480639101. Software Versions: All versions 0.00.13.10 through 1.5.14.25.",
+          "recallNumber": "Z-3131-2026"
+        },
+        {
+          "name": "StatStrip Glucose and B- Ketone meter. Model No: 63683. Glucose test system.",
+          "codes": "Model No: 63683. UDI-DI: 00385480636834. Software Versions: All versions 0.00.13.10 through 1.5.14.25.",
+          "recallNumber": "Z-3130-2026"
+        },
+        {
+          "name": "StatStrip Glucose Hospital Meter System. Model No: 63685. Glucose test system.",
+          "codes": "Model No: 63685. UDI-DI: 00385480636858. Software Versions: All versions 0.00.13.10 through 1.5.14.25.",
+          "recallNumber": "Z-3128-2026"
+        },
+        {
+          "name": "StatStrip Glucose and B- Ketone meter. Model No: 66429. Glucose test system.",
+          "codes": "Model No: 66429. UDI-DI: :00385480664295. Software Versions: All versions 0.00.13.10 through 1.5.14.25.",
+          "recallNumber": "Z-3132-2026"
+        },
+        {
+          "name": "StatStrip Glucose Hospital Meter System. Model No: 66739. Glucose test system.",
+          "codes": "Model No: 66739. UDI-DI: 0038548063685. Software Versions: All versions 0.00.13.10 through 1.5.14.25.",
+          "recallNumber": "Z-3129-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99058",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "ICU Medical, Inc.: 8 recalled products",
+      "brand": "ICU Medical, Inc.",
+      "description": "Intravascular administration tubing set drip chambers may have black specks potentially due to the plastic molding process leaving discolored polyvinyl chloride (PVC) material within the drip chamber wall that does not enter the fluid path, which if seen by a healthcare provider may lead to replacement of product before use, which could result in a delay in therapy.",
+      "reason": "Intravascular administration tubing set drip chambers may have black specks potentially due to the plastic molding process leaving discolored polyvinyl chloride (PVC) material within the drip chamber wall that does not enter the fluid path, which if seen by a healthcare provider may lead to replacement of product before use, which could result in a delay in therapy.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Worldwide - US Nationwide distribution including in the states and territories of ND, TX, CT, KY, CO, AR, NC, NJ, VA, MD, OK, AK, IA, IN, KS, OR, CA, OH, WA, GA, AL, SC, MA, HI, FL, NH, NE, MN, MS, SD, MT, NY, DC, ID, WI, PA, AZ, MO, NV, TN, NM, WV, WY, IL, UT, MI, RI, VT, LA, DE, ME, VI, GU, PR and the countries of PK, PH, MY, HK, IN, DE, CR.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Oncology sets with drip chambers",
+          "codes": "All products manufactured on or before 7/4/2026. UDI-DI: 10887709076768, 10887709088105",
+          "recallNumber": "Z-3159-2026"
+        },
+        {
+          "name": "Oncology sets with drip chambers",
+          "codes": "All products manufactured on or before 7/4/2026. UDI-DI: 10840619054486, 10887709091914",
+          "recallNumber": "Z-3158-2026"
+        },
+        {
+          "name": "IV Sets with drip chambers",
+          "codes": "All products manufactured on or before 7/4/2026. UDI-DI: 20887787005633 20887787005640 20887787005664 20887787005961 20887787005985 20887787005992 20887787006005 20887787006029 20887787006142 20887787006449 20887787006418 20887787006340 20887787006319 20887787006289 20887787006265 10887709102016 20887787006258 20887787005329 20887787005923 20887787005930 20887787005947 10887709004112 10887709055626 10887709083407 10887709083414 20887787009303 20887787009273 20887787009280 10887709120218 20887787009297 10840619024021 10840619024069 10840619024120 10840619064409 10887709085715 10887709051895 10887709040141 20887709120208 10887709020518 10887709020907 10887709022017 10887709022215 1088770902235",
+          "recallNumber": "Z-3160-2026"
+        },
+        {
+          "name": "Plum administration sets",
+          "codes": "All products manufactured on or before 7/4/2026. UDI-DI: 10887709101460 30887709100023 30887709100030 10887709101477 30887709100047 30887709100054 20887787005312 20887787005404 10887709101484 30887709100092 20887709100118 20887709100125 30887709100139 10887709101491 20887709100149 20887709100156 20887709100163 20887709100170 20887709100187 20887709100194 30887709100207 20887709100460 20887709100804 10887709101569 30887709100733 20887709100347 20887709100354 20887787006234 20887787006227 20887787006180 20887787006487 20887787006036 20887787005978 20887787005237 10887709100869 20887787005251 10887709101675 20887787005268 20887709101689 20887787003011 20887787005350 20887787008801 2088778700562",
+          "recallNumber": "Z-3156-2026"
+        },
+        {
+          "name": "IV Sets with drip chambers",
+          "codes": "All products manufactured on or before 7/4/2026. UDI-DI: 10840619023307 10840619023338 10840619023369 10840619036468 10840619023963 10840619041288 10840619024007 10840619024809 10840619036796 10840619068278 10840619075993 10840619083431 10887709074726 10887709085913 10887709097176 10887709098340 10840619056480 10840619054783 10887709057019 10887709086415 10887709099958 10887709072920 10887709099590 10887709075181 10887709099965 10887709123042 10887709075051 10887709071404 10887709057026 10887709120010 10887709057033 10887709057040 10887709120027 10887709083322 10887709085098 10887709088808 10887709073798 10887709073804 10887709088860 10887709090641 10887709095530 10887709122861 1088770909577",
+          "recallNumber": "Z-3161-2026"
+        },
+        {
+          "name": "IV Non-Dedicated Gravity Administration Sets with drip chambers",
+          "codes": "All products manufactured on or before 7/4/2026. UDI-DI: 10887709079363 10887709079370 10887709079417 10887709079431 10887709079448 10887709079455 10887709097473 10887709079493 10887709079509 10887709079547",
+          "recallNumber": "Z-3157-2026"
+        },
+        {
+          "name": "IV Sets with drip chambers",
+          "codes": "All products manufactured on or before 7/4/2026. UDI-DI: 20887787005831",
+          "recallNumber": "Z-3162-2026"
+        },
+        {
+          "name": "IV Sets with drip chambers",
+          "codes": "All products manufactured on or before 7/4/2026. UDI-DI:10840619000025 10840619000049 10840619004481 10840619004498 10840619004627 10840619099371 10887709095981 10887709093864 10087219126704 10840619060081 10887709070124 10887709123516 10887709124643 10887709090696 10887709124414 10887709066318 10887709089812 10887709090702 10887709120171 10887709120188 10887709122892 10887709122441 10887709123905 10887709124537 10887709126739 10887709095240 10887709095707 10887709124018 10887709085432 10887709086002 10887709088495 10887709088501 10887709088518 10887709089393 10887709089904 10887709091754 10887709091990 10887709095271 10887709121147 10887709128221 10887709003610 10887709003627 10887709003634",
+          "recallNumber": "Z-3163-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99583",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Medline Convenience Kit: OPEN HEART A PACK, Product Number DYNJ43008N",
+      "brand": "Medline Industries, LP",
+      "description": "The kits contain a Retrograde Coronary Sinus Perfusion (RCSP) cannulae that has the potential for a sterile barrier breach. Sterility of the product cannot be assured. If a compromised pouch seal is not identified prior to use and the cannula is used, there is a potential risk of infection or other complications associated with the use of a non-sterile device, including hemolysis, foreign body reaction, thromboembolism, and/or organ dysfunction.",
+      "reason": "The kits contain a Retrograde Coronary Sinus Perfusion (RCSP) cannulae that has the potential for a sterile barrier breach. Sterility of the product cannot be assured. If a compromised pouch seal is not identified prior to use and the cannula is used, there is a potential risk of infection or other complications associated with the use of a non-sterile device, including hemolysis, foreign body reaction, thromboembolism, and/or organ dysfunction.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution in the state of CA.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "UDI-DI: 10198459445941 (each), 40198459445942 (case); Lot Numbers: 25HLA462, 25HLA916, 25JLA847, 25LLA298, 26CLA372",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Medline Convenience Kit: OPEN HEART A PACK, Product Number DYNJ43008N",
+          "codes": "UDI-DI: 10198459445941 (each), 40198459445942 (case); Lot Numbers: 25HLA462, 25HLA916, 25JLA847, 25LLA298, 26CLA372",
+          "recallNumber": "Z-3137-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99608",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Happiest Baby, Inc: 2 recalled products",
+      "brand": "Happiest Baby, Inc",
+      "description": "Extra small (ES) and Extra-large (XL) infant sleep sacks have not been reviewed for safety and effectiveness by the FDA.",
+      "reason": "Extra small (ES) and Extra-large (XL) infant sleep sacks have not been reviewed for safety and effectiveness by the FDA.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution including in the states of Alabama, Alaska, ANONYMIZED, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Happiest Baby, Inc SNOO Sleep Sack, X-Small Model/Catalog Number: S2101-101 S2101-108-6 S2101-133 S2102-112 S2107-101 S2107-110",
+          "codes": "All Lots/UDI: None",
+          "recallNumber": "Z-3175-2026"
+        },
+        {
+          "name": "Happiest Baby, Inc. SNOO Sleep Sack, X-Large Model/Catalog Number: S2101-501 S2101-508-11 S2101-508-3 S2101-508-4 S2101-508-5 S2101-508-6 S2101-508-7 S2101-512 S2101-513 S2101-532 S2101-533 S2101-534 S2101-535 S2101-536 S2101-541 S2101-551 S2102-508-10 S2102-508-9 S2103-501 S2103-502 S2103-504 S2103-508-11 S2103-508-12 S2103-508-13 S2103-508-14 S2103-508-6 S2103-508-7 S2103-508-8",
+          "codes": "All Lots/ No UDI",
+          "recallNumber": "Z-3176-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99661",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "GE Healthcare: 6 recalled products",
+      "brand": "GE Healthcare",
+      "description": "Under certain conditions historical imaging data migrated from a legacy system may become incorrectly associated with a different patient. If this occurs, studies or images may be displayed under the wrong patient record, which could lead to misdiagnosis or a delay in patient care.",
+      "reason": "Under certain conditions historical imaging data migrated from a legacy system may become incorrectly associated with a different patient. If this occurs, studies or images may be displayed under the wrong patient record, which could lead to misdiagnosis or a delay in patient care.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Worldwide - US Nationwide distribution.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Centricity PACS Server V7, intended for managing digital medical images and associated data, All versions",
+          "codes": "UDI-DI: 00195278882585; System IDs: 847NWCPVSW 847NWCPVSW2 NORTHWEST25206018 207795PVSWC3 207795PVSWC1 207795PVSWC2 604520GEPACS 613548IMSA 613548IMSB 613548TESTIMS 613548GEPACS EG1055PC01 B4191728 C4191734 D4191718 E4191720 tobecreated HHEI02CS01 UC1989CS01 CPACS Testsystem Not Available HCIT5592143PACS JL1758 JD1266 JL1760 JAS004 JL1762 JAS042 JL1757 JL1761 JL1759 KW1018PP01 ALRAZIIMS LB1279PC02 BMALTA25 PIV-PIMS1 SA2591PP01 SA2039PP01 SA2315PP12 KAMCJIMS2 SA1208PP01 SA2000PP01 SA1006PP07 KFHIMS2 KAHIMS2 MKNSHIMS2 ZA2895PACS02 FEG85600 FEG85608 FEG34405 FEG34406 FEB92518 FEB92519 FEE07A22 FEE07A23 FEG85700 FEG85704 FE410911 FE410912 IMSTEST TBC DE619840 DE619846 DEM88511 DEM88512 DEM87116 ",
+          "recallNumber": "Z-3169-2026"
+        },
+        {
+          "name": "Centricity PACS V2, V3, V4, V6, V7, software product is intended for the storage, reading, diagnostic review, analysis, annotation, distribution, printing, editing, and processing of digital images and data acquired from diagnostic imaging devices, All versions",
+          "codes": "UDI-DI: V4 - 00840682124430, V6 - 00840682104807, V7 - 00840682145572; System IDs: CARTI02312611 CARTI22214087T 928757VPASW 928757VPBSW 602344PVSW2 602344REPSITEB MARICOPAC02308029 602344TIMSVM 441236VPSW 805395PVSW 805395PVTSW 310349PACSSWPV UCLAMC2259090 310349PACSSWBPV UCLAMC2259063 916781CPACSSRWT PALMDALEM01810792 PALMDALEM16023955 PALMDALEM20508297 909788HCAPACS1 916781CPACSCKS 916781CPACSBCKS GSHCACPSW GSH320037250 GSHCACTPSW RANCHO02255039 RANCHOPISU2 RANCHOPTESTISU 805370HCALR VMPACS69 LOSROBLES19666790 MCANPACSW CENPACSW 303584HCAPVSW 303584REPBSW 303584HCAPVSWTESTIMS 970476PVSW VVMC15111181 VVMC27255473 302674PACSSW 302674PACSBSW 302736SAEATSW JFKSW JFKR19980220B JFKSWOPT 727462PV",
+          "recallNumber": "Z-3168-2026"
+        },
+        {
+          "name": "Centricity Enterprise Archive V2, V3, and V4, software product for receiving, archiving, and sending electronic medical data, All Versions",
+          "codes": "UDI-DI: V4 - 00840682102766; System IDs: CARTI02312615 CARTI22225617 520784EASFTW1 19233337_EA MARICOPAC02308032 602406SAEAFSW 602997SAEASW-24 SVRHC14765622 520458CVEASW 520780SAEASW 520784EASSASW 520629EA1 BERMUDACA02257222 BERMUDACA02257223GW ASHPACSEA1P 805395EASW PMHD15081203 805725EASW1 V5SPORTS01804915 559582CAEASW 760775CAEASW 310673CAPACSSW UHVNAEAPRD01 UHEAVNATEST01 UHVNAEAPRD02 UHVNAEAPRD03 UHVNAEAPRD04 UHVNAEAPRD05 UHVNAEAPRD06 310349EASW1 310349EASW2 310349EASW3 310ODCEASW4 ADVENTIST02256061 323726CAEASW NDMGCAWEB PALMDALEM02354935 PALMDALEM19604722 PALMDALEM19604723 661948ISBSW 818676EA01 916781MMBSW1 916781MMBSW2 ADVENTIST1474489 SUTH20087395 707554EASW 916733EASTSW1 916733EAST",
+          "recallNumber": "Z-3166-2026"
+        },
+        {
+          "name": "Core Services Hub V8, a set of backend services including Cross Enterprise (XE) and Workflow Core (WFC) services that enables enterprise imaging workflows, All versions",
+          "codes": "System IDs: CARTI27326018 KGM24849767P2 KGM26790380P1 KGM26790386T1 KGM26790388T2 PIPELINEH26974665 PIPELINEH27036913 KRM25208408 26885371TenantCSH 26897935StgTenCSH VVMC25199249 Not Available VVMC26130320 DDOC26923416 BAYHEALTH26580398 BAYHEALTH26871765 JFKR27127669 LAKESIDEM27124493 BYH25222926 LMC427127671 KRMC27127670 MH826900861 ICA27062095 NORTHWEST24866978-XE NORTHWEST27294841-XE NORTHWEST27294843-XE JHSJHOCC24849766 ANN & ROBE24866975 JHSJHOCC27005469 GOSH26799709CSHP GOSH26848483CSHT CMAE26304473 CMAE26774289 MSUHEALTH26980323 Not Available CHILDRENS24808132 XE VCP 103829-6-CoreServices Hub-XE VMP 103829-6-CoreServices Hub-XE Test 103829-6-CoreServices Hub-WFC VCP 103829-6-CoreServi",
+          "recallNumber": "Z-3171-2026"
+        },
+        {
+          "name": "Workflow Core Services V8, intended to provide set of services for storage and retrieval of patient data, exams and performs system Administration, common configuration management for consuming applications, All versions",
+          "codes": "System IDs: SevierCou21180109 PMIO26874968 VCM27268845 QTHBL25025522 GRHD20869086A GRHD20869566B GRHD20870043T VVMC22203148 LAKESIDEM22311789 OFMC22161726 OFMCProd24283369 AMCL20962675 LAKESIDEM21200035 NEUROSKEL22629460 FLMC24849713 FLMC23269955 MRMC220924399 MRMC221300628 MRMC221300631T 106684-1-Workflow Core Services-23253822 MRMC221306901 LaitekDataMigrationETPLab1WFC LaitekDataMigrationETPLab2WFC CMCM24346488 QTHDD22236119 QTHDD24934127 24489144TruePACSWFC 25248966TruePACSWFCT 22144965True_PACSWFC HANN21755240 HRHWFC HANN24283725 BC324463044 AMIM27024664 CHERRYCOU20906543 CHERRYCOU21180589T REDI21237465 MDHC26580426 VT25202652 NNAR21175649 104680-1-Workflow Core Services-24492064 NYK209",
+          "recallNumber": "Z-3170-2026"
+        },
+        {
+          "name": "Enterprise Archive V8, software product for receiving, archiving, and sending electronic medical data, All versions",
+          "codes": "UDI-DI: V4 - 00195278409287; System IDs: BIRMINGHAM20886386 SevierCou21180101 SevierCou21180111 UOAR24851211 UOAR23214501 CARTI27326017 KGM21766613T KGM21332085 KGM21677289 HRH323169307 HONORHEALT21179400 MIHS25042933 MIHS25151161 MIHS25042933 MIHS25151165 MIHS25151166 ADHR27301883 PMIO26874972 PMHD27236488 PIPELINEH26974662 PIPELINEH27011598 SANFERNAN23238694 KRM22180898 MHL23269965 SUTH26668887 NORV21741298 24931893EdgeEA 25083358StgEdgeEA VCM27268846 SCRL24283967 SCRL23202147 SFGH24285530 USHC25292971 USHC26580362 GSH321314340 LosRobles23253832 QTHBL26325570 DENVERVA21733821 DENVER VA24406115 BOULDER22107026 BOULDER22107318 BOULDERCO24954910 HHL27121414 Not Available GRHD20869082A GRHD208",
+          "recallNumber": "Z-3167-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99671",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Abiomed, Inc.: 3 recalled products",
+      "brand": "Abiomed, Inc.",
+      "description": "The potential for purge cassette recognition issues due to the failure of the purge flag component of the purge pressure sensor assembly.",
+      "reason": "The potential for purge cassette recognition issues due to the failure of the purge flag component of the purge pressure sensor assembly.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Domestic: Nationwide Distribution. International: United Arab Emirates, Austria, Australia, Belgium, Brunei Darussalam, Brazil, Canada, Switzerland, Chile, China, Colombia, Costa Rica, Cyprus, Czechia, Germany, Denmark, Spain, Finland, France, United Kingdom, Greece, Hong Kong, Croatia, Hungary, Ireland, Israel, India, Italy, Japan, Kuwait, Luxembourg, Mexico, Malaysia, Netherlands, Norway, New Zealand, Panama, Pakistan, Poland, Serbia, Saudi Arabia, Sweden, Singapore, Slovenia, Thailand, Taiwan;",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Automated Impella Controller (AIC) with the below product descriptions and corresponding Product Codes. 1. Impella Controller, Packaged, CA; Product Code: 0042-0000-CA. 2. Impella Controller, Packaged, EU; Product Code: 0042-0000-EU. 3. Impella Controller, Packaged, IN; Product Code: 0042-0000-IN. 4. Impella Controller, Packaged, JP; Product Code: 0042-0000-JP. 5. Impella Controller, Packaged, UK; Product Code: 0042-0000-UK. 6. Impella Controller, Packaged, US; Product Code: 0042-0000-US.",
+          "codes": "1. Impella Controller, Packaged, CA; Product Code: 0042-0000-CA; UDI-DI: 00813502010022; Serial Numbers: IC1324, IC1346, IC1480, IC1481, IC1543, IC1544, IC1572, IC1595, IC1598, IC1664, IC1665, IC1715, IC1769, IC1790, IC1791, IC1911, IC1912, IC1913, IC2032, IC2033, IC2034, IC2035, IC2369, IC2370, IC2686, IC2687, IC3661, IC3662, IC3802, IC3803, IC4944, IC4945, IC5034, IC5050, IC5680, IC5821, IC5824, IC6082, IC6083, IC6633, IC6634, IC6635, IC6636, IC7694, IC7695, IC7716, IC8283, IC9413, IC9414, IC9415, IC9416; 2. Impella Controller, Packaged, EU; Product Code: 0042-0000-EU; UDI-DI: 00813502011289; Serial Numbers: IC1347, IC1349, IC6845, IC1285, IC1416, IC2765, IC2766, IC3021, IC3022, IC3718, IC",
+          "recallNumber": "Z-3148-2026"
+        },
+        {
+          "name": "Impella Optical Controller with the below product descriptions and corresponding Product Codes. 1. Impella Optical Controller, Packaged, AU; Product Code: 0042-0010-AU. 2. Impella Optical Controller, Packaged, EU; Product Code: 0042-0010-EU. 3. Impella Optical Controller, Packaged, IN; Product Code: 0042-0010-IN. 4. Impella Optical Controller, Packaged, UK; Product Code: 0042-0010-UK. 5. Impella Optical Controller, Packaged, US; Product Code: 0042-0010-US.",
+          "codes": "1. Impella Optical Controller, Packaged, AU; Product Code: 0042-0010-AU; UDI-DI: 00813502010930; Serial Numbers: IC5130, IC5131; 2. Impella Optical Controller, Packaged, EU; Product Code: 0042-0010-EU; UDI-DI: 00813502010961; Serial Numbers: IC12955, IC12978, IC13013, IC13027, IC13042, IC13202, IC13223, IC13228, IC6947, IC6948, IC7625, IC7740, IC7741, IC8064, IC8065, IC8157, IC8158, IC8419, IC8727, IC7937, IC7940, IC9356, IC9363, IC9365, IC9369, IC9370, IC9371, IC9832, IC9833, IC5409, IC7794, IC7795, IC7796, IC7798, IC7799, IC7800, IC7945, IC7946, IC8069, IC8070, IC8263, IC8337, IC8341, IC8343, IC8441, IC8445, IC8447, IC8448, IC8449, IC8451, IC8861, IC9025, IC9028, IC9366, IC9799, IC8476A, I",
+          "recallNumber": "Z-3149-2026"
+        },
+        {
+          "name": "Impella Optical Controller, Automated Impella Controller, Impella Connect Package with the below product descriptions and corresponding Product Codes. 1. Optical, AIC, Impella Connect, Packaged, AU; Product Code: 0042-0040-AU. 2. Optical, AIC, Impella Connect, Packaged, CA; Product Code: 0042-0040-CA. 3. Optical, AIC, Impella Connect, Packaged, EU; Product Code: 0042-0040-EU. 4. Optical, AIC, Impella Connect, Packaged, JP; Product Code: 0042-0040-JP. 5. Optical, AIC, Impella Connect, Packaged, UK; Product Code: 0042-0040-UK. 6. Optical, AIC, Impella Connect, Packaged, US; Product Code: 0042-0040-US. 7. Optical, AIC, Impella Connect, Packaged, KR; Product Code: 0042-0040-KR;",
+          "codes": "1. Optical, AIC, Impella Connect, Packaged, AU; Product Code: 0042-0040-AU; UDI-DI: 00813502012972; Serial Numbers: IC12674, IC12675, IC13066, IC10162, IC10163, IC10387, IC10388, IC10747, IC10748, IC11472, IC11487, IC11489, IC11490, IC11544, IC11546, IC11566, IC12008, IC12054, IC12151, IC12583, IC12584, IC12804, IC13070, IC13071, IC13085, IC13093, IC13094, IC13095, IC13096, IC13233, IC13234, IC13561, IC13566, IC13749, IC13753; 2. Optical, AIC, Impella Connect, Packaged, CA; Product Code: 0042-0040-CA; UDI-DI: 00813502012958; Serial Numbers: IC10306, IC10312, IC11171, IC11172, IC12604, IC12605, IC12891, IC12892, IC12894, IC12895, IC13266, IC13267, IC13503, IC13504, IC13617, IC13618, IC13713, ",
+          "recallNumber": "Z-3150-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99566",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Philips North America: 2 recalled products",
+      "brand": "Philips North America",
+      "description": "Due to software malfunction, patient information system may freeze and become unresponsive.",
+      "reason": "Due to software malfunction, patient information system may freeze and become unresponsive.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Worldwide - US Nationwide distribution including in the states and territories of AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY, PR and the countries of Andorra, Utd. Arab. Emir., Argentina, Austria, Australia, Aruba, Bosnia-Herz., Bangladesh, Belgium, Bulgaria, Bahrain, Bolivia, Brazil, Canada, Switzerland, Chile, Colombia, Costa Rica, Cyprus, Czech Republic, Germany, Denmark, Dominican Rep, Algeria, Estonia, Spain, Finland, Fiji, Faroe Islands, France, United Kingdom, Gibraltar, Guadeloupe, Greece, Hong Kong, Croatia, Hungary, Indonesia, Ireland, Israel, India, Iraq, Iceland, Italy, Jordan, Japan, Kenya, South Korea, Kuwait, Lebanon , Sri Lanka, Lithuania, Luxembourg, Latvia, Libya, Morocco, Monaco, Montenegro, Macedonia, Macao, Martinique, Maldives, Mexico, Malaysia, Namibia, Nicaragua, Netherlands, Norway, New Zealand, Oman, Panama, Peru, Philippines, Pakistan, Poland, Puerto Rico, Portugal, Qatar R¿union, Romania, Serbia, Russian Fed., Saudi Arabia, Sweden, Singapore, Slovenia, Slovakia, Thailand, Turkmenistan, Tunisia, T¿rkiye, Taiwan, Ukraine, Uzbekistan, Vietnam, South Africa.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Philips PIC iX Essentials REF:867093",
+          "codes": "All PIC iX software versions 4.0-4.5/UDI: (01)00884838122772",
+          "recallNumber": "Z-3142-2026"
+        },
+        {
+          "name": "Philips Patient Information Center iX REF:866389",
+          "codes": "All PIC iX software versions 4.0-4.5/UDI: (01)00884838127067",
+          "recallNumber": "Z-3141-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99558",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Howmedica Osteonics Corp.: 12 recalled products",
+      "brand": "Howmedica Osteonics Corp.",
+      "description": "Affected devices were manufactured with Ultra High Molecular Weight Polyethylene (UHMWPE) raw material aged in excess of five years. Product has the potential for elevated levels of oxidation, which may result in increased wear, leading to hazards such as excessive wear debris, material fragments, fractured device, or disassociated device. Potential harms include revision surgery, pain, and inflammation.",
+      "reason": "Affected devices were manufactured with Ultra High Molecular Weight Polyethylene (UHMWPE) raw material aged in excess of five years. Product has the potential for elevated levels of oxidation, which may result in increased wear, leading to hazards such as excessive wear debris, material fragments, fractured device, or disassociated device. Potential harms include revision surgery, pain, and inflammation.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Worldwide distribution - US Nationwide and the countries of Canada, LATAM, Europe, Asia Pacific, and South Africa.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "SCORPIO C-DOME PATELLA 73-2710 73-2910 SCORPIO U-DOME PATELLA 73-3110 73-3508 73-3708 73-3710 73-3910 Orthopaedic implant components manufactured from UHMWPE (polyethylene)",
+          "codes": "73-2710 UDI-DI 07613327033847 Lot NPPV 73-2910 UDI-DI 07613327033854 Lot 14AGFD 73-3110 UDI-DI 07613327033861 Lots 1L45 4JM5 7EL5 AME3 MK74 NTV7 PYHM RE7J VEWJ 73-3508 UDI-DI 07613327033885 Lots HMM5 NLRE 73-3708 UDI-DI 07613327033892 Lots 3467 3D8D PMRHX1 T6YJ T9ME VWDA YAM7 73-3710 UDI-DI 07613327033908 Lots 3W25 DLYP 73-3910 UDI-DI 07613327033915 Lots 14NEYA 1XED 9Y3T D1M9 D2YP EX8T KRT3 KRT3X1 T325 V8X8 X6YE",
+          "recallNumber": "Z-3206-2026"
+        },
+        {
+          "name": "ABG I ACETABULAR INSERT HOODED 28mm ID X 48mm C-M079-2-801 ARC2F ACETABULAR INSERT 48/50/52mm OD x 28mm ID C-M071-6-700 ARC2F ACETABULAR INSERT 50mm OD x 28mm ID 10DEGREE HOOD C-M071-8-400 BEARING AND AXLE BUSHING ASSY STANDARD ELBOW C-M110-1-201 BUSHING AND BEARING USE C-MM100253-00 C-MM100253-02 DURACON TIB INSERT LG 12MM MED 14MM LAT C-M066-3-000 EXETER WINGLESS CENTRALISER FOR C-M082-7-302 C-M082-7-303 EXETER WINGLESS CENTRALIZER XSM C-M107-5-301 GMRS EXTRA SM ALL-POLY TIBIA SIZE 11mm C-MM100616-02 GMRS EXTRA SM ALL-POLY TIBIA SIZE 16mm C-MM100616-03 GMRS EXTRA SM ALL-POLY TIBIA SIZE 8mm C-MM100616-01 GMRS SML POLY TIBIA 11MM CASE 100520 C-MM100520-03 GMRS SML POLY TIBIA 16MM CASE 100520 C-MM100520-04 GMRS SML POLY TIBIA 8MM CASE 100520 C-MM100520-02 GMRS SML TIBIA 11MM WITH CASE 100411 C-MM100411-03 GMRS SML TIBIA 14MM WITH CASE 100411 C-MM100411-04 GMRS SML TIBIA 8MM WITH CASE 100411 C-MM100411-02 GMRS TIB INSRT SML 10MM WITH CASE 100507 C-MM100507-04 GMRS TIB INSRT SML 16MM WITH CASE 100507 C-MM100507-06 KALI TIBIAL INSERT LARGE RIGHT 8mm C-M071-6-601 KRH REV TIB INS 16mm THK .655 DIA STEM C-M113-5-603 MRH KNEE TIBIAL INSERT FOR THIN POST C-M067-3-103 MRS RADIAL BUSHING FORITH C-M107-7-800 C-M107-7-801 SELF-PRESSURIZING GLENOID SIZE 9 C-M064-4-300 TRIATHLON NO. 9 TIBIAL INSERT 11MM C-M067-5-003 TRIATHLON NO. 9 TIBIAL INSERT 9MM C-M067-5-002 TRIDENT ALL POLY CUP 44 X 66MM C-M066-0-901 TRIDENT CONSTRAINED ACETABULAR INSERT SIZE A X 22mm ID UH1 C-M104-2-002 TRIDENT CONSTRAINED ACETABULAR INSERT SIZE B X 22mm ID UH1 C-M104-2-003 UHR BIPOLAR 22X38MM UH1-38-22 UHR BIPOLAR 22X40MM UH1-40-22 UHR BIPOLAR 22X41MM UH1-41-22 UHR BIPOLAR 22X42MM UH1-42-22 UHR BIPOLAR 22X43MM UH1-43-22 UHR BIPOLAR 22X45MM UH1-45-22 UHR BIPOLAR 26X41mm UH1-41-26 UHR BIPOLAR 26X42mm UH1-42-26 UHR BIPOLAR 26X43mm UH1-43-26 UHR BIPOLAR 26X44mm UH1-44-26 UHR BIPOLAR 26X45mm UH1-45-26 UHR BIPOLAR 26X46mm UH1-46-26 UHR BIPOLAR 26X47mm UH1-47-26 UHR BIPOLAR 26X48mm UH1-48-26 UHR BIPOLAR 28X42mm UH1-42-28 UHR BIPOLAR 28X44mm UH1-44-28 UHR BIPOLAR 28X45mm UH1-45-28 UHR BIPOLAR 28X46mm UH1-46-28 UHR BIPOLAR 28X47mm UH1-47-28 UHR BIPOLAR 28X48mm UH1-48-28 Orthopaedic implant components manufactured from UHMWPE (polyethylene)",
+          "codes": "C-M079-2-801 No UDI Lot G3264034 C-M071-6-700 No UDI Lot G3043883 C-M071-8-400 No UDI Lot G3043878 C-M110-1-201 UDI-DI 07613327504811 Lot 573P37 C-MM100253-02 No UDI Lot N8873H C-M066-3-000 No UDI Lot RX06630A C-M082-7-303 No UDI Lot L6237 C-M107-5-301 No UDI Lot 193607 C-MM100616-02 No UDI Lot 195261 C-MM100616-03 No UDI Lot 195262 C-MM100616-01 No UDI Lot 195260 C-MM100520-03 No UDI Lot 195081 C-MM100520-04 No UDI Lot 195082 C-MM100520-02 No UDI Lot 195080 C-MM100411-03 No UDI Lot 194962 C-MM100411-04 No UDI Lot 194963 C-MM100411-02 No UDI Lot 194961 C-MM100507-04 No UDI Lot LNH795 C-MM100507-06 No UDI Lot LNH797 C-M071-6-601 No UDI Lot G3055684 C-M113-5-603 No UDI Lot 194594 C-M067-3-103 ",
+          "recallNumber": "Z-3199-2026"
+        },
+        {
+          "name": "ACETABULAR CUP UHMWPE 61-3258 ALL POLY CONSTRAINED INSERT 44MM 69-2244 ALL POLY CONSTRAINED INSERT 46MM 69-2246 ALL POLY CONSTRAINED INSERT 48MM 69-2248 ALL POLY CONSTRAINED INSERT 50MM 69-2850 ALL POLY CONSTRAINED INSERT 52MM 69-2852 CONSTRAINED ACETABULAR INSERTS 22MM 50MM 2099-2250 CONSTRAINED ACETABULAR INSERTS 22MM 52MM 2099-2252 CONSTRAINED ACETABULAR INSERTS 22MM 56MM 2099-2256 CONSTRAINED ACETABULAR INSERTS 28MM 61MM 2099-2861 EIUS UNI TIB SMALL RM/LL 9MM 6636-0-419 PCA CONST LINER 32MM NEUTRAL C - SHELL 6299-N-332 SYS 12 CONST LINER 32ID 10 DEG P6 +4MM 6302-H-632 TRIDENT 0 DEG CONSTRAINED INSERT 22D 690-00-22D TRIDENT 0 DEG CONSTRAINED INSERT 22E 690-00-22E TRIDENT 0 DEG CONSTRAINED INSERT 28F 690-00-28F TRIDENT 0 DEG CONSTRAINED INSERT 28G 690-00-28G TRIDENT 0 DEG CONSTRAINED INSERT 32I 690-00-32I TRIDENT 0¿ POLY INSERT 28mm ID 620-00-28D TRIDENT CONSTR ACET INSERT 690-10-28K TRIDENT CONSTRAINED INSERT 690-10-22E 690-10-22F 690-10-28G 690-10-28H 690-10-28I Orthopaedic implant components manufactured from UHMWPE (polyethylene)",
+          "codes": "61-3258 UDI-DI 07613327038538 Lots 191723 191867 69-2244 UDI-DI 07613327025446 Lots 990V1W D56JV4 D74X5E DX56K2 E67D6N EP10WL KP14HN NN8NM2 P36TXM P95L8X RE4EK0 X82K0D 69-2246 UDI-DI 07613327025453 Lots 8X6EL1 69-2248 UDI-DI 07613327025460 Lots 9J3DPH A41E7D AD39A3 RP673W 69-2850 UDI-DI 07613327025477 Lots MLL1M3 MLLXT1 MLLY6H 69-2852 UDI-DI 07613327025484 Lots MLL0NM MLLAHY 2099-2250 UDI-DI 07613327031430 Lots 1K5VVW 2367AK 3X0NJD 4W4MPL LV80NE 2099-2252 UDI-DI 07613327031447 Lots NV561W PM326V 2099-2256 UDI-DI 07613327031454 Lots 3H5RRK AA7JK0 2099-2861 UDI-DI 07613327031591 Lot MLLVL6 6636-0-419 No UDI Lot 13SFLA 6299-N-332 UDI-DI 07613327138870 Lot 19ECK 6302-H-632 UDI-DI 07613327138979 ",
+          "recallNumber": "Z-3201-2026"
+        },
+        {
+          "name": "OMNIFIT SERIES I ACET. INSERT 10¿ 22mm ID Catalog No. 2001-2246 Orthopaedic implant components manufactured from UHMWPE (polyethylene)",
+          "codes": "UDI-DI 07613327037883 Lot 13MFT",
+          "recallNumber": "Z-3196-2026"
+        },
+        {
+          "name": "TRIDENT 0¿ POLY INSERT 28mm ID 620-00-28D Orthopaedic implant components manufactured from UHMWPE (polyethylene)",
+          "codes": "620-00-28D UDI-DI 07613327313581 Lots MHANP2 MHD1N0",
+          "recallNumber": "Z-3204-2026"
+        },
+        {
+          "name": "ALL POLY CONSTRAINED INSERT 54MM 69-2854 NRG KNEE CR 82-2-0512 82-2-0518 82-2-0912 NRG KNEE P/S 82-3-0318 SCORPIO + MOBILE BEARING PCS 78-5-0910 SCORPIO C-DOME PATELLA 73-2710 SCORPIO INSET PATELLA 73-2610 SCORPIO M-DOME PATELLA 73-0110 73-0710 73-0910 SCORPIO RECESSED PATELLA 26MM 3044-0026 SCORPIO TS TIB INS 72-4-9114 SCORPIO TS TIBIAL INSERT 72-4-0324 SCORPIOFLEX TOTAL KNEE CR 72-16-0512 72-16-0518 72-16-0912 72-16-1112 SERIES II TIBIAL BEAR INSERT NO 11 15MM 3052-1115 UHR BIPOLAR 26X52mm UH1-52-26 UHR BIPOLAR 26X58mm UH1-58-26 UHR BIPOLAR 28X48mm UH1-48-28 UHR BIPOLAR 28X52mm UH1-52-28 UHR BIPOLAR 28X55mm UH1-55-28 UHR BIPOLAR 32X49MM UH1-49-32 UHR BIPOLAR 32X51MM UH1-51-32 UHR BIPOLAR 32X52MM UH1-52-32 UHR BIPOLAR 32X54MM UH1-54-32 Orthopaedic implant components manufactured from UHMWPE (polyethylene)",
+          "codes": "69-2854 UDI-DI 07613327025491 Lots MLKY8A MLL8E1 82-2-0512 UDI-DI 04546540400611 Lot 23325151 82-2-0518 UDI-DI 04546540400635 Lot 23640051 82-2-0912 UDI-DI 04546540400758 Lot 26862851 82-3-0318 UDI-DI 04546540364319 Lot 28208551 78-5-0910 UDI-DI 07613327366006 Lots 30582401 30582601 73-2710 UDI-DI 07613327033847 Lot 14HDSA 73-2610 UDI-DI 07613327014082 Lots 193307A 193307E 73-0110 UDI-DI 07613327050288 Lot HHPW 73-0710 UDI-DI 07613327050295 Lots 8P83 DL4V 73-0910 UDI-DI 07613327050332 Lot 14NACD 3044-0026 UDI-DI 07613327033779 Lots 14SCVA 14SCVD 14SCVF 72-4-9114 UDI-DI 07613327034875 Lot 8H39KP 72-4-0324 UDI-DI 07613327034356 Lot 23505751 72-16-0512 UDI-DI 07613154020515 Lots 17376651 190936",
+          "recallNumber": "Z-3197-2026"
+        },
+        {
+          "name": "DURACON XL ANGLED TIB INS 11/14MM C-M064-1-300 SELF-PRESSURIZING GLENOID SIZE 8 C-M062-6-800 C-M062-7-500 C-M063-2-600 SELF-PRESSURIZING GLENOID SIZE 9 C-M063-5-000 SHOULDER - GLENOID #11 5361-6111 SHOULDER - GLENOID #5 5361-6105 SHOULDER - GLENOID #7 5361-6107 SHOULDER - GLENOID #9 5361-6109 SHOULDER - KEELED GLENOID #11 5361-6211 SHOULDER - KEELED GLENOID #5 5361-6205 SHOULDER - KEELED GLENOID #7 5361-6207 SHOULDER - KEELED GLENOID #9 5361-6209 Orthopaedic implant components manufactured from UHMWPE (polyethylene)",
+          "codes": "C-M064-1-300 No UDI Lot RX06413A C-M062-6-800 No UDI Lot RX06268A C-M062-7-500 No UDI Lot RX06275A C-M063-2-600 No UDI Lot RX06326A C-M063-5-000 No UDI Lots RX06350A RX06350AA 5361-6111 UDI-DI 07613327138191 Lots AFZT00U AFZT00Z P2N04B P3K57 P3K57B P3K57F PYE43B PZA70F PZA70U 5361-6105 UDI-DI 07613327138214 Lots AF2S09U AF2S09Z P1H41 P4T02 P4T02X1 P4T02X2 P4T02X3 P4T02X4 P4T02X5 P4T02X6 5361-6107 UDI-DI 07613327138207 Lots AF3E00 AF3E00B AF3E00F AF3E00G AF3E00Q AF3E00S P4A238 P4A238X1 P4A238X2 P4A238X3 P4A238X4 P4A238X5 P4A238X6 P4A238X7 P4A238X8 P4L09 P4L09X1 P4L09X10 P4L09X2 P4L09X3 P4L09X4 P4L09X5 P4L09X6 P4L09X7 P4L09X8 P4L09X9 P4N06 P4N06X1 P4N06X2 P4N06X3 P4N06X4 P4N06X5 P4N06X6 P4N06X",
+          "recallNumber": "Z-3200-2026"
+        },
+        {
+          "name": "SCORPIO + MOBILE BEARING PCS 78-5-0910 SYSTEM ONE BIPOLAR 40MM 6074-4022 SYSTEM ONE BIPOLAR 43MM 6074-4322 SYSTEM ONE BIPOLAR 44MM 6074-4422 Orthopaedic implant components manufactured from UHMWPE (polyethylene)",
+          "codes": "78-5-0910 UDI-DI 07613327366006 Lot 30582401 6074-4022 UDI-DI 07613327031775 Lots 2M5NTY LH25R5 M36N83 6074-4322 UDI-DI 07613327031805 Lot W40E3T 6074-4422 UDI-DI 07613327031812 Lot R84K20",
+          "recallNumber": "Z-3205-2026"
+        },
+        {
+          "name": "BEARING AND AXLE BUSHING ASSY STD ELBOW C-M113-1-301 KRH REV TIB INS 16mm THK .640 DIA STEM C-M113-5-600 SELF-PRESSURIZING GLENOID SIZE 9 C-M063-5-800 Orthopaedic implant components manufactured from UHMWPE (polyethylene)",
+          "codes": "C-M113-1-301 UDI-DI 07613327590074 Lot MH621A C-M113-5-600 No UDI Lot 194593 C-M063-5-800 No UDI Lot RX06358A",
+          "recallNumber": "Z-3202-2026"
+        },
+        {
+          "name": "SCORPIO RECESSED METAL BACKED PATELLA 3045-0026 3045-0028 3045-0030 3045-0032 Orthopaedic implant components manufactured from UHMWPE (polyethylene)",
+          "codes": "3045-0026 No UDI Lots 12WAHA 12WAHB HOHE HOVX 3045-0028 No UDI Lots 13VAW 13VAWA 3045-0030 No UDI Lots BIYIE HNZY 3045-0032 No UDI Lots BIYIH HOYK",
+          "recallNumber": "Z-3203-2026"
+        },
+        {
+          "name": "TRIATHLON HINGE INSERT SIZE 4 11MM 5612-P-411 TRIATHLON HINGE INSERT SIZE 4 13MM 5612-P-413 Orthopaedic implant components manufactured from UHMWPE (polyethylene)",
+          "codes": "5612-P-411 UDI-DI 07613327601893 Lot 360958 5612-P-413 UDI-DI 07613327602012 Lot 354573",
+          "recallNumber": "Z-3198-2026"
+        },
+        {
+          "name": "AXLE PIN ASSY LARGE ELBOW COBALT CHROME Catalog No. C-M112-2-500 Orthopaedic implant components manufactured from UHMWPE (polyethylene)",
+          "codes": "No UDI-DI Lot P22E159",
+          "recallNumber": "Z-3195-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99515",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Reign Medical Clench Staple System (Compression), Description/REF: 9mm x 7mm/152-30907; 11mm x 10mm/152-31110; 15mm x 12mm/152-31512; 18mm x 18mm/152-31818; 20mm x 20mm/152-32020; 9mm x 7mm/152-40907; 11mm x 10mm/152-411",
+      "brand": "F & A Foundation",
+      "description": "Bone fixation staple requires a new 510(k); the performance characteristics of this device have not been adequately established.",
+      "reason": "Bone fixation staple requires a new 510(k); the performance characteristics of this device have not been adequately established.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution in the states of TX, OK, MD, VT, MA, LA.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "REF/UDI-DI/Lot/Expiration: 152-30907/00854325007011/24-0627/10/27/2029, 152-31110/00854325007028/24-0628/10/21/2029, 152-31512/00854325007042/24-0629/10/22/2029, 152-31818/00854325007073/24-0630/10/23/2029, 152-32020/00854325007189/24-0631/10/28/2029, 152-40907/00854325007010/24-0633/10/16/2029, 152-41110/00854325007127/24-0634/10/20/2029, 152-41512/00854325007141/24-0635/10/20/2029, 152-41818/00854325007172/24-0636/10/16/2029, 152-42020/00854325007189/24-0637/10/16/2029",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Reign Medical Clench Staple System (Compression), Description/REF: 9mm x 7mm/152-30907; 11mm x 10mm/152-31110; 15mm x 12mm/152-31512; 18mm x 18mm/152-31818; 20mm x 20mm/152-32020; 9mm x 7mm/152-40907; 11mm x 10mm/152-41110; 15mm x 12mm/152-41512; 18mm x 18mm/152-41818; 20mm x 20mm/152-42020",
+          "codes": "REF/UDI-DI/Lot/Expiration: 152-30907/00854325007011/24-0627/10/27/2029, 152-31110/00854325007028/24-0628/10/21/2029, 152-31512/00854325007042/24-0629/10/22/2029, 152-31818/00854325007073/24-0630/10/23/2029, 152-32020/00854325007189/24-0631/10/28/2029, 152-40907/00854325007010/24-0633/10/16/2029, 152-41110/00854325007127/24-0634/10/20/2029, 152-41512/00854325007141/24-0635/10/20/2029, 152-41818/00854325007172/24-0636/10/16/2029, 152-42020/00854325007189/24-0637/10/16/2029",
+          "recallNumber": "Z-3211-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99677",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Captus 4000e Thyroid Uptake System, Models: 1. 5430-30151, 2. 5430-30152, 3. 5430-30154;",
+      "brand": "Mirion Technologies (Capintec), Inc.",
+      "description": "Potential for failure of the tension bolt which would allow the spring arm to unexpectedly fall to its lowest position, which is approximately 25 inches (63.5 cm) from the ground.",
+      "reason": "Potential for failure of the tension bolt which would allow the spring arm to unexpectedly fall to its lowest position, which is approximately 25 inches (63.5 cm) from the ground.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Worldwide distribution - US Nationwide and the countries of ALGERIA, AUSTRIA, BANGLADESH, BRASIL, Brazil, CANADA, CHILE, Costa Rica, Ecuador, France, Hanoi Vietnam, Hong Kong, INDIA, ISRAEL, ITALY, Malaysia, Philippines, POLAND, Saudi Arabia, SOUTH KOREA, Spain, SWEDEN, TAIWAN, THAILAND, TURKEY, UNITED ARAB EMIATES, UNITED KINGDOM, VIETNAM.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Affected Units: Captus 4000: 1. Model 5430-30151; UDI-DI: 00859942006096; 2. Model 5430-30152; UDI-DI: 00859942006102; 3. Model 5430-30154; UDI-DI: 00859942006423; Devices shipped from April 2019 through February 2024, Serial Numbers 940548 through 941398, that have NOT already replaced the original arm with the redesigned arm.",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Captus 4000e Thyroid Uptake System, Models: 1. 5430-30151, 2. 5430-30152, 3. 5430-30154;",
+          "codes": "Affected Units: Captus 4000: 1. Model 5430-30151; UDI-DI: 00859942006096; 2. Model 5430-30152; UDI-DI: 00859942006102; 3. Model 5430-30154; UDI-DI: 00859942006423; Devices shipped from April 2019 through February 2024, Serial Numbers 940548 through 941398, that have NOT already replaced the original arm with the redesigned arm.",
+          "recallNumber": "Z-3193-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99664",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Pi-Cardia Inc. ShortCut REF: Z-A-20.003-US",
+      "brand": "PI CARDIA LTD",
+      "description": "Transfemoral catheter, positing arm may detached due to weld issue.",
+      "reason": "Transfemoral catheter, positing arm may detached due to weld issue.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution in the states of Utah, Kansas, California, Massachusetts, Pennsylvania, New Hampshire, Delaware, and New York.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "UDI-DI - (01)7290020101242 All serial numbers in the affected lot SCUS-00013: SC919, SC920, SC921, SC923, SC924, SC925, SC926, SC927, SC928, SC929, SC930, SC931, SC932, SC933, SC934, SC935, SC936, SC937, SC938, SC939, SC940, SC941, SC942, SC943, SC944, SC945, SC946, SC947, SC948, SC949, SC950, SC951, SC952, SC953, SC954, SC956, SC957, SC958, SC960, SC961, SC962, SC963, SC964, SC966, SC967 and SC968.",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Pi-Cardia Inc. ShortCut REF: Z-A-20.003-US",
+          "codes": "UDI-DI - (01)7290020101242 All serial numbers in the affected lot SCUS-00013: SC919, SC920, SC921, SC923, SC924, SC925, SC926, SC927, SC928, SC929, SC930, SC931, SC932, SC933, SC934, SC935, SC936, SC937, SC938, SC939, SC940, SC941, SC942, SC943, SC944, SC945, SC946, SC947, SC948, SC949, SC950, SC951, SC952, SC953, SC954, SC956, SC957, SC958, SC960, SC961, SC962, SC963, SC964, SC966, SC967 and SC968.",
+          "recallNumber": "Z-3213-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99698",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "MEDRAD¿ Stellant FLEX Syringe Kit used with Stellant FLEX CT Injection System; Catalog number: FLEXS-150-QFT;",
+      "brand": "Bayer Medical Care, Inc.",
+      "description": "Some devices may not have been properly sterilized due to a manufacturing sterilization issue.",
+      "reason": "Some devices may not have been properly sterilized due to a manufacturing sterilization issue.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Catalog number: FLEXS-150-QFT; UDI-DI: 00616258022895; Affected material number: 87078825; Affected batch number: 8688750;",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "MEDRAD¿ Stellant FLEX Syringe Kit used with Stellant FLEX CT Injection System; Catalog number: FLEXS-150-QFT;",
+          "codes": "Catalog number: FLEXS-150-QFT; UDI-DI: 00616258022895; Affected material number: 87078825; Affected batch number: 8688750;",
+          "recallNumber": "Z-3147-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99452",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Brand Name: HEMOSPRAY ENDOSCOPIC HEMOSTAT Product Name: HEMOSPRAY ENDOSCOPIC HEMOSTAT Model/Catalog Number: HEMO-7, HEMO-10, HEMO-7-EU, HEMO-10-EU Software Version: N/A Product Description: Hemostatic device for endoscop",
+      "brand": "Wilson-Cook Medical Inc.",
+      "description": "Due to issue with endoscope adherence and inability to spray powder. Firm will provide an updated Instruction for Use (IFU).",
+      "reason": "Due to issue with endoscope adherence and inability to spray powder. Firm will provide an updated Instruction for Use (IFU).",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Worldwide - US Nationwide distribution including in the states of AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, and WY. The countries of Argentina, Australia, Austria, Bahrain, Belgium, Brunei Darussalam, Brazil, Canada, Canary Island, Chile, Colombia, Costa Rica, Croatia, Curacao, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, French Guiana, French Polynesia, Germany, Greece, Guatemala, Guadeloupe, Guernsey, Hong Kong, Hungary, Iceland, India, Ireland, Israel, Italy, Jersey, Japan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, Martinique, Mexico, Myanmar, Macau, Monaco, Malaysia, New Caledonia, Netherlands, Norway, New Zealand, Oman, Panama, Philippines, Poland, Portugal, Qatar, Reunion, Romania, Saudi Arabia, Singapore, Slovenia, El Salvador, South Africa, Spain, Sweden, Switzerland, Thailand, Taiwan, United Arab Emirates, United Kingdom, and Vietnam.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Lot Code: RPN: IHEMO-7, HEMO-10, HEMO-7-EU, HEMO-10-EU Order Number: G56572, G21049, G24663, G21346 Affected Lot Numbers and MFG/EXP Dates: The information supplied in this letter applies to all lot numbers of Hemospray. UDI: 00827002565722; 00827002210493; 00827002246638; 00827002213463 HEMO-7 Work Order Numbers: W4744012 W4744013 W4744014 W4744015 W4744016 W4744017 W4744103 W4744104 W4744504 W4744506 W4744507 W4744508 W4744509 W4744510 W4744511 W4744575 W4744576 W4744828 W4744829 W4744830 W4744831 W4744832 W4744834 W4744905 W4744906 W4745140 W4745141 W4745142 W4745144 W4745145 W4745146 W4745147 W4745262 W4745263 W4745408 W4745409 W4745411 W4745412 W4745488 W4745489 W4746024 W4746025 W47460",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Brand Name: HEMOSPRAY ENDOSCOPIC HEMOSTAT Product Name: HEMOSPRAY ENDOSCOPIC HEMOSTAT Model/Catalog Number: HEMO-7, HEMO-10, HEMO-7-EU, HEMO-10-EU Software Version: N/A Product Description: Hemostatic device for endoscopic gastrointestinal use Component: No",
+          "codes": "Lot Code: RPN: IHEMO-7, HEMO-10, HEMO-7-EU, HEMO-10-EU Order Number: G56572, G21049, G24663, G21346 Affected Lot Numbers and MFG/EXP Dates: The information supplied in this letter applies to all lot numbers of Hemospray. UDI: 00827002565722; 00827002210493; 00827002246638; 00827002213463 HEMO-7 Work Order Numbers: W4744012 W4744013 W4744014 W4744015 W4744016 W4744017 W4744103 W4744104 W4744504 W4744506 W4744507 W4744508 W4744509 W4744510 W4744511 W4744575 W4744576 W4744828 W4744829 W4744830 W4744831 W4744832 W4744834 W4744905 W4744906 W4745140 W4745141 W4745142 W4745144 W4745145 W4745146 W4745147 W4745262 W4745263 W4745408 W4745409 W4745411 W4745412 W4745488 W4745489 W4746024 W4746025 W47460",
+          "recallNumber": "Z-3177-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99668",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Maquet Cardiopulmonary Gmbh: 3 recalled products",
+      "brand": "Maquet Cardiopulmonary Gmbh",
+      "description": "The packaging may not consistently maintain sterile barrier integrity.",
+      "reason": "The packaging may not consistently maintain sterile barrier integrity.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Worldwide distribution - US Nationwide and the countries of Australia, Austria, Belarus, Belgium, Brazil, Canada, China, Colombia, Czech Republic, Denmark, Finland, France, Germany, Hong Kong, India, Ireland, Italy, Japan, Mexico, Netherlands, New Zealand, Norway, Poland, Portugal, Singapore, South Africa, South Korea, Spain, Sweden, Switzerland, Taiwan, Thailand, Turkey, United Arab Emirates, United Kingdom;",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Percutaneous Insertion Kit (PIK), Guidewire 100 cm, Model Numbers: 701053068 (USA), 701047384 (OUS);",
+          "codes": "Model Number (USA): 701053068; UDI-DI: 4037691519883; Lot Numbers: 3000324477, 3000333824, 3000336037, 3000341450, 3000343893, 3000377475, 3000387891, 3000403656, 3000414516, 3000430803, 3000441821, 3000453326, 3000471523, 3000476321, 3000485151, 3000496204, 3000510428, 3000518006, 3000554731; Model Number (OUS): 701047384; UDI-DI: 4037691730660; Lot Numbers: 3000324479, 3000324480, 3000328829, 3000328830, 3000328831, 3000331203, 3000331204, 3000331206, 3000331224, 3000333819, 3000333820, 3000334780, 3000334781, 3000334782, 3000336034, 3000336035, 3000338097, 3000338098, 3000339838, 3000339839, 3000341457, 3000341458, 3000342412, 3000342413, 3000343902, 3000343903, 3000347872, 3000347873, 30",
+          "recallNumber": "Z-3144-2026"
+        },
+        {
+          "name": "Percutaneous Insertion Kit (PIK), Guidewire 150 cm, Model Numbers: 701053069 (USA), 701047385 (OUS);",
+          "codes": "Model Number (USA): 701053069; UDI-DI: 4037691730677; Lot Numbers: 3000324478, 3000326922, 3000336965, 3000339840, 3000347863, 3000370471, 3000374104, 3000379854, 3000382443, 3000395582, 3000403657, 3000414517, 3000430804, 3000434603, 3000444269, 3000445982, 3000453327, 3000466026, 3000471522, 3000476322, 3000476324, 3000479560, 3000485154, 3000491022, 3000496205, 3000503935, 3000510431, 3000511851, 3000518007, 3000520749, 3000525464, 3000528231, 3000534008; Model Number (OUS): 701047385; UDI-DI: 4037691519876; Lot Numbers: 3000324481, 3000324482, 3000324483, 3000326924, 3000326926, 3000326927, 3000326928, 3000328824, 3000328825, 3000328826, 3000328827, 3000328828, 3000331194, 3000331195, 30",
+          "recallNumber": "Z-3145-2026"
+        },
+        {
+          "name": "Percutaneous Insertion Kit (PIK), dilator set L, Model Numbers: 701054427 (USA), 701054427 (OUS);",
+          "codes": "Model Number (USA): 701054427; UDI-DI: 4037691746517; Lot Numbers: 3000324476, 3000326923, 3000331200, 3000333822, 3000353373, 3000359477, 3000364060, 3000373784, 3000379853, 3000393466, 3000403658, 3000413596, 3000434593, 3000444270, 3000449725, 3000453328, 3000478750, 3000524542; Model Number (OUS): 701054427; UDI-DI: 4037691746517; Lot Numbers: 3000324476, 3000326923, 3000331200, 3000333821, 3000333822, 3000341452, 3000349478, 3000353373, 3000356330, 3000359477, 3000364060, 3000370472, 3000373784, 3000379853, 3000387894, 3000389007, 3000393466, 3000395576, 3000403658, 3000411197, 3000413596, 3000418475, 3000434593, 3000438011, 3000441822, 3000444270, 3000449725, 3000453328, 3000461221, 30",
+          "recallNumber": "Z-3146-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99630",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Boston Scientific Corporation StoneSmart Connect Console Contents: (1) Power Cord, (1) Power Adaptor, (1)DVI Cable, (1) DVI to HDMI Cable, (1) DisplayPort Cable REF: M0067933000, M006793300H0, M006793300R0, M006793300D0,",
+      "brand": "Boston Scientific Corporation",
+      "description": "A subset of power adapters used with the connect console may exhibit higher-than-expected resistance in the electrical grounding path. As a result, the power adaptor may fail electrical safety testing during installation.",
+      "reason": "A subset of power adapters used with the connect console may exhibit higher-than-expected resistance in the electrical grounding path. As a result, the power adaptor may fail electrical safety testing during installation.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Worldwide - US Nationwide distribution including in the states of AZ, FL, CA, OR, IL, NC, NE, UT, CO, OH, AR, NM, AL, WI, TN, IN, GA, OH, WI, KY, CT, KS, SC, IL, NE, MO, MS, DE, TX, NY, WV, MA, MT, WA, WY, NV, HI, ID, MO, ME, WV, NE, OK, MN, LA, WV, NV, PA, NH, NJ, MI, MO, AK, VA, MS, WY, ME and the countries of Australia, Finland, France, Germany, Great Britain, Greece, Ireland, Italy, Lebanon, Norway, Poland, Portugal, Saudi Arabia, Slovakia, Spain, Sweden, Switzerland, Turkiye, Canada, Hong Kong, Singapore, Taiwan, Argentina, Chile, Japan.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "All Serial Numbers: REF: M0067933000 (UDI 00191506002510, UDI (00191506021771); REF: M006793300H0 (UDI 00191506002558); REF: M006793300R0 (UDI 00191506002534), UDI (00191506021788); REF: M006793300D0 (UDI 00191506002527); REF: M006793300Z0 (UDI 00191506002541); UPN M0067933100 (UDI 00191506022549)",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Boston Scientific Corporation StoneSmart Connect Console Contents: (1) Power Cord, (1) Power Adaptor, (1)DVI Cable, (1) DVI to HDMI Cable, (1) DisplayPort Cable REF: M0067933000, M006793300H0, M006793300R0, M006793300D0, M006793300Z0, M0067930000, M006793000R0",
+          "codes": "All Serial Numbers: REF: M0067933000 (UDI 00191506002510, UDI (00191506021771); REF: M006793300H0 (UDI 00191506002558); REF: M006793300R0 (UDI 00191506002534), UDI (00191506021788); REF: M006793300D0 (UDI 00191506002527); REF: M006793300Z0 (UDI 00191506002541); UPN M0067933100 (UDI 00191506022549)",
+          "recallNumber": "Z-3188-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99667",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Medline Industries, LP: 4 recalled products",
+      "brand": "Medline Industries, LP",
+      "description": "Kits may exhibit open seals in sterile pouch packaging. Open seal may compromise product sterility. If not detected prior to use, issue may lead to contamination of sterile field or patient infection if product is used.",
+      "reason": "Kits may exhibit open seals in sterile pouch packaging. Open seal may compromise product sterility. If not detected prior to use, issue may lead to contamination of sterile field or patient infection if product is used.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution in states of Arkansas, Florida, North Carolina, Maryland, and Texas.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Convenience kits MYRINGOTOMY PACK-LF DYNJ59097A",
+          "codes": "UDI-DI 10198459046551 Lot 25FBU754",
+          "recallNumber": "Z-3209-2026"
+        },
+        {
+          "name": "Convenience kits ANESTHESIA PAIN PK LEAGUE DYNJ67925A",
+          "codes": "UDI-DI 10195327506506 Lot 25BBK494",
+          "recallNumber": "Z-3207-2026"
+        },
+        {
+          "name": "Convenience kits MINOR PACK DYNJ58421A SPRINGHILL MINOR PACK DYNJ40734F",
+          "codes": "DYNJ58421A UDI-DI 10193489970487 Lot 25HBQ049 DYNJ40734F UDI-DI 10198459162084 Lots 25GBO299 25IBS607",
+          "recallNumber": "Z-3208-2026"
+        },
+        {
+          "name": "Convenience kits CATARACT PACK DYNJ59881A",
+          "codes": "UDI-DI 10198459020612 Lot 25GBP246",
+          "recallNumber": "Z-3210-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99621",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "NOxBOXi Nitric Oxide Delivery System.",
+      "brand": "NOXBOX LTD",
+      "description": "Potential for oxygen tubing leaks due to failure of the tubing or tubing connection, which may lead to oxygen desaturation.",
+      "reason": "Potential for oxygen tubing leaks due to failure of the tubing or tubing connection, which may lead to oxygen desaturation.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution in the state of Georgia.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "UDI-DI 05060541640009. Identification Number (Serial Number): NM100825 (NI100825), NM100833 (NI100833), NM100839 (NI100839), NM100840 (NI100840), NM100841 (NI100841), NM100847 (NI100847), NM100848 (NI100848), NM100849 (NI100849), NM100850 (NI100850), NM100851 (NI100851), NM100852 (NI100852), NM100855 (NI100855), NM100858 (NI100858), NM100859 (NI100859), NM100861 (NI100861), NM100862 (NI100862), NM100865 (NI100865), NM100866 (NI100866), NM100868 (NI100868), NM100869 (NI100869), NM100872 (NI100872), NM100873 (NI100873), NM100875 (NI100875), NM100876 (NI100876), NM100878 (NI100878), NM100879 (NI100879), NM100880 (NI100880), NM100881 (NI100881), NM100882 (NI100882), NM100883 (NI100883), NM100884",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "NOxBOXi Nitric Oxide Delivery System.",
+          "codes": "UDI-DI 05060541640009. Identification Number (Serial Number): NM100825 (NI100825), NM100833 (NI100833), NM100839 (NI100839), NM100840 (NI100840), NM100841 (NI100841), NM100847 (NI100847), NM100848 (NI100848), NM100849 (NI100849), NM100850 (NI100850), NM100851 (NI100851), NM100852 (NI100852), NM100855 (NI100855), NM100858 (NI100858), NM100859 (NI100859), NM100861 (NI100861), NM100862 (NI100862), NM100865 (NI100865), NM100866 (NI100866), NM100868 (NI100868), NM100869 (NI100869), NM100872 (NI100872), NM100873 (NI100873), NM100875 (NI100875), NM100876 (NI100876), NM100878 (NI100878), NM100879 (NI100879), NM100880 (NI100880), NM100881 (NI100881), NM100882 (NI100882), NM100883 (NI100883), NM100884",
+          "recallNumber": "Z-3165-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99720",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Brand Name: VERIQA; Product Name: RT MonteCarlo 3D v3; Model/Catalog Number: S070031.520; Software Version: 3.1.18;",
+      "brand": "PTW FREIBURG",
+      "description": "When a bolus is included in a treatment plan and sent for secondary dose calculation, the software accounts for it but does not display this clearly, which may lead users to incorrectly omit the bolus during treatment and deliver the prescribed dose to the wrong tissue depth.",
+      "reason": "When a bolus is included in a treatment plan and sent for secondary dose calculation, the software accounts for it but does not display this clearly, which may lead users to incorrectly omit the bolus during treatment and deliver the prescribed dose to the wrong tissue depth.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Worldwide - US Nationwide distribution in the states of GA, NY and the countries of Austria, Belgium, Switzerland, Czechia, Germany, Spain, France, Netherlands, Norway, Poland, Portugal, Romania, T¿rkiye, Chile, United Arab Emirates, Saudi Arabia, Mexico, Hong Kong, Brazil, Tajikistan, Ecuador, Iran, Thailand, Serbia, South Africa, Kazakhstan, Algeria.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Model/Catalog Number: S070031.520; UDI-DI: +EPTWS070031Q5200; Software Version 3.1.18;",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Brand Name: VERIQA; Product Name: RT MonteCarlo 3D v3; Model/Catalog Number: S070031.520; Software Version: 3.1.18;",
+          "codes": "Model/Catalog Number: S070031.520; UDI-DI: +EPTWS070031Q5200; Software Version 3.1.18;",
+          "recallNumber": "Z-3174-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99534",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Bard Access Systems, Inc.: 2 recalled products",
+      "brand": "Bard Access Systems, Inc.",
+      "description": "this is a downstream recall of class I recall RES 98777",
+      "reason": "this is a downstream recall of class I recall RES 98777",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "AL",
+        "AR",
+        "AZ",
+        "CA",
+        "CO",
+        "CT",
+        "DC",
+        "DE",
+        "FL",
+        "GA",
+        "HI",
+        "IA",
+        "ID",
+        "IL",
+        "IN",
+        "KS",
+        "KY",
+        "LA",
+        "MA",
+        "MD",
+        "ME",
+        "MI",
+        "MN",
+        "MO",
+        "MS",
+        "MT",
+        "NC",
+        "ND",
+        "NE",
+        "NH",
+        "NJ",
+        "NM",
+        "NV",
+        "NY",
+        "OH",
+        "OK",
+        "OR",
+        "PA",
+        "RI",
+        "SC",
+        "SD",
+        "TN",
+        "TX",
+        "UT",
+        "VA",
+        "WA",
+        "WI",
+        "WV",
+        "WY"
+      ],
+      "distribution": "US: FL, IL, OH, VA, MD, TX, WI, GA, TN, IN, SC, NC, MI, PA, OR, OK, AZ, MS, NJ, AL, CA, CO, MA, NV, ID, MO, LA, WA, KY, IA, NH, NY, KS, HI, NE, MN, MT, WY, AR, RI, WV, UT, PR, DE, CT, ME, DC, ND, NM, SD",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Power-Trialysis Short-Term Straight Dialysis Catheter, REF: 5605150; Power-Trialysis Short-Term Straight Dialysis Catheter, REF: 5605200; Power-Trialysis Short-Term Straight Dialysis Catheter, REF: 5605240; Power-Trialysis Short-Term Straight Dialysis Catheter, REF: 5605300; Power-Trialysis Short-Term Curved Extension Dialysis Catheter, REF: 5615120; Power-Trialysis Short-Term Curved Extension Dialysis Catheter, REF: 5615150; Power-Trialysis Short-Term Curved Extension Dialysis Catheter, REF: 5615200; Power-Trialysis Short-Term Curved Extension Dialysis Catheter, REF: 5615240; Power-Trialysis Short-Term Alphacurve Dialysis Catheter, REF: 5655120; Power-Trialysis Short-Term Alphacurve Dialysis Catheter, REF: 5655150; Power-Trialysis Short-Term Alphacurve Dialysis Catheter, REF: 5655200; Power-Trialysis Short-Term Alphacurve Dialysis Catheter, REF: 5655240; Power-Trialysis Short-Term Straight Dialysis Catheter Full Procedure Tray, REF: 5605200G; Power-Trialysis Slim-Cath Straight Short-Term Dialysis Catheter, REF: 5855200G; Power-Trialysis Slim-Cath Precurved Extension Short-Term Dialysis Catheter, REF: 5865150G; Power-Trialysis Slim-Cath Straight Short-Term Dialysis Catheter, REF: 5855150; Power-Trialysis Slim-Cath Straight Short-Term Dialysis Catheter, REF: 5855200; Power-Trialysis Slim-Cath Straight Short-Term Dialysis Catheter, REF: 5855240; Power-Trialysis Slim-Cath Straight Short-Term Dialysis Catheter, REF: 5855300; Power-Trialysis Slim-Cath Precurved Extension Short-Term Dialysis Catheter, REF: 5865120; Power-Trialysis Slim-Cath Precurved Extension Short-Term Dialysis Catheter, REF: 5865150; Power-Trialysis Slim-Cath Precurved Extension Short-Term Dialysis Catheter, REF: 5865200; Power-Trialysis Slim-Cath Precurved Extension Short-Term Dialysis Catheter, REF: 5865240",
+          "codes": "REF/UDI-DI/Lot(Expiration): 5605150/801741086953/ REKQ2236(08/31/2026), REKR0948(08/31/2026), REKR3422(09/30/2026), REKR3433(09/30/2026), REKS1563(10/31/2026), REKS3564(09/30/2026), REKS3559(10/31/2026), REKT0573(11/30/2026), REKT1722(09/30/2026), REKT3057(10/31/2026), REKU1678(12/31/2026), REKV0926(01/31/2027), REKW0664(02/28/2027), REKX0410(03/31/2027), REKX1755(03/31/2027), REKY2464(03/31/2027), REKZ2323(05/31/2027), RELN2937(06/30/2027); 5605200/801741086960/ REKQ3355(8/31/2026, REKQ3362(8/31/2026), REKR0756(9/30/2026), REKR2159(9/30/2026), REKR2214(9/30/2026), REKS1550(10/31/2026), REKS1559(10/31/2026), REKS2495(10/31/2026), REKT0576(10/31/2026), REKT0579(11/30/2026), REKT2201(11/30/202",
+          "recallNumber": "Z-2984-2026"
+        },
+        {
+          "name": "DuoGlide Short-Term Straight Dialysis Catheter, REF: 5625150; DuoGlide Short-Term Straight Dialysis Catheter, REF: 5625200; DuoGlide Short-Term Straight Dialysis Catheter, REF: 5625240; DuoGlide Short-Term Straight Dialysis Catheter, REF: 5625300; DuoGlide Short-Term Curved Extension Dialysis Catheter, REF: 5626120; DuoGlide Short-Term Curved Extension Dialysis Catheter, REF: 5626150; DuoGlide Short-Term Curved Extension Dialysis Catheter, REF: 5626200; DuoGlide Short-Term Curved Extension Dialysis Catheter, REF: 5626240; Niagara Dual-Lumen Short-Term Curved Extension Dialysis Catheter, REF: 5766200",
+          "codes": "REF/UDI-DI/Lot(Expiration): 5625150/801741042096/ REKS1082(8/31/2026), REKS2493(10/31/2026), REKU1654(10/31/2026), REKV2899(1/31/2027), REKX0416(3/31/2027), REKY1371(4/30/2027), REKZ0520(5/31/2027); 5625200/801741042102/ REKQ3365(8/31/2026), REKR0913(9/30/2026), REKR3442(9/30/2026), REKS3566(10/31/2026), REKT3039(11/30/2026), REKV0934(12/31/2026), REKW2112(1/31/2027), REKX1756(3/31/2027), REKY1379(4/30/2027), REKZ2330(5/31/2027), RELP1350(7/31/2027); 5625240/801741042119/ REKS1561(9/30/2026), REKU1624(12/31/2026), REKW1234(2/28/2027), REKY0255(4/30/2027), REKY2419(4/30/2027), RELP2149(7/31/2027); 5625300/801741042126/ REKQ1106(8/31/2026), REKS1554(10/31/2026), REKW1239(2/28/2027), REKY1363(4",
+          "recallNumber": "Z-2985-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99672",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Halyard IV START KIT NON-STERILE REF: KRIV26-02",
+      "brand": "AVID Medical, Inc.",
+      "description": "Convenience kits contain BD ChloraPrep Clear - 1 mL and FREPP Clear 1.5 mL Applicators which are contaminated with Aspergillus penicillioides",
+      "reason": "Convenience kits contain BD ChloraPrep Clear - 1 mL and FREPP Clear 1.5 mL Applicators which are contaminated with Aspergillus penicillioides",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution in the state of NE.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Lot Number: 1658437 UDI: 10809160460481",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Halyard IV START KIT NON-STERILE REF: KRIV26-02",
+          "codes": "Lot Number: 1658437 UDI: 10809160460481",
+          "recallNumber": "Z-3108-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99593",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "embecta Medical II LLC: 2 recalled products",
+      "brand": "embecta Medical II LLC",
+      "description": "Retrospectively reported: Pen needles labeled 'For Investigational Use Only' were inadvertently distributed as commercially marketed devices.",
+      "reason": "Retrospectively reported: Pen needles labeled 'For Investigational Use Only' were inadvertently distributed as commercially marketed devices.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution in the states of MA, KY, CT, TX, NJ, OH, MN, LA, IN, NH, AL, CA, NY, FL, NC, MI, SC, AZ, VA, GA, PA, MO.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "See affected products",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "EWO_02512 (Catalog number 320550) For Investigational Use Only Nano Pro Un-Cannulated Demo Samples Quantity 100",
+          "codes": "No UDI/All products labeled \"for Investigational Use Only\"",
+          "recallNumber": "Z-3179-2026"
+        },
+        {
+          "name": "EWO_02513 (Catalog number 320122) For Investigational Use Only Nano Un-Cannulated Demo Samples Quantity 100",
+          "codes": "No UDI/All products labeled \"for Investigational Use Only\"",
+          "recallNumber": "Z-3180-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99707",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "GM Helix Implant, REF: 109.984;",
+      "brand": "Straumann USA LLC",
+      "description": "There is a discrepancy between the product identification on the packaging and the dimensions of the implant contained inside.",
+      "reason": "There is a discrepancy between the product identification on the packaging and the dimensions of the implant contained inside.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution in the states of AL, AZ, CA, CO, FL, GA, IL, KS, LA, MA, MI, MO, NC, NJ, NV, NY, OH, OK, OR, PA, SC, TX, VA, WI;",
+      "retailers": [],
+      "allergens": [],
+      "codes": "REF: 109.984; UDI: (01)7899878024552(11)251122(17)301121(10)VZPF4; Lot: VZPF4;",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "GM Helix Implant, REF: 109.984;",
+          "codes": "REF: 109.984; UDI: (01)7899878024552(11)251122(17)301121(10)VZPF4; Lot: VZPF4;",
+          "recallNumber": "Z-3173-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99685",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "SunMed Tracheal Tube, Size 2.5; Model Number: 1-7333-25",
+      "brand": "WELL LEAD MEDICAL CO. LTD",
+      "description": "The 6Fr suction catheter could not pass through the samples smoothly.",
+      "reason": "The 6Fr suction catheter could not pass through the samples smoothly.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution in the state of MI.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Model Number: 1-7333-25; UDI-DI:10889483048108; Lot No.: 2108011462, 2108011506, 2109011963, 2111012039, 2112012040, 2204010568, 2204010569, 2204010734, 2205010833, 2207011263, 2208011729, 2208011789, 2304010830, 2306011372, 2306011425, 2308011907, 2308012011, 2308012012, 2309012128, 2310012358, 2310012599, 2311013016, 2311012924, 2312013223, 2401010069, 2401010197, 2402010378, 2403010466, 2403010889, 2404010999, 2406011822, 2407012282, 2408012389, 2409012800, 2409012882, 2508013006, 2510013653, 2511014081, 2512014080, 2602010272, 2603010274, 2603010900, 2604011014, 2604011416, 2605011923, 2605011924;",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "SunMed Tracheal Tube, Size 2.5; Model Number: 1-7333-25",
+          "codes": "Model Number: 1-7333-25; UDI-DI:10889483048108; Lot No.: 2108011462, 2108011506, 2109011963, 2111012039, 2112012040, 2204010568, 2204010569, 2204010734, 2205010833, 2207011263, 2208011729, 2208011789, 2304010830, 2306011372, 2306011425, 2308011907, 2308012011, 2308012012, 2309012128, 2310012358, 2310012599, 2311013016, 2311012924, 2312013223, 2401010069, 2401010197, 2402010378, 2403010466, 2403010889, 2404010999, 2406011822, 2407012282, 2408012389, 2409012800, 2409012882, 2508013006, 2510013653, 2511014081, 2512014080, 2602010272, 2603010274, 2603010900, 2604011014, 2604011416, 2605011923, 2605011924;",
+          "recallNumber": "Z-3172-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99298",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "BD Alaris Pump Infusion Sets 10561554* 10885403232565 50885403232563 BD Alaris Pump Infusion Set, 15 Micron Filter, Back Check Valve, 3 SmartSite Y-sites 10015861A 10885403232626 50885403232624 BD Alaris Pump Infusion Se",
+      "brand": "BD SWITZERLAND SARL",
+      "description": "Due to discrepancies in specific attributes in the performance data for infusion sets, which may lead to inappropriate pump performance.",
+      "reason": "Due to discrepancies in specific attributes in the performance data for infusion sets, which may lead to inappropriate pump performance.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "AK",
+        "AL",
+        "AR",
+        "AZ",
+        "CA",
+        "CO",
+        "CT",
+        "DC",
+        "DE",
+        "FL",
+        "GA",
+        "HI",
+        "IA",
+        "ID",
+        "IL",
+        "IN",
+        "KS",
+        "KY",
+        "LA",
+        "MA",
+        "MD",
+        "ME",
+        "MI",
+        "MN",
+        "MO",
+        "MS",
+        "MT",
+        "NC",
+        "ND",
+        "NE",
+        "NH",
+        "NJ",
+        "NM",
+        "NV",
+        "NY",
+        "OH",
+        "OK",
+        "OR",
+        "PA",
+        "RI",
+        "SC",
+        "SD",
+        "TN",
+        "TX",
+        "UT",
+        "VA",
+        "VT",
+        "WA",
+        "WI",
+        "WV",
+        "WY"
+      ],
+      "distribution": "U.S.: Nation-wide - AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, GU, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MP, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, PR, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, and WY. O.U.S.: Australia Belgium Bahrain Botswana Canada Cuba China France Germany Gibraltar Israel India Italy Japan Korea, Republic of Kuwait Mexico Malaysia Netherlands New Zealand Philippines Pakistan Qatar Saudi Arabia Singapore South Africa Switzerland Taiwan, Province of China Turkey United Arab Emirates United Kingdom",
+      "retailers": [],
+      "allergens": [],
+      "codes": "10561554* 10885403232565 50885403232563 BD Alaris Pump Infusion Set, 15 Micron Filter, Back Check Valve, 3 SmartSite Y-sites 10015861A 10885403232626 50885403232624 BD Alaris Pump Infusion Set, SmartSite Bag Access Non-Vented, PE Lined Tubing, Back Check Valve, 3 SmartSite Y-sites 11171447* 7613203021234 37613203021242 BD Alaris Pump Infusion Set, 2 Back Check Valves, 3 SmartSite Y-sites 11426965* 10885403232558 50885403232556 BD Alaris Pump Infusion Set, Back Check Valve, 5 SmartSite Y-sites 2260-0500 7613203012591 37613203012608 BD Alaris Pump Infusion Set, PE Lined Tubing 24600-0007 10885403241970 50885403241978 BD Alaris Pump Infusion Set, PE Lined Tubing, Back Check Valve, 3 SmartSite Y",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "BD Alaris Pump Infusion Sets 10561554* 10885403232565 50885403232563 BD Alaris Pump Infusion Set, 15 Micron Filter, Back Check Valve, 3 SmartSite Y-sites 10015861A 10885403232626 50885403232624 BD Alaris Pump Infusion Set, SmartSite Bag Access Non-Vented, PE Lined Tubing, Back Check Valve, 3 SmartSite Y-sites 11171447* 7613203021234 37613203021242 BD Alaris Pump Infusion Set, 2 Back Check Valves, 3 SmartSite Y-sites 11426965* 10885403232558 50885403232556 BD Alaris Pump Infusion Set, Back Check Valve, 5 SmartSite Y-sites 2260-0500 7613203012591 37613203012608 BD Alaris Pump Infusion Set, PE Lined Tubing 24600-0007 10885403241970 50885403241978 BD Alaris Pump Infusion Set, PE Lined Tubing, Back Check Valve, 3 SmartSite Y-sites 2278-0500 10885403223266 50885403223264 BD Alaris Pump Infusion Blood Set, 200 Micron Filter 2477-0007 7613203019460 37613203019478 BD Alaris Pump Infusion Blood Set, 180 Micron Filter, SmartSite Y-site 22603-B007T 10885403240942 50885403240940 BD Alaris Pump Infusion Set, SmartSite Bag Access Non-Vented, PE Lined Tubing, Bonded Texium Closed Male Luer with Priming Cap 24010-0007T 10885403271021 50885403271029 BD Alaris Pump Infusion Set, Bonded Texium, Closed Male Luer with Priming Cap, Back Check Valve, 3 SmartSite Y-sites 24301-0007T 10885403223198 50885403223196 BD Alaris Pump Infusion Set, SmartSite Bag Access Non-Vented, 0.2 Micron Filter, PE Lined Tubing, Bonded Texium Closed Male Luer with Priming Cap, SmartSite Y-site 24601-B007T 10885403240959 50885403240957 BD Alaris Pump Infusion Set, SmartSite Bag Access Non-Vented, PE Lined Tubing, Bonded Texium Closed Male Luer with Priming Cap, Back Check Valve, 2 SmartSite Y- sites 22602-B007T 10885403240935 50885403240933 BD Alaris Pump Infusion Set, SmartSite Bag Access Non-Vented, PE Lined Tubing, Bonded Texium Closed Male Luer with Priming Cap 11426964 10885403232367 50885403232365 BD Alaris¿LVP 20D LOW SORB 2204-0007* 10885403199363 50885403199361 BD Alaris Pump Infusion Set 10015862 10885403221866 50885403221864 BD Alaris Pump Infusion Set, SmartSite Bag Access Non-Vented, PE Lined Tubing 10010453 7613203021135 37613203021143 BD Alaris Pump Infusion Set, 1.2 Micron Filter, PE Lined Tubing, SmartSite Y-site 11532269 10885403232343 50885403232341 BD Alaris Pump Infusion Set, 0.2 Micron Filter, Back Check Valve, PE Lined Tubing, 2 SmartSite Y-sites 2202-0007* 10885403274039 50885403274037 BD Alaris Pump Infusion Set, 1.2 Micron Filter 2432-0007* 10885403232329 50885403232327 BD Alaris Pump Infusion Set, 0.2 Micron Filter, Back Check Valve, 3 SmartSite Y-sites 10010454 7613203015806 37613203015814 BD Alaris Pump Infusion Set, 0.2 Micron Filter, PE Lined Tubing, SmartSite Y-site 2465-0007 10885403221941 50885403221949 BD Alaris Pump Infusion Set, SmartSite Bag Access Non-Vented, 0.2 Micron Filter, PE Lined Tubing, SmartSite Y-site 10015012 10885403233951 50885403233959 BD Alaris Pump Infusion Burette Set, 0.2 Micron Filter, Smallbore Tubing, SmartSite Port (Burette), SmartSite Y-site 2441-0007 10885403235047 50885403235045 BD Alaris Pump Infusion Burette Set, Smallbore Tubing, SmartSite Port (Burette), 3 SmartSite Y-sites 11419365 10885403234736 50885403234734 BD Alaris Pump Infusion Set, Back Check Valve, Manifold, 3-Way Stopcock, 5 SmartSite Y-sites 2423-0007 7613203020985 37613203020979 BD Alaris Pump Infusion Set, Back Check Valve, 2 Ganged 4-Way Stopcocks, 4 SmartSite Y-sites 10813621 10885403234514 50885403234512 BD Alaris Pump Infusion Set, Back Check Valve, 3 Ganged 4-Way Stopcocks, 4 SmartSite Y-sites 10010483 10885403232602 50885403232600 BD Alaris Pump Infusion Set, Vented Syringe Adapter, Smallbore Tubing 10013072 7613203021210 37613203021228 BD Alaris Pump Infusion Set, PE Lined Tubing, Back Check Valve, 2 SmartSite Y-sites 10013361 10885403221965 50885403221963 BD Alaris Pump Infusion Set, SmartSite Bag Access Non-Vented, Back Check Valve, 2 SmartSite Y-sites 10013890 10885403232268 50885403232266 BD Alaris Pump Infusion Set, PE Lined Tubin",
+          "codes": "10561554* 10885403232565 50885403232563 BD Alaris Pump Infusion Set, 15 Micron Filter, Back Check Valve, 3 SmartSite Y-sites 10015861A 10885403232626 50885403232624 BD Alaris Pump Infusion Set, SmartSite Bag Access Non-Vented, PE Lined Tubing, Back Check Valve, 3 SmartSite Y-sites 11171447* 7613203021234 37613203021242 BD Alaris Pump Infusion Set, 2 Back Check Valves, 3 SmartSite Y-sites 11426965* 10885403232558 50885403232556 BD Alaris Pump Infusion Set, Back Check Valve, 5 SmartSite Y-sites 2260-0500 7613203012591 37613203012608 BD Alaris Pump Infusion Set, PE Lined Tubing 24600-0007 10885403241970 50885403241978 BD Alaris Pump Infusion Set, PE Lined Tubing, Back Check Valve, 3 SmartSite Y",
+          "recallNumber": "Z-3080-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99512",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Kinos Axiom Total Ankle System with Axiom PSR, Flat-cut (Cut Guide), REF: 5831-9006",
+      "brand": "restor3d Inc.",
+      "description": "Ankle implantation systems were packaged with incorrect patient-specific cutting guides, which may result in: delayed surgery, the need to use standard instrumentation, reduced fixation or poor alignment of implants, implant loosening/migration, or need for revision surgery.",
+      "reason": "Ankle implantation systems were packaged with incorrect patient-specific cutting guides, which may result in: delayed surgery, the need to use standard instrumentation, reduced fixation or poor alignment of implants, implant loosening/migration, or need for revision surgery.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution in the states of FL, CO.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "System Serial Numbers: 18169, 18059. REF: 5831-9006, Lot: D-788, UDI-DI: 00840097509945.",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Kinos Axiom Total Ankle System with Axiom PSR, Flat-cut (Cut Guide), REF: 5831-9006",
+          "codes": "System Serial Numbers: 18169, 18059. REF: 5831-9006, Lot: D-788, UDI-DI: 00840097509945.",
+          "recallNumber": "Z-3178-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99648",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "CADD Yellow Medication Cassette Reservoir with NRFit connector US Product Codes: 21-7600-24, 21-7609-24 OUS Product Codes: 21-7609-24 21-7600-24 21-7600-24 21-7600-24 21-7609-24 21-7609-24 21-7600-24 21-7600-24 21-7609-2",
+      "brand": "ICU Medical, Inc.",
+      "description": "Reservoirs may exhibit medication leakage at the joint between luer connector and tubing. Issue could result in delay or interruption of therapy, under delivery of medication, exposure to infectious or toxic agents, or air embolus.",
+      "reason": "Reservoirs may exhibit medication leakage at the joint between luer connector and tubing. Issue could result in delay or interruption of therapy, under delivery of medication, exposure to infectious or toxic agents, or air embolus.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Worldwide - US Nationwide distribution in the states of AR, CA, FL, IL, IN, LA, MI, MO, MS, TN, TX, VA, WI and the countries of Austria, Australia, Belgium, Costa Rica, Germany, Estonia, Spain, Finland, France, Great Britain, Ireland, Italy, Japan, Kuwait, Netherlands, Norway, and Sweden.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "21-7600-24 UDI-DI 30610586044001 Lots 6026878 6037784 6054015 6062724 6070616 6082332 6092886 6101906 6108556 6126029 6140893 6143454 6147696 6147697 6162769 6155095 6166032 6171587 6171586 21-7609-24 UDI-DI 30610586044018 Lot 6022079 6037697 6037698 6053978 6061525 6072970 6072964 6070575 6077773 6092846 6101798 6108514 6108515 6108516 6140862 6140861 6140865 6155132",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "CADD Yellow Medication Cassette Reservoir with NRFit connector US Product Codes: 21-7600-24, 21-7609-24 OUS Product Codes: 21-7609-24 21-7600-24 21-7600-24 21-7600-24 21-7609-24 21-7609-24 21-7600-24 21-7600-24 21-7609-24 21-7609-24 21-7600-24 21-7600-24 21-7609-24 21-7600-24 21-7600-24 21-7609-24 21-7609-24JP 21-7600-24JP 21-7609-24 21-7609-24 21-7600-24 21-7600-24 21-7609-24 21-7600-24 21-7600-24 21-7600-24 21-7609-24",
+          "codes": "21-7600-24 UDI-DI 30610586044001 Lots 6026878 6037784 6054015 6062724 6070616 6082332 6092886 6101906 6108556 6126029 6140893 6143454 6147696 6147697 6162769 6155095 6166032 6171587 6171586 21-7609-24 UDI-DI 30610586044018 Lot 6022079 6037697 6037698 6053978 6061525 6072970 6072964 6070575 6077773 6092846 6101798 6108514 6108515 6108516 6140862 6140861 6140865 6155132",
+          "recallNumber": "Z-3212-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99356",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Brand Name: DASH Rapid PCR Instrument Product Name: DASH Rapid PCR Instrument Model/Catalog Number: SG-0002 Software Version: 6.0.2, 6.0.4, 6.0.5, 6.0.6 Product Description: The DASH¿ Rapid PCR Instrument (DASH Instrumen",
+      "brand": "Nuclein LLC",
+      "description": "Due to a software issue",
+      "reason": "Due to a software issue",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution in the states of Alabama, Delaware, Florida, Georgia, Kansas, Massachusetts, , Maryland, Maine, Michigan, North Carolina, New York, Ohio, South Carolina, Tennessee, Texas, Virginia, Vermont.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Instrument Serial Numbers / UDI codes: C01250001 (01)00850063063005(11)250217(21)C01250001 C01250003 (01)00850063063005(11)250217(21)C01250003 C01250004 (01)00850063063005(11)250214(21)C01250004 C01250005 (01)00850063063005(11)250214(21)C01250005 C01250006 (01)00850063063005(11)250218(21)C01250006 C01250007 (01)00850063063005(11)250218(21)C01250007 C01250008 (01)00850063063005(11)250218(21)C01250008 C01250009 (01)00850063063005(11)250218(21)C01250009 C01250010 (01)00850063063005(11)250218(21)C01250010 C02250002 (01)00850063063005(11)250221(21)C02250002 C02250003 (01)00850063063005(11)250221(21)C02250003 C02250004 (01)00850063063005(11)250221(21)C02250004 C02250005 (01)00850063063005(11)25022",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Brand Name: DASH Rapid PCR Instrument Product Name: DASH Rapid PCR Instrument Model/Catalog Number: SG-0002 Software Version: 6.0.2, 6.0.4, 6.0.5, 6.0.6 Product Description: The DASH¿ Rapid PCR Instrument (DASH Instrument) is an automated, fluorescence-based, reverse-transcription polymerase chain reaction (RT-PCR) instrument that extracts specimens and performs nucleic acid amplified tests (NAAT) in DASH test cartridges for the qualitative detection of infectious diseases. The DASH Instrument is intended for use in conjunction with DASH Rapid PCR System tests to aid in the diagnosis of infectious diseases. Component: No.",
+          "codes": "Instrument Serial Numbers / UDI codes: C01250001 (01)00850063063005(11)250217(21)C01250001 C01250003 (01)00850063063005(11)250217(21)C01250003 C01250004 (01)00850063063005(11)250214(21)C01250004 C01250005 (01)00850063063005(11)250214(21)C01250005 C01250006 (01)00850063063005(11)250218(21)C01250006 C01250007 (01)00850063063005(11)250218(21)C01250007 C01250008 (01)00850063063005(11)250218(21)C01250008 C01250009 (01)00850063063005(11)250218(21)C01250009 C01250010 (01)00850063063005(11)250218(21)C01250010 C02250002 (01)00850063063005(11)250221(21)C02250002 C02250003 (01)00850063063005(11)250221(21)C02250003 C02250004 (01)00850063063005(11)250221(21)C02250004 C02250005 (01)00850063063005(11)25022",
+          "recallNumber": "Z-3164-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-device-99628",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Blood Culture Collection Venipuncture Kit 20/Cs, REF: 77451; Blood Culture Kit 20/Cs, REF: 81834B; Blood Culture Collection Kit, REF: 81834C. All containing BD ChloraPrep Clear - 1 mL Applicators",
+      "brand": "Medical Action Industries, Inc. 306",
+      "description": "Blood culture convenience kits contain a component subject to a drug recall that due to an an open or incomplete seal on the packaging of the applicator may compromise the component's sterile barrier and if used may lead to localized skin or soft tissue infection.",
+      "reason": "Blood culture convenience kits contain a component subject to a drug recall that due to an an open or incomplete seal on the packaging of the applicator may compromise the component's sterile barrier and if used may lead to localized skin or soft tissue infection.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "US Nationwide distribution in the states of OH, IN, NC.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "77451/20809160195069/343602(5/31/2027), 349005(10/31/2027), 374030(11/30/2027), 375434(12/31/2027), 377632(4/2/2028), 327194(8/31/2026), 375105(3/31/2028), 336074(3/21/2027); 81834B/20809160403324/326214(7/31/2027); 81834C/20809160466602/347551(8/12/2026), 372502(8/10/2026), 374615(10/21/2026), 376461(10/23/2026), 377088(11/6/2026), 373129(9/3/2026), 374033(9/3/2026)",
+      "source": "FDA Device Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Blood Culture Collection Venipuncture Kit 20/Cs, REF: 77451; Blood Culture Kit 20/Cs, REF: 81834B; Blood Culture Collection Kit, REF: 81834C. All containing BD ChloraPrep Clear - 1 mL Applicators",
+          "codes": "77451/20809160195069/343602(5/31/2027), 349005(10/31/2027), 374030(11/30/2027), 375434(12/31/2027), 377632(4/2/2028), 327194(8/31/2026), 375105(3/31/2028), 336074(3/21/2027); 81834B/20809160403324/326214(7/31/2027); 81834C/20809160466602/347551(8/12/2026), 372502(8/10/2026), 374615(10/21/2026), 376461(10/23/2026), 377088(11/6/2026), 373129(9/3/2026), 374033(9/3/2026)",
+          "recallNumber": "Z-3181-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-food-99869",
+      "section": "food",
+      "category": "Human food",
+      "title": "Heinz Real - Vraie Mayonnaise, 12.5ml single serving packet, 500 packets per case, case code 57000 06672",
+      "brand": "KRAFT HEINZ FOODS COMPANY",
+      "description": "undeclared ingredients including but not limited to mustard",
+      "reason": "undeclared ingredients including but not limited to mustard",
+      "action": "Do not consume if the allergen applies. Check the affected codes, then return or discard the product as directed.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Not Yet Classified",
+      "severity": 2,
+      "states": [],
+      "distribution": "Canada",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Best By 2027/3/27 and Best By 2027/3/28",
+      "source": "FDA Food Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Heinz Real - Vraie Mayonnaise, 12.5ml single serving packet, 500 packets per case, case code 57000 06672",
+          "codes": "Best By 2027/3/27 and Best By 2027/3/28",
+          "recallNumber": "N/A"
+        }
+      ]
+    },
+    {
+      "id": "fda-drug-99876",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Nystatin Cream, USP, 15 g per tube, Rx only, Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761; Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532. NDC: 51672-1289-1",
+      "brand": "SUN PHARMACEUTICAL INDUSTRIES INC",
+      "description": "Failed Stability Specifications",
+      "reason": "Failed Stability Specifications",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-23",
+      "status": "Ongoing",
+      "classification": "Not Yet Classified",
+      "severity": 2,
+      "states": [
+        "US"
+      ],
+      "distribution": "U.S. Nationwide.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "LOT AD49605, LOT AD49606; Exp. 05/31/2027",
+      "source": "FDA Drug Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Nystatin Cream, USP, 15 g per tube, Rx only, Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761; Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532. NDC: 51672-1289-1",
+          "codes": "LOT AD49605, LOT AD49606; Exp. 05/31/2027",
+          "recallNumber": "N/A"
+        }
+      ]
+    },
+    {
       "id": "fsis-Star Meat Delivery Inc. Recalls Raw Pork, Beef, and Goat Products Produced Witho",
       "section": "food",
       "category": "Human food",
@@ -888,8 +3098,8 @@
       "category": "Furniture & home",
       "title": "Char-Broil Recalls Bistro Pro Electric Grills Due to Risk of Electric Shock",
       "brand": "Char-Broil LLC, of Columbus, Georgia",
-      "description": "This recall involves the Charbroil Bistro Pro Electric Grills with model descriptions Bistro Pro Electric Grill & Griddle + Charcoal, Bistro Electric Grill + Charcoal and Bistro Pro Tabletop Electric Grill. The grills were sold in full-size and tabletop configurations in Black (black and gray), Red, Blackout (all black) and Emerald (green). The units have a \"CB\" logo plate on the front of the lid and \"CHARBROIL\" printed on the front control panel. The product label listing the model and serial number, including a four-digit manufacturing date code in year and month (YYMM) format, is located on the bottom shelf of full-size grills and on the side bar of tabletop models. Only Bistro Pro Electric Grills with date codes of 2510 (Oct-2025), 2511 (Nov-2025) and 2512 (Dec-2025) are included in this recall.",
-      "reason": "The grounding wire for the grill’s heating element can disconnect and lose fault protection, posing an electric shock hazard.",
+      "description": "This recall involves the Charbroil Bistro Pro Electric Grills with model descriptions Bistro Pro Electric Grill & Griddle + Charcoal, Bistro Electric Grill + Charcoal and Bistro Pro Tabletop Electric Grill. The grills were sold in full-size and tabletop configurations in Black (black and gray), Red, Blackout (all black) and Emerald (green). The units have a \"CB\" logo plate on the front of the lid and \"CHARBROIL\" printed on the front control panel. The product label listing the model and serial number, including a four-digit manufacturing date code in year and month (YYMM) format, is located on the bottom shelf of full-size grills and on the side bar of tabletop models. Only Bistro Pro Electric Grills with date codes of 2510 (Oct-2025), 2511 (Nov-2025) and 2512 (Dec-2025) are included in this recall. Model Description Model No. Bistro Pro™ Electric Grill & Griddle + Charcoal Mode Black 25",
+      "reason": "The grounding wire for the grill's heating element can disconnect and lose fault protection, posing an electric shock hazard.",
       "action": "Consumers should stop using the recalled electric grills immediately and contact Char-Broil for a free repair kit. Consumers will be asked to register at www.charbroil.com/BistroProFix to receive repair instructions, a screwdriver, a wrench, screws and a label to affix to the grill after repair. Char-Broil is offering a digital $25 gift card, valid at participating retailers, to consumers who provide photo documentation of the completed repair.",
       "date": "2026-09-17",
       "status": "Active recall",
@@ -898,7 +3108,7 @@
       "states": [
         "US"
       ],
-      "distribution": "Sold At: Ace Hardware, Lowe’s, Walmart, Wayfair, QVC and other hardware stores nationwide online at Amazon.com, Charbroil.com, Ace Hardware.com, Lowes.com, Walmart.com, Wayfair.com, QVC.com and other online retailers from October 2025 through June 2026 for between $150 and $250.",
+      "distribution": "Ace Hardware, Lowe's, Walmart, Wayfair, QVC and other hardware stores nationwide online at Amazon.com, Charbroil.com, Ace Hardware.com, Lowes.com, Walmart.com, Wayfair.com, QVC.com and other online retailers from October 2025 through June 2026 for between $150 and $250.",
       "retailers": [
         "Amazon",
         "Walmart"
@@ -1124,6 +3334,36 @@
       ]
     },
     {
+      "id": "fda-drug-99837",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "fentaNYL Citrate, 1,000 mcg/100 mL (10mcg/mL) Injection solution in 100 mL, 0.9% NaCl Bag, OurPharma LLC, 2512 S. City Lake, Fayetteville, AR, NDC 73013-1013-01.",
+      "brand": "OurPharma LLC",
+      "description": "Labeling: Not Elsewhere Classified: Complaint received on 08/31/2026 regarding the discrepancy of the IV bag expiry (07/31/2026 and 11/30/2026) and the product expiry (12/09/2026).",
+      "reason": "Labeling: Not Elsewhere Classified: Complaint received on 08/31/2026 regarding the discrepancy of the IV bag expiry (07/31/2026 and 11/30/2026) and the product expiry (12/09/2026).",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-16",
+      "status": "Ongoing",
+      "classification": "Class II",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Nationwide within the U.S",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Lot #: 101301260605, BUD: 12/9/2026.",
+      "source": "FDA Drug Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "fentaNYL Citrate, 1,000 mcg/100 mL (10mcg/mL) Injection solution in 100 mL, 0.9% NaCl Bag, OurPharma LLC, 2512 S. City Lake, Fayetteville, AR, NDC 73013-1013-01.",
+          "codes": "Lot #: 101301260605, BUD: 12/9/2026.",
+          "recallNumber": "D-0864-2026"
+        }
+      ]
+    },
+    {
       "id": "fda-drug-99756",
       "section": "products",
       "category": "Medicines & medical devices",
@@ -1150,6 +3390,36 @@
           "name": "Povidone Iodine 1.25% / Proparacaine HCl 0.5% Ophthalmic Solution, 10 mL per dropper bottle, For Office Use Only, Imprimis NJOF, LLC, 1705 Route 46 West, Unit 6B, Ledgewood, NJ 07852, NDC 71384-732-10",
           "codes": "Lot #: 26JAN035, BUD 09/07/2026; 26FEB015, BUD 09/24/2026",
           "recallNumber": "D-0835-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-drug-99670",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "Epinephrine Injection, USP, 30 mg/30 mL (1mg/mL), 30 mL-Multiple-Dose Vial, Rx Only, For Intravenous Infusion, intramuscular and Subcutaneous Use, AMERICAN REGENT INC., SHIRLEY, NY 11967. NDC 0517-3030-01",
+      "brand": "American Regent, Inc.",
+      "description": "Presence of Particulate Matter and Lack of Assurance of Sterility. Particulate matter identified as nylon, cellulosic, acrylic, polyethylene and glass and broken and leaking vials.",
+      "reason": "Presence of Particulate Matter and Lack of Assurance of Sterility. Particulate matter identified as nylon, cellulosic, acrylic, polyethylene and glass and broken and leaking vials.",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-16",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Nationwide within the U.S.A",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Lots: 25128L1C0, Exp. August 31, 2026; 25280L1C0, Exp. October 31, 2026; 26108L1C0, Exp. July 31, 2027",
+      "source": "FDA Drug Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "Epinephrine Injection, USP, 30 mg/30 mL (1mg/mL), 30 mL-Multiple-Dose Vial, Rx Only, For Intravenous Infusion, intramuscular and Subcutaneous Use, AMERICAN REGENT INC., SHIRLEY, NY 11967. NDC 0517-3030-01",
+          "codes": "Lots: 25128L1C0, Exp. August 31, 2026; 25280L1C0, Exp. October 31, 2026; 26108L1C0, Exp. July 31, 2027",
+          "recallNumber": "D-0865-2026"
         }
       ]
     },
@@ -1210,6 +3480,36 @@
           "name": "Dextrose Injection, USP, 70 %, 2000 mL bags, Rx Only, Baxter Healthcare Corporation Deerfield, IL, 60016, Made in USA, NDC 00338-0719-06",
           "codes": "Lot #: Y495066, Exp. Date July 31, 2027",
           "recallNumber": "D-0850-2026"
+        }
+      ]
+    },
+    {
+      "id": "fda-drug-99703",
+      "section": "products",
+      "category": "Medicines & medical devices",
+      "title": "0.9% Sodium Chloride Injection, USP, 100 mL Partial Fill in 150 mL PAB Container, Sterile, Rx only, B. Braun Medical Inc., Bethlehem, PA 18018 USA, NDC 0264-1800-32.",
+      "brand": "B BRAUN MEDICAL INC",
+      "description": "Presence of Particulate Matter: particulate matter identified as iron oxide, inorganic material, cellulose cotton fiber or polystyrene",
+      "reason": "Presence of Particulate Matter: particulate matter identified as iron oxide, inorganic material, cellulose cotton fiber or polystyrene",
+      "action": "Stop using the affected product and follow the official recall instructions.",
+      "date": "2026-09-16",
+      "status": "Ongoing",
+      "classification": "Class I",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Nationwide within the United States",
+      "retailers": [],
+      "allergens": [],
+      "codes": "Lot #: J6B435, J6B444, J6B457, Exp Date: 30APR2027.",
+      "source": "FDA Drug Enforcement Report",
+      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
+      "products": [
+        {
+          "name": "0.9% Sodium Chloride Injection, USP, 100 mL Partial Fill in 150 mL PAB Container, Sterile, Rx only, B. Braun Medical Inc., Bethlehem, PA 18018 USA, NDC 0264-1800-32.",
+          "codes": "Lot #: J6B435, J6B444, J6B457, Exp Date: 30APR2027.",
+          "recallNumber": "D-0869-2026"
         }
       ]
     },
@@ -1540,36 +3840,6 @@
           "name": "Bravo CF capsule delivery device, 5-pack, Product Number FGS-0635, Bravo CF capsule delivery device, 1-pack, Product Number FGS-0636. Used to attach a pH monitoring capsule to the esophagus.",
           "codes": "Product Number FGS-0635 UDI-DI (GTIN) 07290101369707 Product Number FGS-0636 UDI-DI (GTIN) 07290101369714 Expiration dates prior to and including October 20, 2027 (lot numbers from 64553F up to and including 68912F)",
           "recallNumber": "Z-3090-2026"
-        }
-      ]
-    },
-    {
-      "id": "fda-drug-99837",
-      "section": "products",
-      "category": "Medicines & medical devices",
-      "title": "fentaNYL Citrate, 1,000 mcg/100 mL (10mcg/mL) Injection solution in 100 mL, 0.9% NaCl Bag, OurPharma LLC, 2512 S. City Lake, Fayetteville, AR, NDC 73013-1013-01.",
-      "brand": "OurPharma LLC",
-      "description": "Labeling: Not Elsewhere Classified: Complaint received on 08/31/2026 regarding the discrepancy of the IV bag expiry (07/31/2026 and 11/30/2026) and the product expiry (12/09/2026).",
-      "reason": "Labeling: Not Elsewhere Classified: Complaint received on 08/31/2026 regarding the discrepancy of the IV bag expiry (07/31/2026 and 11/30/2026) and the product expiry (12/09/2026).",
-      "action": "Stop using the affected product and follow the official recall instructions.",
-      "date": "2026-09-16",
-      "status": "Ongoing",
-      "classification": "Not Yet Classified",
-      "severity": 2,
-      "states": [
-        "US"
-      ],
-      "distribution": "Nationwide within the U.S",
-      "retailers": [],
-      "allergens": [],
-      "codes": "Lot #: 101301260605, BUD: 12/9/2026.",
-      "source": "FDA Drug Enforcement Report",
-      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
-      "products": [
-        {
-          "name": "fentaNYL Citrate, 1,000 mcg/100 mL (10mcg/mL) Injection solution in 100 mL, 0.9% NaCl Bag, OurPharma LLC, 2512 S. City Lake, Fayetteville, AR, NDC 73013-1013-01.",
-          "codes": "Lot #: 101301260605, BUD: 12/9/2026.",
-          "recallNumber": ""
         }
       ]
     },
@@ -2192,75 +4462,6 @@
           "name": "Frankie's Organic Plant-Based Puffs Vegan Cheddar, NET WT. 4 oz. (113 g). Product is packaged into flexible plastic bag, UPC 816929000119. Sold wholesale: 12 retail units/ case",
           "codes": "Best If Used By: 05 16 2027 and Best If Used By: 07 03 2027",
           "recallNumber": "H-1328-2026"
-        }
-      ]
-    },
-    {
-      "id": "fda-food-99582",
-      "section": "food",
-      "category": "Human food",
-      "title": "Food to Live Organic SuperGrass Powder; 6 oz, 12 oz, 1 lb, 4 lb",
-      "brand": "Lexunder Inc",
-      "description": "Contaminated with Salmonella",
-      "reason": "Contaminated with Salmonella",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-09-09",
-      "status": "Ongoing",
-      "classification": "Class I",
-      "severity": 4,
-      "states": [
-        "AK",
-        "AR",
-        "AZ",
-        "CA",
-        "CO",
-        "CT",
-        "DE",
-        "FL",
-        "GA",
-        "HI",
-        "IA",
-        "IL",
-        "IN",
-        "KY",
-        "LA",
-        "MA",
-        "MD",
-        "MI",
-        "MN",
-        "MO",
-        "MS",
-        "NC",
-        "NE",
-        "NH",
-        "NJ",
-        "NV",
-        "NY",
-        "OH",
-        "OK",
-        "OR",
-        "PA",
-        "RI",
-        "SC",
-        "TN",
-        "TX",
-        "UT",
-        "VA",
-        "WA",
-        "WI",
-        "WV"
-      ],
-      "distribution": "AK, AR, AZ, CA, CO, CT, DE, FL, GA, HI, IA, IL, IN, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NH, NJ, NV, NY, OH, OK, OR, PA, RI, SC, TN, TX, UT, VA, VI, WA, WI, WV, and U.S. Virgin Islands.",
-      "retailers": [],
-      "allergens": [],
-      "codes": "; UPC: 6 oz 810097461543; 12 oz 810097461550; 1 lb 810097461567; 4 lb 810097461581; Lot codes SO-77541, SO-77704, SO-77839, SO-78003, SO-78160, SO-78245, SO-78252",
-      "source": "FDA Food Enforcement Report",
-      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
-      "products": [
-        {
-          "name": "Food to Live Organic SuperGrass Powder; 6 oz, 12 oz, 1 lb, 4 lb",
-          "codes": "; UPC: 6 oz 810097461543; 12 oz 810097461550; 1 lb 810097461567; 4 lb 810097461581; Lot codes SO-77541, SO-77704, SO-77839, SO-78003, SO-78160, SO-78245, SO-78252",
-          "recallNumber": "N/A"
         }
       ]
     },
@@ -5593,36 +7794,6 @@
           "name": "Philips Incisive CT with software V4.5&V5.0, Product Code 728143 and Product Code 728144.",
           "codes": "Device Identifier: (01)00884838085015, (01)00884838105508.",
           "recallNumber": "Z-2988-2026"
-        }
-      ]
-    },
-    {
-      "id": "fda-drug-99666",
-      "section": "products",
-      "category": "Medicines & medical devices",
-      "title": "Ibuprofen, 150 mg per 7.5 mL, Delivers: 7.5 mL, Conc: 20 mg/mL, Oral Suspension, 12mL Oral Syringes, Berry Flavor/Alcohol Free, Mfg By: MCNEIL, Pkg by: Safecor, Woburn, MA",
-      "brand": "Safecor Health, LLC",
-      "description": "Cross Contamination with Other Products",
-      "reason": "Cross Contamination with Other Products",
-      "action": "Stop using the affected product and follow the official recall instructions.",
-      "date": "2026-09-02",
-      "status": "Ongoing",
-      "classification": "Not Yet Classified",
-      "severity": 2,
-      "states": [
-        "MA"
-      ],
-      "distribution": "MA only",
-      "retailers": [],
-      "allergens": [],
-      "codes": "Lot #: 26281630, Exp. Date 1/27/2027",
-      "source": "FDA Drug Enforcement Report",
-      "sourceUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/enforcement-reports",
-      "products": [
-        {
-          "name": "Ibuprofen, 150 mg per 7.5 mL, Delivers: 7.5 mL, Conc: 20 mg/mL, Oral Suspension, 12mL Oral Syringes, Berry Flavor/Alcohol Free, Mfg By: MCNEIL, Pkg by: Safecor, Woburn, MA",
-          "codes": "Lot #: 26281630, Exp. Date 1/27/2027",
-          "recallNumber": "N/A"
         }
       ]
     },
@@ -23026,6 +25197,32 @@
       "id": "cdc-2026-0",
       "section": "food",
       "category": "Investigation",
+      "title": "Raw Milk Cheese and E. coli O26",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "E. coli O26",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [
+        "milk"
+      ],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/ecoli/outbreaks/raw-milk-cheese-09-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-1",
+      "section": "food",
+      "category": "Investigation",
       "title": "Broccoli Sprouts and Salmonella Bovismorbificans",
       "brand": "",
       "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
@@ -23047,7 +25244,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-1",
+      "id": "cdc-2026-2",
       "section": "food",
       "category": "Investigation",
       "title": "Alfalfa Sprouts and E. coli O26:H11, O103:H25, and O168:H8 and Salmonella Agona",
@@ -23071,7 +25268,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-2",
+      "id": "cdc-2026-3",
       "section": "food",
       "category": "Investigation",
       "title": "Shell Eggs and Salmonella",
@@ -23097,7 +25294,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-3",
+      "id": "cdc-2026-4",
       "section": "food",
       "category": "Investigation",
       "title": "Jalapenos and Salmonella",
@@ -23121,7 +25318,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-4",
+      "id": "cdc-2026-5",
       "section": "food",
       "category": "Investigation",
       "title": "Iceberg Lettuce and Cyclospora",
@@ -23145,7 +25342,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-5",
+      "id": "cdc-2026-6",
       "section": "food",
       "category": "Investigation",
       "title": "Frozen Blueberries and E. coli O145",
@@ -23169,7 +25366,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-6",
+      "id": "cdc-2026-7",
       "section": "food",
       "category": "Investigation",
       "title": "Powdered Infant Formula and Clostridium botulinum",
@@ -23193,7 +25390,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-7",
+      "id": "cdc-2026-8",
       "section": "food",
       "category": "Investigation",
       "title": "Requeson/Soft Ricotta Cheese and Listeria monocytogenes",
@@ -23217,7 +25414,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-8",
+      "id": "cdc-2026-9",
       "section": "food",
       "category": "Investigation",
       "title": "Moringa Capsules and Salmonella Typhimurium",
@@ -23241,7 +25438,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-9",
+      "id": "cdc-2026-10",
       "section": "food",
       "category": "Investigation",
       "title": "Raw Dairy and E. coli O157:H7",
@@ -23267,7 +25464,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-10",
+      "id": "cdc-2026-11",
       "section": "food",
       "category": "Investigation",
       "title": "Moringa Powder Capsules and Salmonella Newport",
@@ -23291,7 +25488,7 @@
       "products": []
     },
     {
-      "id": "cdc-2026-11",
+      "id": "cdc-2026-12",
       "section": "food",
       "category": "Investigation",
       "title": "Super Greens Supplement Powders and Salmonella Typhimurium",
@@ -23428,7 +25625,7 @@
       "month": "2026-04",
       "food": 45,
       "pet_food": 0,
-      "products": 206
+      "products": 207
     },
     {
       "month": "2026-05",
@@ -23456,9 +25653,9 @@
     },
     {
       "month": "2026-09",
-      "food": 33,
+      "food": 45,
       "pet_food": 0,
-      "products": 118
+      "products": 158
     }
   ]
 }
