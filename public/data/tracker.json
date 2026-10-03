@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T18:16:14.106735Z",
+  "generatedAt": "2026-10-03T00:59:34.377960Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -17,19 +17,19 @@
     {
       "name": "FDA Food",
       "ok": true,
-      "records": 2947,
+      "records": 2931,
       "url": "https://open.fda.gov/apis/"
     },
     {
       "name": "FDA Drug",
       "ok": true,
-      "records": 1544,
+      "records": 1535,
       "url": "https://open.fda.gov/apis/"
     },
     {
       "name": "FDA Device",
       "ok": true,
-      "records": 5943,
+      "records": 5820,
       "url": "https://open.fda.gov/apis/"
     },
     {
@@ -42,18 +42,54 @@
     {
       "name": "USDA-FSIS",
       "ok": true,
-      "records": 2028,
+      "records": 2029,
       "url": "https://www.fsis.usda.gov/recalls"
     },
     {
       "name": "CDC outbreaks",
-      "ok": false,
-      "records": 0,
-      "note": "HTTP Error 406: Not Acceptable",
+      "ok": true,
+      "records": 13,
       "url": "https://www.cdc.gov/foodborne-outbreaks/outbreaks/"
     }
   ],
   "records": [
+    {
+      "id": "fsis-Inexport Logistics LLC Recalls Ineligible Pork Cracklings Products Imported From",
+      "section": "food",
+      "category": "Human food",
+      "title": "Inexport Logistics LLC Recalls Ineligible Pork Cracklings Products Imported From The Republic of Colombia",
+      "brand": "",
+      "description": "",
+      "reason": "['Import Violation']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-10-02",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "AZ",
+        "CA",
+        "CO",
+        "FL",
+        "IL",
+        "KY",
+        "MN",
+        "TX"
+      ],
+      "distribution": "['Arizona', 'California', 'Colorado', 'Florida', 'Illinois', 'Kentucky', 'Minnesota', 'Texas']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
     {
       "id": "fsis-Sempio Food Services Inc. Recalls Ready-To-Eat Chicken Stew Products Imported Wi",
       "section": "food",
@@ -18458,14 +18494,332 @@
           "recallNumber": "Z-2625-2026"
         }
       ]
+    },
+    {
+      "id": "cdc-2026-0",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Raw Milk Cheese and E. coli O26",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "E. coli O26",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [
+        "milk"
+      ],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/ecoli/outbreaks/raw-milk-cheese-09-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-1",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Broccoli Sprouts and Salmonella Bovismorbificans",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Bovismorbificans",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/broccoli-sprouts-09-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-2",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Alfalfa Sprouts and E. coli O26:H11, O103:H25, and O168:H8 and Salmonella Agona",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "E. coli O26:H11, O103:H25, and O168:H8 and Salmonella Agona",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-3",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Shell Eggs and Salmonella",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [
+        "egg"
+      ],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/shell-eggs-07-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-4",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Jalapenos and Salmonella",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/javiana-08-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-5",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Iceberg Lettuce and Cyclospora",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Cyclospora",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-6",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Frozen Blueberries and E. coli O145",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "E. coli O145",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/ecoli/outbreaks/blueberries-07-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-7",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Powdered Infant Formula and Clostridium botulinum",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Clostridium botulinum",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-june-2026/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-8",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Requeson/Soft Ricotta Cheese and Listeria monocytogenes",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Listeria monocytogenes",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/listeria/outbreaks/soft-cheese-06-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-9",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Moringa Capsules and Salmonella Typhimurium",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Typhimurium",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/moringa-05-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-10",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Raw Dairy and E. coli O157:H7",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "E. coli O157:H7",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [
+        "milk"
+      ],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/ecoli/outbreaks/rawcheese-03-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-11",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Moringa Powder Capsules and Salmonella Newport",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Newport",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/moringacapsules-02-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-12",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Super Greens Supplement Powders and Salmonella Typhimurium",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Typhimurium",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/supergreenssupplementpowders-1-26/index.html",
+      "products": []
     }
   ],
   "trends": [
     {
       "month": "2024-10",
-      "food": 44,
+      "food": 38,
       "pet_food": 0,
-      "products": 135
+      "products": 95
     },
     {
       "month": "2024-11",
@@ -18607,7 +18961,7 @@
     },
     {
       "month": "2026-10",
-      "food": 0,
+      "food": 1,
       "pet_food": 0,
       "products": 0
     }
