@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T19:14:58.846201Z",
+  "generatedAt": "2026-10-08T01:37:03.401045Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -46,9 +46,8 @@
     },
     {
       "name": "CDC outbreaks",
-      "ok": false,
-      "records": 0,
-      "note": "HTTP Error 406: Not Acceptable",
+      "ok": true,
+      "records": 13,
       "url": "https://www.cdc.gov/foodborne-outbreaks/outbreaks/"
     }
   ],
@@ -22790,222 +22789,322 @@
       ]
     },
     {
-      "id": "cpsc-10855",
-      "section": "products",
-      "category": "Appliances & electronics",
-      "title": "Biometric Gun Safes Recalled Due to Serious Injury Hazard and Risk of Death; Sold Exclusively on Amazon.com by BBRKIN",
-      "brand": "Jomani International Inc., of Monterey Park, California",
-      "description": "This recall involves BBRKIN and MouTec Biometric Gun Safes with model number QHXP029B. The gray steel safes are used to store firearms and valuables. The safes measure about 14 inches by 12 inches by 57 inches, have one shelf and can store approximately five firearms. The recalled safes have the following serial number range: SQC200034980 - SQC202319171. The serial number is on a label on the lower right corner of the front of the safes. The brand name \"MouTec\" or \"BBRKIN\" is on the upper right corner of the front of the safes.",
-      "reason": "The biometric lock on the gun safes can be opened by unauthorized users, posing a serious injury hazard and risk of death.",
-      "action": "Consumers should immediately stop using the biometric feature of the recalled safe, remove the batteries from the safe, and only use the key when storing firearms. Contact BBRKIN to receive a free repair kit.",
-      "date": "2026-07-09",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Amazon.com from March 2020 through February 2024 for between $260 and $409.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Biometric-Gun-Safes-Recalled-Due-to-Serious-Injury-Hazard-and-Risk-of-Death-Sold-Exclusively-on-Amazon-com-by-BBRKIN",
-      "products": [
-        {
-          "name": "BBRKIN and MouTec Biometric Firearm Safes",
-          "codes": "",
-          "recallNumber": "26607"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10858",
-      "section": "products",
-      "category": "Appliances & electronics",
-      "title": "Flaunt Recalls Magsafe Battery Chargers Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
-      "brand": "iDecoz Inc. dba Flaunt, of Brooklyn, New York",
-      "description": "This recall involves the Flaunt MagSafe Battery Charger power banks with model number E33A. \"FLAUNT\" is engraved on the front right side of the power bank and there is a small circular button in the bottom center of the front side of the power bank. The back label of the unit is marked \"FLAUNT\" and \"Model: E33A\". The power banks were sold in melon, black, lavender and white. The chargers measure 3 by 2 by 0.25 inches and weigh around 3.2 ounces.",
-      "reason": "The lithium-ion battery in the recalled power banks (chargers) can overheat and ignite, posing a risk of serious injury or death from fire and burn hazards.",
-      "action": "Consumers should stop using the recalled power banks immediately and contact Flaunt for a full refund of the $65 purchase price in the form of a check or as an $80 store credit at flauntcases.com. Consumers will be asked to register at www.flauntcases.com/pages/recall and submit two photographs. One photo should show the front of the power bank with the word \"Recalled\", the consumers initials, and the registration date written on it in permanent marker. The second photo should show the model number E33A located on the back of the power bank. Consumers will receive an email with instructions on disposing the charger in accordance with local and state regulations. Note: Do not throw this recalled power bank with lithium-ion battery in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
-      "date": "2026-07-09",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at flauntcases.com from May 2024 through April 2025 for about $65.",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Flaunt-Recalls-Magsafe-Battery-Chargers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
-      "products": [
-        {
-          "name": "Flaunt MagSafe Battery Chargers",
-          "codes": "",
-          "recallNumber": "26610"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10856",
-      "section": "products",
-      "category": "Furniture & home",
-      "title": "Moodooy Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Yuezhang",
-      "brand": "shenzhenshiyuezhangwangluokejiyouxiangongsi (Shenzhen Yuezhang Network Technology Co., Ltd.), doing business as YUEZHANG, of China",
-      "description": "This recall involves the Moodooy-branded adult portable bed rail. The bed rail has a white frame with black trim and a black storage pocket. The brand name \"Moodooy\" and model \"F311\" are printed on the storage pocket. The bed rail is about 12 inches wide by about 21 inches tall to about 23 inches tall (when extended).",
-      "reason": "The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.",
-      "action": "Consumers should stop using the recalled adult portable bed rails immediately and contact YUEZHANG for a full refund. Consumers will be asked to cut the black safety strap in half, write \"RECALLED\" on the upper and lower bed rails with a permanent marker, take a photo of the marked bed rail with the buyer's name on a piece of paper, and email the photo to Moodooy-recall@outlook.com.",
-      "date": "2026-07-09",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at Amazon.com in February 2026 for about $38.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Moodooy-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Yuezhang",
-      "products": [
-        {
-          "name": "Moodooy Adult Portable Bed Rails",
-          "codes": "",
-          "recallNumber": "26608"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10857",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "WonderStone Infant Walkers Recalled Due to Risk of Serious Injury or Death from Fall Hazard; Violate Mandatory Standard for Infant Walkers; Sold on Walmart.com by Wonder Stone Toys",
-      "brand": "Zhangzhoushi Jingqu Trading Co., Ltd., dba Wonder Stone Toys, of China",
-      "description": "This recall involves WonderStone-branded Infant Walkers sold in green and pink. The walkers have a gray fabric seat, a white tray with a detachable music box, six wheels, a foot pad and a white hand lever. \"Model No: 616\" or \"Model No: 616-1\" is printed on a white label located under the tray.",
-      "reason": "The recalled infant walkers violate the mandatory standard for infant walkers because they can fit through a standard doorway and fail to stop at the edge of a step, posing a risk of serious injury or death due to a fall hazard.",
-      "action": "Consumers should stop using the recalled infant walkers immediately and contact Wonder Stone Toys for a full refund. Consumers will be asked to disassemble the walker, remove and cut the fabric seat, write \"Recalled\" on the top of the tray in permanent marker and send a photo of the disassembled infant walker showing the cut seat and marked tray to wonderstonerecall@outlook.com.",
-      "date": "2026-07-09",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Online at Walmart.com in April 2026 for about $80.",
-      "retailers": [
-        "Walmart"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/WonderStone-Infant-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers-Sold-on-Walmart-com-by-Wonder-Stone-Toys",
-      "products": [
-        {
-          "name": "WonderStone Infant Walkers",
-          "codes": "",
-          "recallNumber": "26609"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10854",
-      "section": "products",
-      "category": "Appliances & electronics",
-      "title": "Best Buy Recalls Insignia® Gas Ranges Due to Risk of Serious Injury from a Fire Hazard",
-      "brand": "Best Buy Purchasing LLC, of Richfield, Minnesota",
-      "description": "This recall involves Insignia gas ranges with model numbers NS-RGFGSS1 and NS-RGFCGS2. The recalled ranges are stainless steel with five front-knobs on the oven with the \"Insignia\" label on the bottom of the oven door. A label with the model number can be found on the inside of the range's bottom drawer.",
-      "reason": "The recalled ranges' front-mounted knobs can be activated accidentally by humans or pets, posing a risk of serious injury from a fire hazard.",
-      "action": "Consumers should stop using the recalled oven immediately and visit Best Buy's recall website at https://www.recallrtr.com/range to participate in the recall. The firm is offering all consumers a free set of compatible knob covers with instructions for their gas range. The firm will send the knob covers to the consumers after they confirm that their gas range is involved in the recall. Consumers are cautioned to keep children and pets away from the knobs, to check the range knobs to ensure they are off before leaving home or going to bed, and not to leave objects on the range when the range is not in use.",
-      "date": "2026-07-09",
-      "status": "Active recall",
-      "classification": "CPSC recall",
+      "id": "cdc-2026-0",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Raw Milk Cheese and E. coli O26",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "E. coli O26",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
       "severity": 3,
       "states": [
         "US"
       ],
-      "distribution": "Best Buy stores nationwide and online at www.bestbuy.com from November 2020 through March 2026 for between $280 and $1,470.",
+      "distribution": "See the current CDC investigation.",
       "retailers": [],
-      "allergens": [],
+      "allergens": [
+        "milk"
+      ],
       "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Best-Buy-Recalls-Insignia-Gas-Ranges-Due-to-Risk-of-Serious-Injury-from-a-Fire-Hazard",
-      "products": [
-        {
-          "name": "Insignia Front Control Gas Ranges",
-          "codes": "",
-          "recallNumber": "26606"
-        }
-      ]
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/ecoli/outbreaks/raw-milk-cheese-09-26/index.html",
+      "products": []
     },
     {
-      "id": "cpsc-10853",
-      "section": "products",
-      "category": "Appliances & electronics",
-      "title": "Conair Recalls Cuisinart Propel+ Four Burner 3-In-1 Gas Grills Due to Risk of Serious Injury from Laceration Hazard",
-      "brand": "Conair LLC, of Stamford, Connecticut, dba Cuisinart",
-      "description": "This recall includes the stainless-steel Cuisinart Propel+ Four Burner 3-in-1 Gas Grill, featuring a griddle, a stove top burner and a pizza oven with tempered glass located on top of the lid of the grill. The model number CGG-6331 can be found on the label on the inside of the right-hand metal door, along with the serial number.",
-      "reason": "The tempered glass window in the pizza oven can shatter during use, posing a risk of serious injury from laceration hazard.",
-      "action": "Consumers should stop using the recalled Cuisinart Propel+ Four Burner 3-in-1 Gas Grill immediately and visit Conair's website to check if their grill is included in the recall. If affected, follow the instructions to safely remove the tempered glass window on the pizza oven and upload two photographs to the firm's website; one of the removed glass, and one of the grill's serial number. Upon verification, consumers will receive a $500 refund by check or be reimbursed for the original purchase amount with proof of receipt. After receiving their refund, consumers should write the word \"Recall\" with a black sharpie marker on the tempered glass and dispose of it.",
-      "date": "2026-07-09",
-      "status": "Active recall",
-      "classification": "CPSC recall",
+      "id": "cdc-2026-1",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Broccoli Sprouts and Salmonella Bovismorbificans",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Bovismorbificans",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
       "severity": 3,
       "states": [
         "US"
       ],
-      "distribution": "Lowe's, Walmart and on-line at cuisinart.com from December 2024 through May 2026 for between $500 and $750.",
-      "retailers": [
-        "Walmart"
-      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
       "allergens": [],
       "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Conair-Recalls-Cuisinart-Propel-Four-Burner-3-In-1-Gas-Grills-Due-to-Risk-of-Serious-Injury-from-Laceration-Hazard",
-      "products": [
-        {
-          "name": "Cuisinart Propel+ Four Burner 3-in-1 Gas Grill with pizza oven",
-          "codes": "",
-          "recallNumber": "26605"
-        }
-      ]
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/broccoli-sprouts-09-26/index.html",
+      "products": []
     },
     {
-      "id": "cpsc-10859",
-      "section": "products",
-      "category": "Tools & power equipment",
-      "title": "Greenworks Tools Recalls 24V and 48V Kobalt Yard Power Tools with USB-C Batteries Due to Risk of Serious Injury from Fire Hazard",
-      "brand": "Greenworks North America, LLC, dba Greenworks Tools, of Mooresville, North Carolina",
-      "description": "This recall involves Kobalt yard power tools, including trimmers, blowers, mowers, chainsaws and pruning saws that use 24V Kobalt-branded batteries with a USB-C charging port. The batteries with a USB-C charging port come in 3.0Ah, 4.0Ah, 5.0Ah, 6.0Ah, and 8.0Ah. The 6.0Ah and 3.0Ah batteries were also sold separately from the tool. Only products with the USB-C batteries are included in the recall. Product Description Model Number Kobalt 24V 12\" String Trimmer and 270CFM/100 MPH Blower Combo Kit with (1) 3.0Ah Battery Kit: KOC 1024-06 Blower: KHB 2524-06 Trimmer: KST 1224-06 Battery: KB 424-06 Kobalt 48V (2x24V) 17\" Deck Push Mower Kit with (2) 4.0Ah Batteries Tool: KM 4224A-06 Battery: KB 424-06 Kobalt 48V (2x24V) 21\" Deck Push Mower Kit with (2) 5.0Ah Batteries Tool: KM 5224A-06 Battery: KB 524-06 Kobalt 48V (2x24V) 21\" Deck Self-Propelled Mower Kit with (2) 6.0Ah Batteries Tool: KMS 6",
-      "reason": "Charging the lithium-ion batteries through the USB-C port, while the batteries are inserted in the yard power tools can cause the batteries to short-circuit, posing a risk of serious injury from fire hazard.",
-      "action": "Consumers should stop charging the batteries with the USB-C port while the batteries are inserted in the yard power tools immediately and contact Greenworks Tools to receive a free replacement battery. Consumers will be asked to complete the registration form at https://www.greenworkstools.com/pages/kobalt-product-recall to receive replacement batteries without the USB-C port, a charger adapter, a warning label to affix on the yard power tool, an updated product manual and a pre-paid shipping label along with instructions for returning the recalled batteries.",
-      "date": "2026-07-09",
-      "status": "Active recall",
-      "classification": "CPSC recall",
+      "id": "cdc-2026-2",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Alfalfa Sprouts and E. coli O26:H11, O103:H25, and O168:H8 and Salmonella Agona",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "E. coli O26:H11, O103:H25, and O168:H8 and Salmonella Agona",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
       "severity": 3,
       "states": [
         "US"
       ],
-      "distribution": "Lowe's stores nationwide and online at Lowes.com from January 2026 through May 2026 for between $20 and $482.",
+      "distribution": "See the current CDC investigation.",
       "retailers": [],
       "allergens": [],
       "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://www.cpsc.gov/Recalls/2026/Greenworks-Tools-Recalls-24V-and-48V-Kobalt-Yard-Power-Tools-with-USB-C-Batteries-Due-to-Risk-of-Serious-Injury-from-Fire-Hazard",
-      "products": [
-        {
-          "name": "Kobalt 24V and 48V Trimmers, Blowers, Mowers, Chainsaws and Pruning Saws with USB-C Batteries",
-          "codes": "",
-          "recallNumber": "26611"
-        }
-      ]
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-3",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Shell Eggs and Salmonella",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [
+        "egg"
+      ],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/shell-eggs-07-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-4",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Jalapenos and Salmonella",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/javiana-08-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-5",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Iceberg Lettuce and Cyclospora",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Cyclospora",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-6",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Frozen Blueberries and E. coli O145",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "E. coli O145",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/ecoli/outbreaks/blueberries-07-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-7",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Powdered Infant Formula and Clostridium botulinum",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Clostridium botulinum",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-june-2026/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-8",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Requeson/Soft Ricotta Cheese and Listeria monocytogenes",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Listeria monocytogenes",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/listeria/outbreaks/soft-cheese-06-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-9",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Moringa Capsules and Salmonella Typhimurium",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Typhimurium",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/moringa-05-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-10",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Raw Dairy and E. coli O157:H7",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "E. coli O157:H7",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [
+        "milk"
+      ],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/ecoli/outbreaks/rawcheese-03-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-11",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Moringa Powder Capsules and Salmonella Newport",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Newport",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/moringacapsules-02-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-12",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Super Greens Supplement Powders and Salmonella Typhimurium",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Typhimurium",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/supergreenssupplementpowders-1-26/index.html",
+      "products": []
     }
   ],
   "trends": [
