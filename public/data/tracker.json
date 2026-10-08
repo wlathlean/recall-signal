@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T01:37:03.401045Z",
+  "generatedAt": "2026-10-08T19:11:24.396622Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -35,7 +35,7 @@
     {
       "name": "CPSC",
       "ok": true,
-      "records": 950,
+      "records": 955,
       "url": "https://www.cpsc.gov/Recalls"
     },
     {
@@ -52,6 +52,162 @@
     }
   ],
   "records": [
+    {
+      "id": "cpsc-11018",
+      "section": "products",
+      "category": "Tools & power equipment",
+      "title": "DR Power Equipment Recalls Pilot and Premier Trimmer Mowers Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
+      "brand": "Generac Power Systems Inc., of Waukesha, Wisconsin",
+      "description": "This recall involves DR Power Equipment Pilot and Premier walk-behind trimmer mowers. The trimmer mowers are orange and black and have the DR Power logo on the top of the motor and on the top of the frame above the cutter head. The trimmer mowers are labeled “Premier” or “Pro” on the side of the frame. The model numbers are printed on a label located on the side of the product’s frame.",
+      "reason": "Grass and debris can accumulate in the trimmer mowers and ignite, posing a risk of serious injury or death from fire and burn hazards.",
+      "action": "Consumers should stop using the recalled trimmer mowers immediately and contact DR Power Equipment for a free repair kit. If consumers have concerns about installing the repair kit, contact DR Power Equipment to schedule a free repair installation from an authorized dealer.",
+      "date": "2026-10-08",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Ace, TSC, Bomgaars, other home improvement, hardware and independent power equipment stores nationwide and online at drpower.com from November 2022 through July 2026 for between $380 to $550.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/DR-Power-Equipment-Recalls-Pilot-and-Premier-Trimmer-Mowers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+      "products": [
+        {
+          "name": "DR Power Equipment Pilot and Premier Trimmer Mowers",
+          "codes": "",
+          "recallNumber": "27016"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11014",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "ONTHEWEI Recalls Baby Bath Seats Due to Risk of Serious Injury or Death to Children from Drowning; Violate Mandatory Standard for Infant Bath Seats",
+      "brand": "",
+      "description": "This recall involves ONTHEWEI-branded baby bath seats. They are sold in gray, pink, blue and mist green and have detachable restraint arms and suction cups on the underside. “Model No: MY002” and “Date of manufacturer: 2026/1/10” are printed on a label on the back of the bath seat.",
+      "reason": "The recalled bath seats violate the mandatory standard for infant bath seats because they are unstable and can tip over while in use, posing a risk of serious injury or death due to drowning.",
+      "action": "Consumers should stop using the recalled bath seats immediately and contact ONTHEWEI for a full refund. Consumers will be asked to destroy the bath seat by writing in permanent marker “RECALLED” on the front of the bath seat, disassembling it by removing the back rest and arm restraints and cutting the three suction cups on the seat’s underside and send a photo of the destroyed bath seat showing the marked product to onthewei@outlook.com. Consumers should then dispose of the recalled product.",
+      "date": "2026-10-08",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com in April 2026 for between $40 and $50. Hubei Youhong Trading Co., Ltd., dba ONTHEWEI, of China",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/ONTHEWEI-Recalls-Baby-Bath-Seats-Due-to-Risk-of-Serious-Injury-or-Death-to-Children-from-Drowning-Violate-Mandatory-Standard-for-Infant-Bath-Seats",
+      "products": [
+        {
+          "name": "ONTHEWEI Baby Bath Seats",
+          "codes": "",
+          "recallNumber": "27018"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11016",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Romorgniz Recalls Six-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
+      "brand": "Zhangzhou Jinhao Sen Smart Home Co., Ltd., of China",
+      "description": "This recall involves Romorgniz six-drawer dressers. The wooden dressers were sold in white and black, measure about 27.6 inches wide, 15.6 inches long, 43.2 inches tall and weigh 73.3 pounds.",
+      "reason": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
+      "action": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact Romorgniz for a full refund. Consumers will be asked to write in permanent marker “RECALLED” on the top, front and sides of the dresser, remove all drawers and send photos of the marked and disassembled dresser to Romorgnizrecall@outlook.com. Consumers should then dispose of the product.",
+      "date": "2026-10-08",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from May 2025 through August 2026 for between $100 and $170.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/Romorgniz-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+      "products": [
+        {
+          "name": "Romorgniz Six-Drawer Dressers",
+          "codes": "",
+          "recallNumber": "27020"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11017",
+      "section": "products",
+      "category": "Other consumer products",
+      "title": "Snow Peak Recalls Propane Fireplace Inserts and Lava Rocks Due to Risk of Serious Injury or Death from Burn and Fire Hazards",
+      "brand": "Snow Peak USA, Inc., of Portland, Oregon",
+      "description": "This recall involves the Takibi propane inserts and lava rocks, fireplace accessories that allows Snow Peak’s Pack & Carry Fireplace L (ST-032) and XL (ST-034) to operate on propane fuel instead of wood or charcoal. The propane insert includes a detachable hose with a gas flow regulator that controls the intensity of the flame with the twist of a knob. The product also includes lava rocks. Model number ST-332-US can be found on the product packaging and in the user manual.",
+      "reason": "The fireplace’s lava rocks can ignite and explode when heated in the propane insert, posing a risk of serious injury or death from burn and fire hazards.",
+      "action": "Consumers should stop using the propane insert and lava rocks fireplace accessories immediately and contact Snow Peak for a full refund. Consumers will be provided with a prepaid shipping label to return the propane insert and lava rocks. For replacement lava rocks only, the consumer can keep the propane inserts, and the firm will ship replacement lava rocks to the consumer. Do not use inserts until replacement lava rocks are received. Consumers should dispose of the recalled lava rocks in accordance with any local and state ordinances.",
+      "date": "2026-10-08",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Snowpeak.com from July 2026 through July 2026 for about $350.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/Snow-Peak-Recalls-Propane-Fireplace-Inserts-and-Lava-Rocks-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-and-Fire-Hazards",
+      "products": [
+        {
+          "name": "Snow Peak Takibi Fireplace Propane Inserts and Lava Rocks",
+          "codes": "",
+          "recallNumber": "27021"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11015",
+      "section": "products",
+      "category": "Sports & outdoors",
+      "title": "Pacearth Direct Recalls PACEARTH Swing Seats Due to Risk of Serious Injury from Fall Hazard",
+      "brand": "",
+      "description": "This recall involves PACEARTH U-type swing seats. The swing seats were sold in various colors including green, blue, pink, red and turquoise. The chain is coated in yellow plastic. Metal carabiners or quick links and yellow webbing straps were included with the swing seats to attach the swing to outdoor swing sets or tree branches. The swing seats were sold as a single unit or a pack of two.",
+      "reason": "The seats, metal carabiners or quick links, or webbing straps of the recalled swing seats can break during use, posing a risk of serious injury due to fall hazard.",
+      "action": "Consumers should stop using the recalled swing seats immediately and contact Pacearth Direct for a full refund. Consumers will be asked to write “RECALLED” on the swing seat with permanent marker, take a photo of it, including the PACEARTH logo and email to recall@pacearth.com.",
+      "date": "2026-10-08",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from May 2017 through June 2026 for between $27 and $57. Pacearth Direct, of City of Industry, California",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/Pacearth-Direct-Recalls-PACEARTH-Swing-Seats-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard",
+      "products": [
+        {
+          "name": "PACEARTH Swing Seats",
+          "codes": "",
+          "recallNumber": "27019"
+        }
+      ]
+    },
     {
       "id": "fsis-FSIS Issues Public Health Alert for Ineligible Chicken Vienna-Style Sausage Prod",
       "section": "food",
@@ -129,9 +285,9 @@
       "category": "Baby & child",
       "title": "ABC Trading Recalls Squishy Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
       "brand": "ABC Trading Inc., of Vernon, California",
-      "description": "This recall involves squishy dumpling and crazy squib ball toys. The squishy dumplings, model 3655, come in multiple translucent colors, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. “SQUISHY DUMPLING” is printed on the front of the removable package labeling. There are no markings on the product, other than the cartoon face. The crazy squib balls, model 3984, come in multiple translucent colors, containing glitter and water beads. The toys come individually wrapped in a white netting. “CRAZY SQUIB BALL” and “Squeeze it! Throw it!” are printed on the front of the package labeling.",
-      "reason": "The squishy toys violate the mandatory safety standard for toys because the water beads inside the toys expand larger than permitted, posing a deadly ingestion hazard. If a water bead is ingested, it can pose ingestion, choking, and intestinal obstruction hazards inside a child’s body, resulting in severe discomfort, vomiting, dehydration and a risk of death to a child.",
-      "action": "Consumers should stop using the squishy toys immediately and contact ABC Trading for a full refund. Consumers will be asked to write “RECALLED” in permanent marker on the squishy toys, throw the toy away and email a photo of the disposed toy to recallabc@gmail.com.",
+      "description": "This recall involves squishy dumpling and crazy squib ball toys. The squishy dumplings, model 3655, come in multiple translucent colors, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. \"SQUISHY DUMPLING\" is printed on the front of the removable package labeling. There are no markings on the product, other than the cartoon face. The crazy squib balls, model 3984, come in multiple translucent colors, containing glitter and water beads. The toys come individually wrapped in a white netting. \"CRAZY SQUIB BALL\" and \"Squeeze it! Throw it!\" are printed on the front of the package labeling.",
+      "reason": "The squishy toys violate the mandatory safety standard for toys because the water beads inside the toys expand larger than permitted, posing a deadly ingestion hazard. If a water bead is ingested, it can pose ingestion, choking, and intestinal obstruction hazards inside a child's body, resulting in severe discomfort, vomiting, dehydration and a risk of death to a child.",
+      "action": "Consumers should stop using the squishy toys immediately and contact ABC Trading for a full refund. Consumers will be asked to write \"RECALLED\" in permanent marker on the squishy toys, throw the toy away and email a photo of the disposed toy to recallabc@gmail.com.",
       "date": "2026-10-01",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -191,7 +347,7 @@
       "category": "Baby & child",
       "title": "GBYMIUY Recalls Magnetic Stick Figure Toy Sets Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys",
       "brand": "Ningbo Jiboyou Trading Co., Ltd. dba GBYMIUY, of China",
-      "description": "This recall involves GBYMIUY stick figure toy sets. The magnetic toys were sold in packs of 30 multi-colored transparent and opaque human-shaped figures. Each figure measures about 2.91 inches tall by 2.3 inches wide. The toys contain magnets in the hand and foot locations. “GBYMIUY” and number “X004TVHD2Z” are printed on the product packaging.",
+      "description": "This recall involves GBYMIUY stick figure toy sets. The magnetic toys were sold in packs of 30 multi-colored transparent and opaque human-shaped figures. Each figure measures about 2.91 inches tall by 2.3 inches wide. The toys contain magnets in the hand and foot locations. \"GBYMIUY\" and number \"X004TVHD2Z\" are printed on the product packaging.",
       "reason": "The magnetic stick figure toy sets violate the mandatory standard for toys because they can liberate loose high-powered magnets posing an ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other or other metal objects and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
       "action": "Consumers should take the stick figures away from children immediately, stop using them and contact GBYMIUY for a full refund. Consumers will be asked to throw away the stick figure toys and send a photo of the disposed toys to zhangfa0426@outlook.com.",
       "date": "2026-10-01",
@@ -256,9 +412,9 @@
       "category": "Baby & child",
       "title": "LLK Trading Recalls Mochi Malrang Mystery Dumpling Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
       "brand": "LLK Trading Inc., of Vernon, California",
-      "description": "This recall involves Mochi Malrang Mystery Dumpling Toys. The mystery dumpling toys are a translucent red color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. The phrases “SOFT and SQUISHY” and “MOCHI MALRANG” are visible on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
-      "reason": "The mystery dumpling toys violate the mandatory safety standard for toys because the water beads inside the dumplings expand larger than permitted, posing a deadly ingestion hazard. If a water bead is ingested, it can pose ingestion, choking, and intestinal obstruction hazards inside a child’s body, resulting in severe discomfort, vomiting, dehydration and a risk of death to a child.",
-      "action": "Consumers should stop using the mystery dumpling toys immediately and contact LLK Trading for a full refund. Consumers will be asked to write “RECALLED” in permanent marker on the squeezy dumpling and its tan plastic container, throw them away, and email a photo of the items in the trash to llktradinginc@gmail.com.",
+      "description": "This recall involves Mochi Malrang Mystery Dumpling Toys. The mystery dumpling toys are a translucent red color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. The phrases \"SOFT and SQUISHY\" and \"MOCHI MALRANG\" are visible on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
+      "reason": "The mystery dumpling toys violate the mandatory safety standard for toys because the water beads inside the dumplings expand larger than permitted, posing a deadly ingestion hazard. If a water bead is ingested, it can pose ingestion, choking, and intestinal obstruction hazards inside a child's body, resulting in severe discomfort, vomiting, dehydration and a risk of death to a child.",
+      "action": "Consumers should stop using the mystery dumpling toys immediately and contact LLK Trading for a full refund. Consumers will be asked to write \"RECALLED\" in permanent marker on the squeezy dumpling and its tan plastic container, throw them away, and email a photo of the items in the trash to llktradinginc@gmail.com.",
       "date": "2026-10-01",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -285,10 +441,10 @@
       "section": "products",
       "category": "Furniture & home",
       "title": "YunHeng Recalls LandTale Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails",
-      "brand": "",
-      "description": "This recall involves the LandTale-branded adult portable bed rails. The bed rails have a white frame with black foam rubber grips and measure about 18 inches wide by 42 inches high. “LandTale” and SKU “EBR001” are printed on the instruction manual and the product packaging.",
+      "brand": "Landtale Group Limited, dba YunHeng LLC, of China",
+      "description": "This recall involves the LandTale-branded adult portable bed rails. The bed rails have a white frame with black foam rubber grips and measure about 18 inches wide by 42 inches high. \"LandTale\" and SKU \"EBR001\" are printed on the instruction manual and the product packaging.",
       "reason": "The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.",
-      "action": "Consumers should stop using the recalled adult portable bed rails immediately and contact YunHeng for a full refund. Consumers will be asked to destroy the bed rail by cutting off the handle’s foam grip, disassembling the product and writing in permanent marker “RECALLED” on the upper and lower rails, and send a photo of the marked bed rails, showing the sender’s name written on paper, to LandtaleBedRailsRecall@outlook.com. Consumers should then dispose of the destroyed product.",
+      "action": "Consumers should stop using the recalled adult portable bed rails immediately and contact YunHeng for a full refund. Consumers will be asked to destroy the bed rail by cutting off the handle's foam grip, disassembling the product and writing in permanent marker \"RECALLED\" on the upper and lower rails, and send a photo of the marked bed rails, showing the sender's name written on paper, to LandtaleBedRailsRecall@outlook.com. Consumers should then dispose of the destroyed product.",
       "date": "2026-10-01",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -296,7 +452,7 @@
       "states": [
         "US"
       ],
-      "distribution": "Sold Online At: Amazon.com from February 2026 to June 2026 for about $43. Landtale Group Limited, dba YunHeng LLC, of China",
+      "distribution": "Sold Online At: Amazon.com from February 2026 to June 2026 for about $43.",
       "retailers": [
         "Amazon"
       ],
@@ -441,7 +597,7 @@
       "category": "Sports & outdoors",
       "title": "Gazelle USA Recalls Urban Arrow Cargo Electric Bikes Due to Fall Hazard",
       "brand": "Gazelle USA LLC, of Santa Cruz, California",
-      "description": "This recall involves Urban Arrow cargo electric bikes with model descriptions Urban Arrow Family (in Black and White), Urban Arrow Shorty (in Black and White), Urban Arrow Cargo L/XL (in Black and White) and Urban Arrow Tender 1000/1500 (in White). The frame of the bicycle is made of aluminum with a reinforced foam (EPP) cargo box. “Urban Arrow” is printed on the bottom of the cargo box. The seat posts on the recalled bicycles have two silver bolts.",
+      "description": "This recall involves Urban Arrow cargo electric bikes with model descriptions Urban Arrow Family (in Black and White), Urban Arrow Shorty (in Black and White), Urban Arrow Cargo L/XL (in Black and White) and Urban Arrow Tender 1000/1500 (in White). The frame of the bicycle is made of aluminum with a reinforced foam (EPP) cargo box. \"Urban Arrow\" is printed on the bottom of the cargo box. The seat posts on the recalled bicycles have two silver bolts.",
       "reason": "The front bolt in the seat post clamping mechanism can break, causing the seat to become loose, posing a fall hazard.",
       "action": "Consumers should stop using the recalled bicycles immediately and contact Gazelle USA to receive a free replacement seat post and saddle that consumers can either install themselves with no special tools or take to an Urban Arrow dealer to be installed at no charge. Consumers will be asked to fill out a recall registration form at https://forms.gle/1Nir9NrR7aJcpwRk8. Consumers can locate their nearest dealer at https://urbanarrow.com/dealers.",
       "date": "2026-10-01",
@@ -23256,7 +23412,7 @@
       "month": "2026-10",
       "food": 2,
       "pet_food": 0,
-      "products": 12
+      "products": 17
     }
   ]
 }
