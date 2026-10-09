@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T19:11:24.396622Z",
+  "generatedAt": "2026-10-09T01:49:53.393924Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -35,7 +35,7 @@
     {
       "name": "CPSC",
       "ok": true,
-      "records": 955,
+      "records": 958,
       "url": "https://www.cpsc.gov/Recalls"
     },
     {
@@ -79,6 +79,36 @@
           "name": "DR Power Equipment Pilot and Premier Trimmer Mowers",
           "codes": "",
           "recallNumber": "27016"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11021",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries",
+      "brand": "Giant Bicycle, Inc., of Newbury Park, California",
+      "description": "This recall involves Giant Bicycle-branded black-and-white LED-light bike lock keys that were included as part of a pre-keyed SureLock bicycle lock set that includes a bike lock and two-or-four keys without an LED-light (depending on the model). Only LED-light bike lock keys manufactured after March 2023 are included in this recall. The list of affected serial numbers is included in the table below. Serial numbers are located on the underside of the bike lock, as shown in the below picture.",
+      "reason": "The LED-light key that was included with certain SureLock Bicycle Lock sets violates the mandatory safety standard for consumer products with button cell and coin batteries because the button batteries can be accessed easily by children, posing an ingestion hazard. Additionally, the packaging and product do not have the warnings required under Reese’s Law. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns, and death.",
+      "action": "Consumers should stop using the recalled LED-light key that was included with certain SureLock Bicycle Lock sets immediately and contact Giant Bicycle for a $5 refund. Consumers will be asked to bring the LED key to an authorized Giant retailer to participate in the recall and receive the refund. When returning the LED-light key to a retailer, consumers will be required to bring either the complete bicycle lock purchase or a picture of the serial number on the bicycle lock in order to verify the serial number is in the scope of the recall. Consumers may continue to use the bicycle lock and non-LED-light keys included with the SureLock Bicycle Lock sets. Note: Button and Coin cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+      "date": "2026-10-08",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Giant Bicycle authorized stores nationwide and online at https://www.giant-bicycles.com/us from March 2023 through August 2026 for between $25 and $65.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries",
+      "products": [
+        {
+          "name": "LED-light bike lock keys",
+          "codes": "",
+          "recallNumber": "27015"
         }
       ]
     },
@@ -177,6 +207,36 @@
       ]
     },
     {
+      "id": "cpsc-11019",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "The Conqueror Recalls Avengers Medals Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Magnets",
+      "brand": "",
+      "description": "This recall involves the Avengers Infinity Gauntlet medal. The medal is gold, with colorful gems on the front and comes in a black package marked “Marvel Avengers” with Marvel Avengers artwork. The medals are part of the Avengers virtual challenge series. To receive the medal, customers must have completed the Infinity Gauntlet virtual challenge on the Conqueror App.",
+      "reason": "The recalled medals violate the mandatory safety standard for magnets because the high-powered magnets may detach, posing a deadly ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other or other metal objects and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
+      "action": "Consumers should stop using the Avengers Infinity Gauntlet Medal immediately and contact The Conqueror for instructions on receiving a full refund or a replacement medal. Consumers will be asked to cut the ribbon from the medal and write “RECALLED” in permanent marker on the medal and ribbon, throw the product away and email a photo of the disposed medal and ribbon to support@theconqueror.events.",
+      "date": "2026-10-08",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: www.theconqueror.events and through The Conqueror App from March 2026 through May 2026 for about $50. Actionary Limited, dba The Conqueror, of New Zealand",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/The-Conqueror-Recalls-Avengers-Medals-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Magnets",
+      "products": [
+        {
+          "name": "Avengers Infinity Gauntlet Medals",
+          "codes": "",
+          "recallNumber": "27022"
+        }
+      ]
+    },
+    {
       "id": "cpsc-11015",
       "section": "products",
       "category": "Sports & outdoors",
@@ -205,6 +265,36 @@
           "name": "PACEARTH Swing Seats",
           "codes": "",
           "recallNumber": "27019"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11020",
+      "section": "products",
+      "category": "Sports & outdoors",
+      "title": "Decathlon America Recalls Van Rysel GRVL AF Bicycles Due to Risk of Serious Injury or Death from Crash Hazard",
+      "brand": "Decathlon America LLC, of San Francisco, California",
+      "description": "This recall involves adult multi-terrain gravel bicycles Van Rysel GRVL AF Sword Brown CN FR (model number 8911304), Van Rysel GRVL AF Apex Beige CN FR (model number 8911305), Van Rysel GRVL AF Sword Pink CN FR (model number 8911308), and Van Rysel GRVL AF GRX Black (model number 8929130). The recalled models were sold in sizes x-small, small, medium, large and x-large. The bicycles are designed for off-road gravel riding, road cycling, commuting and bikepacking. Each bicycle can be identified by the model name and Van Rysel Product ID located on the barcode sticker on the frame near the bottom bracket. Only Van Rysel bicycles with the following Product IDs/ SKUs are included in this recall.",
+      "reason": "The recalled bicycles’ front lock nut can loosen during use, causing the front wheel to dislodge or loosen over time, posing a crash hazard.",
+      "action": "Consumers should stop using the recalled bicycles immediately and take them to the nearest Recreational Equipment (REI Co-op) location for a free inspection and repair service of the front fork assembly. Anyone unable to visit an REI Co-op location can contact Decathlon Customer Service directly for assistance. Recalled models can be identified by the Van Rysel Product ID on the top right of the product label under the frame, beginning with the number 5.",
+      "date": "2026-10-08",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 2,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: REI Co-op stores nationwide and online at REI.com from March 2025 through August 2026 for between $1,400 and $2,300.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/Decathlon-America-Recalls-Van-Rysel-GRVL-AF-Bicycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
+      "products": [
+        {
+          "name": "Van Rysel GRVL AF Bicycles",
+          "codes": "",
+          "recallNumber": "27017"
         }
       ]
     },
@@ -503,10 +593,10 @@
       "section": "products",
       "category": "Furniture & home",
       "title": "Gobi Heat Recalls Rechargeable Hand Warmers Due to Risk of Serious Injury from Fire and Burn Hazards",
-      "brand": "",
-      "description": "This recall involves Gobi Heat-branded rechargeable hand warmers. The black with gray hand warmers were sold in packs of two warmers that can be magnetically joined together and include a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and come with a silicone lanyard. “Gobi Heat” is printed on the top of the hand warmers and on the product packaging, and model number “UT3053” on the underside.",
+      "brand": "Dragon Gear Inc., dba Gobi Heat, of Severance, Colorado",
+      "description": "This recall involves Gobi Heat-branded rechargeable hand warmers. The black with gray hand warmers were sold in packs of two warmers that can be magnetically joined together and include a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and come with a silicone lanyard. \"Gobi Heat\" is printed on the top of the hand warmers and on the product packaging, and model number \"UT3053\" on the underside.",
       "reason": "The lithium-ion battery and electrical components in the recalled hand warmers can overheat and ignite, posing a risk of serious injury from fire and burn hazards.",
-      "action": "Consumers should stop using the recalled hand warmers immediately and contact Gobi Heat for a full refund or store credit, equal to full refund of the purchase price plus 20% of that amount. Consumers will be asked to go to https://gobiheat.com/pages/handwarmer-recall to obtain a claim number and instructions to destroy the hand warmers by writing in permanent marker “Recalled” on the product and send a photo, showing the marked hand warmer and the product’s model, to recall@gobiheat.com. Consumers should then dispose of the recalled product with the lithium-ion battery, in accordance with applicable local and state hazardous waste regulations. Note: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
+      "action": "Consumers should stop using the recalled hand warmers immediately and contact Gobi Heat for a full refund or store credit, equal to full refund of the purchase price plus 20% of that amount. Consumers will be asked to go to https://gobiheat.com/pages/handwarmer-recall to obtain a claim number and instructions to destroy the hand warmers by writing in permanent marker \"Recalled\" on the product and send a photo, showing the marked hand warmer and the product's model, to recall@gobiheat.com. Consumers should then dispose of the recalled product with the lithium-ion battery, in accordance with applicable local and state hazardous waste regulations. Note: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
       "date": "2026-10-01",
       "status": "Active recall",
       "classification": "CPSC recall",
@@ -514,7 +604,7 @@
       "states": [
         "US"
       ],
-      "distribution": "Sold Online At: GobiHeat.com from October 2024 through August 2026 for between $20 and $40. Dragon Gear Inc., dba Gobi Heat, of Severance, Colorado",
+      "distribution": "Sold Online At: GobiHeat.com from October 2024 through August 2026 for between $20 and $40.",
       "retailers": [],
       "allergens": [],
       "codes": "",
@@ -23412,7 +23502,7 @@
       "month": "2026-10",
       "food": 2,
       "pet_food": 0,
-      "products": 17
+      "products": 20
     }
   ]
 }
