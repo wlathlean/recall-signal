@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T00:19:56.292956Z",
+  "generatedAt": "2026-10-15T17:40:17.714879Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -35,7 +35,7 @@
     {
       "name": "CPSC",
       "ok": true,
-      "records": 952,
+      "records": 958,
       "url": "https://www.cpsc.gov/Recalls"
     },
     {
@@ -52,6 +52,192 @@
     }
   ],
   "records": [
+    {
+      "id": "cpsc-11026",
+      "section": "products",
+      "category": "Sports & outdoors",
+      "title": "HatsanUSA Recalls Blitz Air Rifles Due to Risk of Serious Injury or Death from Projectile Hazard",
+      "brand": "HatsanUSA, Inc., of Bentonville, Arkansas",
+      "description": "This recall involves all units of the Hatsan Blitz and Blitz 777 pellet shooting air rifles sold from February 2020 through March 2026. Both the Blitz and Blitz 777 pellet air rifles were sold in .22, .25 and .30 calibers. The pellet air rifles are gas operated and select-fire (semi-auto/full-auto) pre-charged pneumatic (PCP). They are black and feature a synthetic stock, a carbon fiber air tank mounted beneath the barrel and a rotary magazine feed. Serial numbers and manufacturing dates are engraved on the right side of the receiver above the bolt. On the left side of the receiver is the Hatsan logo, featuring a circular mark, with the word “HATSAN” next to a graphic of a bow and arrow. The model name “BLITZ” or “BLITZ 777” is also marked on the left side of the receiver.",
+      "reason": "The recalled air rifles can fire unexpectedly when releasing the bolt before the air rifle is fully cocked, posing a risk of serious injury or death from projectile hazard.",
+      "action": "Consumers should stop using the recalled air rifles immediately, make sure they are unloaded and contact HatsanUSA for a free trigger assembly replacement which will be mailed along with instructions. If the consumer does not want to complete the replacement of the air rifle trigger assembly on their own, HatsanUSA will provide a prepaid package to ship the product to HatsanUSA for inspection and replacement.",
+      "date": "2026-10-15",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: In store and online at various sporting goods stores and gun shops nationwide, online at hatsanairgunsusa.com and catalog sales including Utah Airguns, Airgun Depot and Pyramyd Air from February 2020 through March 2026 for between $800 and $1,100.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/HatsanUSA-Recalls-Blitz-Air-Rifles-Due-to-Risk-of-Serious-Injury-or-Death-from-Projectile-Hazard",
+      "products": [
+        {
+          "name": "Blitz and Blitz 777 air rifles",
+          "codes": "",
+          "recallNumber": "27025"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11025",
+      "section": "products",
+      "category": "Furniture & home",
+      "title": "usOpal Recalls Xalirium Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails",
+      "brand": "Opal Vista Ltd., dba usOpal, of China",
+      "description": "This recall involves Xalirium-branded adult portable bed rails. They have a white frame with black foam rubber grips and a black fabric pouch. The bed rails measure about 17.15 inches high, 4.33 inches wide and 1.99 inches long. \"Xalirium\" is printed on the label of the product packaging. Only bed rails without vertical bars inside the opening are included in this recall.",
+      "reason": "The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. The bed rails do not meet structural stability or retention strap requirements, posing a fall hazard. In addition, the bed rails do not bear the required hazard warning labels.",
+      "action": "Consumers should stop using the recalled adult portable bed rails immediately and contact usOpal for a full refund. Consumers will be asked to cut the black storage bag and straps and to cut the foam padding on the bed rails, write “RECALLED” on the upper and lower bed rails, and send a photo of the marked rails to xaliriumofficial@outlook.com. Consumers should then dispose of the recalled product.",
+      "date": "2026-10-15",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from February 2026 through August 2026 for about $60.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/usOpal-Recalls-Xalirium-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails",
+      "products": [
+        {
+          "name": "Xalirium Adult Portable Bed Rails",
+          "codes": "",
+          "recallNumber": "27029"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11022",
+      "section": "products",
+      "category": "Pet products",
+      "title": "3M Company Recalls Scotch™ Thermal Laminators Due to Risk of Serious Injury or Death from Fire Hazard",
+      "brand": "3M Company, of St. Paul, Minnesota",
+      "description": "This recall involves the Scotch™ thermal laminator, model number TL1302Z. The laminator is light gray/white with gray accents and the word “Scotch” is printed in gray on the front. The laminating slot is approximately 13 inches wide, and the machine has a carrying handle on the right side of the machine when viewing from the front. The model number TL1302Z is located on the sticker on the bottom of the laminator and can also be found on the product packaging.",
+      "reason": "The recalled thermal laminators can overheat, posing a fire hazard.",
+      "action": "Consumers should stop using and unplug the recalled thermal laminators immediately and contact 3M Company to receive a full refund. Consumers will be asked to fill out the online recall registration form at https://www.scotchbrand.com/3M/en_US/scotch-brand/tl1302Z-laminator-recall/, confirm that their laminator is included in the recall and upload a photograph of the laminator with the unplugged power cord cut. The refund, in the form of a check, will be mailed to the consumer upon receipt of the completed form and confirmation that the laminator’s power cord has been cut. Consumers should dispose of the recalled laminator in accordance with local and state laws governing electronics recycling.",
+      "date": "2026-10-15",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from June 2024 through September 2026 for between $44 and $56.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/3M-Company-Recalls-ScotchTM-Thermal-Laminators-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard",
+      "products": [
+        {
+          "name": "Scotch™ Thermal Laminators",
+          "codes": "",
+          "recallNumber": "27024"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11023",
+      "section": "products",
+      "category": "Other consumer products",
+      "title": "Loving Thyself Rocks Recalls Crystal Glass Cups Due to Risk of Serious Injury from Ingestion and Laceration Hazards",
+      "brand": "Loving Thyself Rocks LLC, of Winter Park, Florida",
+      "description": "This recall affects Crystal Glass Cups containing loose crystal stone chips between two layers of glass. The cups are intended for both decorative use and drinking. Each cup measures approximately 3.5 by 3 inches. The crystal stone chips are sold in various options: amethyst, black obsidian, rose quartz, smoke quartz, fire and clear quartz, moss agate, hematite, black tourmaline, black tourmaline in quartz, charoite, blue apatite, morganite, larimar, red jasper, malachite, garnet, kunzite, fluorite, peridot, aquamarine, watermelon tourmaline, carnelian, lapis lazuli, tigers eye and labradorite.",
+      "reason": "Glass can break inside the recalled cups while in use, posing a risk of serious injury from ingestion and laceration hazards.",
+      "action": "Consumers should stop using the recalled crystal cup immediately and register at http://www.lovingthyselfrocks.com/recall to receive a full refund in the form of original payment. Consumer will be asked to fill out an online form and submit a photograph with the word “RECALL” written on the front of the crystal cup in permanent black marker. Consumers will be asked to attest to proper disposal of the recalled cup following the instructions on the firm’s website.",
+      "date": "2026-10-15",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Loving Thyselfstore and on-line athttps://www.instagram.com/lovingthyselfrocksandfossils/?hl=en andhttps://www.instagram.com/lovingthyselfrocks/?hl=en and Etsy.com from April 2026 through September 2026 for between $20 and $50.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Loving-Thyself-Rocks-Recalls-Crystal-Glass-Cups-Due-to-Risk-of-Serious-Injury-from-Ingestion-and-Laceration-Hazards",
+      "products": [
+        {
+          "name": "Crystal Glass Cups with Loose Crystal Chips",
+          "codes": "",
+          "recallNumber": "27-026"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11024",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Papablic, of USA Recalls Convertible Bedside Sleepers Due to Risk of Serious Injury or Death from Entrapment, Suffocation and Fall Hazards; Violate Mandatory Standard for Play Yards",
+      "brand": "Papablic, Inc., doing business asPapablic, of USA, of Chicago, Illinois",
+      "description": "This recall involves Papablic bedside sleepers, model PAPA03001AI. These convertible sleepers function as both a bassinet and a play yard and have a gray exterior with an interior printed in a stars‑and‑moon pattern. The products have “Papablic” stitched in white on the front gray fabric panel. Model “PAPA03001AI” is printed on a label sewn to the interior fabric of the bassinet underneath the mattress pad.",
+      "reason": "The bedside sleepers with play yard extensions violate the mandatory safety standard for play yards because the mattress can become displaced causing a baby to become entrapped between the sleeping pad and bottom posing a deadly suffocation hazard. In addition, the latching and locking mechanism can fail, causing the product to collapse, posing a risk of serious injury or deadly entrapment and fall hazards.",
+      "action": "Consumers should stop using the convertible bedside sleeper immediately and contact Papablic for a refund. Consumers will be asked to disassemble the product, cut the mattress and fabric components in half and email photos of the destroyed components to support@papablic.com. Upon receipt of proof of destruction, Papablic will issue a full refund and consumers should dispose of the product.",
+      "date": "2026-10-15",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com and papablic.com from April 2025 through July 2026 for about $190.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Papablic-of-USA-Recalls-Convertible-Bedside-Sleepers-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-Suffocation-and-Fall-Hazards-Violate-Mandatory-Standard-for-Play-Yards",
+      "products": [
+        {
+          "name": "Papablic Bedside Sleepers with Play Yard Extensions",
+          "codes": "",
+          "recallNumber": "27027"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11027",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Primark Recalls 101 Dalmatians Faux Leather Children’s Coin Purses Due to Phthalate Levels and Risk of Ingestion",
+      "brand": "Primark US Corp., of Boston, Massachusetts",
+      "description": "This recall involves the Primark 101 Dalmatians Faux Leather Coin Purse, Model No. 2595301. The coin purse is black and has a picture of a dalmatian and “101 Dalmatians” printed on the front. The model number is located on the product tag attached to the zip puller.",
+      "reason": "The coin purses contain higher phthalate concentration levels. Phthalates can be harmful if young children are exposed to sufficient amounts, including through ingestion, and certain phthalates have been associated with adverse health effects, particularly effects on development and the hormone system.",
+      "action": "Consumers should stop using the coin purses immediately, keep them away from children and return them to a Primark store for a full refund in the original form of payment.",
+      "date": "2026-10-15",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 2,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Primark stores located in the Northeast and in Florida, Maryland and Illinois from March 2026 through June 2026 for about $9.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Primark-Recalls-101-Dalmatians-Faux-Leather-Childrens-Coin-Purses-Due-to-Phthalate-Levels-and-Risk-of-Ingestion",
+      "products": [
+        {
+          "name": "101 Dalmatians Faux Leather Coin Purses",
+          "codes": "",
+          "recallNumber": "27028"
+        }
+      ]
+    },
     {
       "id": "cpsc-11018",
       "section": "products",
@@ -4438,7 +4624,7 @@
       "states": [
         "US"
       ],
-      "distribution": "Sold Online At: Amazon.com, Wayfair, TEMU, and Walmart from May 2025 through July 2026 for between $230 and $270. Maizhe International Trade Co., Ltd., dba yuyitop, of China",
+      "distribution": "Sold Online At: Amazon.com, Wayfair, TEMU, and Walmart from May 2025 through July 2026 for between $230 and $270.",
       "retailers": [
         "Amazon",
         "Walmart"
@@ -24014,7 +24200,7 @@
       "month": "2026-10",
       "food": 11,
       "pet_food": 0,
-      "products": 57
+      "products": 63
     }
   ]
 }
