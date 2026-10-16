@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T17:40:17.714879Z",
+  "generatedAt": "2026-10-16T00:09:00.747957Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -172,7 +172,7 @@
         {
           "name": "Crystal Glass Cups with Loose Crystal Chips",
           "codes": "",
-          "recallNumber": "27-026"
+          "recallNumber": "27026"
         }
       ]
     },
