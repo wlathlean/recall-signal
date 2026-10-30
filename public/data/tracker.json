@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T01:42:06.120188Z",
+  "generatedAt": "2026-10-30T18:28:30.906284Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -35,7 +35,7 @@
     {
       "name": "CPSC",
       "ok": true,
-      "records": 964,
+      "records": 968,
       "url": "https://www.cpsc.gov/Recalls"
     },
     {
@@ -211,6 +211,68 @@
       ]
     },
     {
+      "id": "cpsc-11043",
+      "section": "products",
+      "category": "Other consumer products",
+      "title": "Whatever Works Recalls Microwave Grills Due to Risk of Serious Injury or Death from Fire Hazard",
+      "brand": "",
+      "description": "This recall involves Whatever Works microwave grillers. The rectangular grills have a white plastic exterior with black locking clips on the side, hinge tabs at the rear, and two non-stick black metal plates. Model K4001 can be found on the product’s purchase receipt.",
+      "reason": "The recalled grills can overheat and ignite, posing a risk of serious injury or death from fire hazard.",
+      "action": "Consumers should stop using the recalled grills immediately and contact Whatever Works for a full refund. Consumers will be asked to write in permanent marker “Recalled” on the grill and send a photo of the marked grill to recall@whateverworks.com. Consumers will be provided with a prepaid label to return the recalled product.",
+      "date": "2026-10-29",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Whateverworks.com from January 2025 through June 2026 for about $22. Potpourri Group, Inc., dba Whatever Works, of Billerica, Massachusetts",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Whatever-Works-Recalls-Microwave-Grills-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard",
+      "products": [
+        {
+          "name": "Whatever Works Microwave Grillers",
+          "codes": "",
+          "recallNumber": "27050"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11042",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Yinklev Recalls Jocoevol 6-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
+      "brand": "",
+      "description": "This recall involves Jocoevol 6-Drawer Dressers. The recalled dressers come in black, pink, brown and white colorways. The dressers have six drawers and are made from engineered wood. They are 47.2 inches wide, 15.3 inches long, 32.3 inches tall, and weigh 97 pounds. The dressers have the model number “C-0633” printed on a label inside the top left drawer.",
+      "reason": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
+      "action": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact Yinklev for a full refund. Consumers will be asked to write in permanent marker “RECALLED” on the dresser and send a photo of the marked dresser to Jocoevoldresserrecall@outlook.com. Consumers should then dispose of the recalled product.",
+      "date": "2026-10-29",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from December 2024 through July 2026 for about $160. Shenzhen City Yiping Technology Co., Ltd., dba Yinklev, of China",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Yinklev-Recalls-Jocoevol-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+      "products": [
+        {
+          "name": "Jocoevol 6-Drawer Dressers",
+          "codes": "",
+          "recallNumber": "27059"
+        }
+      ]
+    },
+    {
       "id": "cpsc-11038",
       "section": "products",
       "category": "Furniture & home",
@@ -243,6 +305,38 @@
       ]
     },
     {
+      "id": "cpsc-11044",
+      "section": "products",
+      "category": "Pet products",
+      "title": "HAIARA Power Banks Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards; Sold on Amazon.com by Mitrytech",
+      "brand": "",
+      "description": "This recall involves HAIARA power banks, model W5 PRO, sold on Amazon.com by Mitrytech. The power banks are black and have “20W” printed on the front and “Model: W5 PRO” printed on the side. The seller name, Mitrytech, and brand name, HAIARA, are located on the purchase receipt. This warning applies to power banks with no date code (formatted “YYYYMMDD”) printed on the side.",
+      "reason": "The power bank’s lithium battery can explode and ignite, posing fire and burn hazards to consumers.",
+      "action": "Consumers should stop using the recalled power banks immediately. Consumers who purchased their power banks on Amazon.com from Mitrytech should contact Mitrytech for instructions on how to receive a full refund. To receive a refund, consumers will be required to submit a photo of their recalled power bank with the word “recalled” written on it in permanent marker and confirm disposal of the power bank in accordance with applicable laws and regulations.",
+      "date": "2026-10-29",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Amazon.com from May 2025 through September 2026 for between $18 to $22. Huizhou Yancheng Trading Co., Ltd. d/b/a Mitrytech, of China",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/HAIARA-Power-Banks-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards-Sold-on-Amazon-com-by-Mitrytech",
+      "products": [
+        {
+          "name": "HAIARA power banks",
+          "codes": "",
+          "recallNumber": "27056"
+        }
+      ]
+    },
+    {
       "id": "cpsc-11033",
       "section": "products",
       "category": "Baby & child",
@@ -271,6 +365,40 @@
           "name": "Harkla Sensory Swings",
           "codes": "",
           "recallNumber": "27060"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11041",
+      "section": "products",
+      "category": "Furniture & home",
+      "title": "Bodum USA Recalls 5.9 Million French Press Coffee Makers with Replaceable Glass Carafes Due to Risk of Serious Burn Injury",
+      "brand": "Bodum USA, Inc., of New York, New York",
+      "description": "This recall involves Bodum 8-cup and 12-cup Bistro, Brazil, Caffettiera, Chambord, Crema, Java, Jesper, and Kenya model French Press coffee makers with replaceable glass carafes. The Bodum name appears on the frame and inner lid of most models, and is engraved, along with product warnings, on the glass carafes. Additional photos and model-identifying information are available on the recall website.",
+      "reason": "The carafe can unexpectedly break during use if the glass carafe is damaged or cracked, including by use of a metal spoon to stir the coffee, posing a risk of serious burn injuries.",
+      "action": "Consumers should stop using metal spoons or utensils to stir coffee in the glass carafe immediately and contact Bodum to receive a plastic Bodum stirring spoon and warning label. The label reminds consumers not to use cracked or damaged carafes and not to use metal spoons to stir contents in the glass carafe in order to avoid damaging the glass, which can lead to breakage during use.",
+      "date": "2026-10-29",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 2,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Target, Walmart, and coffee and home goods stores nationwide and online at Bodum.com, Amazon.com, Target.com, Walmart.com and other online retailers from 1974 through October 2026 for about $15 to $65.",
+      "retailers": [
+        "Amazon",
+        "Walmart",
+        "Target"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Bodum-USA-Recalls-5-9-Million-French-Press-Coffee-Makers-with-Replaceable-Glass-Carafes-Due-to-Risk-of-Serious-Burn-Injury",
+      "products": [
+        {
+          "name": "Bodum French Press coffee makers with 8-cup and 12-cup replaceable glass carafes (Bistro, Brazil, Caffettiera, Chambord, Crema, Java, Jesper, and Kenya models)",
+          "codes": "",
+          "recallNumber": "27055"
         }
       ]
     },
@@ -23920,7 +24048,7 @@
       "month": "2026-10",
       "food": 34,
       "pet_food": 0,
-      "products": 140
+      "products": 144
     }
   ]
 }
