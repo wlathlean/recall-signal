@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T18:50:26.882952Z",
+  "generatedAt": "2026-10-30T01:42:06.120188Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -23425,38 +23425,6 @@
           "name": "Pack Angiography NCMC 3/Cs BANNER, REF: NCAG62I, containing Medline Namic Angiographic Star Off Handle Manifolds",
           "codes": "UDI-DI: 20809160490416. Lot/Expiration: 342513(1/16/2028), 336758(9/20/2027), 338977(1/16/2028)",
           "recallNumber": "Z-2792-2026"
-        }
-      ]
-    },
-    {
-      "id": "fsis-Ukrop's Homestyle Foods Recalls Spaghetti and Chicken Products Due to Possible F",
-      "section": "food",
-      "category": "Human food",
-      "title": "Ukrop's Homestyle Foods Recalls Spaghetti and Chicken Products Due to Possible Foreign Matter Contamination",
-      "brand": "",
-      "description": "",
-      "reason": "['Product Contamination']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-07-31",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "NC",
-        "VA",
-        "WV"
-      ],
-      "distribution": "['North Carolina', 'Virginia', 'West Virginia']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
         }
       ]
     },
