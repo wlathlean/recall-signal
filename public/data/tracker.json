@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T18:28:30.906284Z",
+  "generatedAt": "2026-10-31T01:27:06.474714Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -17,19 +17,19 @@
     {
       "name": "FDA Food",
       "ok": true,
-      "records": 2925,
+      "records": 2913,
       "url": "https://open.fda.gov/apis/"
     },
     {
       "name": "FDA Drug",
       "ok": true,
-      "records": 1582,
+      "records": 1570,
       "url": "https://open.fda.gov/apis/"
     },
     {
       "name": "FDA Device",
       "ok": true,
-      "records": 5998,
+      "records": 5887,
       "url": "https://open.fda.gov/apis/"
     },
     {
@@ -23902,9 +23902,9 @@
   "trends": [
     {
       "month": "2024-10",
-      "food": 14,
+      "food": 6,
       "pet_food": 0,
-      "products": 32
+      "products": 6
     },
     {
       "month": "2024-11",
