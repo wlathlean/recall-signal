@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T17:32:57.503048Z",
+  "generatedAt": "2026-11-01T00:48:15.065412Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -35,7 +35,7 @@
     {
       "name": "CPSC",
       "ok": true,
-      "records": 968,
+      "records": 962,
       "url": "https://www.cpsc.gov/Recalls"
     },
     {
@@ -23030,18 +23030,6 @@
   ],
   "trends": [
     {
-      "month": "2024-10",
-      "food": 0,
-      "pet_food": 0,
-      "products": 6
-    },
-    {
-      "month": "2024-11",
-      "food": 28,
-      "pet_food": 0,
-      "products": 131
-    },
-    {
       "month": "2024-12",
       "food": 47,
       "pet_food": 0,
@@ -23178,6 +23166,12 @@
       "food": 30,
       "pet_food": 0,
       "products": 144
+    },
+    {
+      "month": "2026-11",
+      "food": 0,
+      "pet_food": 0,
+      "products": 0
     }
   ]
 }
