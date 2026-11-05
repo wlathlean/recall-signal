@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T03:18:30.693412Z",
+  "generatedAt": "2026-11-05T20:57:37.566829Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -35,25 +35,405 @@
     {
       "name": "CPSC",
       "ok": true,
-      "records": 962,
+      "records": 974,
       "url": "https://www.cpsc.gov/Recalls"
     },
     {
       "name": "USDA-FSIS",
-      "ok": false,
-      "records": 0,
-      "note": "Official endpoint unavailable during this refresh; use the linked FSIS page.",
+      "ok": true,
+      "records": 2032,
       "url": "https://www.fsis.usda.gov/recalls"
     },
     {
       "name": "CDC outbreaks",
-      "ok": false,
-      "records": 0,
-      "note": "HTTP Error 403: Forbidden",
+      "ok": true,
+      "records": 14,
       "url": "https://www.cdc.gov/foodborne-outbreaks/outbreaks/"
     }
   ],
   "records": [
+    {
+      "id": "cpsc-11045",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Arlopu Recalls Slide Playsets Due to Risk of Serious Injury and Death from Head and Neck Entrapment Hazards",
+      "brand": "SHENZHENSHIMINGXIAOSHANGMAOYOUXIANGONGSI dba Arlopu, of China",
+      "description": "This recall involves Arlopu Slide Playsets with model numbers KT-CS17 and LY-31. The plastic playsets are designed for indoor or outdoor use and contain multiple activity components, including a slide and a basketball hoop. The playsets are available in tan, red, blue, yellow, gray and green. Model number KT-CS17 is printed on a label located on the underside of the elevated platform of the playset. Model LY-31 is printed on a label located on the upper back panel behind the slide of the playset.",
+      "reason": "The recalled products contain multiple openings where a child’s torso can fit through the opening, but a child’s head cannot, posing a risk of serious injury and death due to head and neck entrapment hazards. Additionally, the basketball nets on the recalled products with model number KT-CS17 can come unhooked from the rim, forming a loop large enough for a child’s head, posing entanglement and strangulation hazards.",
+      "action": "Consumers should stop using the Arlopu Slide Playsets immediately and store them away from children. Contact Arlopu for a free repair kit, which includes redesigned panels, basketball hoops and installation instructions. Consumers will be asked to provide a photo of the product showing the model number to arlopu_support@163.com. Upon receipt of the photo, the firm will mail the free repair kit directly to consumers. Once the repair has been completed, consumers should write “RECALLED” with permanent marker on the removed components and dispose of the removed components.",
+      "date": "2026-11-05",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com and Walmart.com from April 2023 through August 2026 for between $90 and $130.",
+      "retailers": [
+        "Amazon",
+        "Walmart"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Arlopu-Recalls-Slide-Playsets-Due-to-Risk-of-Serious-Injury-and-Death-from-Head-and-Neck-Entrapment-Hazards",
+      "products": [
+        {
+          "name": "Arlopu Slide Playsets",
+          "codes": "",
+          "recallNumber": "27066"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11053",
+      "section": "products",
+      "category": "Sports & outdoors",
+      "title": "C.A.M.P. Recalls Mountain Ice Axes Due to Risk of Serious Injury or Death from Fall Hazard",
+      "brand": "C.A.M.P. USA Inc., of Golden, Colorado",
+      "description": "This recall includes X-Dream, X-Dream Total Dry, X-All Mountain Hammer and X-All Mountain Adze. These products are designed for vertical ice climbing. The batch number is located on the side of the shaft. “CAMP” is written in white lettering on the ice axes shaft. The recalled nut and bolt kit were also sold as an accessory item as model number 3641. Recalled Models and Batches • X-Dream (model: 3570): Batches 10/24, 07/25, 10/25, 12/25 • X-Dream Total Dry (model: 3609): Batches 10/24, 07/25, 11/25 • X-All Mountain Hammer (model: 3630): Batches 10/24, 09/25 • X-All Mountain Adze (model: 3631): Batches 10/24, 09/25 • Accessory Kit (nut and bolt) (model: 3641)",
+      "reason": "A screw on the recalled mountain ice axes can loosen during use, causing the handle or pick to detach, posing a risk of serious injury or death from fall hazard.",
+      "action": "Consumers should stop using the recalled mountain ice axes immediately and register at https://www.camp-usa.com/x-bolt-recall-102026 to receive a free repair kit. Consumers should have the model and batch number available, which can be found on the side of the axes’ shaft. Consumers can either contact C.A.M.P. for a free repair kit with instructions to repair the axes themselves or have the firm repair the ice axes. The firm will send the consumer a prepaid shipping label and packaging to return the recalled axes to the firm.",
+      "date": "2026-11-05",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: REI stores nationwide and online at Camp-usa.com, Backcountry.com, Amazon.com and REI.com from November 2025 through September 2026 for between $30 and $330.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/CAMP-Recalls-Mountain-Ice-Axes-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard",
+      "products": [
+        {
+          "name": "X-Dream, X-Dream Total Dry, X-All Mountain Hammer and X-All Mountain Adze",
+          "codes": "",
+          "recallNumber": "27070"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11052",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Jiastfeng Recalls HAUOMS Eight-drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
+      "brand": "",
+      "description": "This recall involves HAUOM-branded Eight-drawer dressers. The wooden black dressers measure about 27.6 inches wide, 15.8 inches long, 59.1 inches tall, and weigh about 112.4 pounds. \"SKU: AJ_DJ504298_1\" is printed on the product packaging.",
+      "reason": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
+      "action": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact Jiastfeng for a full refund. Consumers will be asked to write in permanent marker “RECALLED” on the top, front and sides of the dresser, remove all drawers and send photos of the marked and disassembled dresser to recall@hauoms.com. Consumers should then dispose of the product.",
+      "date": "2026-11-05",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from May 2025 through September 2026 for about $150. Zhengzhoushi Rupiao Electronic Commerce Co., Ltd., dba Jiastfeng, of China",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/Jiastfeng-Recalls-HAUOMS-Eight-drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+      "products": [
+        {
+          "name": "HAUOMS Eight-drawer Dressers",
+          "codes": "",
+          "recallNumber": "27068"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11047",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Kikea Store Recalls X-VESOLJE Nursing Pillows Due to Risk of Serious Injury or Death from Suffocation; Violate Mandatory Standards for Nursing Pillows",
+      "brand": "",
+      "description": "This recall involves X-VESOLJE Nursing Pillows, model number NP001. The nursing pillows are C-shaped and sold in white with leaves pattern, dark brown with multicolored feather pattern and multicolored puzzle piece pattern. There are no markings or labels on the product.",
+      "reason": "The recalled nursing pillows violate the mandatory safety standards for nursing pillows because they can obstruct an infant’s breathing, posing a serious risk of injury or death from suffocation.",
+      "action": "Consumers should stop using the recalled nursing pillows immediately and contact Kikea Store for a full refund. Consumers will be asked to cut the pillow in half after confirming the recalled pillow with the firm and send a photo of the destroyed pillow to zsally929@gmail.com. Consumers should then dispose of the product.",
+      "date": "2026-11-05",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from April 2025 through June 2026 for between $24 and $34. Shenzhen Yiyi Jiajia Trading Co., Ltd., doing business asKikea Store, of China",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/Kikea-Store-Recalls-X-VESOLJE-Nursing-Pillows-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Violate-Mandatory-Standards-for-Nursing-Pillows",
+      "products": [
+        {
+          "name": "X-VESOLJE Nursing Pillows",
+          "codes": "",
+          "recallNumber": "27071"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11049",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Magnetopia Recalls Magnetic Building Cubes and Blocks Due to Risk of Serious Injury or Death from Magnet Ingestion Hazard",
+      "brand": "HBT LTD, dba Magnetopia, of Hong Kong",
+      "description": "This recall involves Magnetopia-branded Magnetic Building Cubes and Blocks, which are magnetic cubes sold in sets of 60, 100, 150 and 200. The cubes contain small, powerful magnets that allow the cubes to stick together and create 3D designs. The sets are available in a variety of themed building/landscape designs and colors. The following styles and models are included in the recall: Style Name Model Number Darkhouse MAT-030 Arean MAT-031 Darkgrass MAT-032 Farmday MAT-033 Bluehous MAT-034 Pinkfarm MAT-035 DarkForest MAT-036 PinkHouse MAT-037 Seafight MAT-038 Firefarm MAT-039 Darkfarm MAT-040 Darkhouse T009 BrownFarm T025 Farm T076 Darkhero T078 The model numbers of the recalled cubes are located on the back of the product packaging.",
+      "reason": "The recalled magnetic building cubes contain magnets that can become loose if the cubes break or open, posing a magnet ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other, or other metal objects, and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
+      "action": "Consumers should stop using the recalled magnetic building cubes immediately and contact Magnetopia for a full refund. Consumers will be provided with a pre-paid label to return the recalled magnetic cubes to receive a refund.",
+      "date": "2026-11-05",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Magnetopia.comfrom April 2025 through October 2026 for between $20 and $40.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/Magnetopia-Recalls-Magnetic-Building-Cubes-and-Blocks-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Hazard",
+      "products": [
+        {
+          "name": "Magnetopia Magnetic Building Cubes and Blocks",
+          "codes": "",
+          "recallNumber": "27076"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11055",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "U.S. Titan Recalls X-Pro Youth All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury or Death from Crash Hazard; Violate Mandatory Standard for ATVs",
+      "brand": "Titan Imports, Inc., dba U.S. Titan, of Ontario, California",
+      "description": "This recall involves X-Pro Eagle youth ATVs. The gas-powered, 110cc vehicles were sold in black, blue, red, pink, spider black, spider blue, spider red, leaf pink and tree camo. “X-PRO” is printed on the ATV’s side panel and “This ATV is subject to Titan Imports Inc.’s Action Plan approved by the U.S. Consumer Product Safety Commission” on a plate on the left front side of the frame.",
+      "reason": "The recalled ATVs violate the mandatory ATV safety standard because the speed-adjusting module included with the vehicle allows for the ATV’s speed to be adjusted in excess of the maximum speed for vehicles intended for children 6 years old and older, posing a risk of serious injury or death from a crash.",
+      "action": "Consumers should stop using the speed-adjusting module included with the vehicle immediately and contact X-PRO for a $100 refund. Consumers can continue using the vehicle without the module. Consumers will be asked to return the module using a prepaid shipping label.",
+      "date": "2026-11-05",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Walmart.com, Powersportsmax.com, Xprousa.com, Amazon.com and eBay.comfrom July 2025 through September 2025for between $680 and $980. Moshin, LLC., dba. X-PRO, of Carrollton, Texas",
+      "retailers": [
+        "Amazon",
+        "Walmart"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/U-S-Titan-Recalls-X-Pro-Youth-All-Terrain-Vehicles-ATVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard-Violate-Mandatory-Standard-for-ATVs",
+      "products": [
+        {
+          "name": "X-PRO’s Eagle Youth All-Terrain Vehicles (ATVs)",
+          "codes": "",
+          "recallNumber": "27074"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11054",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Baby Brezza Enterprises Recalls SuperFast Sterilizer Dryers Due to Overheating and Burn Hazards",
+      "brand": "Baby Brezza Enterprises LLC, of Newark, New Jersey",
+      "description": "This recall involves the SuperFast Sterilizer Dryer, a countertop appliance that uses a push-button control to sterilize and dry baby bottles, breast pump parts and accessories in ten minutes. The recalled units have model numbers BRZ0083, BRZ0154 and BRZ0156. The model number is printed on the product label located on the bottom of the unit.",
+      "reason": "The recalled sterilizer dryers can overheat when plugged in and operating, posing a risk of injury from a burn hazard if the surface is handled.",
+      "action": "Consumers should stop using the recalled sterilizer dryers immediately and contact Baby Brezza Enterprises for a free replacement sterilizer dryer, including shipping at no cost to the consumer. Consumers will be asked to register at https://babybrezza.com/pages/about?view=v3-recalls, complete the recall form, unplug the product, cut the power cord to destroy the sterilizer dryer and upload photos. Send photos of the model number on the label of the dryer the destroyed appliance and the return authorization number to recall@babybrezza.com. After uploading the photos, consumers should dispose of the recalled sterilizer dryers in accordance with local and state ordinances.",
+      "date": "2026-11-05",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: TJ Maxx and Marshall’s storesnationwide and online at babybrezza.com, target.com and babylist.com from January 2024 through October 2026 for between $160 and $180.",
+      "retailers": [
+        "Target"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/Baby-Brezza-Enterprises-Recalls-SuperFast-Sterilizer-Dryers-Due-to-Overheating-and-Burn-Hazards",
+      "products": [
+        {
+          "name": "SuperFast Sterilizer Dryers",
+          "codes": "",
+          "recallNumber": "27072"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11048",
+      "section": "products",
+      "category": "Tools & power equipment",
+      "title": "Bose Recalls Lithium-Ion Battery Packs for S1 Pro and S1 Pro+ Bluetooth Speaker Systems Due to Risk of Injury from Fire and Overheating Hazards",
+      "brand": "Bose Corporation, of Framingham, Massachusetts",
+      "description": "This recall involves lithium-ion rechargeable battery packs intended for use with Bose S1 Pro and S1 Pro+ Portable Bluetooth Speaker Systems. The serial number of the battery packs included in this recall begins with any one of the following six digits: 083723, 078352, 084105, 078591, 078592, 084106, or 086409. The 17-digit serial number for the battery pack is printed on a label placed at the bottom of the battery pack. The affected battery packs were sold with S1 Pro and S1 Pro+ Portable Bluetooth Speaker Systems and sold separately as accessories or replacement parts.",
+      "reason": "The recalled lithium-ion battery packs can overheat and ignite, posing a risk of injury from fire and overheating hazards.",
+      "action": "Consumers should remove the recalled battery packs installed in any S1 Pro and S1 Pro+ Portable Bluetooth Speaker Systems and stop using the battery packs immediately. Once the battery pack is removed, consumers may continue to use their S1 Pro and S1 Pro+ Portable Bluetooth Speakers while connected to AC power. Consumers will be asked to register and provide the affected battery pack’s serial number at www.support.bose.com/s1-battery-recall to receive a free replacement battery pack. For battery packs that are not installed in the speaker systems, consumers can simply view the serial number and provide that number to the website listed above. Consumers should dispose of the affected battery pack in accordance with local and state regulations. Note: Do not throw this recalled lithium-ion battery pack in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery pack for disposal. Before taking your battery pack to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
+      "date": "2026-11-05",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Bose, Best Buy and other retail stores and distributors nationwide and online at Amazon.com, Bose.com, BestBuy.com, Walmart.com and other websites from December 2017 through July 2026 for between $100 and $160 for the individual battery packs. The speaker systems were sold with the battery packs for $700.",
+      "retailers": [
+        "Amazon",
+        "Walmart"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/Bose-Recalls-Lithium-Ion-Battery-Packs-for-S1-Pro-and-S1-Pro-Bluetooth-Speaker-Systems-Due-to-Risk-of-Injury-from-Fire-and-Overheating-Hazards-0",
+      "products": [
+        {
+          "name": "Bose S1 Pro System Battery Pack and S1 Pro+ System Battery Packs for use with Bose S1 Pro and Bose S1 Pro+ Speaker Systems.",
+          "codes": "",
+          "recallNumber": "27065"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11056",
+      "section": "products",
+      "category": "Sports & outdoors",
+      "title": "Sanven Technology Recalls Vevor BMX Bicycles Due to Risk of Serious Injury or Death from Crash Hazard; Violate Federal Requirements for Bicycles",
+      "brand": "Sanven Technology Ltd., Rancho Cucamonga, California.",
+      "description": "This recall involves Vevor-branded 20-inch and 24-inch BMX bicycles, models SS24001 and SS24002. The model numbers are printed on the product packaging. The bicycles were sold in black. The Vevor logo is printed across the downtube of the frame on the bikes.",
+      "reason": "The bicycles violate the mandatory safety regulation for bicycles, because they are not equipped with a chain guard. Loose clothing can get entrapped in the chain drive, posing a risk of serious injury or deadly crash hazard. In addition, the bicycles do not comply with the labeling requirements.",
+      "action": "Consumers should stop using the BMX bicycles immediately and contact Sanven Technology for a free repair kit. Consumers will be shipped free chain guards, with detailed installation tutorials and provided with after-sales support (such as customer service email) to help solve any issues arising during self-installation.",
+      "date": "2026-11-05",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "Vevorstores nationwide and online at www.vevor.com from October 2024 through April 2026 for between $152 and $188.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Sanven-Technology-Recalls-Vevor-BMX-Bicycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard-Violate-Federal-Requirements-for-Bicycles",
+      "products": [
+        {
+          "name": "Vevor BMX Bicycles",
+          "codes": "",
+          "recallNumber": "27073"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11050",
+      "section": "products",
+      "category": "Appliances & electronics",
+      "title": "Vanderhall North America Recalls All Model Year 2024-2026 Brawley Electric Recreational Off-road Vehicles Due to Injury and Crash Hazards",
+      "brand": "Vanderhall North America LLC, of Provo, Utah",
+      "description": "This recall involves all Model Year 2024-2026 Brawley GTS Electric ROVs. Each vehicle has a unique VIN number located under the dashboard on the driver’s side of the vehicle. The VIN Numbers for the recalled vehicles range from XXXXXXXXXXX005927-XXXXXXXXXXX005990 (2024 models), XXXXXXXXXXX005992- XXXXXXXXXXX006074 (2025 models) and XXXXXXXXXXX006077- XXXXXXXXXXX006152 (2026 models) and can be found under the dashboard on the driver’s side of the vehicle. The Vanderhall logo is located on the bottom of the door on each side of the vehicle. The recalled vehicles were sold in Ivory White, Obsidian Black, Royal Blue, Ida Rose, Bosco Blue, Atomic Green, Rossa, Jean Gray and Emerald Green Metallic colors.",
+      "reason": "The seat belts in Brawley ROVs can permanently lockup in the fully retracted position. If this occurs, consumers would be unable to reset the seat belt and put it on when the vehicle is operating, posing injury and crash hazards to consumers.",
+      "action": "Consumers should stop using the recalled vehicles immediately and contact an authorized Vanderhall dealer to schedule a free repair. A technician will install an insert into the seat belt guide slot on each seat that will reduce the speed the seat belt retracts, preventing the lockup from occurring.",
+      "date": "2026-11-05",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Vanderhall dealers in Utah, Ohio, Michigan, Texas, Montana, North Carolina, Oklahoma and Arizona from April 2024 to June 2026 for about $50,000.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/Vanderhall-North-America-Recalls-All-Model-Year-2024-2026-Brawley-Electric-Recreational-Off-road-Vehicles-Due-to-Injury-and-Crash-Hazards",
+      "products": [
+        {
+          "name": "Model Year 2024-2026 Brawley GTS Electric Recreational Off-road Vehicles (ROVs)",
+          "codes": "",
+          "recallNumber": "27064"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11046",
+      "section": "products",
+      "category": "Appliances & electronics",
+      "title": "Gourmia Recalls 9-Slice Digital Air Fryer Ovens Due to Burn Hazard",
+      "brand": "The Steelstone Group LLC, dba Gourmia, of Brooklyn, New York.",
+      "description": "This recall involves Gourmia 9-SliceDigitalAir Fryer Ovens with model number GTF7530, and UPC Code 810002862779. The recalled ovens are stainless steel and have two spring-loaded glass front French doors with metal handles. The Ovens can be identified with model and UPC codes on packaging. The Model number GTF7530 and codes 3021 to 0126 can also be found on a label on back of the unit.",
+      "reason": "The oven’s doors can unexpectedly close when bumped, posing a burn hazard to consumers retrieving hot food.",
+      "action": "Consumers should stop using the recalled Ovens immediately and contact Gourmia for a free repair kit by mail. The repair kit will include an added doorstop and instructions on how to install.",
+      "date": "2026-11-05",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 2,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Target stores nationwide and online at Target.com from October 2021 through June 2026 for about $150.",
+      "retailers": [
+        "Target"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/Gourmia-Recalls-9-Slice-Digital-Air-Fryer-Ovens-Due-to-Burn-Hazard",
+      "products": [
+        {
+          "name": "Gourmia Stainless Steel Digital 9 Slice Digital Air Fryer Ovens",
+          "codes": "",
+          "recallNumber": "27069"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11051",
+      "section": "products",
+      "category": "Appliances & electronics",
+      "title": "Little Giant Recalls Ladders with Rapid Locks Due to Risk of Serious Injury from Fall Hazard",
+      "brand": "Little Giant Ladder Systems, LLC, of Springville, Utah",
+      "description": "This recall involves Little Giant ladders with Rapid Locks. Rapid Locks are designed to insert into ladder rungs for the purpose of adjusting the ladder’s height. Rapid Locks are black or orange and are located on each ladder leg. The affected models are Adjustable Fortress 2.0, Conquest 2.0, Dark Horse 2.0, Epic, King Kombo XT, Leveler, MegaLite, MegaLite+, Multi, Quantum and Vector. The brand name Little Giant and the model name are located on the side of the ladder. Only ladders without an orange rectangular “QC” sticker on the rail above one of the Rapid Locks are included in this recall.",
+      "reason": "The ladders can suddenly retract if the Rapid Locks are not fully engaged, posing a fall hazard to consumers.",
+      "action": "Consumers should stop using the recalled ladders immediately until they review the information at www.littlegiantladders.com/pages/recalls or via the QR code on the ladder and contact Little Giant for a repair kit containing warning labels and instructions. The additional instructions and labels, which should be affixed to the ladder, advise consumers to verify that their Rapid Locks are properly engaged before every use and to maintain their locks with lubrication. Consumers who follow the provided instructions and have a Rapid Lock that does not function properly after the application of lubrication should contact Little Giant for evaluation. If a lock does not function properly after this evaluation, the company will offer the choice of a replacement ladder of the same or equivalent model or a refund ranging from a depreciated value determined by date of purchase up to full purchase price for ladders purchased within the past 12 months.",
+      "date": "2026-11-05",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 2,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Lowe’s, Costco and other stores nationwide and online at Lowes.com, Amazon.com, Costco.com, LittleGiantLadders.com and other websites from December 2015 through October 2026 for about $100 to $1,000.",
+      "retailers": [
+        "Amazon",
+        "Costco"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://www.cpsc.gov/Recalls/2027/Little-Giant-Recalls-Ladders-with-Rapid-Locks-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard",
+      "products": [
+        {
+          "name": "Little Giant ladders with Rapid Locks",
+          "codes": "",
+          "recallNumber": "27067"
+        }
+      ]
+    },
     {
       "id": "cpsc-11036",
       "section": "products",
@@ -2672,6 +3052,42 @@
       ]
     },
     {
+      "id": "fsis-Imperio Distribution LLC Recalls Beef Jerky Products Produced Without the Benefi",
+      "section": "food",
+      "category": "Human food",
+      "title": "Imperio Distribution LLC Recalls Beef Jerky Products Produced Without the Benefit of Inspection",
+      "brand": "",
+      "description": "",
+      "reason": "['Produced Without Benefit of Inspection']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-10-24",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "IA",
+        "IL",
+        "IN",
+        "MI",
+        "MN",
+        "MS",
+        "WI"
+      ],
+      "distribution": "['Illinois', 'Indiana', 'Iowa', 'Michigan', 'Minnesota', 'Mississippi', 'Wisconsin']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
+    {
       "id": "cpsc-11030",
       "section": "products",
       "category": "Baby & child",
@@ -4203,6 +4619,36 @@
           "name": "NeuroStar Advanced Therapy System. Contains the NeuroStar HP Coil Assembly Part Number 81-01000-200. Affects the below NeuroStar Advanced Therapy Systems: 1. NeuroStar 2.0 US; Part Number: 81-01315-000. 2. NeuroStar 3.0 US; Part Number: 81-02315-000. 3. NeuroStar 2.X to 3.2 Upgrade Kit; Part Number: 81-25000-100. 4. NeuroStar Upgrade Kit 3.0 US; Part Number: 81-35000-000. 5. NeuroStar Mobile Console 3.6, 120V, US; Part Number: 81-03315-000. 6. NeuroStar Mobile Console 3.7, 120V, US; Part Number: 81-04315-000. 7. NeuroStar Mobile Console 3.8, 120V, US; Part Number: 81-05315-000.",
           "codes": "NeuroStar Software Versions 3.6, 3.7, 3.8 1. NeuroStar 2.0 US; Part Number: 81-01315-000; UDI-DI: 00869378000100. 2. NeuroStar 3.0 US; Part Number: 81-02315-000; UDI-DI: 00869378000117. 3. NeuroStar 2.X to 3.2 Upgrade Kit; Part Number: 81-25000-100; UDI-DI: 00869378000193. 4. NeuroStar Upgrade Kit 3.0 US; Part Number: 81-35000-000; UDI-DI: 00869378000155. 5. NeuroStar Mobile Console 3.6, 120V, US; Part Number: 81-03315-000; UDI-DI: 00850005944058. 6. NeuroStar Mobile Console 3.7, 120V, US; Part Number: 81-04315-000; UDI-DI: 00850005944522. 7. NeuroStar Mobile Console 3.8, 120V, US; Part Number: 81-05315-000; UDI-DI: 00850005944621. NeuroStar HP Coil Assembly Part Number: 81-01000-200. Coil S",
           "recallNumber": "Z-0142-2027"
+        }
+      ]
+    },
+    {
+      "id": "fsis-Kayem Foods Inc. Recalls Meat and Poultry Products Due to Possible Temperature A",
+      "section": "food",
+      "category": "Human food",
+      "title": "Kayem Foods Inc. Recalls Meat and Poultry Products Due to Possible Temperature Abuse",
+      "brand": "",
+      "description": "",
+      "reason": "['Processing Defect']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-10-17",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "['Nationwide']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
         }
       ]
     },
@@ -8334,6 +8780,77 @@
       ]
     },
     {
+      "id": "fsis-FSIS Issues Public Health Alert for Ineligible Chicken Vienna-Style Sausage Prod",
+      "section": "food",
+      "category": "Human food",
+      "title": "FSIS Issues Public Health Alert for Ineligible Chicken Vienna-Style Sausage Products Illegally Imported From Jamaica",
+      "brand": "",
+      "description": "",
+      "reason": "['Import Violation']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-10-06",
+      "status": "Active recall",
+      "classification": "Public Health Alert",
+      "severity": 2,
+      "states": [
+        "AL",
+        "FL",
+        "GA",
+        "MD",
+        "TX"
+      ],
+      "distribution": "['Alabama', 'Florida', 'Georgia', 'Maryland', 'Texas']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
+    {
+      "id": "fsis-Inexport Logistics LLC Recalls Ineligible Pork Cracklings Products Imported From",
+      "section": "food",
+      "category": "Human food",
+      "title": "Inexport Logistics LLC Recalls Ineligible Pork Cracklings Products Imported From The Republic of Colombia",
+      "brand": "",
+      "description": "",
+      "reason": "['Import Violation']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-10-02",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "AZ",
+        "CA",
+        "CO",
+        "FL",
+        "IL",
+        "KY",
+        "MN",
+        "TX"
+      ],
+      "distribution": "['Arizona', 'California', 'Colorado', 'Florida', 'Illinois', 'Kentucky', 'Minnesota', 'Texas']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
+    {
       "id": "cpsc-11013",
       "section": "products",
       "category": "Baby & child",
@@ -10086,6 +10603,76 @@
           "name": "Brand Name: VOLARA System Product Name: VOLARA, HC, NA A Model/Catalog Number: M08594A Software Version: N/A Product Description: VOLARA, HOMECARE, NORTH AMERICA Component: No",
           "codes": "Lot Code: UDI: 00887761981690 Serial Numbers: W078SY3553 and Z309SY7853",
           "recallNumber": "Z-3257-2026"
+        }
+      ]
+    },
+    {
+      "id": "fsis-Sempio Food Services Inc. Recalls Ready-To-Eat Chicken Stew Products Imported Wi",
+      "section": "food",
+      "category": "Human food",
+      "title": "Sempio Food Services Inc. Recalls Ready-To-Eat Chicken Stew Products Imported Without the Benefit of Import Reinspection",
+      "brand": "",
+      "description": "",
+      "reason": "['Import Violation']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-25",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "FL",
+        "GA",
+        "IL",
+        "MD",
+        "NJ",
+        "NY",
+        "PA",
+        "VA"
+      ],
+      "distribution": "['Florida', 'Georgia', 'Illinois', 'Maryland', 'New Jersey', 'New York', 'Pennsylvania', 'Virginia']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
+    {
+      "id": "fsis-Fontanini Foods LLC Recalls Raw, Frozen Pork Sausage Products Due to Possible Fo",
+      "section": "food",
+      "category": "Human food",
+      "title": "Fontanini Foods LLC Recalls Raw, Frozen Pork Sausage Products Due to Possible Foreign Matter Contamination",
+      "brand": "",
+      "description": "",
+      "reason": "['Product Contamination']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-25",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "CA",
+        "FL",
+        "MI",
+        "NV"
+      ],
+      "distribution": "['California', 'Florida', 'Michigan', 'Nevada']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
         }
       ]
     },
@@ -12591,6 +13178,36 @@
           "name": "Blood Culture Collection Venipuncture Kit 20/Cs, REF: 77451; Blood Culture Kit 20/Cs, REF: 81834B; Blood Culture Collection Kit, REF: 81834C. All containing BD ChloraPrep Clear - 1 mL Applicators",
           "codes": "77451/20809160195069/343602(5/31/2027), 349005(10/31/2027), 374030(11/30/2027), 375434(12/31/2027), 377632(4/2/2028), 327194(8/31/2026), 375105(3/31/2028), 336074(3/21/2027); 81834B/20809160403324/326214(7/31/2027); 81834C/20809160466602/347551(8/12/2026), 372502(8/10/2026), 374615(10/21/2026), 376461(10/23/2026), 377088(11/6/2026), 373129(9/3/2026), 374033(9/3/2026)",
           "recallNumber": "Z-3181-2026"
+        }
+      ]
+    },
+    {
+      "id": "fsis-Star Meat Delivery Inc. Recalls Raw Pork, Beef, and Goat Products Produced Witho",
+      "section": "food",
+      "category": "Human food",
+      "title": "Star Meat Delivery Inc. Recalls Raw Pork, Beef, and Goat Products Produced Without the Benefit of Inspection",
+      "brand": "",
+      "description": "",
+      "reason": "['Produced Without Benefit of Inspection']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-22",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "['Nationwide']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
         }
       ]
     },
@@ -15600,6 +16217,78 @@
           "name": "Brand Name: Extension Set Product Name: DISCOFIX FOUR WAY STOPCOCK Model/Catalog Number: 456025",
           "codes": "Lot Code: Model No 456025, UDI-DI 04046964183638, Lot Numbers 0062062778 and 0062062779",
           "recallNumber": "Z-3089-2026"
+        }
+      ]
+    },
+    {
+      "id": "fsis-El Eden Import Distributor Corp Recalls Ineligible Pork Cracklings Products Impo",
+      "section": "food",
+      "category": "Human food",
+      "title": "El Eden Import Distributor Corp Recalls Ineligible Pork Cracklings Products Imported from The Republic of Colombia",
+      "brand": "",
+      "description": "",
+      "reason": "['Import Violation']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-09",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "CT",
+        "IL",
+        "MA",
+        "NJ",
+        "NY",
+        "UT"
+      ],
+      "distribution": "['New Jersey', 'Utah', 'Massachusetts', 'New York', 'Connecticut', 'Illinois']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
+    {
+      "id": "fsis-Prime Line Distributors, Inc. and Ferrarini USA, Inc. Recall Imported Ready-To-E",
+      "section": "food",
+      "category": "Human food",
+      "title": "Prime Line Distributors, Inc. and Ferrarini USA, Inc. Recall Imported Ready-To-Eat Pork Guanciale Products Due to Possible Listeria Contamination",
+      "brand": "",
+      "description": "",
+      "reason": "['Product Contamination']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-09-06",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "CA",
+        "FL",
+        "ID",
+        "IL",
+        "MS",
+        "NJ",
+        "NY",
+        "TX"
+      ],
+      "distribution": "['Texas', 'Idaho', 'New York', 'New Jersey', 'Florida', 'Texas', 'Illinois', 'Mississippi', 'California', 'Florida']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
         }
       ]
     },
@@ -19637,6 +20326,40 @@
       ]
     },
     {
+      "id": "fsis-Shanghai Ravioli Corporation Recalls Not Ready-To-Eat Frozen Buffalo Chicken Pro",
+      "section": "food",
+      "category": "Human food",
+      "title": "Shanghai Ravioli Corporation Recalls Not Ready-To-Eat Frozen Buffalo Chicken Products Produced Without the Benefit of Inspection",
+      "brand": "",
+      "description": "",
+      "reason": "['Produced Without Benefit of Inspection']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-08-26",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "MA",
+        "ME",
+        "NH",
+        "RI",
+        "VT"
+      ],
+      "distribution": "['Maine', 'Massachusetts', 'New Hampshire', 'Rhode Island', 'Vermont']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
+    {
       "id": "cpsc-10934",
       "section": "products",
       "category": "Baby & child",
@@ -21364,6 +22087,66 @@
           "name": "Philips Azurion Rystem, Model Numbers: 722063, 722064, 722067, 722068, 722078, 722079, 722221, 722222,722223, 722224, 722225, 722226, 722227, 722228, 722280*, 722281*, and 722282* (*These models are distributed only in China), with Software Version Number R2.2.10 and R2.1.10* (*This software version is distributed only in China); Interventional Fluoroscopic X-Ray System",
           "codes": "UDI: (01)00884838099258(21)1229, (01)00884838099258(21)450, (01)00884838085251(21)302, (01)00884838099258(21)1576, (01)00884838099258(21)1577, (01)00884838099258(21)1578, (01)00884838099241(21)324, (01)00884838099241(21)585, (01)00884838099241(21)332, (01)00884838099258(21)750, (01)00884838099241(21)312, (01)00884838099241(21)85, (01)00884838099258(21)409, (01)00884838085268(21)1023, (01)00884838099272(21)125, (01)00884838099272(21)127, (01)00884838099272(21)126, (01)00884838099272(21)122, (01)00884838099272(21)123, (01)00884838099258(21)295, (01)00884838099272(21)124, (01)00884838099272(21)120, (01)00884838099258(21)277, (01)00884838099258(21)262, (01)00884838099258(21)261, (01)008848380992",
           "recallNumber": "Z-2931-2026"
+        }
+      ]
+    },
+    {
+      "id": "fsis-Indus Foods, LLC DBA Gangothri Foods Recalls Ready-To-Eat Pickled Goat and Chick",
+      "section": "food",
+      "category": "Human food",
+      "title": "Indus Foods, LLC DBA Gangothri Foods Recalls Ready-To-Eat Pickled Goat and Chicken Products Produced Without Benefit of Inspection",
+      "brand": "",
+      "description": "",
+      "reason": "['Produced Without Benefit of Inspection']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-08-17",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "['Nationwide']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
+    {
+      "id": "fsis-Asian America Trading, Inc. Recalls Ineligible Siluriformes Fish Products Import",
+      "section": "food",
+      "category": "Human food",
+      "title": "Asian America Trading, Inc. Recalls Ineligible Siluriformes Fish Products Imported From the People’s Republic of China",
+      "brand": "",
+      "description": "",
+      "reason": "['Import Violation']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-08-17",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "CA"
+      ],
+      "distribution": "['California']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
         }
       ]
     },
@@ -23912,144 +24695,614 @@
           "recallNumber": "Z-2860-2026"
         }
       ]
+    },
+    {
+      "id": "fsis-City Foods, Inc. Recalls Ready-To-Eat Pastrami and Corned Beef Products Due To P",
+      "section": "food",
+      "category": "Human food",
+      "title": "City Foods, Inc. Recalls Ready-To-Eat Pastrami and Corned Beef Products Due To Possible Listeria Contamination",
+      "brand": "",
+      "description": "",
+      "reason": "['Product Contamination']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-08-08",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "['Nationwide']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
+    {
+      "id": "fsis-FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing",
+      "section": "food",
+      "category": "Human food",
+      "title": "FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Jalapeños That Have Been Recalled Due To Possible Salmonella Contamination",
+      "brand": "",
+      "description": "",
+      "reason": "['Product Contamination']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-08-08",
+      "status": "Active recall",
+      "classification": "Public Health Alert",
+      "severity": 2,
+      "states": [
+        "US"
+      ],
+      "distribution": "['Nationwide']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
+    {
+      "id": "fsis-Shan Distribution Network, Inc. Recalls Ineligible Frozen Siluriformes Breaded F",
+      "section": "food",
+      "category": "Human food",
+      "title": "Shan Distribution Network, Inc. Recalls Ineligible Frozen Siluriformes Breaded Fish Fillet and Stick Products Imported from the United Arab Emirates",
+      "brand": "",
+      "description": "",
+      "reason": "['Import Violation']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-08-07",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "IA",
+        "IL",
+        "IN",
+        "MI",
+        "MN",
+        "MO",
+        "OH",
+        "WI"
+      ],
+      "distribution": "['Illinois', 'Indiana', 'Iowa', 'Michigan', 'Minnesota', 'Missouri', 'Ohio', 'Wisconsin']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
+    {
+      "id": "fsis-Corte Argentino USA LLC Recalls Raw Beef Products Imported Without The Benefit O",
+      "section": "food",
+      "category": "Human food",
+      "title": "Corte Argentino USA LLC Recalls Raw Beef Products Imported Without The Benefit Of Import Reinspection",
+      "brand": "",
+      "description": "",
+      "reason": "['Import Violation']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-08-07",
+      "status": "Active recall",
+      "classification": "High - Class I",
+      "severity": 4,
+      "states": [
+        "FL",
+        "TX"
+      ],
+      "distribution": "['Florida', 'Texas']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
+    {
+      "id": "cdc-2026-0",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Raw Oysters and Salmonella Telelkebir",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Telelkebir",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/oysters-10-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-1",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Raw Milk Cheese and E. coli O26",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "E. coli O26",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [
+        "milk"
+      ],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/ecoli/outbreaks/raw-milk-cheese-09-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-2",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Broccoli Sprouts and Salmonella Bovismorbificans",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Bovismorbificans",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/broccoli-sprouts-09-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-3",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Alfalfa Sprouts and E. coli O26:H11, O103:H25, and O168:H8 and Salmonella Agona",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "E. coli O26:H11, O103:H25, and O168:H8 and Salmonella Agona",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-4",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Shell Eggs and Salmonella Enteritidis",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Enteritidis",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [
+        "egg"
+      ],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/shell-eggs-07-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-5",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Jalapenos and Salmonella Javiana",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Javiana",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/javiana-08-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-6",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Iceberg Lettuce and Cyclospora",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Cyclospora",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-7",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Frozen Blueberries and E. coli O145",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "E. coli O145",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/ecoli/outbreaks/blueberries-07-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-8",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Powdered Infant Formula and Clostridium botulinum",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Clostridium botulinum",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-june-2026/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-9",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Requeson/Soft Ricotta Cheese and Listeria monocytogenes",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Listeria monocytogenes",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/listeria/outbreaks/soft-cheese-06-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-10",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Moringa Capsules and Salmonella Typhimurium",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Typhimurium",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/moringa-05-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-11",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Raw Dairy and E. coli O157:H7",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "E. coli O157:H7",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [
+        "milk"
+      ],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/ecoli/outbreaks/rawcheese-03-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-12",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Moringa Powder Capsules and Salmonella Newport",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Newport",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/moringacapsules-02-26/index.html",
+      "products": []
+    },
+    {
+      "id": "cdc-2026-13",
+      "section": "food",
+      "category": "Investigation",
+      "title": "Super Greens Supplement Powders and Salmonella Typhimurium",
+      "brand": "",
+      "description": "CDC multistate outbreak notice; a recall may or may not have been issued.",
+      "reason": "Salmonella Typhimurium",
+      "action": "Review CDC’s current notice for affected products, locations, symptoms, and recommended precautions.",
+      "date": "2026-01-01",
+      "status": "Investigation—not necessarily recalled",
+      "classification": "CDC outbreak notice",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "See the current CDC investigation.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "Centers for Disease Control and Prevention",
+      "sourceUrl": "https://www.cdc.gov/salmonella/outbreaks/supergreenssupplementpowders-1-26/index.html",
+      "products": []
     }
   ],
   "trends": [
     {
       "month": "2024-12",
-      "food": 47,
+      "food": 54,
       "pet_food": 0,
       "products": 121
     },
     {
       "month": "2025-01",
-      "food": 46,
+      "food": 57,
       "pet_food": 0,
       "products": 159
     },
     {
       "month": "2025-02",
-      "food": 40,
+      "food": 46,
       "pet_food": 0,
       "products": 130
     },
     {
       "month": "2025-03",
-      "food": 41,
+      "food": 45,
       "pet_food": 0,
       "products": 131
     },
     {
       "month": "2025-04",
-      "food": 55,
+      "food": 61,
       "pet_food": 0,
       "products": 157
     },
     {
       "month": "2025-05",
-      "food": 30,
+      "food": 39,
       "pet_food": 0,
       "products": 123
     },
     {
       "month": "2025-06",
-      "food": 50,
+      "food": 60,
       "pet_food": 0,
       "products": 137
     },
     {
       "month": "2025-07",
-      "food": 62,
+      "food": 69,
       "pet_food": 0,
       "products": 150
     },
     {
       "month": "2025-08",
-      "food": 44,
+      "food": 46,
       "pet_food": 0,
       "products": 123
     },
     {
       "month": "2025-09",
-      "food": 41,
+      "food": 46,
       "pet_food": 0,
       "products": 130
     },
     {
       "month": "2025-10",
-      "food": 69,
+      "food": 76,
       "pet_food": 0,
       "products": 186
     },
     {
       "month": "2025-11",
-      "food": 40,
+      "food": 41,
       "pet_food": 0,
       "products": 147
     },
     {
       "month": "2025-12",
-      "food": 57,
+      "food": 63,
       "pet_food": 0,
       "products": 146
     },
     {
       "month": "2026-01",
-      "food": 40,
+      "food": 41,
       "pet_food": 0,
       "products": 139
     },
     {
       "month": "2026-02",
-      "food": 44,
+      "food": 49,
       "pet_food": 0,
       "products": 143
     },
     {
       "month": "2026-03",
-      "food": 38,
+      "food": 43,
       "pet_food": 0,
       "products": 109
     },
     {
       "month": "2026-04",
-      "food": 42,
+      "food": 45,
       "pet_food": 0,
       "products": 206
     },
     {
       "month": "2026-05",
-      "food": 44,
+      "food": 48,
       "pet_food": 0,
       "products": 145
     },
     {
       "month": "2026-06",
-      "food": 46,
+      "food": 50,
       "pet_food": 0,
       "products": 160
     },
     {
       "month": "2026-07",
-      "food": 42,
+      "food": 48,
       "pet_food": 0,
       "products": 206
     },
     {
       "month": "2026-08",
-      "food": 34,
+      "food": 41,
       "pet_food": 0,
       "products": 174
     },
     {
       "month": "2026-09",
-      "food": 46,
+      "food": 51,
       "pet_food": 0,
       "products": 189
     },
     {
       "month": "2026-10",
-      "food": 43,
+      "food": 47,
       "pet_food": 0,
       "products": 175
     },
@@ -24057,7 +25310,7 @@
       "month": "2026-11",
       "food": 0,
       "pet_food": 0,
-      "products": 0
+      "products": 12
     }
   ]
 }
