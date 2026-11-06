@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T20:57:37.566829Z",
+  "generatedAt": "2026-11-06T03:17:18.812986Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -24743,74 +24743,6 @@
         "US"
       ],
       "distribution": "['Nationwide']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
-      "id": "fsis-Shan Distribution Network, Inc. Recalls Ineligible Frozen Siluriformes Breaded F",
-      "section": "food",
-      "category": "Human food",
-      "title": "Shan Distribution Network, Inc. Recalls Ineligible Frozen Siluriformes Breaded Fish Fillet and Stick Products Imported from the United Arab Emirates",
-      "brand": "",
-      "description": "",
-      "reason": "['Import Violation']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-08-07",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "IA",
-        "IL",
-        "IN",
-        "MI",
-        "MN",
-        "MO",
-        "OH",
-        "WI"
-      ],
-      "distribution": "['Illinois', 'Indiana', 'Iowa', 'Michigan', 'Minnesota', 'Missouri', 'Ohio', 'Wisconsin']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
-      "id": "fsis-Corte Argentino USA LLC Recalls Raw Beef Products Imported Without The Benefit O",
-      "section": "food",
-      "category": "Human food",
-      "title": "Corte Argentino USA LLC Recalls Raw Beef Products Imported Without The Benefit Of Import Reinspection",
-      "brand": "",
-      "description": "",
-      "reason": "['Import Violation']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-08-07",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "FL",
-        "TX"
-      ],
-      "distribution": "['Florida', 'Texas']",
       "retailers": [],
       "allergens": [],
       "codes": "",
