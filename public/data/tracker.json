@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T18:58:09.496369Z",
+  "generatedAt": "2026-11-15T02:27:33.906331Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -35,13 +35,13 @@
     {
       "name": "CPSC",
       "ok": true,
-      "records": 973,
+      "records": 966,
       "url": "https://www.cpsc.gov/Recalls"
     },
     {
       "name": "USDA-FSIS",
       "ok": true,
-      "records": 2033,
+      "records": 2034,
       "url": "https://www.fsis.usda.gov/recalls"
     },
     {
@@ -52,6 +52,41 @@
     }
   ],
   "records": [
+    {
+      "id": "fsis-FSIS Issues Public Health Alert for Ready-to-Eat Meat Products Containing Biscui",
+      "section": "food",
+      "category": "Human food",
+      "title": "FSIS Issues Public Health Alert for Ready-to-Eat Meat Products Containing Biscuits Recalled Due to Possible Listeria Contamination",
+      "brand": "",
+      "description": "",
+      "reason": "['Product Contamination']",
+      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
+      "date": "2026-11-14",
+      "status": "Active recall",
+      "classification": "Public Health Alert",
+      "severity": 2,
+      "states": [
+        "AR",
+        "LA",
+        "MS",
+        "OK",
+        "TN",
+        "TX"
+      ],
+      "distribution": "['Arkansas', 'Louisiana', 'Mississippi', 'Oklahoma', 'Tennessee', 'Texas']",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "USDA Food Safety and Inspection Service",
+      "sourceUrl": "https://www.fsis.usda.gov/recalls",
+      "products": [
+        {
+          "name": "",
+          "codes": "",
+          "recallNumber": ""
+        }
+      ]
+    },
     {
       "id": "cpsc-11063",
       "section": "products",
@@ -24188,7 +24223,7 @@
     },
     {
       "month": "2026-11",
-      "food": 9,
+      "food": 10,
       "pet_food": 0,
       "products": 46
     }
