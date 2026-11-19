@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T04:00:16.934076Z",
+  "generatedAt": "2026-11-19T22:00:08.857789Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -35,7 +35,7 @@
     {
       "name": "CPSC",
       "ok": true,
-      "records": 966,
+      "records": 975,
       "url": "https://www.cpsc.gov/Recalls"
     },
     {
@@ -52,6 +52,290 @@
     }
   ],
   "records": [
+    {
+      "id": "cpsc-11068",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "CHE-US Recalls Magnetic Robot Toys Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys",
+      "brand": "",
+      "description": "This recall involves CHE-US magnetic stick figure toys. The robot-shaped toys were sold in sets of five or 10 purple, blue, yellow, red and green stick figures. Each stick figure has four small magnets, one in each hand and foot. “X004N3MGCB” is printed on the back of the product packaging.",
+      "reason": "The recalled magnetic stick figures violate the mandatory standard for toys because when pulled apart, the figures’ arms and legs liberate high-powered magnets posing an ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other, or other metal objects, and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
+      "action": "Consumers should stop using the stick figures immediately, take them away from children and contact CHE-US for a full refund. Consumers will be asked to send a photo of the toys in the trash to CHE-USMagneticRobotToysRecall@outlook.com. Consumers should then dispose of the recalled product.",
+      "date": "2026-11-19",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from April 2025 through August 2026 for between t $9 and $18. Guangzhou Shian Trading Co., Ltd., dba CHE-US/CHESLICR, of China.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/CHE-US-Recalls-Magnetic-Robot-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys",
+      "products": [
+        {
+          "name": "CHE-US Magnetic Robot Toys",
+          "codes": "",
+          "recallNumber": "27096"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11064",
+      "section": "products",
+      "category": "Sports & outdoors",
+      "title": "Cipton Recalls Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
+      "brand": "Hardline Group, dba Cipton, of Brooklyn, New York",
+      "description": "This recall involves Cipton-branded bicycle helmets. They were sold in white and in youth size small (S), fitting a head circumference of about 19.7 to 21.3 inches. The helmets have black padding, black straps, black buckle and a built-in, multi-colored LED light strip. Model “CPSK300CC” is printed on a label on the inside of the helmet.",
+      "reason": "The recalled helmets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the impact attenuation, positional stability and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury.",
+      "action": "Consumers should stop using the helmets immediately and contact Cipton for a full refund. Consumers will be asked to destroy the helmet by cutting the straps and writing in permanent marker “Recalled” on the helmet and send a photo of the destroyed helmet to Reply@customersupport123.com. Consumers should then dispose of the recalled product. Note: Do not throw this defective lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or in used battery recycling boxes found at various retail and home improvement stores. Defective lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this defective lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact it ahead of time and ask whether it accepts defective lithium-ion batteries. If it does not, contact your municipality for further guidance.",
+      "date": "2026-11-19",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Dicks Sporting Goods and JC Penny nationwide and online at Dickssportinggoods.com from April 2024 through May 2026 for about $35.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Cipton-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
+      "products": [
+        {
+          "name": "Cipton Bike Helmets",
+          "codes": "",
+          "recallNumber": "27098"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11071",
+      "section": "products",
+      "category": "Sports & outdoors",
+      "title": "Fidlock GmbH Recalls Hermetic Dry Bags Due to Risk of Serious Injury or Death from Magnet Ingestion Hazard",
+      "brand": "Fidlock GmbH, of Hannover, Germany",
+      "description": "This recall involves Fidlock Hermetic dry bags. The medium-sized, watertight plastic bags are clear and measure about 8 inches tall by 4.6 inches wide. They have a blue closure strip with magnets at the top and a black lanyard. “Fidlock” is printed in white on the front of the strip and lot number 2409140930201 is on the back. “Hermetic” is printed on the product packaging.",
+      "reason": "The recalled bags’ adhesive closure strips can detach, causing the magnets to fall out, posing a risk of serious injury or death from a magnet ingestion hazard.",
+      "action": "Consumers should stop using the bags immediately and contact Fidlock USA to receive a replacement bag or a gift card for the Fidlock USA online shop. Customers who purchased the product from the FIDLOCK online store can receive a full refund in the form of a credit card refund or PayPal refund. Consumers will be asked to go to www.fidlock.us/pages/recall and send a photo of the product. Consumers should then dispose of the recalled product.",
+      "date": "2026-11-19",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Sports, water sports and outdoor stores nationwide and online at Fidlock.us and Amazon.com from January 2025 through September 2026 for between $30 and $35.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Fidlock-GmbH-Recalls-Hermetic-Dry-Bags-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Hazard",
+      "products": [
+        {
+          "name": "Fidlock Hermetic Dry Bags",
+          "codes": "",
+          "recallNumber": "27093"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11066",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Hultafors Group North America Recalls Lighted Portfolios, Angle Locators, Calipers and Calculators Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries",
+      "brand": "Hultafors Group North America, Inc., of Mequon, Wisconsin",
+      "description": "This recall involves CLC Lighted Portfolio & Johnson Level Digital Angle Locator, Digital Caliper and Building Calculator, with the model numbers located on the unit and the package labeling. The following models, UPC Codes and retail prices are included in this recall.",
+      "reason": "The various trade tools violate the mandatory safety standard for consumer products with button cell and coin batteries because the button batteries can be accessed easily by children, posing an ingestion hazard. Additionally, the packaging and product do not have the warnings required under Reese’s Law. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.",
+      "action": "Consumers should stop using the recalled trade tools immediately, place them in an area inaccessible to children and contact Hultafors Group North America. To obtain a refund, consumers will be asked to upload a photograph of the product at www.HG2026.expertinquiry.com and certify that the product has been disposed of and will no longer be used. Upon verification, consumers will receive the retail price, as shown in table below in the form of a virtual Visa gift card. The virtual Visa gift card may be redeemed at any establishment that accepts Visa. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+      "date": "2026-11-19",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: The Johnson Level Digital Angle Locator, Digital Caliper and Building Calculator were sold at Lowe’s Home Improvement, Menards, W.W. Grainger, True Value Hardware and other hardware stores nationwide and online at Amazon.com from February 2023 through November 2026 between $64 and $400. The CLC Lighted Portfolio and Johnson Level 7” Digital Angle Locator and Ruler were sold at Lowe’s Home Improvement, Menards, W.W. Grainger, True Value Hardware and other hardware stores nationwide and online at Amazon.com from March 2024 through November 2026 between $45 and $55.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Hultafors-Group-North-America-Recalls-Lighted-Portfolios-Angle-Locators-Calipers-and-Calculators-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries",
+      "products": [
+        {
+          "name": "Custom Leather Craft (CLC) Lighted Portfolio, Johnson Level & Tool (Johnson Level) Digital Angle Locator, Digital Caliper and Building Calculator",
+          "codes": "",
+          "recallNumber": "27090"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11070",
+      "section": "products",
+      "category": "Appliances & electronics",
+      "title": "Vanderhall Recalls Brawley GTS Electric Recreational Off Highway Vehicles (ROVs) Due to Risk of Serious Injury or Death from Crash Hazard",
+      "brand": "Vanderhall North America, LLC, of Provo, Utah",
+      "description": "This recall involves all Vanderhall model years 2024, 2025, and 2026 Brawley GTS electric recreational off highway vehicles. The ROVs come in Emerald Green, Ida Rose, Ivory White, Jean Grey, Obsidian Black, and Royal Blue. The VIN Numbers for the affected vehicles range from XXXXXXXXXXXXX5927 - XXXXXXXXXXXXX 6152 and can be found under the dashboard on the driver’s side of the vehicle.",
+      "reason": "The braking system can unexpectedly engage when the vehicle is airborne causing the operator to experience a sudden brake lockup upon landing, posing a risk of serious injury or death from a crash hazard.",
+      "action": "Consumers should stop using their vehicles immediately and contact Vanderhall North America for instructions on how to receive updated firmware version 8.1.2 through the Vanderhall customer mobile app. The updated firmware was released on September 18, 2026, and can be identified by the Vanderhall logo. Owners requiring assistance updating their firmware should contact their dealer or Vanderhall directly for assistance.",
+      "date": "2026-11-19",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold At: Vanderhall North America dealers in Utah, Ohio, Michigan, Texas, Montana, North Carolina, Oklahoma, Minnesota, Illinois, and Arizona from April 2024 through August 2026 for about $50,000.",
+      "retailers": [],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Vanderhall-Recalls-Brawley-GTS-Electric-Recreational-Off-Highway-Vehicles-ROVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
+      "products": [
+        {
+          "name": "Model Year 2024-2026 Vanderhall Brawley GTS electric recreational off highway vehicles",
+          "codes": "",
+          "recallNumber": "27091"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11069",
+      "section": "products",
+      "category": "Furniture & home",
+      "title": "Xentrawave Recalls Adult Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; One Death Reported",
+      "brand": "Guangzhou Nanyu Medical Technology Co., Ltd, of China.",
+      "description": "Washington, D.C. -- The U.S. Consumer Product Safety Commission (CPSC) and Guangzhouyupinkejiyouxiangongsi (Guangzhou Yupin Technology Co., Ltd) dba Xentrawave, of China, are announcing the recall of the Xentrawave adult portable bed rails, models XT016 (all batches) and XT026 (batch number 20251212). The adult portable bed rails fail to meet mandatory standard requirements, because users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the XT016 model adult bed rail does not meet structural stability or retention strap requirements, posing entrapment hazards, and its push pins and push pin holes are incorrectly sized, posing a laceration hazard. CPSC has received one report of a death involving the Xentrawave adult portable bed rail, model XT016. In 2026, an 8",
+      "reason": "The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the XT016 model adult bed rail does not meet structural stability or retention strap requirements, posing entrapment hazards, and its push pins and push pin holes are incorrectly sized, posing a laceration hazard.",
+      "action": "Consumers should stop using the recalled adult portable bed rails immediately and contact Xentrawave for a full refund. Consumers will be asked to cut the foam padding on the bed rail handle grips, take a photo of the destroyed bed rail and email the photo to xentrawavedirect@163.com or submit it online at https://xentrawahelp.com/xentrawave-bed-rail-safety-recall/.",
+      "date": "2026-11-19",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 4,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Xentrawave at Amazon.com",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Xentrawave-Recalls-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-One-Death-Reported",
+      "products": [
+        {
+          "name": "Xentrawave XT016 and XT026 Adult Portable Bed Rails",
+          "codes": "",
+          "recallNumber": "27099"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11067",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Kidsview Recalls Infant Bouncers Due to Risk of Collapse and Impact Injury to Infants",
+      "brand": "",
+      "description": "This recall involves Kidsview infant bouncers manufactured in August, September, or October 2022. The recalled bouncers have date codes beginning with 2022/08, 2022/09 or 2022/10 located on a label sewn on the back of the fabric seat. The bouncers were sold in khaki and include an accessory bar with animal toys hanging from the bar.",
+      "reason": "The bouncers can collapse while in use, posing a risk of impact injury to infants in the bouncer.",
+      "action": "Consumers should stop using the recalled infant bouncers immediately and contact Kidsview for an Amazon gift card. Consumers will be asked to check if their infant bouncer is recalled by viewing the date code located on a label on the back of the bouncer’s seat. Consumers with recalled bouncers will be instructed to write “RECALLED” on the product’s fabric seat with permanent marker, take a photo of it, including the label with the date code in the photo and email to haimaoziying@163.com.",
+      "date": "2026-11-19",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from August 2022 through November 2023 for between $60 and $170. Zhongshan Haimao Cross-border Information Technology Co., Ltd., dba Kidsview, of China",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Kidsview-Recalls-Infant-Bouncers-Due-to-Risk-of-Collapse-and-Impact-Injury-to-Infants",
+      "products": [
+        {
+          "name": "Kidsview Infant Bouncer",
+          "codes": "",
+          "recallNumber": "27092"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11072",
+      "section": "products",
+      "category": "Tools & power equipment",
+      "title": "Ororo Recalls Rechargeable Lithium-Ion Battery Packs Due to Risk of Serious Injury from Fire and Burn Hazards",
+      "brand": "Langis LLC, dba ororo, of Las Vegas, Nevada",
+      "description": "This recall involves ororo’s rechargeable lithium-ion battery packs, model PD10K-Pro. The black battery packs have a built-in USB-C cable and a digital display. “ororo” is written on the front of the battery pack. The model and a seven alphanumeric serial number starting with 67U, 685, 686 or 68A is printed on the back.",
+      "reason": "The recalled lithium-ion battery packs can overheat, posing a risk of serious injury from fire and burn hazards.",
+      "action": "Consumers should stop using the battery packs immediately and contact ororo for a full refund. Consumers will be asked to go to Ororowear.com/pd10k-pro-recall to register and to receive disposal instructions. Once registered, consumers should dispose of the recalled battery packs in accordance with local and state regulations. Note: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
+      "date": "2026-11-19",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 3,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Ororowear.com and Amazon.com from September 2026 through October 2026 for about $109.",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Ororo-Recalls-Rechargeable-Lithium-Ion-Battery-Packs-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
+      "products": [
+        {
+          "name": "Ororo PD10K-Pro Rechargeable Lithium-Ion Battery Packs",
+          "codes": "",
+          "recallNumber": "27097"
+        }
+      ]
+    },
+    {
+      "id": "cpsc-11065",
+      "section": "products",
+      "category": "Baby & child",
+      "title": "Qpancy Recalls Children’s Pajama Sets Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standards for Children’s Sleepwear",
+      "brand": "",
+      "description": "This recall involves Qpancy-branded matching pajama sets. They include children’s pajamas that consist of a long-sleeve, button-front top with a front pocket and shorts, and matching pajamas for dolls. The sets were sold in multicolored cat, pink bow, pink and white striped bow, and pink and white stripes, and in sizes 120 (4–5T) through 150 (10–11Y). The brand is printed on a neck label and the size on a sewn-in side-seam label.",
+      "reason": "The recalled children’s pajama sets violate the mandatory safety standards for children’s sleepwear posing a risk of serious burn injuries.",
+      "action": "Consumers should stop using the recalled pajama sets immediately and contact Qpancy for a full refund. Consumers will be asked to cut the pajama in half and send a photo of the destroyed pajamas to qpancyrecall@outlook.com. Consumers should then dispose of the destroyed product.",
+      "date": "2026-11-19",
+      "status": "Active recall",
+      "classification": "CPSC recall",
+      "severity": 2,
+      "states": [
+        "US"
+      ],
+      "distribution": "Sold Online At: Amazon.com from March 2026 through August 2026 for about $20. Shanghai Shengkailong Trading Co., Ltd., dba Qpancy, of China",
+      "retailers": [
+        "Amazon"
+      ],
+      "allergens": [],
+      "codes": "",
+      "source": "U.S. Consumer Product Safety Commission",
+      "sourceUrl": "https://cpsc.gov/Recalls/2027/Qpancy-Recalls-Childrens-Pajama-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear",
+      "products": [
+        {
+          "name": "Qpancy Children’s Pajama Sets",
+          "codes": "",
+          "recallNumber": "27094"
+        }
+      ]
+    },
     {
       "id": "fsis-FSIS Issues Public Health Alert for Ready-to-Eat Meat Products Containing Biscui",
       "section": "food",
@@ -24130,7 +24414,7 @@
       "month": "2026-11",
       "food": 21,
       "pet_food": 0,
-      "products": 75
+      "products": 84
     }
   ]
 }
