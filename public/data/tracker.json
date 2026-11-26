@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T22:58:51.085279Z",
+  "generatedAt": "2026-11-26T04:54:50.736360Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -40,8 +40,9 @@
     },
     {
       "name": "USDA-FSIS",
-      "ok": true,
-      "records": 2035,
+      "ok": false,
+      "records": 0,
+      "note": "Official endpoint unavailable during this refresh; use the linked FSIS page.",
       "url": "https://www.fsis.usda.gov/recalls"
     },
     {
@@ -52,43 +53,6 @@
     }
   ],
   "records": [
-    {
-      "id": "fsis-Brett Anthony Foods Recalls Frozen Fully Cooked Cheeseburger Products Due to Mis",
-      "section": "food",
-      "category": "Human food",
-      "title": "Brett Anthony Foods Recalls Frozen Fully Cooked Cheeseburger Products Due to Misbranding And Undeclared Allergens",
-      "brand": "",
-      "description": "",
-      "reason": "['Unreported Allergens']",
-      "action": "Do not consume if the allergen applies. Check the affected codes, then return or discard the product as directed.",
-      "date": "2026-11-22",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "AL",
-        "CO",
-        "CT",
-        "GA",
-        "IA",
-        "MA",
-        "ME",
-        "MI"
-      ],
-      "distribution": "['Alabama', 'Colorado', 'Connecticut', 'Georgia', 'Iowa', 'Maine', 'Massachusetts', 'Michigan']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
     {
       "id": "cpsc-11068",
       "section": "products",
@@ -2144,41 +2108,6 @@
         {
           "name": "Branch Manager, Dietary Supplement for Men 18+, packaged in single capsule blister card, 24 individual blister cards per retail box; UPC 672713228585. Labeled serving size: one capsule; proprietary blend 1600 mg; directions state one capsule 20 minutes before sexual activity",
           "codes": "All lots and expiration or best-by dates distributed from September 16, 2023, through June 11, 2026, which includes: Lot 11031152, BEST BY DEC 2025",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
-      "id": "fsis-FSIS Issues Public Health Alert For Meat And Poultry Products Containing Biscuit",
-      "section": "food",
-      "category": "Human food",
-      "title": "FSIS Issues Public Health Alert For Meat And Poultry Products Containing Biscuits Recalled Due to Possible Listeria Contamination",
-      "brand": "",
-      "description": "",
-      "reason": "['Product Contamination']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-11-14",
-      "status": "Active recall",
-      "classification": "Public Health Alert",
-      "severity": 2,
-      "states": [
-        "AR",
-        "LA",
-        "MS",
-        "OK",
-        "TN",
-        "TX"
-      ],
-      "distribution": "['Arkansas', 'Louisiana', 'Mississippi', 'Oklahoma', 'Tennessee', 'Texas']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
           "recallNumber": ""
         }
       ]
@@ -4256,36 +4185,6 @@
         {
           "name": "Glutathione 200mg/mL (pf) Injection Solution, Rx Only, This is a compounded product by: Premium Health Care Pharmacy 2400 SW 69th Ave Miami",
           "codes": "Lot#: 1732207, Beyond Use Date: 6/11/2026; Lot # 1737548, Beyond Use Date: 6/18/2026.",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
-      "id": "fsis-FSIS Issues Public Health Alert for Meat and Poultry Products Due to Misbranding",
-      "section": "food",
-      "category": "Human food",
-      "title": "FSIS Issues Public Health Alert for Meat and Poultry Products Due to Misbranding and Undeclared Allergens",
-      "brand": "",
-      "description": "",
-      "reason": "['Unreported Allergens']",
-      "action": "Do not consume if the allergen applies. Check the affected codes, then return or discard the product as directed.",
-      "date": "2026-11-06",
-      "status": "Active recall",
-      "classification": "Public Health Alert",
-      "severity": 2,
-      "states": [
-        "US"
-      ],
-      "distribution": "['Georgia', 'South Carolina', 'Nationwide']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
           "recallNumber": ""
         }
       ]
@@ -8706,42 +8605,6 @@
       ]
     },
     {
-      "id": "fsis-Imperio Distribution LLC Recalls Beef Jerky Products Produced Without the Benefi",
-      "section": "food",
-      "category": "Human food",
-      "title": "Imperio Distribution LLC Recalls Beef Jerky Products Produced Without the Benefit of Inspection",
-      "brand": "",
-      "description": "",
-      "reason": "['Produced Without Benefit of Inspection']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-10-24",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "IA",
-        "IL",
-        "IN",
-        "MI",
-        "MN",
-        "MS",
-        "WI"
-      ],
-      "distribution": "['Illinois', 'Indiana', 'Iowa', 'Michigan', 'Minnesota', 'Mississippi', 'Wisconsin']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
       "id": "cpsc-11030",
       "section": "products",
       "category": "Baby & child",
@@ -10245,36 +10108,6 @@
           "name": "NeuroStar Advanced Therapy System. Contains the NeuroStar HP Coil Assembly Part Number 81-01000-200. Affects the below NeuroStar Advanced Therapy Systems: 1. NeuroStar 2.0 US; Part Number: 81-01315-000. 2. NeuroStar 3.0 US; Part Number: 81-02315-000. 3. NeuroStar 2.X to 3.2 Upgrade Kit; Part Number: 81-25000-100. 4. NeuroStar Upgrade Kit 3.0 US; Part Number: 81-35000-000. 5. NeuroStar Mobile Console 3.6, 120V, US; Part Number: 81-03315-000. 6. NeuroStar Mobile Console 3.7, 120V, US; Part Number: 81-04315-000. 7. NeuroStar Mobile Console 3.8, 120V, US; Part Number: 81-05315-000.",
           "codes": "NeuroStar Software Versions 3.6, 3.7, 3.8 1. NeuroStar 2.0 US; Part Number: 81-01315-000; UDI-DI: 00869378000100. 2. NeuroStar 3.0 US; Part Number: 81-02315-000; UDI-DI: 00869378000117. 3. NeuroStar 2.X to 3.2 Upgrade Kit; Part Number: 81-25000-100; UDI-DI: 00869378000193. 4. NeuroStar Upgrade Kit 3.0 US; Part Number: 81-35000-000; UDI-DI: 00869378000155. 5. NeuroStar Mobile Console 3.6, 120V, US; Part Number: 81-03315-000; UDI-DI: 00850005944058. 6. NeuroStar Mobile Console 3.7, 120V, US; Part Number: 81-04315-000; UDI-DI: 00850005944522. 7. NeuroStar Mobile Console 3.8, 120V, US; Part Number: 81-05315-000; UDI-DI: 00850005944621. NeuroStar HP Coil Assembly Part Number: 81-01000-200. Coil S",
           "recallNumber": "Z-0142-2027"
-        }
-      ]
-    },
-    {
-      "id": "fsis-Kayem Foods Inc. Recalls Meat and Poultry Products Due to Possible Temperature A",
-      "section": "food",
-      "category": "Human food",
-      "title": "Kayem Foods Inc. Recalls Meat and Poultry Products Due to Possible Temperature Abuse",
-      "brand": "",
-      "description": "",
-      "reason": "['Processing Defect']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-10-17",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "['Nationwide']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
         }
       ]
     },
@@ -14601,77 +14434,6 @@
       ]
     },
     {
-      "id": "fsis-FSIS Issues Public Health Alert for Ineligible Chicken Vienna-Style Sausage Prod",
-      "section": "food",
-      "category": "Human food",
-      "title": "FSIS Issues Public Health Alert for Ineligible Chicken Vienna-Style Sausage Products Illegally Imported From Jamaica",
-      "brand": "",
-      "description": "",
-      "reason": "['Import Violation']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-10-06",
-      "status": "Active recall",
-      "classification": "Public Health Alert",
-      "severity": 2,
-      "states": [
-        "AL",
-        "FL",
-        "GA",
-        "MD",
-        "TX"
-      ],
-      "distribution": "['Alabama', 'Florida', 'Georgia', 'Maryland', 'Texas']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
-      "id": "fsis-Inexport Logistics LLC Recalls Ineligible Pork Cracklings Products Imported From",
-      "section": "food",
-      "category": "Human food",
-      "title": "Inexport Logistics LLC Recalls Ineligible Pork Cracklings Products Imported From The Republic of Colombia",
-      "brand": "",
-      "description": "",
-      "reason": "['Import Violation']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-10-02",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "AZ",
-        "CA",
-        "CO",
-        "FL",
-        "IL",
-        "KY",
-        "MN",
-        "TX"
-      ],
-      "distribution": "['Arizona', 'California', 'Colorado', 'Florida', 'Illinois', 'Kentucky', 'Minnesota', 'Texas']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
       "id": "cpsc-11013",
       "section": "products",
       "category": "Baby & child",
@@ -16518,76 +16280,6 @@
           "name": "Brand Name: VOLARA System Product Name: VOLARA, HC, NA A Model/Catalog Number: M08594A Software Version: N/A Product Description: VOLARA, HOMECARE, NORTH AMERICA Component: No",
           "codes": "Lot Code: UDI: 00887761981690 Serial Numbers: W078SY3553 and Z309SY7853",
           "recallNumber": "Z-3257-2026"
-        }
-      ]
-    },
-    {
-      "id": "fsis-Sempio Food Services Inc. Recalls Ready-To-Eat Chicken Stew Products Imported Wi",
-      "section": "food",
-      "category": "Human food",
-      "title": "Sempio Food Services Inc. Recalls Ready-To-Eat Chicken Stew Products Imported Without the Benefit of Import Reinspection",
-      "brand": "",
-      "description": "",
-      "reason": "['Import Violation']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-09-25",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "FL",
-        "GA",
-        "IL",
-        "MD",
-        "NJ",
-        "NY",
-        "PA",
-        "VA"
-      ],
-      "distribution": "['Florida', 'Georgia', 'Illinois', 'Maryland', 'New Jersey', 'New York', 'Pennsylvania', 'Virginia']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
-      "id": "fsis-Fontanini Foods LLC Recalls Raw, Frozen Pork Sausage Products Due to Possible Fo",
-      "section": "food",
-      "category": "Human food",
-      "title": "Fontanini Foods LLC Recalls Raw, Frozen Pork Sausage Products Due to Possible Foreign Matter Contamination",
-      "brand": "",
-      "description": "",
-      "reason": "['Product Contamination']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-09-25",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "CA",
-        "FL",
-        "MI",
-        "NV"
-      ],
-      "distribution": "['California', 'Florida', 'Michigan', 'Nevada']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
         }
       ]
     },
@@ -19223,36 +18915,6 @@
           "name": "Blood Culture Collection Venipuncture Kit 20/Cs, REF: 77451; Blood Culture Kit 20/Cs, REF: 81834B; Blood Culture Collection Kit, REF: 81834C. All containing BD ChloraPrep Clear - 1 mL Applicators",
           "codes": "77451/20809160195069/343602(5/31/2027), 349005(10/31/2027), 374030(11/30/2027), 375434(12/31/2027), 377632(4/2/2028), 327194(8/31/2026), 375105(3/31/2028), 336074(3/21/2027); 81834B/20809160403324/326214(7/31/2027); 81834C/20809160466602/347551(8/12/2026), 372502(8/10/2026), 374615(10/21/2026), 376461(10/23/2026), 377088(11/6/2026), 373129(9/3/2026), 374033(9/3/2026)",
           "recallNumber": "Z-3181-2026"
-        }
-      ]
-    },
-    {
-      "id": "fsis-Star Meat Delivery Inc. Recalls Raw Pork, Beef, and Goat Products Produced Witho",
-      "section": "food",
-      "category": "Human food",
-      "title": "Star Meat Delivery Inc. Recalls Raw Pork, Beef, and Goat Products Produced Without the Benefit of Inspection",
-      "brand": "",
-      "description": "",
-      "reason": "['Produced Without Benefit of Inspection']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-09-22",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "['Nationwide']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
         }
       ]
     },
@@ -22335,78 +21997,6 @@
       ]
     },
     {
-      "id": "fsis-El Eden Import Distributor Corp Recalls Ineligible Pork Cracklings Products Impo",
-      "section": "food",
-      "category": "Human food",
-      "title": "El Eden Import Distributor Corp Recalls Ineligible Pork Cracklings Products Imported from The Republic of Colombia",
-      "brand": "",
-      "description": "",
-      "reason": "['Import Violation']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-09-09",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "CT",
-        "IL",
-        "MA",
-        "NJ",
-        "NY",
-        "UT"
-      ],
-      "distribution": "['New Jersey', 'Utah', 'Massachusetts', 'New York', 'Connecticut', 'Illinois']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
-      "id": "fsis-Prime Line Distributors, Inc. and Ferrarini USA, Inc. Recall Imported Ready-To-E",
-      "section": "food",
-      "category": "Human food",
-      "title": "Prime Line Distributors, Inc. and Ferrarini USA, Inc. Recall Imported Ready-To-Eat Pork Guanciale Products Due to Possible Listeria Contamination",
-      "brand": "",
-      "description": "",
-      "reason": "['Product Contamination']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-09-06",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "CA",
-        "FL",
-        "ID",
-        "IL",
-        "MS",
-        "NJ",
-        "NY",
-        "TX"
-      ],
-      "distribution": "['Texas', 'Idaho', 'New York', 'New Jersey', 'Florida', 'Texas', 'Illinois', 'Mississippi', 'California', 'Florida']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
       "id": "cpsc-10949",
       "section": "products",
       "category": "Furniture & home",
@@ -24438,354 +24028,6 @@
       ]
     },
     {
-      "id": "cpsc-10955",
-      "section": "products",
-      "category": "Other consumer products",
-      "title": "AudioLineOut Recalls Studio Six Headphone Amplifiers Due to Risk of Serious Injury or Death from Electrocution Hazard",
-      "brand": "AudioLineOut LLC, of Portland, Oregon",
-      "description": "This recall involves Studio Six Headphone Amplifiers with model ST6. The amplifiers are black or silver. The amplifiers measure 15-3/4 inches high by 12 inches wide. The height for the lower level of the unit, top to bottom, is 5-3/4 inches; the height from the top of the upper level to bottom of the unit is 20-3/4 inches. In the front of the unit, there are four audio connectors for headphones. In the back, there are three sets (L and R) of RCA inputs. Also in the back is a connector for an auxiliary power device.",
-      "reason": "When the amplifiers are used with aftermarket metal base tubes, the bare metal can become electrified, posing a risk of serious injury or death from electrocution.",
-      "action": "Consumers should stop using the recalled amplifiers immediately and contact AudioLineOut for a free repair. Consumers should contact AudioLineOut at support@aloaudio.com for a prepaid shipping label to ship back the product for repair. Alternatively, consumers can utilize the originally supplied vacuum tubes.",
-      "date": "2026-08-27",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold At: Independent stereo stores nationwide and online at aloaudio.com from December 2014 through December 2022 for about $3,900.",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://cpsc.gov/Recalls/2026/AudioLineOut-Recalls-Studio-Six-Headphone-Amplifiers-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Hazard",
-      "products": [
-        {
-          "name": "Studio Six Headphone Amplifiers",
-          "codes": "",
-          "recallNumber": "26720"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10958",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "Diamond Wipes International Recalls MD Wipe Outz Numbing Tattoo Wipes Due to Risk of Serious Injury or Death from Child Poisoning; Violate Mandatory Standard for Child-Resistant Packaging",
-      "brand": "Diamond Wipes International, Inc., of Chino, California",
-      "description": "This recall involves MD Wipe Outz Numbing Tattoo Wipes. The pain-relieving wipes were sold in individually wrapped 3 x 4 inches foil packets in boxes of 5, 10, 25, and 250. The Wipe Outz logo, “NUMB” and “Lidocaine Infused” is printed on the front of the packet.",
-      "reason": "The recalled numbing wipes contain lidocaine, which must be in child-resistant packaging, as required by the Poison Prevention Packaging Act. The packaging of the wipes is not child-resistant, posing a risk of serious injury or death from poisoning if the contents of the wipes are ingested by young children.",
-      "action": "Consumers should secure the wipes out of sight and reach of children immediately and contact Diamond Wipes for a full refund. Consumers will be asked to write “RECALLED” on the packet and send a photo of the marked packet to recall@diamondwipes.com. Consumers should then dispose of the packets.",
-      "date": "2026-08-27",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold Online At: Amazon.com from September 2025 through June 2026 and Shopify.com from September 2025 through May 2026 for between about $7.50 for a 5-pack and $225 for a 250-pack.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://cpsc.gov/Recalls/2026/Diamond-Wipes-International-Recalls-MD-Wipe-Outz-Numbing-Tattoo-Wipes-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-Violate-Mandatory-Standard-for-Child-Resistant-Packaging?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
-      "products": [
-        {
-          "name": "MD Wipe Outz Numbing Tattoo Wipes",
-          "codes": "",
-          "recallNumber": "26718"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10961",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "HABA USA Recalls Rainbow Rattle Grasping and Teething Toys Due to Risk of Serious Injury or Death from Choking and Ingestion Hazards",
-      "brand": "Habermaass Corporation, Inc. dba HABA USA, of Skaneateles, New York",
-      "description": "This recall involves HABA Rainbow Rattle Grasping and Teething Toy item number 2012261001 and batch code 0925. The rattle grasping and teething toy features plastic rattling rings that produce sound when moved. Constructed from wood with multiple materials and colorful components, designed for infant grasping, sensory exploration and early play. Each HABA Rainbow Rattle Grasping and Teething Toy can be identified by the product batch code in black on one of the natural wooden hemisphere pieces and the item number found on the back side of the backer card above the barcode.",
-      "reason": "The glued knot on the elastic cord can become untied on the recalled product, allowing young children access to the small wooden and plastic pieces, posing a risk of serious injury or death from choking and ingestion hazards.",
-      "action": "Consumers should stop using the rattle grasping and teething toy immediately, take it away from children and contact HABA USA to receive a full refund. Consumers will be asked to destroy the toy by cutting the elastic cord, taking a photo of it and uploading a photo of the destroyed toy with their name and address to recall@habausa.com. Consumers should then dispose of the destroyed product.",
-      "date": "2026-08-27",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold At: Specialty stores nationwide and online at Amazon.com, Target.com, Bellalunatoys.com, Habausa.com and Nordstrom.com from December 2025 through July 2026 for about $13.",
-      "retailers": [
-        "Amazon",
-        "Target"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://cpsc.gov/Recalls/2026/HABA-USA-Recalls-Rainbow-Rattle-Grasping-and-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-and-Ingestion-Hazards",
-      "products": [
-        {
-          "name": "HABA Rainbow Rattle Grasping and Teething Toy",
-          "codes": "",
-          "recallNumber": "26719"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10951",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "Little Loves & Co. Recalls Youth Clothing with Drawstrings Due to Risk of Serious Injury or Death from Entrapment Hazard",
-      "brand": "Little Loves & Co. LLC, of Olympia, Washington",
-      "description": "This recall involves youth daywear sets and boy short sets with waist drawstrings. The daywear sets were sold with a crew neck shirt and joggers. The boy short sets were sold with a short sleeve shirt and shorts. The products were sold in sizes 12/18 months through youth 9/10 and were sold in a variety of colors and collage style designs. The model number and date code are printed on the neck tag. The following model numbers and date codes are included in the recall:",
-      "reason": "The drawstrings in the recalled clothing can get caught on objects and cause death or serious injury to children due to an entrapment hazard.",
-      "action": "Consumers should take the recalled clothing away from children immediately and contact Little Loves & Co. for a full refund after return of the product. Consumers should contact Little Loves & Co. to receive a pre-paid shipping label to return the garment. Upon receipt, affected consumers will be issued a refund. If consumers would prefer to keep the garment, they should cut and remove the drawstring.",
-      "date": "2026-08-27",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold Online At: Littlelovesandco.com and Whatnot.com from May 2025 through July 2026 for between $15 and $30.",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://cpsc.gov/Recalls/2026/Little-Loves-Co-Recalls-Youth-Clothing-with-Drawstrings-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-Hazard",
-      "products": [
-        {
-          "name": "Little Loves & Co. Youth Clothing with Drawstrings",
-          "codes": "",
-          "recallNumber": "26724"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10954",
-      "section": "products",
-      "category": "Other consumer products",
-      "title": "Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards; Sold on Amazon by YERYORK",
-      "brand": "Lanzhou Xinshi Mingchen Information Technology Co., Ltd., dba YERYORK, of China",
-      "description": "This recall involves YERYORK-branded pressure washers. The recalled, 2.5 GPM electric pressure washers are green with black, and measure about 10.24 inches deep, 16.14 inches wide and 12.01 inches high. The pressure washers come with a 500 ml foam cannon, four quick disconnect nozzles, a 32.81-foot hose and four lockable wheels. Only power washers without a GFCI are included in this recall. The brand is printed at the front of the power washer and model number YE-006 on a label on top of the unit near the handle.",
-      "reason": "The recalled pressure washers lack an integral ground-fault circuit-interrupter (GFCI) and an adequate-length power cord, posing serious risks of injury or death from shock and electrocution hazards.",
-      "action": "Consumers should stop using the recalled pressure washers immediately and contact YERYORK for a full refund. Consumers will be asked to unplug the pressure washer, destroy it by cutting the power cord in half, and send a photo of the destroyed power washer, showing the model number, to yeryorkrecalls@outlook.com. Consumers should then dispose of the destroyed recalled product.",
-      "date": "2026-08-27",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold Online At: Amazon.com from March 2025 through June 2026 for about $120.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://cpsc.gov/Recalls/2026/Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Sold-on-Amazon-by-YERYORK",
-      "products": [
-        {
-          "name": "YERYORK Pressure Washers",
-          "codes": "",
-          "recallNumber": "26725"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10956",
-      "section": "products",
-      "category": "Other consumer products",
-      "title": "Steelite Pressure Washers Recalled Due to Risk of Serious Injury or Death from Shock and Electrocution Hazards; Sold on Amazon by Longer 3D",
-      "brand": "Longer Technology (Hong Kong) Limited, dba Longer 3D, of China",
-      "description": "This recall involves Steelite-branded pressure washers. They are red and black and measure about 30 inches high, 10 inches wide and 12 inches deep. The 2.5 gpm, electric pressure washers have a foam cannon, four quick connect nozzles and a 20-foot hose. Model “AZ6041VC” is printed on a label on the back of the pressure washer.",
-      "reason": "The recalled pressure washers lack an integral ground-fault circuit-interrupter (GFCI) and an adequate-length power cord, posing a risk of serious injury or death from shock and electrocution hazards.",
-      "action": "Consumers should stop using the recalled pressure washers immediately and contact Longer 3D for a full refund. Consumers will be asked to destroy the power washer by cutting the unplugged power cord in half and send a photo of the destroyed pressure washer to 2991426091@qq.com. Consumers should then dispose of the destroyed recalled product.",
-      "date": "2026-08-27",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold Online At: Amazon.com from April 2026 through June 2026 for between $45 and $92.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://cpsc.gov/Recalls/2026/Steelite-Pressure-Washers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Sold-on-Amazon-by-Longer-3D",
-      "products": [
-        {
-          "name": "Steelite Electric Pressure Washers",
-          "codes": "",
-          "recallNumber": "26723"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10957",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "Walmart Reannounces Recall of Mainstays Nine-Drawer Fabric Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Walmart Distributed Recalled Dressers Post-Recall; Sold to Consumers Through Liquidators",
-      "brand": "Hop Thang Interior Wood Co. Ltd., of Vietnam",
-      "description": "This recall involves Mainstays-branded dressers. The fabric dressers have a black metal frame and nine brown or black fabric drawers with handles. The dressers measure about 40 inches long, 13.75 inches wide and 45 inches tall and weigh 32 pounds and were manufactured from September 2023 through December 2025. The Tracking/Lot and the manufacture date in MM/YYYY format are printed on a label under the dresser’s top panel of the dresser. “Mainstays 9-Drawer Fabric Dresser” is printed on the product order receipt and packaging.",
-      "reason": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risk of serious injuries or death to children. The dressers violate the mandatory safety standard as required by the STURDY Act.",
-      "action": "Consumers should stop using the recalled dressers if they are not anchored to the wall immediately, place them in an area that children cannot access and contact Walmart for a full refund. Consumers will be asked to return the dressers’ drawers to any Walmart store and dispose of the dressers’ frame according to local and state regulations.",
-      "date": "2026-08-27",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold At: Walmart stores nationwide and online at Walmart.com from September 2023 through March 2026 for about $80. Recalled dressers were sold to consumers post-recall through the following liquidators: OMG California Community, of Riverside, California; Threads of Fenton of Fenton, Michigan, Golden Cone Electronic, Inc., of Elkhart, Indiana; and ReturnPro, of Miami, Florida. This reannouncement is intended to alert consumers who purchased the dressers from the above liquidators that the dressers have been recalled because they pose tip-over and entrapment hazards.",
-      "retailers": [
-        "Walmart"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://cpsc.gov/Recalls/2026/Walmart-Reannounces-Recall-of-Mainstays-Nine-Drawer-Fabric-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Walmart-Distributed-Recalled-Dressers-Post-Recall-Sold-to-Consumers-Through-Liquidators",
-      "products": [
-        {
-          "name": "Mainstays 9-Drawer Fabric Dressers",
-          "codes": "",
-          "recallNumber": "26726"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10952",
-      "section": "products",
-      "category": "Tools & power equipment",
-      "title": "Excel Industries Recalls Accessory LED Light Kits Due to Risk of Serious Injury from Fire Hazard",
-      "brand": "Excel Industries LLC, of Hesston, Kansas",
-      "description": "This recall involves an accessory LED Light Kit containing two LED Light Bars and kit components. These accessory products are used on Hustler or BigDog ride-on mowers as an accessory light at the front of the mower. A black or yellow steel mounting bracket attaches to the mower footrest at the front of the mower and holds two LED Light Bars as headlights. The LED Light Bars are clear plastic with a white and a black wire and an orange plug at the end. They measure 6 inches wide and ¾ of an inch tall.",
-      "reason": "The light bars can overheat or produce flames, posing a risk of serious injury from a fire hazard.",
-      "action": "Consumers should stop using the accessory LED Light Kits immediately and contact their point-of-sale dealers to receive a refund upon return of the light kit. Light kits installed on mowers can be removed either at the local dealer or at the consumer’s residence.",
-      "date": "2026-08-27",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 3,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold At: Hustler and BigDog dealerships nationwide or online at www.hustlerturf.com/law-mower-accessories or www.bigdogmower.com/accessories from April 2020 through July 2026 for between $180 and $330.",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://cpsc.gov/Recalls/2026/Excel-Industries-Recalls-Accessory-LED-Light-Kits-Due-to-Risk-of-Serious-Injury-from-Fire-Hazard",
-      "products": [
-        {
-          "name": "Accessory LED Light Kits used with certain ride-on mowers",
-          "codes": "",
-          "recallNumber": "26722"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10960",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "Montessori Baby Toy Sets Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by Chillife Official",
-      "brand": "Shenzhenshixingchuangyiyimaoyouxiangongsi (Shenzhen Xingchuangyi Trading Co., Ltd.) dba Chillife Official, China.",
-      "description": "This recall involves the Chillife 5-in-1 Montessori Baby Toy Sets. The set comes with a pull string teether toy, circular stacking blocks, a sensory toy, a shape sorting cube with blocks and a suction cup spinner. The violative pull string teething toy has an off-white disc shape with a blue ball in the middle and six long, silicone pull strings of various colors running through the ball. There are also three free-spinning rings and soft push buttons on the disc. \"Model: CHILLIFE01\" is printed on the side of the product packaging.",
-      "reason": "The recalled baby toy sets contain a pull string teething toy that violates the mandatory standard for toys because the silicone strings are smaller and longer than permitted. The silicone strings can reach the back of children’s throat and become lodged, posing a risk of respiratory distress and deadly choking hazard.",
-      "action": "Consumers should stop using the pull string teether toys immediately, take them away from children and contact Chillife Official for a partial refund of $5.40. Consumers will be asked to destroy the toy by cutting all silicone strings and writing in permanent marker “DESTROYED” on the main body of the toy and send a photo of the destroyed toy to Chillifebabytoyrecall@outlook.com. Consumers should then dispose of the destroyed product.",
-      "date": "2026-08-27",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 3,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold Online At: Amazon.com from July 2023 through April 2026 for about $27.",
-      "retailers": [
-        "Amazon"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://cpsc.gov/Recalls/2026/Montessori-Baby-Toy-Sets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-Chillife-Official",
-      "products": [
-        {
-          "name": "Chillife 5-in-1 Montessori Baby Toy Sets",
-          "codes": "",
-          "recallNumber": "26727"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10953",
-      "section": "products",
-      "category": "Tools & power equipment",
-      "title": "Conair Expands Recall of Cuisinart Grill Brushes Due to Ingestion Hazard; Over 3.6 Million Brushes Now Recalled",
-      "brand": "Conair LLC of Stamford, Connecticut",
-      "description": "This recall expansion involves Cuisinart metal wire bristle grill brushes. The brushes have black plastic, stainless steel, and wood handles. The following model numbers were previously recalled and can be found on the product packaging: CCB-100, CCB-4125, CCB-5014, CCB-6450, CCB-8012, CCB-4114, CCB-W2, and CSBS-777. The following model numbers are part of this recall expansion: CGWM-024, CGWM-059, FCB-501, CGS-W18, CCB-134, CGWM-061, CB-395, CCB-3001, CGWM-077, CGWM-058, CCB-012/021, CGWM-060, and FBH-51. In addition to the identified models, additional Cuisinart brand wire bristle brushes were sold individually and in sets, prior to 2020. All Cuisinart wire bristle grill brushes are included in the recall. The word “Cuisinart” is stamped on the brush handle of the identified models except FCB-501 and CCB-395, where the handle is not stamped. Some of the recalled brushes were also sold ",
-      "reason": "Small metal wire bristles can detach from the brushes and stick to the grill or food, posing an ingestion hazard and risk of serious internal injuries that could require surgery.",
-      "action": "Consumers should stop using the recalled grill brushes immediately and contact Conair for a full refund or a credit for use at Cuisinart.com for a full refund plus 20% of the cash refund amount. Consumers will be asked to discard the recalled grill brushes.",
-      "date": "2026-08-27",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 2,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold At: Walmart, Burlington, TJ Maxx and Ross and online including Amazon and Cuisinart.com from June 2009 through March 2026 for between $8 and $20.",
-      "retailers": [
-        "Amazon",
-        "Walmart"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://cpsc.gov/Recalls/2026/Conair-Expands-Recall-of-Cuisinart-Grill-Brushes-Due-to-Ingestion-Hazard-Over-3-6-Million-Brushes-Now-Recalled",
-      "products": [
-        {
-          "name": "Metal Wire Bristle Grill Brushes",
-          "codes": "",
-          "recallNumber": "26717"
-        }
-      ]
-    },
-    {
-      "id": "cpsc-10959",
-      "section": "products",
-      "category": "Baby & child",
-      "title": "Kmaier Recalls Infant Walkers Due to Risk of Serious Injury or Death from Fall Hazard; Violate Mandatory Standard for Infant Walkers",
-      "brand": "FENUN, Inc., dba Kmaier, of Pasadena, California",
-      "description": "This recall involves Kmaier-branded infant walkers. The pink, green or white walkers have a tray, a fabric seat and a round base with six-wheels. The walkers can be adjusted to nine different height levels. \"Model No.: RV001\" is printed on a label located under the walker's seat.",
-      "reason": "The recalled walkers violate the mandatory standard for infant walkers because they can fit through a standard doorway and fail to stop at the edge of a step, posing a deadly fall hazard.",
-      "action": "Consumers should stop using the recalled walkers immediately and contact Kmaier for a full refund. Consumers will be asked to disassemble the walker; destroy it by cutting the walker’s fabric seat and writing in permanent marker “Recalled” on the top of the tray; and send a photo of the destroyed walker to TargetplusSJ@outlook.com. Consumers should then dispose of the recalled product.",
-      "date": "2026-08-27",
-      "status": "Active recall",
-      "classification": "CPSC recall",
-      "severity": 2,
-      "states": [
-        "US"
-      ],
-      "distribution": "Sold Online At: Target.com in June 2026 for between $62 and $70.",
-      "retailers": [
-        "Target"
-      ],
-      "allergens": [],
-      "codes": "",
-      "source": "U.S. Consumer Product Safety Commission",
-      "sourceUrl": "https://cpsc.gov/Recalls/2026/Kmaier-Recalls-Infant-Walkers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers",
-      "products": [
-        {
-          "name": "Kmaier Infant Walkers",
-          "codes": "",
-          "recallNumber": "26721"
-        }
-      ]
-    },
-    {
       "id": "cdc-2026-0",
       "section": "food",
       "category": "Investigation",
@@ -25131,145 +24373,145 @@
   "trends": [
     {
       "month": "2024-12",
-      "food": 54,
+      "food": 47,
       "pet_food": 0,
       "products": 121
     },
     {
       "month": "2025-01",
-      "food": 57,
+      "food": 46,
       "pet_food": 0,
       "products": 159
     },
     {
       "month": "2025-02",
-      "food": 46,
+      "food": 40,
       "pet_food": 0,
       "products": 130
     },
     {
       "month": "2025-03",
-      "food": 45,
+      "food": 41,
       "pet_food": 0,
       "products": 131
     },
     {
       "month": "2025-04",
-      "food": 61,
+      "food": 55,
       "pet_food": 0,
       "products": 157
     },
     {
       "month": "2025-05",
-      "food": 39,
+      "food": 30,
       "pet_food": 0,
       "products": 123
     },
     {
       "month": "2025-06",
-      "food": 60,
+      "food": 50,
       "pet_food": 0,
       "products": 137
     },
     {
       "month": "2025-07",
-      "food": 69,
+      "food": 62,
       "pet_food": 0,
       "products": 150
     },
     {
       "month": "2025-08",
-      "food": 46,
+      "food": 44,
       "pet_food": 0,
       "products": 123
     },
     {
       "month": "2025-09",
-      "food": 46,
+      "food": 41,
       "pet_food": 0,
       "products": 130
     },
     {
       "month": "2025-10",
-      "food": 76,
+      "food": 69,
       "pet_food": 0,
       "products": 186
     },
     {
       "month": "2025-11",
-      "food": 41,
+      "food": 40,
       "pet_food": 0,
       "products": 147
     },
     {
       "month": "2025-12",
-      "food": 63,
+      "food": 57,
       "pet_food": 0,
       "products": 146
     },
     {
       "month": "2026-01",
-      "food": 41,
+      "food": 40,
       "pet_food": 0,
       "products": 139
     },
     {
       "month": "2026-02",
-      "food": 49,
+      "food": 44,
       "pet_food": 0,
       "products": 143
     },
     {
       "month": "2026-03",
-      "food": 43,
+      "food": 38,
       "pet_food": 0,
       "products": 109
     },
     {
       "month": "2026-04",
-      "food": 45,
+      "food": 42,
       "pet_food": 0,
       "products": 206
     },
     {
       "month": "2026-05",
-      "food": 48,
+      "food": 44,
       "pet_food": 0,
       "products": 145
     },
     {
       "month": "2026-06",
-      "food": 50,
+      "food": 46,
       "pet_food": 0,
       "products": 160
     },
     {
       "month": "2026-07",
-      "food": 48,
+      "food": 42,
       "pet_food": 0,
       "products": 206
     },
     {
       "month": "2026-08",
-      "food": 41,
+      "food": 34,
       "pet_food": 0,
       "products": 174
     },
     {
       "month": "2026-09",
-      "food": 55,
+      "food": 50,
       "pet_food": 0,
       "products": 193
     },
     {
       "month": "2026-10",
-      "food": 46,
+      "food": 42,
       "pet_food": 0,
       "products": 180
     },
     {
       "month": "2026-11",
-      "food": 33,
+      "food": 30,
       "pet_food": 0,
       "products": 124
     }
