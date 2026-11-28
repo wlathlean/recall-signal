@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T22:32:52.182163Z",
+  "generatedAt": "2026-11-28T04:36:35.474494Z",
   "detailWindowDays": 90,
   "locations": {
     "primary": [
@@ -17,19 +17,19 @@
     {
       "name": "FDA Food",
       "ok": true,
-      "records": 2967,
+      "records": 2955,
       "url": "https://open.fda.gov/apis/"
     },
     {
       "name": "FDA Drug",
       "ok": true,
-      "records": 1694,
+      "records": 1679,
       "url": "https://open.fda.gov/apis/"
     },
     {
       "name": "FDA Device",
       "ok": true,
-      "records": 5921,
+      "records": 5874,
       "url": "https://open.fda.gov/apis/"
     },
     {
@@ -40,8 +40,9 @@
     },
     {
       "name": "USDA-FSIS",
-      "ok": true,
-      "records": 2035,
+      "ok": false,
+      "records": 0,
+      "note": "Official endpoint unavailable during this refresh; use the linked FSIS page.",
       "url": "https://www.fsis.usda.gov/recalls"
     },
     {
@@ -52,43 +53,6 @@
     }
   ],
   "records": [
-    {
-      "id": "fsis-Brett Anthony Foods Recalls Frozen Fully Cooked Cheeseburger Products Due to Mis",
-      "section": "food",
-      "category": "Human food",
-      "title": "Brett Anthony Foods Recalls Frozen Fully Cooked Cheeseburger Products Due to Misbranding And Undeclared Allergens",
-      "brand": "",
-      "description": "",
-      "reason": "['Unreported Allergens']",
-      "action": "Do not consume if the allergen applies. Check the affected codes, then return or discard the product as directed.",
-      "date": "2026-11-22",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "AL",
-        "CO",
-        "CT",
-        "GA",
-        "IA",
-        "MA",
-        "ME",
-        "MI"
-      ],
-      "distribution": "['Alabama', 'Colorado', 'Connecticut', 'Georgia', 'Iowa', 'Maine', 'Massachusetts', 'Michigan']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
     {
       "id": "cpsc-11068",
       "section": "products",
@@ -2144,41 +2108,6 @@
         {
           "name": "Branch Manager, Dietary Supplement for Men 18+, packaged in single capsule blister card, 24 individual blister cards per retail box; UPC 672713228585. Labeled serving size: one capsule; proprietary blend 1600 mg; directions state one capsule 20 minutes before sexual activity",
           "codes": "All lots and expiration or best-by dates distributed from September 16, 2023, through June 11, 2026, which includes: Lot 11031152, BEST BY DEC 2025",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
-      "id": "fsis-FSIS Issues Public Health Alert For Meat And Poultry Products Containing Biscuit",
-      "section": "food",
-      "category": "Human food",
-      "title": "FSIS Issues Public Health Alert For Meat And Poultry Products Containing Biscuits Recalled Due to Possible Listeria Contamination",
-      "brand": "",
-      "description": "",
-      "reason": "['Product Contamination']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-11-14",
-      "status": "Active recall",
-      "classification": "Public Health Alert",
-      "severity": 2,
-      "states": [
-        "AR",
-        "LA",
-        "MS",
-        "OK",
-        "TN",
-        "TX"
-      ],
-      "distribution": "['Arkansas', 'Louisiana', 'Mississippi', 'Oklahoma', 'Tennessee', 'Texas']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
           "recallNumber": ""
         }
       ]
@@ -4256,36 +4185,6 @@
         {
           "name": "Glutathione 200mg/mL (pf) Injection Solution, Rx Only, This is a compounded product by: Premium Health Care Pharmacy 2400 SW 69th Ave Miami",
           "codes": "Lot#: 1732207, Beyond Use Date: 6/11/2026; Lot # 1737548, Beyond Use Date: 6/18/2026.",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
-      "id": "fsis-FSIS Issues Public Health Alert for Meat and Poultry Products Due to Misbranding",
-      "section": "food",
-      "category": "Human food",
-      "title": "FSIS Issues Public Health Alert for Meat and Poultry Products Due to Misbranding and Undeclared Allergens",
-      "brand": "",
-      "description": "",
-      "reason": "['Unreported Allergens']",
-      "action": "Do not consume if the allergen applies. Check the affected codes, then return or discard the product as directed.",
-      "date": "2026-11-06",
-      "status": "Active recall",
-      "classification": "Public Health Alert",
-      "severity": 2,
-      "states": [
-        "US"
-      ],
-      "distribution": "['Georgia', 'South Carolina', 'Nationwide']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
           "recallNumber": ""
         }
       ]
@@ -8706,42 +8605,6 @@
       ]
     },
     {
-      "id": "fsis-Imperio Distribution LLC Recalls Beef Jerky Products Produced Without the Benefi",
-      "section": "food",
-      "category": "Human food",
-      "title": "Imperio Distribution LLC Recalls Beef Jerky Products Produced Without the Benefit of Inspection",
-      "brand": "",
-      "description": "",
-      "reason": "['Produced Without Benefit of Inspection']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-10-24",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "IA",
-        "IL",
-        "IN",
-        "MI",
-        "MN",
-        "MS",
-        "WI"
-      ],
-      "distribution": "['Illinois', 'Indiana', 'Iowa', 'Michigan', 'Minnesota', 'Mississippi', 'Wisconsin']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
       "id": "cpsc-11030",
       "section": "products",
       "category": "Baby & child",
@@ -10245,36 +10108,6 @@
           "name": "NeuroStar Advanced Therapy System. Contains the NeuroStar HP Coil Assembly Part Number 81-01000-200. Affects the below NeuroStar Advanced Therapy Systems: 1. NeuroStar 2.0 US; Part Number: 81-01315-000. 2. NeuroStar 3.0 US; Part Number: 81-02315-000. 3. NeuroStar 2.X to 3.2 Upgrade Kit; Part Number: 81-25000-100. 4. NeuroStar Upgrade Kit 3.0 US; Part Number: 81-35000-000. 5. NeuroStar Mobile Console 3.6, 120V, US; Part Number: 81-03315-000. 6. NeuroStar Mobile Console 3.7, 120V, US; Part Number: 81-04315-000. 7. NeuroStar Mobile Console 3.8, 120V, US; Part Number: 81-05315-000.",
           "codes": "NeuroStar Software Versions 3.6, 3.7, 3.8 1. NeuroStar 2.0 US; Part Number: 81-01315-000; UDI-DI: 00869378000100. 2. NeuroStar 3.0 US; Part Number: 81-02315-000; UDI-DI: 00869378000117. 3. NeuroStar 2.X to 3.2 Upgrade Kit; Part Number: 81-25000-100; UDI-DI: 00869378000193. 4. NeuroStar Upgrade Kit 3.0 US; Part Number: 81-35000-000; UDI-DI: 00869378000155. 5. NeuroStar Mobile Console 3.6, 120V, US; Part Number: 81-03315-000; UDI-DI: 00850005944058. 6. NeuroStar Mobile Console 3.7, 120V, US; Part Number: 81-04315-000; UDI-DI: 00850005944522. 7. NeuroStar Mobile Console 3.8, 120V, US; Part Number: 81-05315-000; UDI-DI: 00850005944621. NeuroStar HP Coil Assembly Part Number: 81-01000-200. Coil S",
           "recallNumber": "Z-0142-2027"
-        }
-      ]
-    },
-    {
-      "id": "fsis-Kayem Foods Inc. Recalls Meat and Poultry Products Due to Possible Temperature A",
-      "section": "food",
-      "category": "Human food",
-      "title": "Kayem Foods Inc. Recalls Meat and Poultry Products Due to Possible Temperature Abuse",
-      "brand": "",
-      "description": "",
-      "reason": "['Processing Defect']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-10-17",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "['Nationwide']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
         }
       ]
     },
@@ -14601,77 +14434,6 @@
       ]
     },
     {
-      "id": "fsis-FSIS Issues Public Health Alert for Ineligible Chicken Vienna-Style Sausage Prod",
-      "section": "food",
-      "category": "Human food",
-      "title": "FSIS Issues Public Health Alert for Ineligible Chicken Vienna-Style Sausage Products Illegally Imported From Jamaica",
-      "brand": "",
-      "description": "",
-      "reason": "['Import Violation']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-10-06",
-      "status": "Active recall",
-      "classification": "Public Health Alert",
-      "severity": 2,
-      "states": [
-        "AL",
-        "FL",
-        "GA",
-        "MD",
-        "TX"
-      ],
-      "distribution": "['Alabama', 'Florida', 'Georgia', 'Maryland', 'Texas']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
-      "id": "fsis-Inexport Logistics LLC Recalls Ineligible Pork Cracklings Products Imported From",
-      "section": "food",
-      "category": "Human food",
-      "title": "Inexport Logistics LLC Recalls Ineligible Pork Cracklings Products Imported From The Republic of Colombia",
-      "brand": "",
-      "description": "",
-      "reason": "['Import Violation']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-10-02",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "AZ",
-        "CA",
-        "CO",
-        "FL",
-        "IL",
-        "KY",
-        "MN",
-        "TX"
-      ],
-      "distribution": "['Arizona', 'California', 'Colorado', 'Florida', 'Illinois', 'Kentucky', 'Minnesota', 'Texas']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
       "id": "cpsc-11013",
       "section": "products",
       "category": "Baby & child",
@@ -16518,76 +16280,6 @@
           "name": "Brand Name: VOLARA System Product Name: VOLARA, HC, NA A Model/Catalog Number: M08594A Software Version: N/A Product Description: VOLARA, HOMECARE, NORTH AMERICA Component: No",
           "codes": "Lot Code: UDI: 00887761981690 Serial Numbers: W078SY3553 and Z309SY7853",
           "recallNumber": "Z-3257-2026"
-        }
-      ]
-    },
-    {
-      "id": "fsis-Sempio Food Services Inc. Recalls Ready-To-Eat Chicken Stew Products Imported Wi",
-      "section": "food",
-      "category": "Human food",
-      "title": "Sempio Food Services Inc. Recalls Ready-To-Eat Chicken Stew Products Imported Without the Benefit of Import Reinspection",
-      "brand": "",
-      "description": "",
-      "reason": "['Import Violation']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-09-25",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "FL",
-        "GA",
-        "IL",
-        "MD",
-        "NJ",
-        "NY",
-        "PA",
-        "VA"
-      ],
-      "distribution": "['Florida', 'Georgia', 'Illinois', 'Maryland', 'New Jersey', 'New York', 'Pennsylvania', 'Virginia']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
-      "id": "fsis-Fontanini Foods LLC Recalls Raw, Frozen Pork Sausage Products Due to Possible Fo",
-      "section": "food",
-      "category": "Human food",
-      "title": "Fontanini Foods LLC Recalls Raw, Frozen Pork Sausage Products Due to Possible Foreign Matter Contamination",
-      "brand": "",
-      "description": "",
-      "reason": "['Product Contamination']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-09-25",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "CA",
-        "FL",
-        "MI",
-        "NV"
-      ],
-      "distribution": "['California', 'Florida', 'Michigan', 'Nevada']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
         }
       ]
     },
@@ -19223,36 +18915,6 @@
           "name": "Blood Culture Collection Venipuncture Kit 20/Cs, REF: 77451; Blood Culture Kit 20/Cs, REF: 81834B; Blood Culture Collection Kit, REF: 81834C. All containing BD ChloraPrep Clear - 1 mL Applicators",
           "codes": "77451/20809160195069/343602(5/31/2027), 349005(10/31/2027), 374030(11/30/2027), 375434(12/31/2027), 377632(4/2/2028), 327194(8/31/2026), 375105(3/31/2028), 336074(3/21/2027); 81834B/20809160403324/326214(7/31/2027); 81834C/20809160466602/347551(8/12/2026), 372502(8/10/2026), 374615(10/21/2026), 376461(10/23/2026), 377088(11/6/2026), 373129(9/3/2026), 374033(9/3/2026)",
           "recallNumber": "Z-3181-2026"
-        }
-      ]
-    },
-    {
-      "id": "fsis-Star Meat Delivery Inc. Recalls Raw Pork, Beef, and Goat Products Produced Witho",
-      "section": "food",
-      "category": "Human food",
-      "title": "Star Meat Delivery Inc. Recalls Raw Pork, Beef, and Goat Products Produced Without the Benefit of Inspection",
-      "brand": "",
-      "description": "",
-      "reason": "['Produced Without Benefit of Inspection']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-09-22",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "US"
-      ],
-      "distribution": "['Nationwide']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
         }
       ]
     },
@@ -22335,78 +21997,6 @@
       ]
     },
     {
-      "id": "fsis-El Eden Import Distributor Corp Recalls Ineligible Pork Cracklings Products Impo",
-      "section": "food",
-      "category": "Human food",
-      "title": "El Eden Import Distributor Corp Recalls Ineligible Pork Cracklings Products Imported from The Republic of Colombia",
-      "brand": "",
-      "description": "",
-      "reason": "['Import Violation']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-09-09",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "CT",
-        "IL",
-        "MA",
-        "NJ",
-        "NY",
-        "UT"
-      ],
-      "distribution": "['New Jersey', 'Utah', 'Massachusetts', 'New York', 'Connecticut', 'Illinois']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
-      "id": "fsis-Prime Line Distributors, Inc. and Ferrarini USA, Inc. Recall Imported Ready-To-E",
-      "section": "food",
-      "category": "Human food",
-      "title": "Prime Line Distributors, Inc. and Ferrarini USA, Inc. Recall Imported Ready-To-Eat Pork Guanciale Products Due to Possible Listeria Contamination",
-      "brand": "",
-      "description": "",
-      "reason": "['Product Contamination']",
-      "action": "Do not consume or serve the affected product. Check the affected codes and follow the official disposal or return instructions.",
-      "date": "2026-09-06",
-      "status": "Active recall",
-      "classification": "High - Class I",
-      "severity": 4,
-      "states": [
-        "CA",
-        "FL",
-        "ID",
-        "IL",
-        "MS",
-        "NJ",
-        "NY",
-        "TX"
-      ],
-      "distribution": "['Texas', 'Idaho', 'New York', 'New Jersey', 'Florida', 'Texas', 'Illinois', 'Mississippi', 'California', 'Florida']",
-      "retailers": [],
-      "allergens": [],
-      "codes": "",
-      "source": "USDA Food Safety and Inspection Service",
-      "sourceUrl": "https://www.fsis.usda.gov/recalls",
-      "products": [
-        {
-          "name": "",
-          "codes": "",
-          "recallNumber": ""
-        }
-      ]
-    },
-    {
       "id": "cpsc-10949",
       "section": "products",
       "category": "Furniture & home",
@@ -24783,145 +24373,145 @@
   "trends": [
     {
       "month": "2024-12",
-      "food": 54,
+      "food": 47,
       "pet_food": 0,
       "products": 121
     },
     {
       "month": "2025-01",
-      "food": 57,
+      "food": 46,
       "pet_food": 0,
       "products": 159
     },
     {
       "month": "2025-02",
-      "food": 46,
+      "food": 40,
       "pet_food": 0,
       "products": 130
     },
     {
       "month": "2025-03",
-      "food": 45,
+      "food": 41,
       "pet_food": 0,
       "products": 131
     },
     {
       "month": "2025-04",
-      "food": 61,
+      "food": 55,
       "pet_food": 0,
       "products": 157
     },
     {
       "month": "2025-05",
-      "food": 39,
+      "food": 30,
       "pet_food": 0,
       "products": 123
     },
     {
       "month": "2025-06",
-      "food": 60,
+      "food": 50,
       "pet_food": 0,
       "products": 137
     },
     {
       "month": "2025-07",
-      "food": 69,
+      "food": 62,
       "pet_food": 0,
       "products": 150
     },
     {
       "month": "2025-08",
-      "food": 46,
+      "food": 44,
       "pet_food": 0,
       "products": 123
     },
     {
       "month": "2025-09",
-      "food": 46,
+      "food": 41,
       "pet_food": 0,
       "products": 130
     },
     {
       "month": "2025-10",
-      "food": 76,
+      "food": 69,
       "pet_food": 0,
       "products": 186
     },
     {
       "month": "2025-11",
-      "food": 41,
+      "food": 40,
       "pet_food": 0,
       "products": 147
     },
     {
       "month": "2025-12",
-      "food": 63,
+      "food": 57,
       "pet_food": 0,
       "products": 146
     },
     {
       "month": "2026-01",
-      "food": 41,
+      "food": 40,
       "pet_food": 0,
       "products": 139
     },
     {
       "month": "2026-02",
-      "food": 49,
+      "food": 44,
       "pet_food": 0,
       "products": 143
     },
     {
       "month": "2026-03",
-      "food": 43,
+      "food": 38,
       "pet_food": 0,
       "products": 109
     },
     {
       "month": "2026-04",
-      "food": 45,
+      "food": 42,
       "pet_food": 0,
       "products": 206
     },
     {
       "month": "2026-05",
-      "food": 48,
+      "food": 44,
       "pet_food": 0,
       "products": 145
     },
     {
       "month": "2026-06",
-      "food": 50,
+      "food": 46,
       "pet_food": 0,
       "products": 160
     },
     {
       "month": "2026-07",
-      "food": 48,
+      "food": 42,
       "pet_food": 0,
       "products": 206
     },
     {
       "month": "2026-08",
-      "food": 41,
+      "food": 34,
       "pet_food": 0,
       "products": 174
     },
     {
       "month": "2026-09",
-      "food": 55,
+      "food": 50,
       "pet_food": 0,
       "products": 193
     },
     {
       "month": "2026-10",
-      "food": 46,
+      "food": 42,
       "pet_food": 0,
       "products": 180
     },
     {
       "month": "2026-11",
-      "food": 33,
+      "food": 30,
       "pet_food": 0,
       "products": 124
     }
